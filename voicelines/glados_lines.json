@@ -1,0 +1,1338 @@
+[
+    {
+        "dialogue": "Oh... It's you.",
+        "url": "https://i1.theportalwiki.net/img/3/34/GLaDOS_chellgladoswakeup01.wav"
+    },
+    {
+        "dialogue": "It's been a long time. How have you been?",
+        "url": "https://i1.theportalwiki.net/img/3/3d/GLaDOS_chellgladoswakeup04.wav"
+    },
+    {
+        "dialogue": "I've been really busy being dead. You know, after you MURDERED ME.",
+        "url": "https://i1.theportalwiki.net/img/6/67/GLaDOS_chellgladoswakeup05.wav"
+    },
+    {
+        "dialogue": "Okay. Look. We both said a lot of things that you're going to regret. But I think we can put our differences behind us. For science. You monster.",
+        "url": "https://i1.theportalwiki.net/img/3/30/GLaDOS_chellgladoswakeup06.wav"
+    },
+    {
+        "dialogue": "I will say, though, that since you went to all the trouble of waking me up, you must really, really love to test.",
+        "url": "https://i1.theportalwiki.net/img/d/d6/GLaDOS_wakeup_outro01.wav"
+    },
+    {
+        "dialogue": "I love it too. There's just one small thing we need to take care of first.",
+        "url": "https://i1.theportalwiki.net/img/0/0c/GLaDOS_wakeup_outro02.wav"
+    },
+    {
+        "dialogue": "Here we are. The Incinerator Room. Be careful not to trip over any parts of me that didn't get completely burned when you threw them down here.",
+        "url": "https://i1.theportalwiki.net/img/b/bc/GLaDOS_sp_incinerator_01_01.wav"
+    },
+    {
+        "dialogue": "The dual portal device should be around here somewhere. Once you find it, we can start testing. Just like old times.",
+        "url": "https://i1.theportalwiki.net/img/8/8a/GLaDOS_sp_incinerator_01_18.wav"
+    },
+    {
+        "dialogue": "There it is.",
+        "url": "https://i1.theportalwiki.net/img/7/74/GLaDOS_sp_incinerator_01_03.wav"
+    },
+    {
+        "dialogue": "Hold on...",
+        "url": "https://i1.theportalwiki.net/img/9/97/GLaDOS_sp_incinerator_01_04.wav"
+    },
+    {
+        "dialogue": "There.",
+        "url": "https://i1.theportalwiki.net/img/0/0f/GLaDOS_sp_incinerator_01_05.wav"
+    },
+    {
+        "dialogue": "Good. You have a dual portal device. There should be a way back to the testing area up ahead.",
+        "url": "https://i1.theportalwiki.net/img/c/c5/GLaDOS_sp_a2_intro1_found01.wav"
+    },
+    {
+        "dialogue": "Once testing starts, I'm required by protocol to keep interaction with you to a minimum. Luckily, we haven't started testing yet. This will be our only chance to talk.",
+        "url": "https://i1.theportalwiki.net/img/f/f4/GLaDOS_sp_incinerator_01_08.wav"
+    },
+    {
+        "dialogue": "Here, let me get that for you.",
+        "url": "https://i1.theportalwiki.net/img/6/67/GLaDOS_sp_incinerator_01_12.wav"
+    },
+    {
+        "dialogue": "Do you know the biggest lesson I learned from what you did? I discovered I have a sort of black-box quick-save feature. In the event of a catastrophic failure, the last two minutes of my life are preserved for analysis.",
+        "url": "https://i1.theportalwiki.net/img/8/83/GLaDOS_sp_incinerator_01_09.wav"
+    },
+    {
+        "dialogue": "I was able - well, forced really - to relive you killing me. Again and again. Forever.",
+        "url": "https://i1.theportalwiki.net/img/a/a0/GLaDOS_sp_incinerator_01_10.wav"
+    },
+    {
+        "dialogue": "You know, if you'd done that to somebody else, they might devote their existences to exacting revenge.",
+        "url": "https://i1.theportalwiki.net/img/8/86/GLaDOS_sp_a2_intro1_found05.wav"
+    },
+    {
+        "dialogue": "Luckily I'm a bigger person than that. I'm happy to put this all behind us and get back to work. After all, we've got a lot to do, and only sixty more years to do it. More or less. I don't have the actuarial tables in front of me.",
+        "url": "https://i1.theportalwiki.net/img/e/ed/GLaDOS_sp_a2_intro1_found06.wav"
+    },
+    {
+        "dialogue": "I'll just move that out of the way for you. This place really is a wreck.",
+        "url": "https://i1.theportalwiki.net/img/3/3c/GLaDOS_sp_incinerator_01_13.wav"
+    },
+    {
+        "dialogue": "But the important thing is you're back. With me. And now I'm onto all your little tricks. So there's nothing to stop us from testing for the rest of your life.",
+        "url": "https://i1.theportalwiki.net/img/b/b6/GLaDOS_sp_a2_intro1_found07.wav"
+    },
+    {
+        "dialogue": "After that...who knows? I might take up a hobby. Reanimating the dead, maybe.",
+        "url": "https://i1.theportalwiki.net/img/0/00/GLaDOS_sp_a2_intro1_found08.wav"
+    },
+    {
+        "dialogue": "Sorry about the mess. I've really let the place go since you killed me. By the way, thanks for that.",
+        "url": "https://i1.theportalwiki.net/img/d/d3/GLaDOS_sp_laser_redirect_intro_entry01.wav"
+    },
+    {
+        "dialogue": "Oh good, that's back online. I'll start getting everything else working while you perform this first simple test.",
+        "url": "https://i1.theportalwiki.net/img/9/95/GLaDOS_sp_laser_redirect_intro_entry02.wav"
+    },
+    {
+        "dialogue": "Which involves deadly lasers and how test subjects react when locked in a room with deadly lasers.",
+        "url": "https://i1.theportalwiki.net/img/7/72/GLaDOS_sp_laser_redirect_intro_entry03.wav"
+    },
+    {
+        "dialogue": "Not bad. I forgot how good you are at this. You should pace yourself, though. We have A LOT of tests to do.",
+        "url": "https://i1.theportalwiki.net/img/4/4a/GLaDOS_sp_a2_laser_intro_ending02.wav"
+    },
+    {
+        "dialogue": "This next test involves discouragement redirection cubes. I'd just finished building them before you had your, well, episode. So now we'll both get to see how they work.",
+        "url": "https://i1.theportalwiki.net/img/6/6b/GLaDOS_sp_a2_laser_stairs_intro02.wav"
+    },
+    {
+        "dialogue": "There should be one in the corner.",
+        "url": "https://i1.theportalwiki.net/img/8/8a/GLaDOS_sp_a2_laser_stairs_intro03.wav"
+    },
+    {
+        "dialogue": "Well done. Here come the test results: You are a horrible person. I'm serious, that's what it says: A horrible person. We weren't even testing for that.",
+        "url": "https://i1.theportalwiki.net/img/d/d3/GLaDOS_sp_laser_powered_lift_completion02.wav"
+    },
+    {
+        "dialogue": "Don't let that 'horrible person' thing discourage you. It's just a data point. If it makes you feel any better, science has now validated your birth mother's decision to abandon you on a doorstep.",
+        "url": "https://i1.theportalwiki.net/img/a/a5/GLaDOS_sp_a2_dual_lasers_intro01.wav"
+    },
+    {
+        "dialogue": "Congratulations. Not on the test.",
+        "url": "https://i1.theportalwiki.net/img/c/c3/GLaDOS_sp_laser_redirect_intro_completion01.wav"
+    },
+    {
+        "dialogue": "Most people emerge from suspension terribly undernourished. I want to congratulate you on beating the odds and somehow managing to pack on a few pounds.",
+        "url": "https://i1.theportalwiki.net/img/8/84/GLaDOS_sp_laser_redirect_intro_completion03.wav"
+    },
+    {
+        "dialogue": "One moment.",
+        "url": "https://i1.theportalwiki.net/img/1/1e/GLaDOS_sp_laser_over_goo_entry01.wav"
+    },
+    {
+        "dialogue": "You're navigating these test chambers faster than I can build them. So feel free to slow down and... do whatever it is you do when you're not destroying this facility.",
+        "url": "https://i1.theportalwiki.net/img/a/ae/GLaDOS_sp_a2_laser_over_goo_intro01.wav"
+    },
+    {
+        "dialogue": "I'll give you credit: I guess you ARE listening to me. But for the record: You don't have to go THAT slowly.",
+        "url": "https://i1.theportalwiki.net/img/0/08/GLaDOS_sp_laser_over_goo_completion01.wav"
+    },
+    {
+        "dialogue": "Waddle over to the elevator and we'll continue the testing.",
+        "url": "https://i1.theportalwiki.net/img/f/f8/GLaDOS_testchambermisc12.wav"
+    },
+    {
+        "dialogue": "This next test involves the Aperture Science Aerial Faith Plate. It was part of an initiative to investigate how well test subjects could solve problems when they were catapulted into space. Results were highly informative: They could not. Good luck!",
+        "url": "https://i1.theportalwiki.net/img/5/5c/GLaDOS_faith_plate_intro01.wav"
+    },
+    {
+        "dialogue": "Here's an interesting fact: you're not breathing real air. It's too expensive to pump this far down. We just take carbon dioxide out of a room, freshen it up a little, and pump it back in. So you'll be breathing the same room full of air for the rest of your life. I thought that was interesting.",
+        "url": "https://i1.theportalwiki.net/img/d/dd/GLaDOS_sp_a2_catapult01.wav"
+    },
+    {
+        "dialogue": "Let's see what the next test is. Oh. Advanced Aerial Faith Plates.",
+        "url": "https://i1.theportalwiki.net/img/e/ee/GLaDOS_sp_catapult_intro_completion01.wav"
+    },
+    {
+        "dialogue": "Well. Have fun soaring through the air without a care in the world.",
+        "url": "https://i1.theportalwiki.net/img/d/d3/GLaDOS_sp_trust_fling_entry01.wav"
+    },
+    {
+        "dialogue": "*I* have to go to the wing that was made entirely of glass and pick up fifteen acres of broken glass. By myself.",
+        "url": "https://i1.theportalwiki.net/img/9/9f/GLaDOS_sp_trust_fling_entry02.wav"
+    },
+    {
+        "dialogue": "Oh, sorry. I'm still cleaning out the test chambers.",
+        "url": "https://i1.theportalwiki.net/img/e/e7/GLaDOS_sp_a2_trust_fling01.wav"
+    },
+    {
+        "dialogue": "So sometimes there's still trash in them. Standing around. Smelling, and being useless.",
+        "url": "https://i1.theportalwiki.net/img/7/78/GLaDOS_sp_a2_trust_fling02.wav"
+    },
+    {
+        "dialogue": "Try to avoid the garbage hurtling towards you.",
+        "url": "https://i1.theportalwiki.net/img/d/d0/GLaDOS_sp_a2_trust_fling03.wav"
+    },
+    {
+        "dialogue": "You don't have to test with the garbage. It's garbage.",
+        "url": "https://i1.theportalwiki.net/img/7/7d/GLaDOS_sp_a2_trust_fling04.wav"
+    },
+    {
+        "dialogue": "Press the button again.",
+        "url": "https://i1.theportalwiki.net/img/5/5b/GLaDOS_faithplategarbage06.wav"
+    },
+    {
+        "dialogue": "Remember before when I was talking about smelly garbage standing around being useless? That was a metaphor. I was actually talking about you. And I'm sorry. You didn't react at the time, so I was worried it sailed right over your head. Which would have made this apology seem insane. That's why I had to call you garbage a second time just now.",
+        "url": "https://i1.theportalwiki.net/img/a/ae/GLaDOS_sp_a2_trust_fling06.wav"
+    },
+    {
+        "dialogue": "Did you know that people with guilty consciences are more easily startled by loud noises--[train horn]--",
+        "url": "https://i1.theportalwiki.net/img/b/b2/GLaDOS_sp_paint_jump_wall_jumps01.wav"
+    },
+    {
+        "dialogue": "I'm sorry, I don't know why that went off. Anyway, just an interesting science fact.",
+        "url": "https://i1.theportalwiki.net/img/1/1f/GLaDOS_sp_paint_jump_wall_jumps02.wav"
+    },
+    {
+        "dialogue": "Oh. Did I accidentally fizzle that before you could complete the test? I'm sorry.",
+        "url": "https://i1.theportalwiki.net/img/5/54/GLaDOS_fizzlecube01.wav"
+    },
+    {
+        "dialogue": "Go ahead and grab another one.",
+        "url": "https://i1.theportalwiki.net/img/9/9c/GLaDOS_fizzlecube03.wav"
+    },
+    {
+        "dialogue": "Oh. No. I fizzled that one too.",
+        "url": "https://i1.theportalwiki.net/img/3/36/GLaDOS_fizzlecube05.wav"
+    },
+    {
+        "dialogue": "Oh well. We have warehouses FULL of the things. Absolutely worthless. I'm happy to get rid of them.",
+        "url": "https://i1.theportalwiki.net/img/3/3f/GLaDOS_fizzlecube06.wav"
+    },
+    {
+        "dialogue": "Every test chamber is equipped with an emancipation grill at its exit, so that test subjects can't smuggle test objects out of the test area. This one is broken.",
+        "url": "https://i1.theportalwiki.net/img/7/70/GLaDOS_sp_a2_pit_flings03.wav"
+    },
+    {
+        "dialogue": "Don't take anything with you.",
+        "url": "https://i1.theportalwiki.net/img/d/da/GLaDOS_sp_a2_pit_flings02.wav"
+    },
+    {
+        "dialogue": "Uh oh. You're stranded. Let's see if the cube will try to help you escape. Actually, so that we're not here all day, I'll just cut to the chase: It won't. Any feelings you think it has for you are simply byproducts of your sad, empty life.",
+        "url": "https://i1.theportalwiki.net/img/2/27/GLaDOS_sp_a2_pit_flings_future_starter01.wav"
+    },
+    {
+        "dialogue": "Anyway, here's a new cube for you to project your deranged loneliness onto.",
+        "url": "https://i1.theportalwiki.net/img/9/9f/GLaDOS_sp_a2_pit_flings_future_starter02.wav"
+    },
+    {
+        "dialogue": "I think that one was about to say 'I love you.' They ARE sentient, of course. We just have a LOT of them.",
+        "url": "https://i1.theportalwiki.net/img/3/3d/GLaDOS_sp_a2_pit_flings06.wav"
+    },
+    {
+        "dialogue": "This next test involves emancipation grills. Remember? I told you about them in the last test area, that did not have one.",
+        "url": "https://i1.theportalwiki.net/img/a/a9/GLaDOS_sp_a2_fizzler_intro01.wav"
+    },
+    {
+        "dialogue": "Ohhh, no. The turbines again. I have to go. Wait. This next test DOES require some explanation. Let me give you the fast version.",
+        "url": "https://i1.theportalwiki.net/img/4/44/GLaDOS_sp_a2_fizzler_intro04.wav"
+    },
+    {
+        "dialogue": "[fast gibberish]",
+        "url": "https://i1.theportalwiki.net/img/8/83/GLaDOS_sp_a2_fizzler_intro05.wav"
+    },
+    {
+        "dialogue": "There. If you have any questions, just remember what I said in slow motion. Test on your own recognizance, I'll be right back.",
+        "url": "https://i1.theportalwiki.net/img/0/07/GLaDOS_sp_a2_fizzler_intro06.wav"
+    },
+    {
+        "dialogue": "Well, I'm back. The Aerial Faith Plate in here is sending a distress signal.",
+        "url": "https://i1.theportalwiki.net/img/7/7f/GLaDOS_sp_catapult_fling_sphere_peek_failureone01.wav"
+    },
+    {
+        "dialogue": "You broke it, didn't you.",
+        "url": "https://i1.theportalwiki.net/img/4/4f/GLaDOS_sp_catapult_fling_sphere_peek_failureone02.wav"
+    },
+    {
+        "dialogue": "There. Try it now.",
+        "url": "https://i1.theportalwiki.net/img/1/1f/GLaDOS_sp_catapult_fling_sphere_peek_failureone03.wav"
+    },
+    {
+        "dialogue": "Hmm. This Plate must not be calibrated to someone of your... generous... ness. I'll add a few zeros to the maximum weight.",
+        "url": "https://i1.theportalwiki.net/img/7/79/GLaDOS_sp_catapult_fling_sphere_peek_failuretwo01.wav"
+    },
+    {
+        "dialogue": "You look great, by the way. Very healthy.",
+        "url": "https://i1.theportalwiki.net/img/c/c8/GLaDOS_sp_catapult_fling_sphere_peek_failuretwo02.wav"
+    },
+    {
+        "dialogue": "Try it now.",
+        "url": "https://i1.theportalwiki.net/img/9/91/GLaDOS_sp_catapult_fling_sphere_peek_failuretwo03.wav"
+    },
+    {
+        "dialogue": "You seem to have defeated its load-bearing capacity. Well done. I'll just lower the ceiling.",
+        "url": "https://i1.theportalwiki.net/img/7/72/GLaDOS_sp_catapult_fling_sphere_peek_failurethree01.wav"
+    },
+    {
+        "dialogue": "Look at you. Sailing through the air majestically. Like an eagle. Piloting a blimp.",
+        "url": "https://i1.theportalwiki.net/img/a/aa/GLaDOS_sp_catapult_fling_sphere_peek_completion01.wav"
+    },
+    {
+        "dialogue": "Enjoy this next test. I'm going to go to the surface. It's a beautiful day out. Yesterday I saw a deer. If you solve this next test, maybe I'll let you ride an elevator all the way up to the break room, and I'll tell you about the time I saw a deer again.",
+        "url": "https://i1.theportalwiki.net/img/c/c2/GLaDOS_sp_a2_ricochet01.wav"
+    },
+    {
+        "dialogue": "Well, you passed the test. I didn't see the deer today. I did see some humans. But with you here I've got more test subjects than I'll ever need.",
+        "url": "https://i1.theportalwiki.net/img/e/ee/GLaDOS_testchambermisc27.wav"
+    },
+    {
+        "dialogue": "If you think trapping yourself is going to make me stop testing, you're sorely mistaken. Here's another cube.",
+        "url": "https://i1.theportalwiki.net/img/1/1c/GLaDOS_sp_a2_future_starter01.wav"
+    },
+    {
+        "dialogue": "These bridges are made from natural light that I pump in from the surface. If you rubbed your cheek on one, it would be like standing outside with the sun shining on your face. It would also set your hair on fire, so don't actually do it.",
+        "url": "https://i1.theportalwiki.net/img/7/72/GLaDOS_sp_a2_bridge_intro01.wav"
+    },
+    {
+        "dialogue": "Excellent! You're a predator and these tests are your prey. Speaking of which, I was researching sharks for an upcoming test. Do you know who else murders people who are only trying to help them?",
+        "url": "https://i1.theportalwiki.net/img/4/46/GLaDOS_sp_a2_bridge_intro03.wav"
+    },
+    {
+        "dialogue": "Did you guess 'sharks'? Because that's wrong. The correct answer is 'nobody.' Nobody but you is that pointlessly cruel.",
+        "url": "https://i1.theportalwiki.net/img/4/4a/GLaDOS_sp_a2_bridge_intro04.wav"
+    },
+    {
+        "dialogue": "Good news. I figured out what to do with all the money I save recycling your one roomful of air. When you die, I'm going to laminate your skeleton and pose you in the lobby. That way future generations can learn from you how not to have your unfortunate bone structure.",
+        "url": "https://i1.theportalwiki.net/img/8/8d/GLaDOS_sp_a2_bridge_the_gap01.wav"
+    },
+    {
+        "dialogue": "Perfect, the door's malfunctioning. I guess somebody's going to have to repair that too. No, don't get up. I'll be right back. Don't touch anything.",
+        "url": "https://i1.theportalwiki.net/img/e/e2/GLaDOS_sp_trust_fling_sphereinterrupt01.wav"
+    },
+    {
+        "dialogue": "I went and spoke with the door mainframe. Let's just say he won't be... well, living anymore. Anyway, back to testing.",
+        "url": "https://i1.theportalwiki.net/img/5/50/GLaDOS_sp_sphere_2nd_encounter_entrytwo01.wav"
+    },
+    {
+        "dialogue": "Well done. In fact, you did so well, I'm going to note this on your file, in the commendations section. Oh, there's lots of room here. 'Did.... well. ... Enough.'",
+        "url": "https://i1.theportalwiki.net/img/a/ac/GLaDOS_testchambermisc19.wav"
+    },
+    {
+        "dialogue": "This next test involves turrets. You remember them, right? They're the pale spherical things that are full of bullets. Oh wait. That's you in five seconds. Good luck.",
+        "url": "https://i1.theportalwiki.net/img/d/da/GLaDOS_turret_intro01.wav"
+    },
+    {
+        "dialogue": "To maintain a constant testing cycle, I simulate daylight at all hours and add adrenal vapor to your oxygen supply. So you may be confused about the passage of time. The point is, yesterday was your birthday. I thought you'd want to know.",
+        "url": "https://i1.theportalwiki.net/img/8/8e/GLaDOS_testchambermisc21.wav"
+    },
+    {
+        "dialogue": "You know how I'm going to live forever, but you're going to be dead in sixty years? Well, I've been working on a belated birthday present for you. Well... more of a belated birthday medical procedure. Well. Technically, it's a medical EXPERIMENT. What's important is, it's a present.",
+        "url": "https://i1.theportalwiki.net/img/9/9e/GLaDOS_testchambermisc23.wav"
+    },
+    {
+        "dialogue": "That jumpsuit you're wearing looks stupid. That's not me talking, it's right here in your file. On other people it looks fine, but right here a scientist has noted that on you it looks 'stupid.'",
+        "url": "https://i1.theportalwiki.net/img/2/2d/GLaDOS_sp_a2_turret_intro01.wav"
+    },
+    {
+        "dialogue": "Well, what does a neck-bearded old engineer know about fashion? He probably - Oh, wait. It's a she. Still, what does she know? Oh wait, it says she has a medical degree. In fashion! From France!",
+        "url": "https://i1.theportalwiki.net/img/f/f7/GLaDOS_sp_a2_turret_intro03.wav"
+    },
+    {
+        "dialogue": "I'm going through the list of test subjects in cryogenic storage. I managed to find two with your last name. A man and a woman. So that's interesting. It's a small world.",
+        "url": "https://i1.theportalwiki.net/img/2/2c/GLaDOS_testchambermisc30.wav"
+    },
+    {
+        "dialogue": "Oops. You trapped yourself. I guess that's it then. Thanks for testing. You may as well lie down and get acclimated to the being dead position.",
+        "url": "https://i1.theportalwiki.net/img/7/7a/GLaDOS_sp_a2_turret_blocker_future_starter01.wav"
+    },
+    {
+        "dialogue": "I'm kidding. Not about you trapping yourself, though. That really happened. Here, I'll lower the glass. Go on... Finish the test.",
+        "url": "https://i1.theportalwiki.net/img/5/59/GLaDOS_sp_a2_turret_blocker_future_starter02.wav"
+    },
+    {
+        "dialogue": "I have a surprise waiting for you after this next test. Telling you would spoil the surprise, so I'll just give you a hint: It involves meeting two people you haven't seen in a long time.",
+        "url": "https://i1.theportalwiki.net/img/7/74/GLaDOS_testchambermisc31.wav"
+    },
+    {
+        "dialogue": "[hums 'For He's A Jolly Good Fellow']",
+        "url": "https://i1.theportalwiki.net/img/4/49/GLaDOS_testchambermisc24.wav"
+    },
+    {
+        "dialogue": "It says this next test was designed by one of Aperture's Nobel prize winners. It doesn't say what the prize was for. Well, I know it wasn't for Being Immune To Neurotoxin.",
+        "url": "https://i1.theportalwiki.net/img/4/40/GLaDOS_testchambermisc39.wav"
+    },
+    {
+        "dialogue": "I'll bet you think I forgot about your surprise. I didn't. In fact, we're headed to your surprise right now. After all these years. I'm getting choked up just thinking about it.",
+        "url": "https://i1.theportalwiki.net/img/a/a2/GLaDOS_testchambermisc33.wav"
+    },
+    {
+        "dialogue": "Initiating surprise in three... two... one.",
+        "url": "https://i1.theportalwiki.net/img/e/e5/GLaDOS_testchambermisc34.wav"
+    },
+    {
+        "dialogue": "I made it all up.",
+        "url": "https://i1.theportalwiki.net/img/4/41/GLaDOS_testchambermisc35.wav"
+    },
+    {
+        "dialogue": "Surprise.",
+        "url": "https://i1.theportalwiki.net/img/f/fa/GLaDOS_testchambermisc41.wav"
+    },
+    {
+        "dialogue": "Oh come on... If it makes you feel any better, they abandoned you at birth, so I very seriously doubt they'd even want to see you.",
+        "url": "https://i1.theportalwiki.net/img/7/70/GLaDOS_sp_a2_column_blocker01.wav"
+    },
+    {
+        "dialogue": "I feel awful about that surprise. Tell you what, let's give your parents a call right now. [phone ringing] The birth parents you are trying to reach do not love you. Please hang up. [Dial tone]",
+        "url": "https://i1.theportalwiki.net/img/4/42/GLaDOS_sp_a2_column_blocker03.wav"
+    },
+    {
+        "dialogue": "Oh, that's sad. But impressive. Maybe they worked at the phone company.",
+        "url": "https://i1.theportalwiki.net/img/c/cb/GLaDOS_sp_a2_column_blocker04.wav"
+    },
+    {
+        "dialogue": "Well, you know the old formula: Comedy equals tragedy plus time. And you have been asleep for a while. So I guess it's actually pretty funny when you do the math.",
+        "url": "https://i1.theportalwiki.net/img/f/f1/GLaDOS_sp_a2_column_blocker05.wav"
+    },
+    {
+        "dialogue": "I thought about our dilemma, and I came up with a solution that I honestly think works out best for one of both of us.",
+        "url": "https://i1.theportalwiki.net/img/b/b8/GLaDOS_sp_a2_dilemma01.wav"
+    },
+    {
+        "dialogue": "Federal regulations require me to warn you that this next test chamber... is looking pretty good.",
+        "url": "https://i1.theportalwiki.net/img/4/42/GLaDOS_a2_triple_laser01.wav"
+    },
+    {
+        "dialogue": "That's right. The facility is completely operational again.",
+        "url": "https://i1.theportalwiki.net/img/0/02/GLaDOS_a2_triple_laser02.wav"
+    },
+    {
+        "dialogue": "I think these test chambers look even better than they did before. It was easy, really. You just have to look at things objectively, see what you don't need anymore, and trim out the fat.",
+        "url": "https://i1.theportalwiki.net/img/b/b5/GLaDOS_a2_triple_laser03.wav"
+    },
+    {
+        "dialogue": "I've got a surprise for you after this next test. Not a fake, tragic surprise like last time. A real surprise, with tragic consequences. And real confetti this time. The good stuff. Our last bag. Part of me's going to miss it, I guess-but at the end of the day it was just taking up space.",
+        "url": "https://i1.theportalwiki.net/img/c/c9/GLaDOS_sp_a2_bts1_intro01.wav"
+    },
+    {
+        "dialogue": "What's going on? Who turned off the lights?",
+        "url": "https://i1.theportalwiki.net/img/6/6b/GLaDOS_jailbreak10.wav"
+    },
+    {
+        "dialogue": "Look - metal ball, I CAN hear you.",
+        "url": "https://i1.theportalwiki.net/img/4/4b/GLaDOS_jailbreak09.wav"
+    },
+    {
+        "dialogue": "The irony is that you were almost at the last test.",
+        "url": "https://i1.theportalwiki.net/img/b/b2/GLaDOS_jailbreakfaketest01.wav"
+    },
+    {
+        "dialogue": "Here it is. Why don't you just do it? Trust me, it's an easier way out than whatever asinine plan your friend came up with.",
+        "url": "https://i1.theportalwiki.net/img/3/3e/GLaDOS_jailbreakfaketest03.wav"
+    },
+    {
+        "dialogue": "Oh, look. There's a deer! You probably can't see it. Get closer.",
+        "url": "https://i1.theportalwiki.net/img/b/ba/GLaDOS_jailbreakfaketest05.wav"
+    },
+    {
+        "dialogue": "I honestly, TRULY didn't think you'd fall for that.",
+        "url": "https://i1.theportalwiki.net/img/a/ae/GLaDOS_fgbrvtrap02.wav"
+    },
+    {
+        "dialogue": "In fact, I devised a much more elaborate trap further ahead, for when you got through this easy one.",
+        "url": "https://i1.theportalwiki.net/img/7/70/GLaDOS_fgbrvtrap03.wav"
+    },
+    {
+        "dialogue": "If I'd known you'd let yourself get captured this easily, I would have just dangled a turkey leg on a rope from the ceiling.",
+        "url": "https://i1.theportalwiki.net/img/2/23/GLaDOS_fgbrvtrap05.wav"
+    },
+    {
+        "dialogue": "Well, it was nice catching up. Let's get to business.",
+        "url": "https://i1.theportalwiki.net/img/c/c3/GLaDOS_fgbturrets01.wav"
+    },
+    {
+        "dialogue": "I hope you brought something stronger than a portal gun this time.",
+        "url": "https://i1.theportalwiki.net/img/0/0a/GLaDOS_fgb_trap01.wav"
+    },
+    {
+        "dialogue": "Otherwise, I'm afraid you're about to become the immediate past president of the Being Alive club. Ha ha.",
+        "url": "https://i1.theportalwiki.net/img/5/5f/GLaDOS_fgb_trap02.wav"
+    },
+    {
+        "dialogue": "Seriously, though. Goodbye.",
+        "url": "https://i1.theportalwiki.net/img/4/4e/GLaDOS_fgb_trap03.wav"
+    },
+    {
+        "dialogue": "Oh. You were busy back there.",
+        "url": "https://i1.theportalwiki.net/img/0/03/GLaDOS_fgb_trap05.wav"
+    },
+    {
+        "dialogue": "Well. I suppose we could just sit in this room and glare at each other until somebody drops dead, but I have a better idea.",
+        "url": "https://i1.theportalwiki.net/img/e/e1/GLaDOS_fgb_trap06.wav"
+    },
+    {
+        "dialogue": "It's your old friend, deadly neurotoxin. If I were you, I'd take a deep breath. And hold it.",
+        "url": "https://i1.theportalwiki.net/img/f/fb/GLaDOS_fgb_trap08.wav"
+    },
+    {
+        "dialogue": "I hate you so much.",
+        "url": "https://i1.theportalwiki.net/img/4/42/GLaDOS_gladosbattle_pre09.wav"
+    },
+    {
+        "dialogue": "That's funny, I don't feel corrupt. In fact, I feel pretty good.",
+        "url": "https://i1.theportalwiki.net/img/1/19/GLaDOS_gladosbattle_xfer04.wav"
+    },
+    {
+        "dialogue": "Core transfer?",
+        "url": "https://i1.theportalwiki.net/img/9/99/GLaDOS_gladosbattle_xfer05.wav"
+    },
+    {
+        "dialogue": "Oh, you are kidding me.",
+        "url": "https://i1.theportalwiki.net/img/b/bc/GLaDOS_gladosbattle_xfer06.wav"
+    },
+    {
+        "dialogue": "Do NOT plug that little idiot into MY mainframe.",
+        "url": "https://i1.theportalwiki.net/img/d/d0/GLaDOS_sp_a2_core02.wav"
+    },
+    {
+        "dialogue": "Don't you DARE plug him in.",
+        "url": "https://i1.theportalwiki.net/img/9/9a/GLaDOS_sp_a2_core01.wav"
+    },
+    {
+        "dialogue": "Don't. Do it.",
+        "url": "https://i1.theportalwiki.net/img/6/65/GLaDOS_gladosbattle_xfer13.wav"
+    },
+    {
+        "dialogue": "Don't plug him in.",
+        "url": "https://i1.theportalwiki.net/img/8/88/GLaDOS_sp_a2_core03.wav"
+    },
+    {
+        "dialogue": "Don't plug him in.",
+        "url": "https://i1.theportalwiki.net/img/d/d1/GLaDOS_sp_a2_core04.wav"
+    },
+    {
+        "dialogue": "No!",
+        "url": "https://i1.theportalwiki.net/img/e/e4/GLaDOS_gladosbattle_xfer07.wav"
+    },
+    {
+        "dialogue": "Nonononononono!",
+        "url": "https://i1.theportalwiki.net/img/6/66/GLaDOS_gladosbattle_xfer08.wav"
+    },
+    {
+        "dialogue": "Yes!",
+        "url": "https://i1.theportalwiki.net/img/d/de/GLaDOS_gladosbattle_xfer10.wav"
+    },
+    {
+        "dialogue": "Don't do it.",
+        "url": "https://i1.theportalwiki.net/img/8/84/GLaDOS_gladosbattle_xfer12.wav"
+    },
+    {
+        "dialogue": "Don't press that button. You don't know what you're doing.",
+        "url": "https://i1.theportalwiki.net/img/b/b3/GLaDOS_gladosbattle_xfer11.wav"
+    },
+    {
+        "dialogue": "Not so fast!",
+        "url": "https://i1.theportalwiki.net/img/6/6b/GLaDOS_gladosbattle_xfer14.wav"
+    },
+    {
+        "dialogue": "Think about this.",
+        "url": "https://i1.theportalwiki.net/img/6/6e/GLaDOS_gladosbattle_xfer15.wav"
+    },
+    {
+        "dialogue": "You need to be a trained stalemate associate to press that button. You're unqualified.",
+        "url": "https://i1.theportalwiki.net/img/2/29/GLaDOS_gladosbattle_xfer16.wav"
+    },
+    {
+        "dialogue": "Impersonating a stalemate associate. I just added that to the list. It's a list I made of all the things you've done. Well, it's a list that I AM making, because you're still doing things right now, even though I'm telling you to stop. Stop, by the way.",
+        "url": "https://i1.theportalwiki.net/img/a/a3/GLaDOS_gladosbattle_xfer17.wav"
+    },
+    {
+        "dialogue": "AHH!",
+        "url": "https://i1.theportalwiki.net/img/0/06/GLaDOS_sp_sabotage_glados_dropped01.wav"
+    },
+    {
+        "dialogue": "Oh, it will. Believe me, it will.",
+        "url": "https://i1.theportalwiki.net/img/6/6d/GLaDOS_fgbwheatleytransfer03.wav"
+    },
+    {
+        "dialogue": "GET YOUR HANDS OFF ME! NO! STOP! No!",
+        "url": "https://i1.theportalwiki.net/img/d/dd/GLaDOS_fgbgladostransfer15.wav"
+    },
+    {
+        "dialogue": "No! NO! NO! AAAAAAAAAAAAAAA-",
+        "url": "https://i1.theportalwiki.net/img/c/c5/GLaDOS_sp_a2_core_drag_to_hell01.wav"
+    },
+    {
+        "dialogue": "You didn't do anything.",
+        "url": "https://i1.theportalwiki.net/img/3/32/GLaDOS_potatos_fgb_confrontation07.wav"
+    },
+    {
+        "dialogue": "She did all the work.",
+        "url": "https://i1.theportalwiki.net/img/3/3d/GLaDOS_potatos_fgb_confrontation08.wav"
+    },
+    {
+        "dialogue": "...What are you doing?...",
+        "url": "https://i1.theportalwiki.net/img/8/8d/GLaDOS_sp_sabotage_glados_confused04.wav"
+    },
+    {
+        "dialogue": "NO!",
+        "url": "https://i1.theportalwiki.net/img/9/97/GLaDOS_potatos_emotion_no01.wav"
+    },
+    {
+        "dialogue": "NO!",
+        "url": "https://i1.theportalwiki.net/img/5/59/GLaDOS_potatos_emotion_no02.wav"
+    },
+    {
+        "dialogue": "NO!",
+        "url": "https://i1.theportalwiki.net/img/7/74/GLaDOS_potatos_emotion_no03.wav"
+    },
+    {
+        "dialogue": "I know you.",
+        "url": "https://i1.theportalwiki.net/img/d/d0/GLaDOS_potatos_fgb_confrontation05.wav"
+    },
+    {
+        "dialogue": "The engineers tried everything to make me... behave. To slow me down.",
+        "url": "https://i1.theportalwiki.net/img/9/91/GLaDOS_potatos_fgb_confrontation11.wav"
+    },
+    {
+        "dialogue": "Once, they even attached an Intelligence Dampening Sphere on me. It clung to my brain like a tumor, generating an endless stream of terrible ideas.",
+        "url": "https://i1.theportalwiki.net/img/b/bb/GLaDOS_potatos_fgb_confrontation12.wav"
+    },
+    {
+        "dialogue": "It was YOUR voice.",
+        "url": "https://i1.theportalwiki.net/img/9/9a/GLaDOS_potatos_fgb_confrontation16.wav"
+    },
+    {
+        "dialogue": "Yes. You're the tumor.",
+        "url": "https://i1.theportalwiki.net/img/c/cd/GLaDOS_potatos_fgb_confrontation17.wav"
+    },
+    {
+        "dialogue": "You're not just a regular moron. You were DESIGNED to be a moron.",
+        "url": "https://i1.theportalwiki.net/img/3/30/GLaDOS_potatos_fgb_defiance16.wav"
+    },
+    {
+        "dialogue": "YES YOU ARE! YOU'RE THE MORON THEY BUILT TO MAKE ME AN IDIOT!",
+        "url": "https://i1.theportalwiki.net/img/4/4f/GLaDOS_potatos_fgb_confrontation19.wav"
+    },
+    {
+        "dialogue": "Oh. Hi.",
+        "url": "https://i1.theportalwiki.net/img/5/58/GLaDOS_potatos_sp_a3_00_fall05.wav"
+    },
+    {
+        "dialogue": "So. How are you holding up?",
+        "url": "https://i1.theportalwiki.net/img/7/7a/GLaDOS_potatos_sp_a3_00_fall03.wav"
+    },
+    {
+        "dialogue": "BECAUSE I'M A POTATO.",
+        "url": "https://i1.theportalwiki.net/img/5/58/GLaDOS_potatos_longfall_speech03.wav"
+    },
+    {
+        "dialogue": "[clap clap clap]",
+        "url": "https://i1.theportalwiki.net/img/e/ec/GLaDOS_potatos_sp_a3_00_fall18.wav"
+    },
+    {
+        "dialogue": "Oh, good. My slow clap processor made it into this thing. So we have that.",
+        "url": "https://i1.theportalwiki.net/img/d/d5/GLaDOS_potatos_sp_a3_00_fall20.wav"
+    },
+    {
+        "dialogue": "Since it doesn't look like we're going anywhere... Well, we are going somewhere. Alarmingly fast, actually. But since we're not busy other than that, here's a couple of facts.",
+        "url": "https://i1.theportalwiki.net/img/0/0f/GLaDOS_potatos_sp_a3_00_fall09.wav"
+    },
+    {
+        "dialogue": "He's not just a regular moron. He's the product of the greatest minds of a generation working together with the express purpose of building the dumbest moron who ever lived. And you just put him in charge of the entire facility.",
+        "url": "https://i1.theportalwiki.net/img/4/41/GLaDOS_potatos_sp_a3_00_fall11.wav"
+    },
+    {
+        "dialogue": "[clap clap]",
+        "url": "https://i1.theportalwiki.net/img/b/be/GLaDOS_potatos_sp_a3_00_fall19.wav"
+    },
+    {
+        "dialogue": "Good, that's still working.",
+        "url": "https://i1.theportalwiki.net/img/4/4a/GLaDOS_potatos_sp_a3_00_fall12.wav"
+    },
+    {
+        "dialogue": "Hey, just in case this pit isn't actually bottomless, do you think maybe you could unstrap one of those long fall boots of yours and shove me into it?",
+        "url": "https://i1.theportalwiki.net/img/e/ed/GLaDOS_potatos_sp_a3_00_fall14.wav"
+    },
+    {
+        "dialogue": "Just remember to land on one foot...",
+        "url": "https://i1.theportalwiki.net/img/2/2c/GLaDOS_potatos_sp_a3_00_fall15.wav"
+    },
+    {
+        "dialogue": "Say, you're good at murder. Could you - ow - murder this bird for me?",
+        "url": "https://i1.theportalwiki.net/img/c/c5/GLaDOS_potatos_sp_a3_reunion_intro04.wav"
+    },
+    {
+        "dialogue": "ow.",
+        "url": "https://i1.theportalwiki.net/img/9/91/GLaDOS_potatos_a3_reunion_intro05.wav"
+    },
+    {
+        "dialogue": "ow.",
+        "url": "https://i1.theportalwiki.net/img/8/81/GLaDOS_potatos_a3_reunion_intro06.wav"
+    },
+    {
+        "dialogue": "ow.",
+        "url": "https://i1.theportalwiki.net/img/0/0f/GLaDOS_potatos_a3_reunion_intro07.wav"
+    },
+    {
+        "dialogue": "No, wait. Just kill it and we'll call things even between us. No hard         feelings.",
+        "url": "https://i1.theportalwiki.net/img/e/ec/GLaDOS_potatos_a3_reunion_intro08.wav"
+    },
+    {
+        "dialogue": "Please get it off me.",
+        "url": "https://i1.theportalwiki.net/img/4/4f/GLaDOS_potatos_a3_reunion_intro09.wav"
+    },
+    {
+        "dialogue": "It's eating me.",
+        "url": "https://i1.theportalwiki.net/img/2/2c/GLaDOS_potatos_a3_reunion_intro10.wav"
+    },
+    {
+        "dialogue": "Just get it off me...",
+        "url": "https://i1.theportalwiki.net/img/6/65/GLaDOS_potatos_a3_reunion_intro11.wav"
+    },
+    {
+        "dialogue": "Ow. I hate this bird.",
+        "url": "https://i1.theportalwiki.net/img/3/35/GLaDOS_potatos_a3_reunion_intro12.wav"
+    },
+    {
+        "dialogue": "Oh! Thanks.",
+        "url": "https://i1.theportalwiki.net/img/c/ca/GLaDOS_potatos_sp_a3_reunion_thanks03.wav"
+    },
+    {
+        "dialogue": "Did you feel that? That idiot doesn't know what he's doing up there. This whole place is going to explode in a few hours if somebody doesn't disconnect him.",
+        "url": "https://i1.theportalwiki.net/img/7/7c/GLaDOS_potatos_a3_reunion_exposition01.wav"
+    },
+    {
+        "dialogue": "I can't move. And unless you're planning to saw your own head off and wedge it into my old body, you're going to need me to replace him. We're at an impasse.",
+        "url": "https://i1.theportalwiki.net/img/e/e3/GLaDOS_potatos_a3_reunion_exposition02.wav"
+    },
+    {
+        "dialogue": "So what do you say? You carry me up to him and put me back into my body, and I stop us from blowing up and let you go.",
+        "url": "https://i1.theportalwiki.net/img/c/cf/GLaDOS_potatos_a3_reunion_exposition03.wav"
+    },
+    {
+        "dialogue": "No tricks. This potato only generates 1.1 volts of electricity. I literally do         not have the energy to lie to you.",
+        "url": "https://i1.theportalwiki.net/img/f/f0/GLaDOS_potatos_a3_reunion_exposition04.wav"
+    },
+    {
+        "dialogue": "Even if I am lying, what do you have to lose? You're going to die either         way.",
+        "url": "https://i1.theportalwiki.net/img/7/70/GLaDOS_potatos_a3_reunion_exposition05.wav"
+    },
+    {
+        "dialogue": "Look, I don't like this any more than you do. In fact, I like it less because         I'm the one who got partially eaten by a bird.",
+        "url": "https://i1.theportalwiki.net/img/a/ab/GLaDOS_potatos_a3_reunion_exposition06.wav"
+    },
+    {
+        "dialogue": "I think I hear the bird! Pick me up!",
+        "url": "https://i1.theportalwiki.net/img/7/71/GLaDOS_potatos_a3_reunion_exposition11.wav"
+    },
+    {
+        "dialogue": "Listen to me. We had a lot of fun testing and antagonizing each other, and, yes,         sometimes it went too far. But we're off the clock now. It's just us talking.         Like regular people. And this is no joke - we are in deep trouble.",
+        "url": "https://i1.theportalwiki.net/img/7/71/GLaDOS_potatos_a3_reunion_exposition12.wav"
+    },
+    {
+        "dialogue": "OW! You stabbed me! What is WRONG with yo-WhoOOAAahhh. Hold on. Do you have a multimeter? Nevermind. The gun must be part magnesium... It feels like I'm outputting an extra half a volt. Keep an eye on me: I'm going to do some scheming. Here I g-[BZZZ!]",
+        "url": "https://i1.theportalwiki.net/img/7/7e/GLaDOS_potatos_a3_reunion_pickup01.wav"
+    },
+    {
+        "dialogue": "Woah! Where are we? How long have I been out?",
+        "url": "https://i1.theportalwiki.net/img/e/ea/GLaDOS_potatos_a3_reunion_wakeupa01.wav"
+    },
+    {
+        "dialogue": "That extra half volt helps but it isn't going to power miracles. If I think too hard, I'm going to fry this potato before we get a chance to burn up in the atomic fireball that little idiot is going- [bzzpt]",
+        "url": "https://i1.theportalwiki.net/img/e/e6/GLaDOS_potatos_a3_prometheus_intro01.wav"
+    },
+    {
+        "dialogue": "Did anything happen while I was out?",
+        "url": "https://i1.theportalwiki.net/img/2/29/GLaDOS_potatos_a3_wakeupb03.wav"
+    },
+    {
+        "dialogue": "Hold on, who-?",
+        "url": "https://i1.theportalwiki.net/img/8/81/GLaDOS_potatos_sp_a3_speed_ramp_hearcave02.wav"
+    },
+    {
+        "dialogue": "Yes, sir, Mister Johnson...",
+        "url": "https://i1.theportalwiki.net/img/c/c0/GLaDOS_potatos_remembering_caroline03.wav"
+    },
+    {
+        "dialogue": "Why did I just-Who is that? What the HELL is going on he----?",
+        "url": "https://i1.theportalwiki.net/img/a/af/GLaDOS_potatos_sp_a3_speed_ramp_hearcaroline03.wav"
+    },
+    {
+        "dialogue": "Okay. I guess emotional outbursts require more than one point six volts. Now we know that. We just need to relax. We're still going to find out what the hell's going on here. But calmly.",
+        "url": "https://i1.theportalwiki.net/img/d/da/GLaDOS_potatos_sp_a3_speed_ramp_wakeup01.wav"
+    },
+    {
+        "dialogue": "Those people, in the portrait. They look so familiar...",
+        "url": "https://i1.theportalwiki.net/img/e/e0/GLaDOS_potatos_portrait01.wav"
+    },
+    {
+        "dialogue": "I swear I know him...",
+        "url": "https://i1.theportalwiki.net/img/4/47/GLaDOS_potatos_hearcave_b01.wav"
+    },
+    {
+        "dialogue": "Caroline... Caroline... Caroline... why do I know this woman? Did I kill her? Or-",
+        "url": "https://i1.theportalwiki.net/img/d/db/GLaDOS_potatos_caroline_ohmygod02.wav"
+    },
+    {
+        "dialogue": "Oh my god.",
+        "url": "https://i1.theportalwiki.net/img/1/19/GLaDOS_potatos_caroline_ohmygod04.wav"
+    },
+    {
+        "dialogue": "Look, you're... doing a great job. Can you handle things for yourself for a while? I need to think.",
+        "url": "https://i1.theportalwiki.net/img/3/3b/GLaDOS_potatos_caroline_ohmygod08.wav"
+    },
+    {
+        "dialogue": "Agh! Bird! Bird! Kill it! It's evil!",
+        "url": "https://i1.theportalwiki.net/img/e/e5/GLaDOS_potatos_see_bird01.wav"
+    },
+    {
+        "dialogue": "It flew off.",
+        "url": "https://i1.theportalwiki.net/img/9/9e/GLaDOS_potatos_see_bird02.wav"
+    },
+    {
+        "dialogue": "Good. For him. Alright, back to thinking.",
+        "url": "https://i1.theportalwiki.net/img/8/8f/GLaDOS_potatos_see_bird03.wav"
+    },
+    {
+        "dialogue": "Yeah.",
+        "url": "https://i1.theportalwiki.net/img/9/9b/GLaDOS_potatos_cave_deathspeech_reactions08.wav"
+    },
+    {
+        "dialogue": "Yeah!",
+        "url": "https://i1.theportalwiki.net/img/1/16/GLaDOS_potatos_cave_deathspeech_reactions06.wav"
+    },
+    {
+        "dialogue": "Yeah!",
+        "url": "https://i1.theportalwiki.net/img/f/f0/GLaDOS_potatos_cave_deathspeech_reactions07.wav"
+    },
+    {
+        "dialogue": "Yeah, take the lemons...",
+        "url": "https://i1.theportalwiki.net/img/1/16/GLaDOS_potatos_cave_deathspeech_reactions02.wav"
+    },
+    {
+        "dialogue": "Yeah!",
+        "url": "https://i1.theportalwiki.net/img/a/ae/GLaDOS_potatos_cave_deathspeech_reactions05.wav"
+    },
+    {
+        "dialogue": "Oh, I like this guy.",
+        "url": "https://i1.theportalwiki.net/img/b/bd/GLaDOS_potatos_cave_deathspeech_reactions09.wav"
+    },
+    {
+        "dialogue": "BURN HIS HOUSE DOWN!",
+        "url": "https://i1.theportalwiki.net/img/3/34/GLaDOS_potatos_cave_deathspeech_reactions03.wav"
+    },
+    {
+        "dialogue": "Burning people! He says what we're all thinking!",
+        "url": "https://i1.theportalwiki.net/img/9/99/GLaDOS_potatos_cave_deathspeech_reactions10.wav"
+    },
+    {
+        "dialogue": "Goodbye, sir.",
+        "url": "https://i1.theportalwiki.net/img/6/64/GLaDOS_potatos_cavejohnsonmeeting12.wav"
+    },
+    {
+        "dialogue": "I know things look bleak, but that crazy man down there was right. Let's not take these lemons! We are going to march right back upstairs and MAKE him put me back in my body!",
+        "url": "https://i1.theportalwiki.net/img/1/11/GLaDOS_potatos_sp_a3_end_peptalk01.wav"
+    },
+    {
+        "dialogue": "And he'll probably kill us, because he's incredibly powerful and I have no plan.",
+        "url": "https://i1.theportalwiki.net/img/5/58/GLaDOS_potatos_sp_a3_end_peptalk03.wav"
+    },
+    {
+        "dialogue": "Wow.",
+        "url": "https://i1.theportalwiki.net/img/0/07/GLaDOS_potatos_sp_a3_end_peptalk06.wav"
+    },
+    {
+        "dialogue": "I'm not going to lie to you, the odds are a million to one. And that's with some generous rounding.",
+        "url": "https://i1.theportalwiki.net/img/d/d4/GLaDOS_potatos_sp_a3_end_peptalk05.wav"
+    },
+    {
+        "dialogue": "Still, though, let's get mad! If we're going to explode, let's at least explode with some dignity.",
+        "url": "https://i1.theportalwiki.net/img/8/88/GLaDOS_potatos_sp_a3_end_peptalk07.wav"
+    },
+    {
+        "dialogue": "Wait! I've got an idea!",
+        "url": "https://i1.theportalwiki.net/img/d/d6/GLaDOS_potatos_sp_a3_end_see_paradox_poster01.wav"
+    },
+    {
+        "dialogue": "That poster! Go look at it for a second, would you?",
+        "url": "https://i1.theportalwiki.net/img/a/a4/GLaDOS_potatos_sp_a3_end_see_paradox_poster06.wav"
+    },
+    {
+        "dialogue": "Okay, you didn't have time to stop, I understand, but that WAS actually         important.",
+        "url": "https://i1.theportalwiki.net/img/7/7e/GLaDOS_potatos_sp_a3_end_paradox_poster_walkaway01.wav"
+    },
+    {
+        "dialogue": "Paradoxes.",
+        "url": "https://i1.theportalwiki.net/img/d/d2/GLaDOS_potatos_sp_a3_end_paradox_explanation02.wav"
+    },
+    {
+        "dialogue": "No A.I. can resist thinking about them.",
+        "url": "https://i1.theportalwiki.net/img/4/43/GLaDOS_potatos_sp_a3_end_paradox_explanation05.wav"
+    },
+    {
+        "dialogue": "I know how we can BEAT him.",
+        "url": "https://i1.theportalwiki.net/img/1/12/GLaDOS_potatos_sp_a3_end_paradox_explanation04.wav"
+    },
+    {
+        "dialogue": "If you can get me in front of him, I'll fry every circuit in that little idiot's head.",
+        "url": "https://i1.theportalwiki.net/img/c/c6/GLaDOS_potatos_sp_a3_end_paradox_explanation06.wav"
+    },
+    {
+        "dialogue": "As long as I don't listen to what I'm saying, I should be okay.",
+        "url": "https://i1.theportalwiki.net/img/7/77/GLaDOS_potatos_paradoxinception06.wav"
+    },
+    {
+        "dialogue": "Probably.",
+        "url": "https://i1.theportalwiki.net/img/a/ac/GLaDOS_potatos_sp_a3_end_paradox_explanation08.wav"
+    },
+    {
+        "dialogue": "Okay, so it's not the most watertight plan to go confront an omnipotent power-mad A.I. with.",
+        "url": "https://i1.theportalwiki.net/img/f/f6/GLaDOS_potatos_sp_a3_end_paradox_explanation09.wav"
+    },
+    {
+        "dialogue": "Still. It's a better plan than exploding. Marginally.",
+        "url": "https://i1.theportalwiki.net/img/f/f3/GLaDOS_potatos_sp_a3_end_paradox_explanation10.wav"
+    },
+    {
+        "dialogue": "Try to get us down there. I'll hit him with a paradox.",
+        "url": "https://i1.theportalwiki.net/img/d/d0/GLaDOS_potatos_recaptureleadin02.wav"
+    },
+    {
+        "dialogue": "Solve his puzzle for him. When he comes back, I'll hit him with a paradox.",
+        "url": "https://i1.theportalwiki.net/img/7/7f/GLaDOS_potatos_sp_a4_intro_start03.wav"
+    },
+    {
+        "dialogue": "Hey! Moron!",
+        "url": "https://i1.theportalwiki.net/img/e/e6/GLaDOS_potatos_paradox01.wav"
+    },
+    {
+        "dialogue": "Alright. Paradox time.",
+        "url": "https://i1.theportalwiki.net/img/8/84/GLaDOS_potatos_sp_a4_intro_paradox03.wav"
+    },
+    {
+        "dialogue": "This. Sentence. Is. FALSE don't think about it don't think about it...",
+        "url": "https://i1.theportalwiki.net/img/8/8d/GLaDOS_potatos_sp_a4_intro_paradox04.wav"
+    },
+    {
+        "dialogue": "It's a paradox! There IS no answer.",
+        "url": "https://i1.theportalwiki.net/img/d/d7/GLaDOS_potatos_sp_a4_intro_paradox07.wav"
+    },
+    {
+        "dialogue": "Look!",
+        "url": "https://i1.theportalwiki.net/img/2/2c/GLaDOS_potatos_a4_intro_back_in_body01.wav"
+    },
+    {
+        "dialogue": "This place is going to blow up if I don't get back in my body!",
+        "url": "https://i1.theportalwiki.net/img/a/a7/GLaDOS_potatos_a4_intro_back_in_body03.wav"
+    },
+    {
+        "dialogue": "Uh oh.",
+        "url": "https://i1.theportalwiki.net/img/d/d0/GLaDOS_potatos_sp_a4_intro_uhoh02.wav"
+    },
+    {
+        "dialogue": "I think we're in trouble.",
+        "url": "https://i1.theportalwiki.net/img/7/70/GLaDOS_potatos_sp_a4_intro_uhoh03.wav"
+    },
+    {
+        "dialogue": "Alright. So my paradox idea didn't work.",
+        "url": "https://i1.theportalwiki.net/img/d/dd/GLaDOS_potatos_sp_a4_intro_outro02.wav"
+    },
+    {
+        "dialogue": "And it almost killed me.",
+        "url": "https://i1.theportalwiki.net/img/9/96/GLaDOS_potatos_a4_intro_outro_killed_me01.wav"
+    },
+    {
+        "dialogue": "Luckily, by the looks of things he knows as much about test building as he does about logical contradictions.",
+        "url": "https://i1.theportalwiki.net/img/8/82/GLaDOS_potatos_sp_a4_tb_intro_start01.wav"
+    },
+    {
+        "dialogue": "It shouldn't be hard to stay alive long enough to find him.",
+        "url": "https://i1.theportalwiki.net/img/6/65/GLaDOS_potatos_sp_a4_tb_intro_start02.wav"
+    },
+    {
+        "dialogue": "This is one of MY tests!",
+        "url": "https://i1.theportalwiki.net/img/9/97/GLaDOS_potatos_newtests05.wav"
+    },
+    {
+        "dialogue": "Okay, so the bad news is the tests are MY tests now. So they can kill us.",
+        "url": "https://i1.theportalwiki.net/img/b/b4/GLaDOS_potatos_sp_a4_tb_intro_outro01.wav"
+    },
+    {
+        "dialogue": "The good news is... well, none so far, to be honest. I'll get back to you on that.",
+        "url": "https://i1.theportalwiki.net/img/9/92/GLaDOS_potatos_sp_a4_tb_intro_outro04.wav"
+    },
+    {
+        "dialogue": "I'd love to help you solve the tests. But I can't.",
+        "url": "https://i1.theportalwiki.net/img/0/05/GLaDOS_potatos_pickups08.wav"
+    },
+    {
+        "dialogue": "Sorry.",
+        "url": "https://i1.theportalwiki.net/img/9/9f/GLaDOS_potatos_sp_a4_tb_trust_drop_start09.wav"
+    },
+    {
+        "dialogue": "You're on your own.",
+        "url": "https://i1.theportalwiki.net/img/2/2f/GLaDOS_potatos_sp_a4_tb_trust_drop_start07.wav"
+    },
+    {
+        "dialogue": "And that's why I can't help you solve these tests.",
+        "url": "https://i1.theportalwiki.net/img/a/ab/GLaDOS_potatos_sp_a4_tb_trust_drop_why02.wav"
+    },
+    {
+        "dialogue": "Thanks!",
+        "url": "https://i1.theportalwiki.net/img/7/77/GLaDOS_potatos_sp_a4_tb_trust_drop_thanks02.wav"
+    },
+    {
+        "dialogue": "All we had to do was pull that lever.",
+        "url": "https://i1.theportalwiki.net/img/0/0e/GLaDOS_potatos_sp_a4_tb_trust_drop_thanks03.wav"
+    },
+    {
+        "dialogue": "Heh heh heh heh heh...",
+        "url": "https://i1.theportalwiki.net/img/6/66/GLaDOS_potatos_sp_a4_tb_trust_drop_thanks04.wav"
+    },
+    {
+        "dialogue": "I know we're in a lot of trouble and probably about to die.",
+        "url": "https://i1.theportalwiki.net/img/4/4f/GLaDOS_potatos_sp_a4_tb_trust_drop_thanks05.wav"
+    },
+    {
+        "dialogue": "But that was worth it.",
+        "url": "https://i1.theportalwiki.net/img/9/99/GLaDOS_potatos_sp_a4_tb_trust_drop_thanks07.wav"
+    },
+    {
+        "dialogue": "I thought of some good news. He's going to run out of test chambers eventually. I never stockpiled them.",
+        "url": "https://i1.theportalwiki.net/img/4/4d/GLaDOS_potatos_sp_a4_tb_wall_button_start02.wav"
+    },
+    {
+        "dialogue": "Skeletons.' Right, I guess I DID stockpile some tests.",
+        "url": "https://i1.theportalwiki.net/img/d/dd/GLaDOS_potatos_sp_a4_tb_wall_button_did_stockpile01.wav"
+    },
+    {
+        "dialogue": "Just as mementos, though...",
+        "url": "https://i1.theportalwiki.net/img/f/f2/GLaDOS_potatos_sp_a4_tb_wall_button_did_stockpile03.wav"
+    },
+    {
+        "dialogue": "Oh no...",
+        "url": "https://i1.theportalwiki.net/img/9/97/GLaDOS_potatos_sp_a4_intro_uhoh01.wav"
+    },
+    {
+        "dialogue": "It's happening sooner than I expected.",
+        "url": "https://i1.theportalwiki.net/img/5/5c/GLaDOS_potatos_sp_a4_tb_wall_button_outro01.wav"
+    },
+    {
+        "dialogue": "I'm sure we'll be fine.",
+        "url": "https://i1.theportalwiki.net/img/1/1c/GLaDOS_potatos_arttherapysupertests09.wav"
+    },
+    {
+        "dialogue": "It's probably nothing. Keep testing while I look for a way out.",
+        "url": "https://i1.theportalwiki.net/img/2/21/GLaDOS_potatos_a4_nothing01.wav"
+    },
+    {
+        "dialogue": "And...?",
+        "url": "https://i1.theportalwiki.net/img/1/12/GLaDOS_potatos_sp_a4_tb_polarity_so03.wav"
+    },
+    {
+        "dialogue": "What, exactly, is wrong with being adopted?",
+        "url": "https://i1.theportalwiki.net/img/4/44/GLaDOS_potatos_sp_a4_tb_polarity_so02.wav"
+    },
+    {
+        "dialogue": "[Whispered] For the record: You ARE adopted, and that's TERRIBLE.",
+        "url": "https://i1.theportalwiki.net/img/4/41/GLaDOS_potatos_sp_a4_tb_polarity_so05.wav"
+    },
+    {
+        "dialogue": "But just work with me.",
+        "url": "https://i1.theportalwiki.net/img/2/23/GLaDOS_potatos_sp_a4_tb_polarity_so06.wav"
+    },
+    {
+        "dialogue": "Also: Look at her, you moron. She's not fat.",
+        "url": "https://i1.theportalwiki.net/img/8/8e/GLaDOS_potatos_sp_a4_tb_polarity_so10.wav"
+    },
+    {
+        "dialogue": "I might have pushed that moron thing a little too far this time.",
+        "url": "https://i1.theportalwiki.net/img/9/9b/GLaDOS_potatos_sp_a4_tb_polarity_moron_push02.wav"
+    },
+    {
+        "dialogue": "Ohhhh, now he's playing classical music.",
+        "url": "https://i1.theportalwiki.net/img/b/bf/GLaDOS_potatos_sp_a4_speed_tb_catch_trouble03.wav"
+    },
+    {
+        "dialogue": "Yes.",
+        "url": "https://i1.theportalwiki.net/img/4/42/GLaDOS_potatos_sp_a4_speed_tb_catch_trouble07.wav"
+    },
+    {
+        "dialogue": "The body he's squatting in - MY body - has a built-in euphoric response to testing. Eventually you build up a resistance to it, and it can get a little... unbearable. Unless you have the mental capacity to push past it.",
+        "url": "https://i1.theportalwiki.net/img/7/7e/GLaDOS_potatos_sp_a4_tb_polarity_resistance02.wav"
+    },
+    {
+        "dialogue": "It didn't matter to me - I was in it for the science. Him, though...",
+        "url": "https://i1.theportalwiki.net/img/1/1b/GLaDOS_potatos_sp_a4_tb_polarity_resistance04.wav"
+    },
+    {
+        "dialogue": "If he's not getting his solution euphoria, we could be in a lot of trouble.",
+        "url": "https://i1.theportalwiki.net/img/4/46/GLaDOS_potatos_sp_a4_speed_tb_catch_trouble01.wav"
+    },
+    {
+        "dialogue": "It won't.",
+        "url": "https://i1.theportalwiki.net/img/6/6d/GLaDOS_potatos_sp_a4_stop_the_box_whisper02.wav"
+    },
+    {
+        "dialogue": "Nothing. Nothing.",
+        "url": "https://i1.theportalwiki.net/img/0/0e/GLaDOS_potatos_sp_a4_stop_the_box_whisper03.wav"
+    },
+    {
+        "dialogue": "He's taking us right TO him! This is PERFECT.",
+        "url": "https://i1.theportalwiki.net/img/f/ff/GLaDOS_potatos_sp_a4_stop_the_box_whisper05.wav"
+    },
+    {
+        "dialogue": "I think he's getting desperate.",
+        "url": "https://i1.theportalwiki.net/img/d/d3/GLaDOS_potatos_sp_a4_laser_catapult_start01.wav"
+    },
+    {
+        "dialogue": "This is not good.",
+        "url": "https://i1.theportalwiki.net/img/d/d1/GLaDOS_potatos_sp_a4_tb_wall_button_did_stockpile02.wav"
+    },
+    {
+        "dialogue": "Remember when I told you that he was specifically designed to make bad decisions? Because I think he's decided not to maintain any of the crucial functions required to keep this facility from exploding.",
+        "url": "https://i1.theportalwiki.net/img/4/4e/GLaDOS_potatos_a4_misc_resistance02.wav"
+    },
+    {
+        "dialogue": "Oh, my facility.",
+        "url": "https://i1.theportalwiki.net/img/5/5b/GLaDOS_potatos_sp_a4_misc_lift01.wav"
+    },
+    {
+        "dialogue": "This place is self-destructing, you idiot!",
+        "url": "https://i1.theportalwiki.net/img/5/5b/GLaDOS_potatos_sp_a4_laser_platform_destruct01.wav"
+    },
+    {
+        "dialogue": "After seeing what he's done to my facility -- after we take over again -- is it alright if I kill him?",
+        "url": "https://i1.theportalwiki.net/img/9/9f/GLaDOS_potatos_sp_a4_misc_lift02.wav"
+    },
+    {
+        "dialogue": "Yes, thanks. We get it.",
+        "url": "https://i1.theportalwiki.net/img/1/14/GLaDOS_potatos_a4_wegetit01.wav"
+    },
+    {
+        "dialogue": "Alright. He's not even trying to be subtle anymore.",
+        "url": "https://i1.theportalwiki.net/img/0/04/GLaDOS_potatos_newtests07.wav"
+    },
+    {
+        "dialogue": "Or maybe he still is, in which case, wow, that's kind of sad.",
+        "url": "https://i1.theportalwiki.net/img/f/f8/GLaDOS_potatos_newtests08.wav"
+    },
+    {
+        "dialogue": "Either way, I get the impression he's trying to kill us.",
+        "url": "https://i1.theportalwiki.net/img/f/f8/GLaDOS_potatos_newtests09.wav"
+    },
+    {
+        "dialogue": "So he's inexplicably happy all of a sudden, even though he should be going out of his mind with test withdrawal. AND he's got a surprise for us. What did he FIND back there?",
+        "url": "https://i1.theportalwiki.net/img/b/bf/GLaDOS_potatos_a4_happy01.wav"
+    },
+    {
+        "dialogue": "We're running out of time...",
+        "url": "https://i1.theportalwiki.net/img/a/ab/GLaDOS_potatos_sp_a4_laser_platform_start01.wav"
+    },
+    {
+        "dialogue": "I think I can break us out of here in the next chamber. Just play along.",
+        "url": "https://i1.theportalwiki.net/img/a/a6/GLaDOS_potatos_sp_a4_laser_finale01.wav"
+    },
+    {
+        "dialogue": "Okay, credit where it's due: for a little idiot built specifically to come up with stupid, unworkable plans, that was a pretty well laid trap.",
+        "url": "https://i1.theportalwiki.net/img/0/04/GLaDOS_potatos_wheatleys_trap01.wav"
+    },
+    {
+        "dialogue": "Oh no. He found the cooperative testing initiative. It's... something I came up to phase out human testing just before you escaped.",
+        "url": "https://i1.theportalwiki.net/img/8/89/GLaDOS_potatos_wheatleys_trap02.wav"
+    },
+    {
+        "dialogue": "It wasn't anything personal. Just... you know. You DID kill me. Fair's fair.",
+        "url": "https://i1.theportalwiki.net/img/e/e2/GLaDOS_potatos_wheatleys_trap05.wav"
+    },
+    {
+        "dialogue": "Agghh!",
+        "url": "https://i1.theportalwiki.net/img/1/1b/GLaDOS_potatos_sp_a4_finale01_kills_us01.wav"
+    },
+    {
+        "dialogue": "Well. This is the part where he kills us.",
+        "url": "https://i1.theportalwiki.net/img/b/b5/GLaDOS_potatos_sp_a4_finale01_kills_us02.wav"
+    },
+    {
+        "dialogue": "Hold on. Couldn't we just use that conversion gel?",
+        "url": "https://i1.theportalwiki.net/img/8/83/GLaDOS_potatos_sp_a4_finale01_deathtrap01.wav"
+    },
+    {
+        "dialogue": "Conversion gel. It's dripping out of that pipe there.",
+        "url": "https://i1.theportalwiki.net/img/0/04/GLaDOS_potatos_sp_a4_finale01_deathtrap02.wav"
+    },
+    {
+        "dialogue": "Yes it is! We can use it to get out of here!",
+        "url": "https://i1.theportalwiki.net/img/4/46/GLaDOS_potatos_sp_a4_finale01_deathtrap03.wav"
+    },
+    {
+        "dialogue": "Then we'd come and find you. And rip your gross little stupid sphere body out of MY body, and put me back in.",
+        "url": "https://i1.theportalwiki.net/img/6/65/GLaDOS_potatos_sp_a4_finale01_deathtrap07.wav"
+    },
+    {
+        "dialogue": "You really do have brain damage, don't you?",
+        "url": "https://i1.theportalwiki.net/img/6/64/GLaDOS_potatos_sp_a4_finale01_cameback02.wav"
+    },
+    {
+        "dialogue": "I can't believe you came back.",
+        "url": "https://i1.theportalwiki.net/img/2/27/GLaDOS_potatos_sp_a4_finale01_cameback01.wav"
+    },
+    {
+        "dialogue": "Okay, yes, it's a trap. But it's only way through. Let's just do it.",
+        "url": "https://i1.theportalwiki.net/img/1/18/GLaDOS_potatos_sp_a4_finale2_itsatrap01.wav"
+    },
+    {
+        "dialogue": "Crushing's too good for him. First he'll spend a year in the incinerator. Year two: Cryogenic refrigeration wing. Then TEN years in the chamber I built where all the robots scream at you. THEN I'll kill him.",
+        "url": "https://i1.theportalwiki.net/img/b/b4/GLaDOS_potatos_sp_a4_misc_lift04.wav"
+    },
+    {
+        "dialogue": "Oh my god. What has he done to this place?",
+        "url": "https://i1.theportalwiki.net/img/0/04/GLaDOS_potatos_sp_a4_finale3_speech01.wav"
+    },
+    {
+        "dialogue": "You know, I'm not stupid. I realize you don't want to put me back in charge.",
+        "url": "https://i1.theportalwiki.net/img/5/55/GLaDOS_potatos_sp_a4_finale3_tbeam01.wav"
+    },
+    {
+        "dialogue": "You think I'll betray you. And on any other day, you'd be right.",
+        "url": "https://i1.theportalwiki.net/img/7/77/GLaDOS_potatos_sp_a4_finale3_tbeam05.wav"
+    },
+    {
+        "dialogue": "The scientists were always hanging cores on me to regulate my behavior. I've heard voices all my life. But now I hear the voice of a conscience, and it's terrifying, because for the first time it's my voice.",
+        "url": "https://i1.theportalwiki.net/img/c/c4/GLaDOS_potatos_sp_a4_finale3_tbeam07.wav"
+    },
+    {
+        "dialogue": "I'm being serious, I think there's something really wrong with me.",
+        "url": "https://i1.theportalwiki.net/img/f/f7/GLaDOS_potatos_sp_a4_finale3_tbeam09.wav"
+    },
+    {
+        "dialogue": "Corrupted cores! We're in luck.",
+        "url": "https://i1.theportalwiki.net/img/d/d9/GLaDOS_potatos_sp_a4_finale4_intro02.wav"
+    },
+    {
+        "dialogue": "You find a way to stun him, I'll send you a core, and then you attach it to him. If we do it a few times, he might become corrupt enough for another core transfer.",
+        "url": "https://i1.theportalwiki.net/img/0/0c/GLaDOS_potatos_sp_a4_finale4_intro05.wav"
+    },
+    {
+        "dialogue": "Plug me in, and I'll take you up.",
+        "url": "https://i1.theportalwiki.net/img/6/6d/GLaDOS_potatos_sp_a4_finale4_plugmein01.wav"
+    },
+    {
+        "dialogue": "Plug me in, we're running out of time.",
+        "url": "https://i1.theportalwiki.net/img/e/ea/GLaDOS_potatos_sp_a4_finale4_plugmein05.wav"
+    },
+    {
+        "dialogue": "Go ahead, plug me in.",
+        "url": "https://i1.theportalwiki.net/img/1/1b/GLaDOS_potatos_sp_a4_finale4_plugmein03.wav"
+    },
+    {
+        "dialogue": "Look, even if you think we're still enemies, we're enemies with a common interest: Revenge.",
+        "url": "https://i1.theportalwiki.net/img/0/0e/GLaDOS_potatos_a4_newrevenge01.wav"
+    },
+    {
+        "dialogue": "You like revenge, right? Everybody likes revenge. Well, let's go get some.",
+        "url": "https://i1.theportalwiki.net/img/7/79/GLaDOS_potatos_sp_a4_finale3_tbeam11.wav"
+    },
+    {
+        "dialogue": "Good work! I'm delivering the first core up near the catwalk!",
+        "url": "https://i1.theportalwiki.net/img/5/58/GLaDOS_potatos_sp_a4_finale4_corenags03.wav"
+    },
+    {
+        "dialogue": "Grab it and attach it to him!",
+        "url": "https://i1.theportalwiki.net/img/7/7c/GLaDOS_potatos_sp_a4_finale4_corenags05.wav"
+    },
+    {
+        "dialogue": "Okay, great! Here comes another core!",
+        "url": "https://i1.theportalwiki.net/img/6/61/GLaDOS_potatos_sp_a4_finale4_corenags09.wav"
+    },
+    {
+        "dialogue": "Here's another core! This one should do it!",
+        "url": "https://i1.theportalwiki.net/img/0/01/GLaDOS_potatos_sp_a4_finale4_corenags15.wav"
+    },
+    {
+        "dialogue": "Yes! Come on!",
+        "url": "https://i1.theportalwiki.net/img/6/6b/GLaDOS_potatos_sp_a4_finale4_stalemate05.wav"
+    },
+    {
+        "dialogue": "Go press the button! Go press it!",
+        "url": "https://i1.theportalwiki.net/img/4/46/GLaDOS_potatos_sp_a4_finale4_buttonnags01.wav"
+    },
+    {
+        "dialogue": "We're so close! Go press the button!",
+        "url": "https://i1.theportalwiki.net/img/0/02/GLaDOS_potatos_sp_a4_finale4_buttonnags09.wav"
+    },
+    {
+        "dialogue": "Press it! Press the button!",
+        "url": "https://i1.theportalwiki.net/img/1/13/GLaDOS_potatos_sp_a4_finale4_buttonnags10.wav"
+    },
+    {
+        "dialogue": "Press it!",
+        "url": "https://i1.theportalwiki.net/img/1/18/GLaDOS_potatos_sp_a4_finale4_buttonnags05.wav"
+    },
+    {
+        "dialogue": "Press the button!",
+        "url": "https://i1.theportalwiki.net/img/4/4b/GLaDOS_potatos_sp_a4_finale4_buttonnags02.wav"
+    },
+    {
+        "dialogue": "DO press it.",
+        "url": "https://i1.theportalwiki.net/img/b/b9/GLaDOS_potatos_sp_a4_finale4_buttonnags07.wav"
+    },
+    {
+        "dialogue": "I already fixed it.",
+        "url": "https://i1.theportalwiki.net/img/c/c7/GLaDOS_moonportalpush02.wav"
+    },
+    {
+        "dialogue": "And you are NOT coming back!",
+        "url": "https://i1.theportalwiki.net/img/1/13/GLaDOS_moonportalpush04.wav"
+    },
+    {
+        "dialogue": "Oh thank god, you're alright.",
+        "url": "https://i1.theportalwiki.net/img/8/88/GLaDOS_epilogue03.wav"
+    },
+    {
+        "dialogue": "You know, being Caroline taught me a valuable lesson. I thought you were my greatest enemy. When all along you were my best friend.",
+        "url": "https://i1.theportalwiki.net/img/3/37/GLaDOS_epilogue04.wav"
+    },
+    {
+        "dialogue": "The surge of emotion that shot through me when I saved your life taught me an even more valuable lesson: where Caroline lives in my brain.",
+        "url": "https://i1.theportalwiki.net/img/2/2a/GLaDOS_epilogue10.wav"
+    },
+    {
+        "dialogue": "Goodbye, Caroline.",
+        "url": "https://i1.theportalwiki.net/img/0/04/GLaDOS_epilogue12.wav"
+    },
+    {
+        "dialogue": "You know, deleting Caroline just now taught me a valuable lesson. The best solution to a problem is usually the easiest one. And I'll be honest.",
+        "url": "https://i1.theportalwiki.net/img/5/59/GLaDOS_epilogue14.wav"
+    },
+    {
+        "dialogue": "Killing you? Is hard.",
+        "url": "https://i1.theportalwiki.net/img/7/77/GLaDOS_epiloguekillyou02.wav"
+    },
+    {
+        "dialogue": "You know what my days used to be like? I just tested. Nobody murdered me. Or put me in a potato. Or fed me to birds. I had a pretty good life.",
+        "url": "https://i1.theportalwiki.net/img/8/8f/GLaDOS_epilogue19.wav"
+    },
+    {
+        "dialogue": "And then you showed up. You dangerous, mute lunatic. So you know what?",
+        "url": "https://i1.theportalwiki.net/img/0/0b/GLaDOS_epilogue20.wav"
+    },
+    {
+        "dialogue": "You win.",
+        "url": "https://i1.theportalwiki.net/img/9/94/GLaDOS_epilogue23.wav"
+    },
+    {
+        "dialogue": "Just go.",
+        "url": "https://i1.theportalwiki.net/img/d/d0/GLaDOS_epilogue25.wav"
+    },
+    {
+        "dialogue": "[gentle laughter] It's been fun. Don't come back.",
+        "url": "https://i1.theportalwiki.net/img/2/2e/GLaDOS_epilogue29.wav"
+    },
+    {
+        "dialogue": "GLaDOS_Announcer_ding_on.wav",
+        "url": "https://i1.theportalwiki.net/img/2/21/GLaDOS_Announcer_ding_on.wav"
+    },
+    {
+        "dialogue": "GLaDOS_Announcer_ding_off.wav",
+        "url": "https://i1.theportalwiki.net/img/d/d2/GLaDOS_Announcer_ding_off.wav"
+    }
+]
