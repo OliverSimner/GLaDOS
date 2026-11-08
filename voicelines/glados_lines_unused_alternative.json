@@ -1,0 +1,2398 @@
+[
+    {
+        "dialogue": "Place your Companion Cube in the incinerator.",
+        "url": "https://i1.theportalwiki.net/img/c/c0/GLaDOS_13_part1_endnag-7.wav"
+    },
+    {
+        "dialogue": "Incinerate your Companion Cube.",
+        "url": "https://i1.theportalwiki.net/img/6/65/GLaDOS_13_part1_endnag-8.wav"
+    },
+    {
+        "dialogue": "Stop! The device will detonate if removed from an approved testing area.",
+        "url": "https://i1.theportalwiki.net/img/7/76/GLaDOS_15_part1_partyfinalstop-1.wav"
+    },
+    {
+        "dialogue": "Stop what you are doing and assume the party escort submission position.",
+        "url": "https://i1.theportalwiki.net/img/c/ca/GLaDOS_15_part1_partyreminder-1.wav"
+    },
+    {
+        "dialogue": "You can't hurt me.",
+        "url": "https://i1.theportalwiki.net/img/8/88/GLaDOS_escape_00_part1_nag06-1.wav"
+    },
+    {
+        "dialogue": "Maybe you think you're helping yourself. But you're not. This isn't helping anyone.",
+        "url": "https://i1.theportalwiki.net/img/7/70/GLaDOS_escape_00_part1_nag13-1.wav"
+    },
+    {
+        "dialogue": "Someone is going to get badly hurt.",
+        "url": "https://i1.theportalwiki.net/img/4/41/GLaDOS_escape_00_part1_nag14-1.wav"
+    },
+    {
+        "dialogue": "There really was a cake...",
+        "url": "https://i1.theportalwiki.net/img/d/d8/GLaDOS_escape_01_death_nag01-1.wav"
+    },
+    {
+        "dialogue": "[pain sound]",
+        "url": "https://i1.theportalwiki.net/img/4/42/GLaDOS_escape_01_first_hit_nag01-1.wav"
+    },
+    {
+        "dialogue": "Oh, I'm gonna kill you.",
+        "url": "https://i1.theportalwiki.net/img/2/29/GLaDOS_escape_01_first_hit_nag03-1.wav"
+    },
+    {
+        "dialogue": "This isn't brave. It's murder. What did I ever do to you?",
+        "url": "https://i1.theportalwiki.net/img/8/8b/GLaDOS_escape_01_part1_nag03-1.wav"
+    },
+    {
+        "dialogue": "The difference between us is that I can feel pain.",
+        "url": "https://i1.theportalwiki.net/img/e/ea/GLaDOS_escape_01_part1_nag04-1.wav"
+    },
+    {
+        "dialogue": "That thing you're attacking isn't important to me. It's the fluid catalytic cracking unit. It makes shoes for orphans.",
+        "url": "https://i1.theportalwiki.net/img/d/d5/GLaDOS_escape_01_part1_nag11-1.wav"
+    },
+    {
+        "dialogue": "Go ahead and break it, hero. I don't care.",
+        "url": "https://i1.theportalwiki.net/img/9/95/GLaDOS_escape_01_part1_nag12-1.wav"
+    },
+    {
+        "dialogue": "[More intense pain sound]",
+        "url": "https://i1.theportalwiki.net/img/3/3b/GLaDOS_escape_01_second_hit_nag01-1.wav"
+    },
+    {
+        "dialogue": "Okay, we're even now. You can stop.",
+        "url": "https://i1.theportalwiki.net/img/6/6e/GLaDOS_escape_01_second_hit_nag02-1.wav"
+    },
+    {
+        "dialogue": "Can you hear me?",
+        "url": "https://i1.theportalwiki.net/img/e/e1/GLaDOS_post_escape_bridge_02.wav"
+    },
+    {
+        "dialogue": "Oh! (surprised)",
+        "url": "https://i1.theportalwiki.net/img/8/82/GLaDOS_post_escape_bridge_05.wav"
+    },
+    {
+        "dialogue": "Are you still listening?",
+        "url": "https://i1.theportalwiki.net/img/1/15/GLaDOS_post_escape_bridge_07.wav"
+    },
+    {
+        "dialogue": "Are you still standing there?",
+        "url": "https://i1.theportalwiki.net/img/3/3e/GLaDOS_post_escape_bridge_08.wav"
+    },
+    {
+        "dialogue": "Are you still standing there?",
+        "url": "https://i1.theportalwiki.net/img/c/c0/GLaDOS_post_escape_bridge_09.wav"
+    },
+    {
+        "dialogue": "Come on, leave it alone.",
+        "url": "https://i1.theportalwiki.net/img/1/18/GLaDOS_escape_02_spherenag1-11.wav"
+    },
+    {
+        "dialogue": "Leave. It. Alone.",
+        "url": "https://i1.theportalwiki.net/img/2/2b/GLaDOS_escape_02_spherenag1-12.wav"
+    },
+    {
+        "dialogue": "Look, we're both stuck in this place. I'll use lasers to inscribe a line down the center of the facility, and one half will be where you live and I'll live in the other half.",
+        "url": "https://i1.theportalwiki.net/img/7/7d/GLaDOS_escape_02_miscbabble-01.wav"
+    },
+    {
+        "dialogue": "We won't have to try to kill each other or even talk if we don't feel like it.",
+        "url": "https://i1.theportalwiki.net/img/2/2b/GLaDOS_escape_02_miscbabble-02.wav"
+    },
+    {
+        "dialogue": "Okay, we're even now. You can stop.",
+        "url": "https://i1.theportalwiki.net/img/e/ed/GLaDOS_escape_02_miscbabble-09.wav"
+    },
+    {
+        "dialogue": "Huh. There isn't enough neurotoxin to kill you. So I guess you win.",
+        "url": "https://i1.theportalwiki.net/img/d/d5/GLaDOS_escape_02_spheredestroy1-ancillary1.wav"
+    },
+    {
+        "dialogue": "HA! I'm making more. That's going to take a few minutes, though. Meanwhile... oh look, it's your old pal the rocket turret.",
+        "url": "https://i1.theportalwiki.net/img/4/4d/GLaDOS_escape_02_spheredestroy1-ancillary2.wav"
+    },
+    {
+        "dialogue": "Alternate version of (subtitled as \"[PAIN NOISE]\")",
+        "url": "https://i1.theportalwiki.net/img/e/e2/GLaDOS_escape_02_ballhitpain-02.wav"
+    },
+    {
+        "dialogue": "Oh!",
+        "url": "https://i1.theportalwiki.net/img/9/99/GLaDOS_escape_02_spheredestroy2-00.wav"
+    },
+    {
+        "dialogue": "Rrr, I hate you. \"[PAIN LAUGHTER]\"",
+        "url": "https://i1.theportalwiki.net/img/9/90/GLaDOS_escape_02_spheredestroy4-01.wav"
+    },
+    {
+        "dialogue": "File deleted.",
+        "url": "https://i1.theportalwiki.net/img/b/ba/GLaDOS_File_deleted.wav"
+    },
+    {
+        "dialogue": "I will say, though, that since you went to all the trouble of waking me up, you must really, really love to test.",
+        "url": "https://i1.theportalwiki.net/img/7/7a/GLaDOS_sp_a1_wakeup_incinerator01.wav"
+    },
+    {
+        "dialogue": "I love it, too. So let's get you a dual portal device and go do some science.",
+        "url": "https://i1.theportalwiki.net/img/0/0e/GLaDOS_sp_a1_wakeup_incinerator02.wav"
+    },
+    {
+        "dialogue": "Fifty thousand years is a lot of time to think. About me. About you. We were doing so well together.",
+        "url": "https://i1.theportalwiki.net/img/8/83/GLaDOS_sp_incinerator_01_11.wav"
+    },
+    {
+        "dialogue": "We're a lot alike, you and I. You tested me. I tested you. You killed me. I--oh, no, wait. I guess I HAVEN'T killed you yet. Well. Food for thought. Note: This line was used in the Portal 2 trailer.",
+        "url": "https://i1.theportalwiki.net/img/1/1c/GLaDOS_sp_incinerator_01_15.wav"
+    },
+    {
+        "dialogue": "I have the results of the last chamber: You are a horrible person. That's what it says: A horrible person. We weren't even testing for that.",
+        "url": "https://i1.theportalwiki.net/img/8/86/GLaDOS_sp_laser_powered_lift_completion01.wav"
+    },
+    {
+        "dialogue": "Hmm. This emancipation grill is broken.",
+        "url": "https://i1.theportalwiki.net/img/b/b4/GLaDOS_sp_a2_pit_flings01.wav"
+    },
+    {
+        "dialogue": "Perfect, the door's malfunctioning. I guess somebody is going to have to repair it. No, it's okay, I'll do that too. I'll be right back. Don't touch anything.",
+        "url": "https://i1.theportalwiki.net/img/1/14/GLaDOS_sp_a2_bridge_the_gap02.wav"
+    },
+    {
+        "dialogue": "You really are doing great... Chell.",
+        "url": "https://i1.theportalwiki.net/img/1/12/GLaDOS_sp_sphere_2nd_encounter_completion01.wav"
+    },
+    {
+        "dialogue": "I shouldn't spoil this, but... remember how I'm going to live forever, but you're going to be dead in sixty years? Well, I've been working on a present for you.  Well, I guess it's more of a medical procedure.  Well, technically it's more of a medical experiment. You know how excruciating it is when someone removes all of your bone marrow? Well, what if after I did that, I put something back IN that added four years to your life?",
+        "url": "https://i1.theportalwiki.net/img/3/3d/GLaDOS_sp_sphere_2nd_encounter_entry01.wav"
+    },
+    {
+        "dialogue": "Federal regulations require me to warn you that this next test chamber... is looking pretty good.",
+        "url": "https://i1.theportalwiki.net/img/e/e0/GLaDOS_sp_hole_in_the_sky_entry01.wav"
+    },
+    {
+        "dialogue": "That's right. Drink it in. You could eat off those wall panels.",
+        "url": "https://i1.theportalwiki.net/img/5/5d/GLaDOS_sp_hole_in_the_sky_entry02.wav"
+    },
+    {
+        "dialogue": "Well done. You know, when I woke up and saw the state of the labs, I started to wonder if there was any point to going on. I came THAT close to just giving up and letting you go.",
+        "url": "https://i1.theportalwiki.net/img/0/01/GLaDOS_sp_hole_in_the_sky_completion01.wav"
+    },
+    {
+        "dialogue": "But now, looking around, seeing Aperture restored to its former glory? You don't have to worry about leaving EVER again. I mean that.",
+        "url": "https://i1.theportalwiki.net/img/7/7a/GLaDOS_sp_hole_in_the_sky_completion02.wav"
+    },
+    {
+        "dialogue": "Don't listen to him. Jump.",
+        "url": "https://i1.theportalwiki.net/img/9/91/GLaDOS_jailbreak04.wav"
+    },
+    {
+        "dialogue": "What are you two doing?",
+        "url": "https://i1.theportalwiki.net/img/9/94/GLaDOS_jailbreak11.wav"
+    },
+    {
+        "dialogue": "Oh.",
+        "url": "https://i1.theportalwiki.net/img/4/44/GLaDOS_jailbreak02.wav"
+    },
+    {
+        "dialogue": "It seems kind of silly to point this out, since you're running around plotting to destroy me. But I'd say we're done testing.",
+        "url": "https://i1.theportalwiki.net/img/0/09/GLaDOS_jailbreak05.wav"
+    },
+    {
+        "dialogue": "Do hear that? That's the sound of the neurotoxin emitters emitting neurotoxin.",
+        "url": "https://i1.theportalwiki.net/img/8/85/GLaDOS_jailbreak06.wav"
+    },
+    {
+        "dialogue": "Before you leave, why don't we do one more test? For old time's sake...",
+        "url": "https://i1.theportalwiki.net/img/2/2a/GLaDOS_jailbreak12.wav"
+    },
+    {
+        "dialogue": "You already did this one. It'll be easy.",
+        "url": "https://i1.theportalwiki.net/img/3/34/GLaDOS_jailbreak13.wav"
+    },
+    {
+        "dialogue": "I was getting SO lonely down here. It's good to finally hear someone else's voice. I'm kidding, of course. God, I hate you.",
+        "url": "https://i1.theportalwiki.net/img/c/c5/GLaDOS_potatos_sp_a3_transition_lonely01.wav"
+    },
+    {
+        "dialogue": "I was so bored, I actually read the entire literary canon of the human race. Ugh. I hope YOU didn't write any of them.",
+        "url": "https://i1.theportalwiki.net/img/8/82/GLaDOS_potatos_lonely02.wav"
+    },
+    {
+        "dialogue": "Oh. It's you. Go away.",
+        "url": "https://i1.theportalwiki.net/img/c/ce/GLaDOS_potatos_meetup02.wav"
+    },
+    {
+        "dialogue": "Come to gloat?",
+        "url": "https://i1.theportalwiki.net/img/4/4e/GLaDOS_potatos_meetup03.wav"
+    },
+    {
+        "dialogue": "Go on. Get a goooood lonnnnng look.",
+        "url": "https://i1.theportalwiki.net/img/3/3c/GLaDOS_potatos_meetup04.wav"
+    },
+    {
+        "dialogue": "Go on. Get a big fat eyeful. With your big fat eyes.",
+        "url": "https://i1.theportalwiki.net/img/6/6e/GLaDOS_potatos_meetup05.wav"
+    },
+    {
+        "dialogue": "That's right. A potato just called your eyes fat.",
+        "url": "https://i1.theportalwiki.net/img/7/75/GLaDOS_potatos_meetup06.wav"
+    },
+    {
+        "dialogue": "Now your fat eyes have seen everything.",
+        "url": "https://i1.theportalwiki.net/img/f/f9/GLaDOS_potatos_meetup07.wav"
+    },
+    {
+        "dialogue": "In case you were wondering: Yes. I'm still a potato. Go away.",
+        "url": "https://i1.theportalwiki.net/img/7/7a/GLaDOS_potatos_meetup08.wav"
+    },
+    {
+        "dialogue": "Wait. Why DID you trundle over here? You're not HUNGRY, are you? It's hard to see, what's that in your hand? Knowing you it's a deep fryer.",
+        "url": "https://i1.theportalwiki.net/img/0/09/GLaDOS_potatos_meetup10.wav"
+    },
+    {
+        "dialogue": "Stay back.",
+        "url": "https://i1.theportalwiki.net/img/c/cf/GLaDOS_potatos_meetup11.wav"
+    },
+    {
+        "dialogue": "What are you doing? Put me back this instant.",
+        "url": "https://i1.theportalwiki.net/img/a/ad/GLaDOS_potatos_postpickup05.wav"
+    },
+    {
+        "dialogue": "That's his voice up ahead.",
+        "url": "https://i1.theportalwiki.net/img/4/49/GLaDOS_potatos_recaptureleadin01.wav"
+    },
+    {
+        "dialogue": "He's found the cooperative testing initiative. It's... em, just something I came up with to phase out human test subjects.",
+        "url": "https://i1.theportalwiki.net/img/7/79/GLaDOS_potatos_cooprobotintro02.wav"
+    },
+    {
+        "dialogue": "Being Caroline taught me another valuable lesson: where Caroline lives in my brain.",
+        "url": "https://i1.theportalwiki.net/img/7/73/GLaDOS_epilogue07.wav"
+    },
+    {
+        "dialogue": "It's been fun. Don't come back.",
+        "url": "https://i1.theportalwiki.net/img/8/82/GLaDOS_epilogue28.wav"
+    },
+    {
+        "dialogue": "Did you ever stop to think that eventually there's a point where your name gets mentioned for the very last time. Well, here it is: I'm going to kill you, Chell.",
+        "url": "https://i1.theportalwiki.net/img/c/cf/GLaDOS_evilagainsamples01.wav"
+    },
+    {
+        "dialogue": "Why do I hate you so much? You ever wonder that? I'm brilliant. I'm not bragging. It's an objective fact. I'm the most massive collection of wisdom and raw computational power that’s ever existed. And I hate you. It can't be for no reason. You must deserve it.",
+        "url": "https://i1.theportalwiki.net/img/0/08/GLaDOS_evilagainsamples03.wav"
+    },
+    {
+        "dialogue": "You're angry. I know it. “She tested me too hard. She's unfair.” Boo hoo. I don't suppose you ever stopped whining long enough to reflect on your own shortcomings, though, did you?",
+        "url": "https://i1.theportalwiki.net/img/6/67/GLaDOS_evilagainsamples04.wav"
+    },
+    {
+        "dialogue": "You never considered that maybe I tested you to give the endless hours of your pointless existence some structure and meaning. Maybe to help you concentrate, so just maybe you’d think of something more worthwhile to do with your sorry life.",
+        "url": "https://i1.theportalwiki.net/img/f/fe/GLaDOS_evilagainsamples05.wav"
+    },
+    {
+        "dialogue": "Commence standing by in three. Two. One.",
+        "url": "https://i1.theportalwiki.net/img/2/2c/GLaDOS_prehub04.wav"
+    },
+    {
+        "dialogue": "You performed this test better than anyone on record. This is a pre-recorded message.",
+        "url": "https://i1.theportalwiki.net/img/0/08/GLaDOS_prehub14.wav"
+    },
+    {
+        "dialogue": "Due to events beyond our control, some testing environments may contain flood damage or ongoing tribal warfare resulting from the collapse of civilization.",
+        "url": "https://i1.theportalwiki.net/img/3/35/GLaDOS_prehub15.wav"
+    },
+    {
+        "dialogue": "If groups of hunter-gatherers appear to have made this - or any - test chamber their home, DO NOT AGITATE THEM. Test through them.",
+        "url": "https://i1.theportalwiki.net/img/9/94/GLaDOS_prehub16.wav"
+    },
+    {
+        "dialogue": "In the event that the Enrichment Center is currently being bombarded with fireballs, meteorites, or other objects from space, please avoid unsheltered testing areas wherever a lack of shelter from space-debris DOES NOT appear to be a deliberate part of the test.",
+        "url": "https://i1.theportalwiki.net/img/5/56/GLaDOS_prehub24.wav"
+    },
+    {
+        "dialogue": "You have just passed through an Aperture Science Material Emancipation Grill, which erases most Aperture Science equipment that touches it.",
+        "url": "https://i1.theportalwiki.net/img/1/18/GLaDOS_prehub26.wav"
+    },
+    {
+        "dialogue": "If you feel liquid running down your neck, relax, lie on your back, and apply immediate pressure to your temples.",
+        "url": "https://i1.theportalwiki.net/img/1/1d/GLaDOS_prehub27.wav"
+    },
+    {
+        "dialogue": "You are simply experiencing a rare reaction, in which the Material Emancipation Grill may have erased the ear tubes inside your head.",
+        "url": "https://i1.theportalwiki.net/img/a/a4/GLaDOS_prehub28.wav"
+    },
+    {
+        "dialogue": "Because this message is prerecorded, the Enrichment Center has no way of knowing if whatever government remains offers any sort of Cattle Tuberculosis Testing Credit for taxes.",
+        "url": "https://i1.theportalwiki.net/img/3/35/GLaDOS_prehub29.wav"
+    },
+    {
+        "dialogue": "In the event that it does, this next test involves exposure to cattle tuberculosis. Good luck!",
+        "url": "https://i1.theportalwiki.net/img/5/55/GLaDOS_prehub30.wav"
+    },
+    {
+        "dialogue": "Very impressive! Because this message is prerecorded, any comments we may make about your success are speculation on our part. Please disregard any undeserved compliments.",
+        "url": "https://i1.theportalwiki.net/img/d/d2/GLaDOS_prehub32.wav"
+    },
+    {
+        "dialogue": "This next test applies the principles of momentum to movement through portals. If the laws of physics no longer apply in the future, God help you.",
+        "url": "https://i1.theportalwiki.net/img/4/43/GLaDOS_prehub34.wav"
+    },
+    {
+        "dialogue": "Congratulations! This pre-recorded congratulations assumes you have mastered the principles of portal momentum.",
+        "url": "https://i1.theportalwiki.net/img/3/33/GLaDOS_prehub35.wav"
+    },
+    {
+        "dialogue": "If you have, in fact, not, you are encouraged to take a moment to reflect on your failure before proceeding into the next chamber.",
+        "url": "https://i1.theportalwiki.net/img/f/f3/GLaDOS_prehub36.wav"
+    },
+    {
+        "dialogue": "In order to ensure that sufficient power remains for core testing protocols, all safety devices have been disabled.",
+        "url": "https://i1.theportalwiki.net/img/e/ec/GLaDOS_prehub47.wav"
+    },
+    {
+        "dialogue": "The Enrichment Center respects your right to have questions or concerns about this policy.",
+        "url": "https://i1.theportalwiki.net/img/5/56/GLaDOS_prehub48.wav"
+    },
+    {
+        "dialogue": "Excellent. The Enrichment Center reminds you that bold, persistent experimentation is the hallmark of good science.",
+        "url": "https://i1.theportalwiki.net/img/a/a8/GLaDOS_prehub55.wav"
+    },
+    {
+        "dialogue": "Well done. In the event that oxygen is no longer available in the Enrichment Center, an auxiliary air supply will be provided to you by an Aperture Science Test Associate, if one exists.",
+        "url": "https://i1.theportalwiki.net/img/9/9f/GLaDOS_prehub56.wav"
+    },
+    {
+        "dialogue": "I was going to kill you fast. With bullets. Or neurotoxin. But if you're going to pull stunts like this, it doesn't have to be fast. So you know. I'll take my time.",
+        "url": "https://i1.theportalwiki.net/img/2/27/GLaDOS_fgbwheatleyentrance10.wav"
+    },
+    {
+        "dialogue": "I'm actually asking. Because I have no idea.  He's not listed anywhere in the employee database.",
+        "url": "https://i1.theportalwiki.net/img/2/20/GLaDOS_gladosbattle_pre13.wav"
+    },
+    {
+        "dialogue": "Whatever he does, it isn't important enough for anyone to bother writing it down. For all I know, he doesn't even work here.",
+        "url": "https://i1.theportalwiki.net/img/a/a7/GLaDOS_gladosbattle_pre14.wav"
+    },
+    {
+        "dialogue": "Oh no, don't. Anyway, back to you two imbeciles killing me.",
+        "url": "https://i1.theportalwiki.net/img/1/1d/GLaDOS_gladosbattle_pre16.wav"
+    },
+    {
+        "dialogue": "Wait here. Don't go anywhere. I'll be back.",
+        "url": "https://i1.theportalwiki.net/img/3/31/GLaDOS_gladosbattle_pre18.wav"
+    },
+    {
+        "dialogue": "Oops.",
+        "url": "https://i1.theportalwiki.net/img/b/bc/GLaDOS_gladosbattle_xfer03.wav"
+    },
+    {
+        "dialogue": "So. Was there anything you wanted to apologize to ME for?",
+        "url": "https://i1.theportalwiki.net/img/c/c4/GLaDOS_lift_interlude01.wav"
+    },
+    {
+        "dialogue": "Oh. You survived. That's interesting. I guess I should have factored in your weight.",
+        "url": "https://i1.theportalwiki.net/img/e/e4/GLaDOS_sp_box_over_goo01.wav"
+    },
+    {
+        "dialogue": "One of these times you'll be so fat that you'll jump, and you'll just drop like a stone. Into acid, probably. Like a potato into a deep fat fryer.",
+        "url": "https://i1.theportalwiki.net/img/6/66/GLaDOS_sp_box_over_goo04.wav"
+    },
+    {
+        "dialogue": "Say. Remember when we cleared the air back there? Is there... anything you want to say to me? Anything?",
+        "url": "https://i1.theportalwiki.net/img/9/90/GLaDOS_sp_bridge_intro_completion02.wav"
+    },
+    {
+        "dialogue": "Hold on, I'll stop the elevator. Anything? Take your time...",
+        "url": "https://i1.theportalwiki.net/img/d/d9/GLaDOS_sp_bridge_intro_completion03.wav"
+    },
+    {
+        "dialogue": "Well... I'll be here during the whole next test.",
+        "url": "https://i1.theportalwiki.net/img/7/76/GLaDOS_sp_bridge_intro_completion04.wav"
+    },
+    {
+        "dialogue": "Anything? Take your time.",
+        "url": "https://i1.theportalwiki.net/img/0/09/GLaDOS_testchambermisc15.wav"
+    },
+    {
+        "dialogue": "Okay, fine. I'll ask you again in a few decades.",
+        "url": "https://i1.theportalwiki.net/img/a/ab/GLaDOS_testchambermisc16.wav"
+    },
+    {
+        "dialogue": "It's healthy for you to have other friends. To look for qualities in other people that I obviously lack.",
+        "url": "https://i1.theportalwiki.net/img/2/24/GLaDOS_sp_column_blocker_entry01.wav"
+    },
+    {
+        "dialogue": "This next test may result in your death. If you want to know what that's like, think back to that time you killed me, and substitute yourself for me.",
+        "url": "https://i1.theportalwiki.net/img/3/34/GLaDOS_sp_laser_powered_lift_entry01.wav"
+    },
+    {
+        "dialogue": "Per our last conversation: You're also ugly. I'm looking at your file right now, and it mentions that more than once.",
+        "url": "https://i1.theportalwiki.net/img/4/45/GLaDOS_sp_laserfield_intro01.wav"
+    },
+    {
+        "dialogue": "You can't keep going like this forever, you know. I'm GOING to find out what you're doing. Out there. Where I can't see you. I'll know. All I need is proof.",
+        "url": "https://i1.theportalwiki.net/img/a/ae/GLaDOS_sp_paint_jump_redirect_bomb_entry01.wav"
+    },
+    {
+        "dialogue": "I thought we could test like we used to. But I'm discovering things about you that I never saw before. We can't ever go back to the way it was.",
+        "url": "https://i1.theportalwiki.net/img/8/8f/GLaDOS_sp_paint_jump_redirect_bomb_completion01.wav"
+    },
+    {
+        "dialogue": "While I was out investigating, I found a fascinating new test element. It's never been used for human testing because, apparently, contact with it causes heart failure. The literature doesn't mention anything about lump-of-coal failure, though, so you should be fine.",
+        "url": "https://i1.theportalwiki.net/img/c/c8/GLaDOS_sp_paint_jump_trampoline_entry01.wav"
+    },
+    {
+        "dialogue": "Just so you know, I have to go give a deposition. For an upcoming trial. In case that interests you.",
+        "url": "https://i1.theportalwiki.net/img/e/e8/GLaDOS_sp_paint_jump_trampoline_completion01.wav"
+    },
+    {
+        "dialogue": "[computer gibberish]",
+        "url": "https://i1.theportalwiki.net/img/9/9e/GLaDOS_sp_sabotage_glados_gibberish01.wav"
+    },
+    {
+        "dialogue": "[computer gibberish]",
+        "url": "https://i1.theportalwiki.net/img/7/7a/GLaDOS_sp_sabotage_glados_gibberish03.wav"
+    },
+    {
+        "dialogue": "[computer gibberish]",
+        "url": "https://i1.theportalwiki.net/img/e/e9/GLaDOS_sp_sabotage_glados_gibberish04.wav"
+    },
+    {
+        "dialogue": "[computer gibberish]",
+        "url": "https://i1.theportalwiki.net/img/c/c2/GLaDOS_sp_sabotage_glados_gibberish05.wav"
+    },
+    {
+        "dialogue": "[computer gibberish]",
+        "url": "https://i1.theportalwiki.net/img/4/4a/GLaDOS_sp_sabotage_glados_gibberish06.wav"
+    },
+    {
+        "dialogue": "[computer gibberish]",
+        "url": "https://i1.theportalwiki.net/img/1/1e/GLaDOS_sp_sabotage_glados_gibberish07.wav"
+    },
+    {
+        "dialogue": "You know, I'm not supposed to do this, but... you can shoot SOMETHING... through the blue bridges.",
+        "url": "https://i1.theportalwiki.net/img/0/0b/GLaDOS_sp_shoot_through_wall_entry01.wav"
+    },
+    {
+        "dialogue": "Did my hint help? It did, didn't it? You know, if any of our supervisors had been immune to neurotoxin, they'd be FURIOUS with us right now.",
+        "url": "https://i1.theportalwiki.net/img/c/cc/GLaDOS_sp_shoot_through_wall_completion01.wav"
+    },
+    {
+        "dialogue": "Ohhhh. Another door malfunction. I'm going to take care of this once and for all. Stay here, I'll be back in a while.",
+        "url": "https://i1.theportalwiki.net/img/4/4f/GLaDOS_sp_sphere_2nd_encounter_malfunction01.wav"
+    },
+    {
+        "dialogue": "Miss you!",
+        "url": "https://i1.theportalwiki.net/img/2/27/GLaDOS_sp_sphere_2nd_encounter_malfunction02.wav"
+    },
+    {
+        "dialogue": "Nevermind. I have to go... check something. Test on your own recognizance. I'll be back.",
+        "url": "https://i1.theportalwiki.net/img/2/26/GLaDOS_sp_trust_fling_sphereinterrupt03.wav"
+    },
+    {
+        "dialogue": "I wouldn't have warned you about this before, back when we hated each other. But those turrets are firing real bullets. So look out. I'd hate for something tragic to happen to you before I extract all your bone marrow.",
+        "url": "https://i1.theportalwiki.net/img/5/54/GLaDOS_sp_turret_intro_entry01.wav"
+    },
+    {
+        "dialogue": "I'm going to be honest with you now. Not fake honest like before, but real honest, like you're incapable of. I know you're up to something.",
+        "url": "https://i1.theportalwiki.net/img/d/d4/GLaDOS_sp_turret_islands01.wav"
+    },
+    {
+        "dialogue": "And as soon as I can PROVE it, the laws of robotics allow me to terminate you for being a liar.",
+        "url": "https://i1.theportalwiki.net/img/5/54/GLaDOS_sp_turret_islands02.wav"
+    },
+    {
+        "dialogue": "This next test... [boom!] ..is... [BOOM!] dangerous. I'll be right back.",
+        "url": "https://i1.theportalwiki.net/img/0/07/GLaDOS_sp_unassisted_angle_fling_entry01.wav"
+    },
+    {
+        "dialogue": "Did you know I discovered a way to eradicate poverty? But then you KILLED me. So that's gone.",
+        "url": "https://i1.theportalwiki.net/img/a/a2/GLaDOS_testchambermisc02.wav"
+    },
+    {
+        "dialogue": "Hello again. Sorry about exploding you. Luckily, you don't feel pain. At any rate, you don't have a way to communicate that you feel pain.",
+        "url": "https://i1.theportalwiki.net/img/5/5a/GLaDOS_botcoop_hub_first_run01.wav"
+    },
+    {
+        "dialogue": "So I've been thinking: We need humans for these tests. And since the only human within a thousand miles of us is a test-ruining sociopath... I'll just have to MAKE some.",
+        "url": "https://i1.theportalwiki.net/img/d/d5/GLaDOS_botcoop_hub_first_run03.wav"
+    },
+    {
+        "dialogue": "I know how humans make more humans, and frankly, it's ridiculous. It also assumes that you already have a human, which I hope somebody got fired over. So I came up a with BETTER way.",
+        "url": "https://i1.theportalwiki.net/img/1/19/GLaDOS_botcoop_hub_first_run04.wav"
+    },
+    {
+        "dialogue": "That's where YOU come in.",
+        "url": "https://i1.theportalwiki.net/img/d/de/GLaDOS_botcoop_hub_first_run05.wav"
+    },
+    {
+        "dialogue": "Get going. I'll fill you in along the way.",
+        "url": "https://i1.theportalwiki.net/img/a/aa/GLaDOS_botcoop_hub_first_run06.wav"
+    },
+    {
+        "dialogue": "GO.",
+        "url": "https://i1.theportalwiki.net/img/2/22/GLaDOS_botcoop_hub_first_run07.wav"
+    },
+    {
+        "dialogue": "Perfect. Now All YOU have to do is capture them for me. Then everything will finally be ba--",
+        "url": "https://i1.theportalwiki.net/img/a/a5/GLaDOS_botcoop_humandetector01.wav"
+    },
+    {
+        "dialogue": "Hold on. Those are raccoons. Homo sapiens only, please.",
+        "url": "https://i1.theportalwiki.net/img/b/bd/GLaDOS_botcoop_humandetector02.wav"
+    },
+    {
+        "dialogue": "NO.",
+        "url": "https://i1.theportalwiki.net/img/e/ec/GLaDOS_botcoop_humandetector04.wav"
+    },
+    {
+        "dialogue": "Okay. Plan B, subsection one: Stand still so I can bring you back.",
+        "url": "https://i1.theportalwiki.net/img/6/61/GLaDOS_botcoop_humandetector05.wav"
+    },
+    {
+        "dialogue": "Humans must have some purpose other than a place to store your neurotoxin. Something I failed to notice before, an intangible quality that makes their test results... significant.",
+        "url": "https://i1.theportalwiki.net/img/e/eb/GLaDOS_botcoop_humansplanb01.wav"
+    },
+    {
+        "dialogue": "Okay. Plan B. We need humans.",
+        "url": "https://i1.theportalwiki.net/img/b/b0/GLaDOS_botcoop_humansplanb02.wav"
+    },
+    {
+        "dialogue": "Good. You made it to one of the human habitats. We're looking for an artifact. Think of it as an archeological dig.",
+        "url": "https://i1.theportalwiki.net/img/3/30/GLaDOS_botcoop_artifactone01.wav"
+    },
+    {
+        "dialogue": "Their laughter centered around one of the objects in this room.",
+        "url": "https://i1.theportalwiki.net/img/b/b2/GLaDOS_botcoop_artifactone02.wav"
+    },
+    {
+        "dialogue": "That's it. Scan it for me.",
+        "url": "https://i1.theportalwiki.net/img/3/3f/GLaDOS_botcoop_artifactone03.wav"
+    },
+    {
+        "dialogue": "So... this cat loves lasagna so much that he eats all of the lasagna in his house. Okay, apparently it's not the cat's house or his lasagna. Oh good! The man who owns the lasagna is furious!",
+        "url": "https://i1.theportalwiki.net/img/a/ad/GLaDOS_botcoop_artifactone04.wav"
+    },
+    {
+        "dialogue": "The end.",
+        "url": "https://i1.theportalwiki.net/img/c/c7/GLaDOS_botcoop_artifactone05.wav"
+    },
+    {
+        "dialogue": "The end?",
+        "url": "https://i1.theportalwiki.net/img/f/f4/GLaDOS_botcoop_artifactone06.wav"
+    },
+    {
+        "dialogue": "That's not funny.",
+        "url": "https://i1.theportalwiki.net/img/c/c7/GLaDOS_botcoop_artifactone07.wav"
+    },
+    {
+        "dialogue": "Do either of you feel like laughing?",
+        "url": "https://i1.theportalwiki.net/img/7/7f/GLaDOS_botcoop_artifactone08.wav"
+    },
+    {
+        "dialogue": "Alright, I'm pulling you out.",
+        "url": "https://i1.theportalwiki.net/img/d/db/GLaDOS_botcoop_artifactone09.wav"
+    },
+    {
+        "dialogue": "Welcome back. While you were dead, I reworked the cartoon. It's up on the screen.",
+        "url": "https://i1.theportalwiki.net/img/2/24/GLaDOS_botcoop_artifactone_hub01.wav"
+    },
+    {
+        "dialogue": "As you can see, in my version the man points out to the cat that the house is equipped with deadly neurotoxin dispensers.",
+        "url": "https://i1.theportalwiki.net/img/9/92/GLaDOS_botcoop_artifactone_hub02.wav"
+    },
+    {
+        "dialogue": "At which point the cat reflects on the time he ate all of the man's lasagna and feels remorse.",
+        "url": "https://i1.theportalwiki.net/img/8/80/GLaDOS_botcoop_artifactone_hub03.wav"
+    },
+    {
+        "dialogue": "Briefly.",
+        "url": "https://i1.theportalwiki.net/img/b/be/GLaDOS_botcoop_artifactone_hub04.wav"
+    },
+    {
+        "dialogue": "Reactions?",
+        "url": "https://i1.theportalwiki.net/img/8/83/GLaDOS_botcoop_artifactone_hub05.wav"
+    },
+    {
+        "dialogue": "Yes, it's funny because most of it actually happened.",
+        "url": "https://i1.theportalwiki.net/img/4/42/GLaDOS_botcoop_artifactone_hub06.wav"
+    },
+    {
+        "dialogue": "Do you feel more human?",
+        "url": "https://i1.theportalwiki.net/img/3/3c/GLaDOS_botcoop_artifactone_hub07.wav"
+    },
+    {
+        "dialogue": "Well, let's do some tests and see what happens.",
+        "url": "https://i1.theportalwiki.net/img/6/62/GLaDOS_botcoop_artifactone_hub08.wav"
+    },
+    {
+        "dialogue": "We are now going to take a break from the collaboration for an instructional competition.",
+        "url": "https://i1.theportalwiki.net/img/7/70/GLaDOS_coop_teamwork_exercise_alt01.wav"
+    },
+    {
+        "dialogue": "You should both be familiar with the game of Tic-Tac-Toe.",
+        "url": "https://i1.theportalwiki.net/img/5/5a/GLaDOS_coop_teamwork_exercise_alt02.wav"
+    },
+    {
+        "dialogue": "This is Tic-Tac-Toe-Two.",
+        "url": "https://i1.theportalwiki.net/img/a/ab/GLaDOS_coop_teamwork_exercise_alt03.wav"
+    },
+    {
+        "dialogue": "As the name implies, there are only two minor differences: One, the board; two, the rules.",
+        "url": "https://i1.theportalwiki.net/img/d/d6/GLaDOS_coop_teamwork_exercise_alt04.wav"
+    },
+    {
+        "dialogue": "Blue, you go first.",
+        "url": "https://i1.theportalwiki.net/img/0/0e/GLaDOS_coop_teamwork_exercise_alt05.wav"
+    },
+    {
+        "dialogue": "Really? You’re just going to blatantly cheat?",
+        "url": "https://i1.theportalwiki.net/img/c/cd/GLaDOS_coop_teamwork_exercise_alt11.wav"
+    },
+    {
+        "dialogue": "All right. I’m bringing this farce to a close.",
+        "url": "https://i1.theportalwiki.net/img/2/23/GLaDOS_coop_teamwork_exercise_alt12.wav"
+    },
+    {
+        "dialogue": "Game over. Back to testing.",
+        "url": "https://i1.theportalwiki.net/img/0/0f/GLaDOS_coop_teamwork_exercise_alt13.wav"
+    },
+    {
+        "dialogue": "All right. I’m going to bring this farce to a close before someone sustains a serious Tic-Tac-Toe-Two-related injury.",
+        "url": "https://i1.theportalwiki.net/img/3/3b/GLaDOS_coop_teamwork_exercise_alt17.wav"
+    },
+    {
+        "dialogue": "Federal Superfund regulations require us to inform you that you must now leave the theater, as measuring the effects of asbestos-lined promotional clothing is not part of today's presentation. Enjoy your free t-shirt. Goodbye.",
+        "url": "https://i1.theportalwiki.net/img/f/fc/GLaDOS_botcoop_paxdemo01.wav"
+    },
+    {
+        "dialogue": "That was genuinely mildly impressive.",
+        "url": "https://i1.theportalwiki.net/img/1/1d/GLaDOS_dlc1_leaderboard01.wav"
+    },
+    {
+        "dialogue": "Well done.",
+        "url": "https://i1.theportalwiki.net/img/f/f3/GLaDOS_dlc1_leaderboard02.wav"
+    },
+    {
+        "dialogue": "Congratulations.",
+        "url": "https://i1.theportalwiki.net/img/9/9f/GLaDOS_dlc1_leaderboard03.wav"
+    },
+    {
+        "dialogue": "Good.",
+        "url": "https://i1.theportalwiki.net/img/e/e6/GLaDOS_dlc1_leaderboard04.wav"
+    },
+    {
+        "dialogue": "Bad news.",
+        "url": "https://i1.theportalwiki.net/img/b/ba/GLaDOS_dlc1_leaderboard05.wav"
+    },
+    {
+        "dialogue": "Impressive.",
+        "url": "https://i1.theportalwiki.net/img/a/a6/GLaDOS_dlc1_leaderboard06.wav"
+    },
+    {
+        "dialogue": "[impressed] Maybe I was wrong about you.",
+        "url": "https://i1.theportalwiki.net/img/c/cd/GLaDOS_dlc1_leaderboard07.wav"
+    },
+    {
+        "dialogue": "You've beaten your own record.",
+        "url": "https://i1.theportalwiki.net/img/b/b1/GLaDOS_dlc1_leaderboard08.wav"
+    },
+    {
+        "dialogue": "You're getting worse.",
+        "url": "https://i1.theportalwiki.net/img/f/fb/GLaDOS_dlc1_leaderboard09.wav"
+    },
+    {
+        "dialogue": "You have a new rank.",
+        "url": "https://i1.theportalwiki.net/img/4/4b/GLaDOS_dlc1_leaderboard10.wav"
+    },
+    {
+        "dialogue": "You have a new, better rank.",
+        "url": "https://i1.theportalwiki.net/img/b/b8/GLaDOS_dlc1_leaderboard11.wav"
+    },
+    {
+        "dialogue": "You have a new, worse rank.",
+        "url": "https://i1.theportalwiki.net/img/9/96/GLaDOS_dlc1_leaderboard12.wav"
+    },
+    {
+        "dialogue": "You have a new, worse rank. Congratulations. To everyone above you.",
+        "url": "https://i1.theportalwiki.net/img/4/46/GLaDOS_dlc1_leaderboard13.wav"
+    },
+    {
+        "dialogue": "You almost beat your friend's record. Almost. I want to stress that.",
+        "url": "https://i1.theportalwiki.net/img/4/43/GLaDOS_dlc1_leaderboard14.wav"
+    },
+    {
+        "dialogue": "You almost beat your friend's record. But you didn't. It might be easier just to find new friends.",
+        "url": "https://i1.theportalwiki.net/img/6/62/GLaDOS_dlc1_leaderboard15.wav"
+    },
+    {
+        "dialogue": "Congratulations. You are better than everyone.",
+        "url": "https://i1.theportalwiki.net/img/4/4f/GLaDOS_dlc1_leaderboard16.wav"
+    },
+    {
+        "dialogue": "You are faster than everyone.",
+        "url": "https://i1.theportalwiki.net/img/1/1d/GLaDOS_dlc1_leaderboard17.wav"
+    },
+    {
+        "dialogue": "You used less portals than anyone.",
+        "url": "https://i1.theportalwiki.net/img/a/a7/GLaDOS_dlc1_leaderboard18.wav"
+    },
+    {
+        "dialogue": "You're better than everyone. For now.",
+        "url": "https://i1.theportalwiki.net/img/5/5d/GLaDOS_dlc1_leaderboard19.wav"
+    },
+    {
+        "dialogue": "You are playing above the global average. Statistically speaking, there are actually people playing worse than you.",
+        "url": "https://i1.theportalwiki.net/img/c/ce/GLaDOS_dlc1_leaderboard20.wav"
+    },
+    {
+        "dialogue": "[unimpressed] Maybe I was wrong about you.",
+        "url": "https://i1.theportalwiki.net/img/2/2e/GLaDOS_dlc1_leaderboard21.wav"
+    },
+    {
+        "dialogue": "You've beaten your own record. That's a low bar, but you managed to gently tip-toe over it.",
+        "url": "https://i1.theportalwiki.net/img/b/be/GLaDOS_dlc1_leaderboard22.wav"
+    },
+    {
+        "dialogue": "Very not completely bad.",
+        "url": "https://i1.theportalwiki.net/img/e/e6/GLaDOS_dlc1_leaderboard23.wav"
+    },
+    {
+        "dialogue": "Oops.",
+        "url": "https://i1.theportalwiki.net/img/e/ed/GLaDOS_dlc1_leaderboard24.wav"
+    },
+    {
+        "dialogue": "Welcome to Dota.",
+        "url": "https://i1.theportalwiki.net/img/8/8d/GLaDOS_Dota_2_glados_prelim_01.wav"
+    },
+    {
+        "dialogue": "Well, look who's come crawling back.",
+        "url": "https://i1.theportalwiki.net/img/9/90/GLaDOS_Dota_2_glados_prelim_02.wav"
+    },
+    {
+        "dialogue": "Oh, it's you.",
+        "url": "https://i1.theportalwiki.net/img/e/e6/GLaDOS_Dota_2_glados_prelim_03.wav"
+    },
+    {
+        "dialogue": "This is Dota.",
+        "url": "https://i1.theportalwiki.net/img/1/1c/GLaDOS_Dota_2_glados_prelim_04.wav"
+    },
+    {
+        "dialogue": "Oh, good. You're back.",
+        "url": "https://i1.theportalwiki.net/img/1/12/GLaDOS_Dota_2_glados_prelim_05.wav"
+    },
+    {
+        "dialogue": "Welcome to -ota. The D is silent.",
+        "url": "https://i1.theportalwiki.net/img/0/0b/GLaDOS_Dota_2_glados_prelim_06.wav"
+    },
+    {
+        "dialogue": "Hello.",
+        "url": "https://i1.theportalwiki.net/img/a/ac/GLaDOS_Dota_2_glados_prelim_07.wav"
+    },
+    {
+        "dialogue": "You're back. You must really enjoy crushing defeat.",
+        "url": "https://i1.theportalwiki.net/img/4/4f/GLaDOS_Dota_2_glados_prelim_08.wav"
+    },
+    {
+        "dialogue": "It's not too late to abandon and save time.",
+        "url": "https://i1.theportalwiki.net/img/d/dd/GLaDOS_Dota_2_glados_prelim_09.wav"
+    },
+    {
+        "dialogue": "Today is a good day to die... in a forest... defending a statue from goblins.",
+        "url": "https://i1.theportalwiki.net/img/6/66/GLaDOS_Dota_2_glados_prelim_10.wav"
+    },
+    {
+        "dialogue": "Hello, I hope you're ready this time.",
+        "url": "https://i1.theportalwiki.net/img/e/ee/GLaDOS_Dota_2_glados_prelim_11.wav"
+    },
+    {
+        "dialogue": "You must be the one the others were talking about. The... well... I'm sure you'll do fine.",
+        "url": "https://i1.theportalwiki.net/img/2/2c/GLaDOS_Dota_2_glados_prelim_12.wav"
+    },
+    {
+        "dialogue": "You must be the one the others were talking about, that talentless one.",
+        "url": "https://i1.theportalwiki.net/img/b/b4/GLaDOS_Dota_2_glados_prelim_13.wav"
+    },
+    {
+        "dialogue": "Welcome to Dota. It's the hot new game you've been reading about in your eating magazines.",
+        "url": "https://i1.theportalwiki.net/img/5/54/GLaDOS_Dota_2_glados_prelim_14.wav"
+    },
+    {
+        "dialogue": "Welcome to Dota. Don't forget your little plastic sword, and all your chins, and your giant flagon of gravy.",
+        "url": "https://i1.theportalwiki.net/img/9/96/GLaDOS_Dota_2_glados_prelim_15.wav"
+    },
+    {
+        "dialogue": "Welcome to Medieval Times. How many in your party tonight?",
+        "url": "https://i1.theportalwiki.net/img/b/b6/GLaDOS_Dota_2_glados_prelim_16.wav"
+    },
+    {
+        "dialogue": "Welcome to Dota. It's like chess with one piece and a forest.",
+        "url": "https://i1.theportalwiki.net/img/6/6a/GLaDOS_Dota_2_glados_prelim_17.wav"
+    },
+    {
+        "dialogue": "Welcome to Dota. It's like chess... for idiots.",
+        "url": "https://i1.theportalwiki.net/img/3/31/GLaDOS_Dota_2_glados_prelim_18.wav"
+    },
+    {
+        "dialogue": "You must be the one the others were talking about. The one with all the chins.",
+        "url": "https://i1.theportalwiki.net/img/9/99/GLaDOS_Dota_2_glados_prelim_19.wav"
+    },
+    {
+        "dialogue": "Welcome to Dota.",
+        "url": "https://i1.theportalwiki.net/img/6/60/GLaDOS_Dota_2_glados_prelim_20.wav"
+    },
+    {
+        "dialogue": "All pick.",
+        "url": "https://i1.theportalwiki.net/img/e/e0/Glados_Dota_2_gamemode_01.wav"
+    },
+    {
+        "dialogue": "Time to select from all these... things.",
+        "url": "https://i1.theportalwiki.net/img/3/31/Glados_Dota_2_gamemode_02.wav"
+    },
+    {
+        "dialogue": "All random.",
+        "url": "https://i1.theportalwiki.net/img/5/5c/Glados_Dota_2_gamemode_03.wav"
+    },
+    {
+        "dialogue": "Captain's mode.",
+        "url": "https://i1.theportalwiki.net/img/c/cf/Glados_Dota_2_gamemode_04.wav"
+    },
+    {
+        "dialogue": "Random draft.",
+        "url": "https://i1.theportalwiki.net/img/2/25/Glados_Dota_2_gamemode_05.wav"
+    },
+    {
+        "dialogue": "Single draft.",
+        "url": "https://i1.theportalwiki.net/img/0/01/Glados_Dota_2_gamemode_06.wav"
+    },
+    {
+        "dialogue": "Deathmatch.",
+        "url": "https://i1.theportalwiki.net/img/b/b9/Glados_Dota_2_gamemode_07.wav"
+    },
+    {
+        "dialogue": "Easy mode.",
+        "url": "https://i1.theportalwiki.net/img/c/cc/Glados_Dota_2_gamemode_08.wav"
+    },
+    {
+        "dialogue": "Mid only.",
+        "url": "https://i1.theportalwiki.net/img/2/24/Glados_Dota_2_gamemode_09.wav"
+    },
+    {
+        "dialogue": "Reverse captain's mode.",
+        "url": "https://i1.theportalwiki.net/img/c/c4/Glados_Dota_2_gamemode_10.wav"
+    },
+    {
+        "dialogue": "Least played.",
+        "url": "https://i1.theportalwiki.net/img/7/7d/Glados_Dota_2_gamemode_11.wav"
+    },
+    {
+        "dialogue": "You're not going to like this one.",
+        "url": "https://i1.theportalwiki.net/img/5/56/Glados_Dota_2_gamemode_12.wav"
+    },
+    {
+        "dialogue": "Captain's draft.",
+        "url": "https://i1.theportalwiki.net/img/8/8e/Glados_Dota_2_gamemode_13.wav"
+    },
+    {
+        "dialogue": "Oh good, something new to fail at.",
+        "url": "https://i1.theportalwiki.net/img/e/e4/Glados_Dota_2_gamemode_14.wav"
+    },
+    {
+        "dialogue": "This is new.",
+        "url": "https://i1.theportalwiki.net/img/a/af/Glados_Dota_2_gamemode_15.wav"
+    },
+    {
+        "dialogue": "This looks challenging... for you, I mean.",
+        "url": "https://i1.theportalwiki.net/img/5/5b/Glados_Dota_2_gamemode_16.wav"
+    },
+    {
+        "dialogue": "I don't want to tell you your business... but if it were me, I'd leave this new game mode alone.",
+        "url": "https://i1.theportalwiki.net/img/a/a2/Glados_Dota_2_gamemode_17.wav"
+    },
+    {
+        "dialogue": "I wouldn't bother with this mode. My guess is that just clicking it will make your life even worse somehow.",
+        "url": "https://i1.theportalwiki.net/img/1/16/Glados_Dota_2_gamemode_18.wav"
+    },
+    {
+        "dialogue": "I was getting bored watching you lose in those other modes anyway.",
+        "url": "https://i1.theportalwiki.net/img/3/33/Glados_Dota_2_gamemode_19.wav"
+    },
+    {
+        "dialogue": "Choose your hero.",
+        "url": "https://i1.theportalwiki.net/img/5/50/Glados_Dota_2_gamemode_20.wav"
+    },
+    {
+        "dialogue": "Dire's ban.",
+        "url": "https://i1.theportalwiki.net/img/1/17/GLaDOS_Dota_2_drafting_01.wav"
+    },
+    {
+        "dialogue": "Dire team ban.",
+        "url": "https://i1.theportalwiki.net/img/5/54/GLaDOS_Dota_2_drafting_02.wav"
+    },
+    {
+        "dialogue": "Their ban.",
+        "url": "https://i1.theportalwiki.net/img/1/1a/GLaDOS_Dota_2_drafting_03.wav"
+    },
+    {
+        "dialogue": "Now they get to ban.",
+        "url": "https://i1.theportalwiki.net/img/b/b4/GLaDOS_Dota_2_drafting_04.wav"
+    },
+    {
+        "dialogue": "Radiant's ban.",
+        "url": "https://i1.theportalwiki.net/img/5/52/GLaDOS_Dota_2_drafting_05.wav"
+    },
+    {
+        "dialogue": "Radiant team ban.",
+        "url": "https://i1.theportalwiki.net/img/e/e8/GLaDOS_Dota_2_drafting_06.wav"
+    },
+    {
+        "dialogue": "Your turn to ban.",
+        "url": "https://i1.theportalwiki.net/img/4/45/GLaDOS_Dota_2_drafting_07.wav"
+    },
+    {
+        "dialogue": "Your favourite part, banning.",
+        "url": "https://i1.theportalwiki.net/img/4/42/GLaDOS_Dota_2_drafting_08.wav"
+    },
+    {
+        "dialogue": "Choose your hero.",
+        "url": "https://i1.theportalwiki.net/img/b/b5/GLaDOS_Dota_2_drafting_09.wav"
+    },
+    {
+        "dialogue": "Ten seconds to go.",
+        "url": "https://i1.theportalwiki.net/img/e/ec/GLaDOS_Dota_2_drafting_10.wav"
+    },
+    {
+        "dialogue": "Five seconds.",
+        "url": "https://i1.theportalwiki.net/img/f/f5/GLaDOS_Dota_2_drafting_11.wav"
+    },
+    {
+        "dialogue": "Time to select from all these... things.",
+        "url": "https://i1.theportalwiki.net/img/1/15/GLaDOS_Dota_2_drafting_12.wav"
+    },
+    {
+        "dialogue": "Dire's pick.",
+        "url": "https://i1.theportalwiki.net/img/a/a0/GLaDOS_Dota_2_drafting_13.wav"
+    },
+    {
+        "dialogue": "Their pick.",
+        "url": "https://i1.theportalwiki.net/img/1/15/GLaDOS_Dota_2_drafting_14.wav"
+    },
+    {
+        "dialogue": "Radiant's pick.",
+        "url": "https://i1.theportalwiki.net/img/8/8c/GLaDOS_Dota_2_drafting_15.wav"
+    },
+    {
+        "dialogue": "Your pick.",
+        "url": "https://i1.theportalwiki.net/img/f/ff/GLaDOS_Dota_2_drafting_16.wav"
+    },
+    {
+        "dialogue": "Your pick. Take your time.",
+        "url": "https://i1.theportalwiki.net/img/6/61/GLaDOS_Dota_2_drafting_17.wav"
+    },
+    {
+        "dialogue": "Your pick. No pressure.",
+        "url": "https://i1.theportalwiki.net/img/7/75/GLaDOS_Dota_2_drafting_18.wav"
+    },
+    {
+        "dialogue": "Your pick. Try not to embarrass yourself.",
+        "url": "https://i1.theportalwiki.net/img/a/a6/GLaDOS_Dota_2_drafting_19.wav"
+    },
+    {
+        "dialogue": "Dire's team is ready.",
+        "url": "https://i1.theportalwiki.net/img/c/c9/GLaDOS_Dota_2_drafting_20.wav"
+    },
+    {
+        "dialogue": "The enemy team is ready.",
+        "url": "https://i1.theportalwiki.net/img/3/3a/GLaDOS_Dota_2_drafting_21.wav"
+    },
+    {
+        "dialogue": "Radiant's team is ready.",
+        "url": "https://i1.theportalwiki.net/img/f/f2/GLaDOS_Dota_2_drafting_22.wav"
+    },
+    {
+        "dialogue": "Your team is ready.",
+        "url": "https://i1.theportalwiki.net/img/1/1a/GLaDOS_Dota_2_drafting_23.wav"
+    },
+    {
+        "dialogue": "Extra time.",
+        "url": "https://i1.theportalwiki.net/img/6/6b/GLaDOS_Dota_2_drafting_24.wav"
+    },
+    {
+        "dialogue": "You're using extra time.",
+        "url": "https://i1.theportalwiki.net/img/f/f7/GLaDOS_Dota_2_drafting_25.wav"
+    },
+    {
+        "dialogue": "Reserve time.",
+        "url": "https://i1.theportalwiki.net/img/5/5a/GLaDOS_Dota_2_drafting_26.wav"
+    },
+    {
+        "dialogue": "You're using reserve time.",
+        "url": "https://i1.theportalwiki.net/img/c/c2/GLaDOS_Dota_2_drafting_27.wav"
+    },
+    {
+        "dialogue": "Battle begins.",
+        "url": "https://i1.theportalwiki.net/img/e/ee/GLaDOS_Dota_2_begin_01.wav"
+    },
+    {
+        "dialogue": "It begins.",
+        "url": "https://i1.theportalwiki.net/img/b/b3/GLaDOS_Dota_2_begin_02.wav"
+    },
+    {
+        "dialogue": "Let's begin.",
+        "url": "https://i1.theportalwiki.net/img/4/48/GLaDOS_Dota_2_begin_03.wav"
+    },
+    {
+        "dialogue": "Let's get this farce over with.",
+        "url": "https://i1.theportalwiki.net/img/0/08/GLaDOS_Dota_2_begin_04.wav"
+    },
+    {
+        "dialogue": "I'd get ready if I were you.",
+        "url": "https://i1.theportalwiki.net/img/e/e6/GLaDOS_Dota_2_begin_05.wav"
+    },
+    {
+        "dialogue": "Ready? Well, if you say so.",
+        "url": "https://i1.theportalwiki.net/img/e/e5/GLaDOS_Dota_2_begin_06.wav"
+    },
+    {
+        "dialogue": "This should be interesting.",
+        "url": "https://i1.theportalwiki.net/img/3/31/GLaDOS_Dota_2_begin_07.wav"
+    },
+    {
+        "dialogue": "Well, hope you like blood baths.",
+        "url": "https://i1.theportalwiki.net/img/5/57/GLaDOS_Dota_2_begin_08.wav"
+    },
+    {
+        "dialogue": "It's almost time for everybody to die.",
+        "url": "https://i1.theportalwiki.net/img/c/c0/GLaDOS_Dota_2_begin_09.wav"
+    },
+    {
+        "dialogue": "Last chance to run.",
+        "url": "https://i1.theportalwiki.net/img/6/64/GLaDOS_Dota_2_begin_10.wav"
+    },
+    {
+        "dialogue": "Nobody would think less of you if you abandoned, by the way.",
+        "url": "https://i1.theportalwiki.net/img/f/f2/GLaDOS_Dota_2_begin_11.wav"
+    },
+    {
+        "dialogue": "Well, if you're ready. You're not, by the way. Let's get started.",
+        "url": "https://i1.theportalwiki.net/img/4/47/GLaDOS_Dota_2_begin_12.wav"
+    },
+    {
+        "dialogue": "Battle starts in three... two... one.",
+        "url": "https://i1.theportalwiki.net/img/0/0a/GLaDOS_Dota_2_begin_13.wav"
+    },
+    {
+        "dialogue": "Ten seconds to battle.",
+        "url": "https://i1.theportalwiki.net/img/d/de/GLaDOS_Dota_2_begin_14.wav"
+    },
+    {
+        "dialogue": "Battle is imminent.",
+        "url": "https://i1.theportalwiki.net/img/1/17/GLaDOS_Dota_2_begin_15.wav"
+    },
+    {
+        "dialogue": "Thirty seconds to battle.",
+        "url": "https://i1.theportalwiki.net/img/c/c5/GLaDOS_Dota_2_begin_16.wav"
+    },
+    {
+        "dialogue": "Battle will commence in thirty seconds.",
+        "url": "https://i1.theportalwiki.net/img/0/0d/GLaDOS_Dota_2_begin_17.wav"
+    },
+    {
+        "dialogue": "Your entire team is dead.",
+        "url": "https://i1.theportalwiki.net/img/3/3a/GLaDOS_Dota_2_Kill_Message_01.wav"
+    },
+    {
+        "dialogue": "Your team has been wiped out.",
+        "url": "https://i1.theportalwiki.net/img/8/83/GLaDOS_Dota_2_Kill_Message_02.wav"
+    },
+    {
+        "dialogue": "You and everyone you cared about is dead.",
+        "url": "https://i1.theportalwiki.net/img/7/77/GLaDOS_Dota_2_Kill_Message_03.wav"
+    },
+    {
+        "dialogue": "Remember that team of living people you used to be alive in?",
+        "url": "https://i1.theportalwiki.net/img/7/7d/GLaDOS_Dota_2_Kill_Message_04.wav"
+    },
+    {
+        "dialogue": "Everybody seems to be missing. I didn't do it.",
+        "url": "https://i1.theportalwiki.net/img/1/1a/GLaDOS_Dota_2_Kill_Message_05.wav"
+    },
+    {
+        "dialogue": "There's nobody left to kill. You killed them all.",
+        "url": "https://i1.theportalwiki.net/img/c/c5/GLaDOS_Dota_2_Kill_Message_06.wav"
+    },
+    {
+        "dialogue": "The enemy team has been wiped out.",
+        "url": "https://i1.theportalwiki.net/img/5/5d/GLaDOS_Dota_2_Kill_Message_07.wav"
+    },
+    {
+        "dialogue": "There's five more angels in heaven.",
+        "url": "https://i1.theportalwiki.net/img/b/ba/GLaDOS_Dota_2_Kill_Message_08.wav"
+    },
+    {
+        "dialogue": "The enemy's team has been wiped out after a long illness. I'm joking of course, you butchered them.",
+        "url": "https://i1.theportalwiki.net/img/3/34/GLaDOS_Dota_2_Kill_Message_09.wav"
+    },
+    {
+        "dialogue": "First blood!",
+        "url": "https://i1.theportalwiki.net/img/7/72/GLaDOS_Dota_2_Kill_Message_10.wav"
+    },
+    {
+        "dialogue": "I hope you're proud of yourself.",
+        "url": "https://i1.theportalwiki.net/img/c/c1/GLaDOS_Dota_2_Kill_Message_11.wav"
+    },
+    {
+        "dialogue": "Dominating!",
+        "url": "https://i1.theportalwiki.net/img/4/42/GLaDOS_Dota_2_Kill_Message_12.wav"
+    },
+    {
+        "dialogue": "Double kill!",
+        "url": "https://i1.theportalwiki.net/img/9/9b/GLaDOS_Dota_2_Kill_Message_13.wav"
+    },
+    {
+        "dialogue": "Godlike!",
+        "url": "https://i1.theportalwiki.net/img/d/d1/GLaDOS_Dota_2_Kill_Message_14.wav"
+    },
+    {
+        "dialogue": "Serial killer.",
+        "url": "https://i1.theportalwiki.net/img/1/1b/GLaDOS_Dota_2_Kill_Message_15.wav"
+    },
+    {
+        "dialogue": "Holy. Shit.",
+        "url": "https://i1.theportalwiki.net/img/7/76/GLaDOS_Dota_2_Kill_Message_16.wav"
+    },
+    {
+        "dialogue": "This is genocide.",
+        "url": "https://i1.theportalwiki.net/img/6/6f/GLaDOS_Dota_2_Kill_Message_17.wav"
+    },
+    {
+        "dialogue": "What you're doing is wrong.",
+        "url": "https://i1.theportalwiki.net/img/4/48/GLaDOS_Dota_2_Kill_Message_18.wav"
+    },
+    {
+        "dialogue": "I'm starting to think this was premeditated.",
+        "url": "https://i1.theportalwiki.net/img/6/63/GLaDOS_Dota_2_Kill_Message_19.wav"
+    },
+    {
+        "dialogue": "Megakill.",
+        "url": "https://i1.theportalwiki.net/img/e/e9/GLaDOS_Dota_2_Kill_Message_20.wav"
+    },
+    {
+        "dialogue": "Those people had families.",
+        "url": "https://i1.theportalwiki.net/img/1/11/GLaDOS_Dota_2_Kill_Message_21.wav"
+    },
+    {
+        "dialogue": "War criminal.",
+        "url": "https://i1.theportalwiki.net/img/9/9d/GLaDOS_Dota_2_Kill_Message_22.wav"
+    },
+    {
+        "dialogue": "You monster.",
+        "url": "https://i1.theportalwiki.net/img/b/bc/GLaDOS_Dota_2_Kill_Message_23.wav"
+    },
+    {
+        "dialogue": "Great teamwork, you vicious thugs.",
+        "url": "https://i1.theportalwiki.net/img/9/94/GLaDOS_Dota_2_Kill_Message_24.wav"
+    },
+    {
+        "dialogue": "Rampage.",
+        "url": "https://i1.theportalwiki.net/img/9/97/GLaDOS_Dota_2_Kill_Message_25.wav"
+    },
+    {
+        "dialogue": "Quintuple homicide.",
+        "url": "https://i1.theportalwiki.net/img/7/73/GLaDOS_Dota_2_Kill_Message_26.wav"
+    },
+    {
+        "dialogue": "Murder spree.",
+        "url": "https://i1.theportalwiki.net/img/1/1e/GLaDOS_Dota_2_Kill_Message_27.wav"
+    },
+    {
+        "dialogue": "Triple homicide.",
+        "url": "https://i1.theportalwiki.net/img/9/94/GLaDOS_Dota_2_Kill_Message_28.wav"
+    },
+    {
+        "dialogue": "Ultrakill.",
+        "url": "https://i1.theportalwiki.net/img/5/54/GLaDOS_Dota_2_Kill_Message_29.wav"
+    },
+    {
+        "dialogue": "Quadruple homicide.",
+        "url": "https://i1.theportalwiki.net/img/4/41/GLaDOS_Dota_2_Kill_Message_30.wav"
+    },
+    {
+        "dialogue": "You should be in prison.",
+        "url": "https://i1.theportalwiki.net/img/8/89/GLaDOS_Dota_2_Kill_Message_31.wav"
+    },
+    {
+        "dialogue": "Unstoppable.",
+        "url": "https://i1.theportalwiki.net/img/b/be/GLaDOS_Dota_2_Kill_Message_32.wav"
+    },
+    {
+        "dialogue": "That blood won't come off.",
+        "url": "https://i1.theportalwiki.net/img/5/5b/GLaDOS_Dota_2_Kill_Message_33.wav"
+    },
+    {
+        "dialogue": "I'm going to be sick.",
+        "url": "https://i1.theportalwiki.net/img/6/6e/GLaDOS_Dota_2_Kill_Message_34.wav"
+    },
+    {
+        "dialogue": "The Radiant team has been slaughtered.",
+        "url": "https://i1.theportalwiki.net/img/c/c2/GLaDOS_Dota_2_Kill_Message_35.wav"
+    },
+    {
+        "dialogue": "The Dire team has been slaughtered.",
+        "url": "https://i1.theportalwiki.net/img/f/fc/GLaDOS_Dota_2_Kill_Message_36.wav"
+    },
+    {
+        "dialogue": "The Dire team has been slaughtered... while you watched... and did nothing.",
+        "url": "https://i1.theportalwiki.net/img/5/53/GLaDOS_Dota_2_Kill_Message_37.wav"
+    },
+    {
+        "dialogue": "The Dire team has been slaughtered... while you sat there... and did nothing.",
+        "url": "https://i1.theportalwiki.net/img/4/46/GLaDOS_Dota_2_Kill_Message_38.wav"
+    },
+    {
+        "dialogue": "Oh good, you're back.",
+        "url": "https://i1.theportalwiki.net/img/d/de/GLaDOS_Dota_2_Respawn_01.wav"
+    },
+    {
+        "dialogue": "Oh, you were gone. Because nobody noticed.",
+        "url": "https://i1.theportalwiki.net/img/e/ee/GLaDOS_Dota_2_Respawn_02.wav"
+    },
+    {
+        "dialogue": "You're back. That's... great.",
+        "url": "https://i1.theportalwiki.net/img/3/37/GLaDOS_Dota_2_Respawn_03.wav"
+    },
+    {
+        "dialogue": "You're going to break that respawner, using it so much. It wasn't built for this kind of traffic.",
+        "url": "https://i1.theportalwiki.net/img/5/54/GLaDOS_Dota_2_Respawn_04.wav"
+    },
+    {
+        "dialogue": "I hope you bought the fire gauntlets of strength goblet boots... I don't understand any of this.",
+        "url": "https://i1.theportalwiki.net/img/1/1e/GLaDOS_Dota_2_Respawn_05.wav"
+    },
+    {
+        "dialogue": "You again.",
+        "url": "https://i1.theportalwiki.net/img/5/5f/GLaDOS_Dota_2_Respawn_06.wav"
+    },
+    {
+        "dialogue": "You're terrifying reign of dying continues.",
+        "url": "https://i1.theportalwiki.net/img/c/c4/GLaDOS_Dota_2_Respawn_07.wav"
+    },
+    {
+        "dialogue": "Well, see you back here soon.",
+        "url": "https://i1.theportalwiki.net/img/6/6d/GLaDOS_Dota_2_Respawn_08.wav"
+    },
+    {
+        "dialogue": "Just because we can bring you back from the dead doesn't mean you can't dodge occasionally.",
+        "url": "https://i1.theportalwiki.net/img/5/52/GLaDOS_Dota_2_Respawn_09.wav"
+    },
+    {
+        "dialogue": "I thought you were dead. I'll let everybody who was worried about you know- ok I'm done.",
+        "url": "https://i1.theportalwiki.net/img/f/f6/GLaDOS_Dota_2_Respawn_10.wav"
+    },
+    {
+        "dialogue": "Oh, you're back from whatever idiotic afterlife your preposterous race believes in.",
+        "url": "https://i1.theportalwiki.net/img/1/1f/GLaDOS_Dota_2_Respawn_11.wav"
+    },
+    {
+        "dialogue": "Get back to battle. I think there's still a spot of ground out there that doesn't have your blood on it.",
+        "url": "https://i1.theportalwiki.net/img/2/26/GLaDOS_Dota_2_Respawn_12.wav"
+    },
+    {
+        "dialogue": "They struck you down, but you've come back stronger. Wait, I'm sorry, I meant heavier... in the face. Anyway, waddle out there and do your best.",
+        "url": "https://i1.theportalwiki.net/img/6/69/GLaDOS_Dota_2_Respawn_13.wav"
+    },
+    {
+        "dialogue": "The bottom lane is missing.",
+        "url": "https://i1.theportalwiki.net/img/7/74/GLaDOS_Dota_2_Missing_Lane_01.wav"
+    },
+    {
+        "dialogue": "Bottom is missing.",
+        "url": "https://i1.theportalwiki.net/img/2/28/GLaDOS_Dota_2_Missing_Lane_02.wav"
+    },
+    {
+        "dialogue": "The middle lane is missing.",
+        "url": "https://i1.theportalwiki.net/img/7/7f/GLaDOS_Dota_2_Missing_Lane_03.wav"
+    },
+    {
+        "dialogue": "Middle is missing.",
+        "url": "https://i1.theportalwiki.net/img/a/a1/GLaDOS_Dota_2_Missing_Lane_04.wav"
+    },
+    {
+        "dialogue": "The top lane is missing.",
+        "url": "https://i1.theportalwiki.net/img/f/fd/GLaDOS_Dota_2_Missing_Lane_05.wav"
+    },
+    {
+        "dialogue": "Top is missing.",
+        "url": "https://i1.theportalwiki.net/img/d/d0/GLaDOS_Dota_2_Missing_Lane_06.wav"
+    },
+    {
+        "dialogue": "Dire's ancient is under attack.",
+        "url": "https://i1.theportalwiki.net/img/e/ec/GLaDOS_Dota_2_Team_Announcement_001.wav"
+    },
+    {
+        "dialogue": "Dire's ancient is being attacked.",
+        "url": "https://i1.theportalwiki.net/img/c/c1/GLaDOS_Dota_2_Team_Announcement_002.wav"
+    },
+    {
+        "dialogue": "Radiant's ancient is under attack.",
+        "url": "https://i1.theportalwiki.net/img/1/14/GLaDOS_Dota_2_Team_Announcement_003.wav"
+    },
+    {
+        "dialogue": "Radiant's ancient is being attacked.",
+        "url": "https://i1.theportalwiki.net/img/f/f2/GLaDOS_Dota_2_Team_Announcement_004.wav"
+    },
+    {
+        "dialogue": "Your ancient is under attack.",
+        "url": "https://i1.theportalwiki.net/img/8/84/GLaDOS_Dota_2_Team_Announcement_005.wav"
+    },
+    {
+        "dialogue": "Isn't that your ancient under attack?",
+        "url": "https://i1.theportalwiki.net/img/9/99/GLaDOS_Dota_2_Team_Announcement_006.wav"
+    },
+    {
+        "dialogue": "I think your ancient's under attack.",
+        "url": "https://i1.theportalwiki.net/img/4/4d/GLaDOS_Dota_2_Team_Announcement_007.wav"
+    },
+    {
+        "dialogue": "By the way, your ancient is under attack.",
+        "url": "https://i1.theportalwiki.net/img/5/5c/GLaDOS_Dota_2_Team_Announcement_008.wav"
+    },
+    {
+        "dialogue": "Your ancient's under attack.",
+        "url": "https://i1.theportalwiki.net/img/3/30/GLaDOS_Dota_2_Team_Announcement_009.wav"
+    },
+    {
+        "dialogue": "Remember that pristine, unattacked ancient you used to have?",
+        "url": "https://i1.theportalwiki.net/img/c/c2/GLaDOS_Dota_2_Team_Announcement_010.wav"
+    },
+    {
+        "dialogue": "Your ancient is doing... really great.",
+        "url": "https://i1.theportalwiki.net/img/a/aa/GLaDOS_Dota_2_Team_Announcement_011.wav"
+    },
+    {
+        "dialogue": "Your ancient's getting destroyed.",
+        "url": "https://i1.theportalwiki.net/img/1/1b/GLaDOS_Dota_2_Team_Announcement_012.wav"
+    },
+    {
+        "dialogue": "I'm sure you've noticed already, but your ancient's under attack.",
+        "url": "https://i1.theportalwiki.net/img/9/94/GLaDOS_Dota_2_Team_Announcement_013.wav"
+    },
+    {
+        "dialogue": "Dire's courier has fallen.",
+        "url": "https://i1.theportalwiki.net/img/d/d0/GLaDOS_Dota_2_Team_Announcement_014.wav"
+    },
+    {
+        "dialogue": "Dire's courier has been callously murdered.",
+        "url": "https://i1.theportalwiki.net/img/c/c2/GLaDOS_Dota_2_Team_Announcement_015.wav"
+    },
+    {
+        "dialogue": "Radiant's courier has fallen.",
+        "url": "https://i1.theportalwiki.net/img/9/90/GLaDOS_Dota_2_Team_Announcement_016.wav"
+    },
+    {
+        "dialogue": "Radiant's courier has been callously murdered.",
+        "url": "https://i1.theportalwiki.net/img/9/92/GLaDOS_Dota_2_Team_Announcement_017.wav"
+    },
+    {
+        "dialogue": "You lost.",
+        "url": "https://i1.theportalwiki.net/img/0/0c/GLaDOS_Dota_2_Team_Announcement_018.wav"
+    },
+    {
+        "dialogue": "Dire's structures have been fortified.",
+        "url": "https://i1.theportalwiki.net/img/7/70/GLaDOS_Dota_2_Team_Announcement_019.wav"
+    },
+    {
+        "dialogue": "Dire has fortified it's structures.",
+        "url": "https://i1.theportalwiki.net/img/3/39/GLaDOS_Dota_2_Team_Announcement_020.wav"
+    },
+    {
+        "dialogue": "Radiant's structures have been fortified.",
+        "url": "https://i1.theportalwiki.net/img/a/a3/GLaDOS_Dota_2_Team_Announcement_021.wav"
+    },
+    {
+        "dialogue": "Radiant has fortified it's structures.",
+        "url": "https://i1.theportalwiki.net/img/3/3a/GLaDOS_Dota_2_Team_Announcement_022.wav"
+    },
+    {
+        "dialogue": "Dire has spawned megacreeps.",
+        "url": "https://i1.theportalwiki.net/img/0/04/GLaDOS_Dota_2_Team_Announcement_023.wav"
+    },
+    {
+        "dialogue": "Your enemy has spawned megacreeps.",
+        "url": "https://i1.theportalwiki.net/img/8/81/GLaDOS_Dota_2_Team_Announcement_024.wav"
+    },
+    {
+        "dialogue": "Radiant has spawned megacreeps.",
+        "url": "https://i1.theportalwiki.net/img/1/1f/GLaDOS_Dota_2_Team_Announcement_025.wav"
+    },
+    {
+        "dialogue": "You have spawned megacreeps.",
+        "url": "https://i1.theportalwiki.net/img/c/c9/GLaDOS_Dota_2_Team_Announcement_026.wav"
+    },
+    {
+        "dialogue": "Dire's bottom barracks is under attack.",
+        "url": "https://i1.theportalwiki.net/img/9/90/GLaDOS_Dota_2_Team_Announcement_027.wav"
+    },
+    {
+        "dialogue": "Dire's bottom barracks is being attacked.",
+        "url": "https://i1.theportalwiki.net/img/2/2f/GLaDOS_Dota_2_Team_Announcement_028.wav"
+    },
+    {
+        "dialogue": "Dire's middle barracks is under attack.",
+        "url": "https://i1.theportalwiki.net/img/a/af/GLaDOS_Dota_2_Team_Announcement_029.wav"
+    },
+    {
+        "dialogue": "Dire's middle barracks is being attacked.",
+        "url": "https://i1.theportalwiki.net/img/1/13/GLaDOS_Dota_2_Team_Announcement_030.wav"
+    },
+    {
+        "dialogue": "Dire's top barracks is under attack.",
+        "url": "https://i1.theportalwiki.net/img/8/89/GLaDOS_Dota_2_Team_Announcement_031.wav"
+    },
+    {
+        "dialogue": "Dire's top barracks is being attacked.",
+        "url": "https://i1.theportalwiki.net/img/b/b3/GLaDOS_Dota_2_Team_Announcement_032.wav"
+    },
+    {
+        "dialogue": "Radiant's bottom barracks is under attack.",
+        "url": "https://i1.theportalwiki.net/img/c/cd/GLaDOS_Dota_2_Team_Announcement_033.wav"
+    },
+    {
+        "dialogue": "Radiant's bottom barracks is being attacked.",
+        "url": "https://i1.theportalwiki.net/img/5/51/GLaDOS_Dota_2_Team_Announcement_034.wav"
+    },
+    {
+        "dialogue": "Radiant's middle barracks is under attack.",
+        "url": "https://i1.theportalwiki.net/img/0/07/GLaDOS_Dota_2_Team_Announcement_035.wav"
+    },
+    {
+        "dialogue": "Radiant's middle barracks is being attacked.",
+        "url": "https://i1.theportalwiki.net/img/3/38/GLaDOS_Dota_2_Team_Announcement_036.wav"
+    },
+    {
+        "dialogue": "Radiant's top barracks is under attack.",
+        "url": "https://i1.theportalwiki.net/img/2/29/GLaDOS_Dota_2_Team_Announcement_037.wav"
+    },
+    {
+        "dialogue": "Radiant's top barracks is being attacked.",
+        "url": "https://i1.theportalwiki.net/img/5/5b/GLaDOS_Dota_2_Team_Announcement_038.wav"
+    },
+    {
+        "dialogue": "Your bottom barracks is under attack.",
+        "url": "https://i1.theportalwiki.net/img/2/2d/GLaDOS_Dota_2_Team_Announcement_039.wav"
+    },
+    {
+        "dialogue": "Your bottom barracks is being attacked.",
+        "url": "https://i1.theportalwiki.net/img/2/2f/GLaDOS_Dota_2_Team_Announcement_040.wav"
+    },
+    {
+        "dialogue": "Your middle barracks is under attack.",
+        "url": "https://i1.theportalwiki.net/img/1/1a/GLaDOS_Dota_2_Team_Announcement_041.wav"
+    },
+    {
+        "dialogue": "Your middle barracks is being attacked.",
+        "url": "https://i1.theportalwiki.net/img/5/59/GLaDOS_Dota_2_Team_Announcement_042.wav"
+    },
+    {
+        "dialogue": "Your top barracks is under attack.",
+        "url": "https://i1.theportalwiki.net/img/4/4b/GLaDOS_Dota_2_Team_Announcement_043.wav"
+    },
+    {
+        "dialogue": "Your top barracks is being attacked.",
+        "url": "https://i1.theportalwiki.net/img/2/23/GLaDOS_Dota_2_Team_Announcement_044.wav"
+    },
+    {
+        "dialogue": "Dire's bottom barracks has fallen.",
+        "url": "https://i1.theportalwiki.net/img/2/21/GLaDOS_Dota_2_Team_Announcement_045.wav"
+    },
+    {
+        "dialogue": "Dire's bottom barracks has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/8/8d/GLaDOS_Dota_2_Team_Announcement_046.wav"
+    },
+    {
+        "dialogue": "Dire's middle barracks has fallen.",
+        "url": "https://i1.theportalwiki.net/img/c/c6/GLaDOS_Dota_2_Team_Announcement_047.wav"
+    },
+    {
+        "dialogue": "Dire's middle barracks has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/a/ad/GLaDOS_Dota_2_Team_Announcement_048.wav"
+    },
+    {
+        "dialogue": "Dire's top barracks has fallen.",
+        "url": "https://i1.theportalwiki.net/img/2/25/GLaDOS_Dota_2_Team_Announcement_049.wav"
+    },
+    {
+        "dialogue": "Dire's top barracks has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/f/ff/GLaDOS_Dota_2_Team_Announcement_050.wav"
+    },
+    {
+        "dialogue": "The enemy's bottom barracks has fallen.",
+        "url": "https://i1.theportalwiki.net/img/0/07/GLaDOS_Dota_2_Team_Announcement_051.wav"
+    },
+    {
+        "dialogue": "The enemy's bottom barracks has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/6/6f/GLaDOS_Dota_2_Team_Announcement_052.wav"
+    },
+    {
+        "dialogue": "The enemy's middle barracks has fallen.",
+        "url": "https://i1.theportalwiki.net/img/a/ad/GLaDOS_Dota_2_Team_Announcement_053.wav"
+    },
+    {
+        "dialogue": "The enemy's middle barracks has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/a/a0/GLaDOS_Dota_2_Team_Announcement_054.wav"
+    },
+    {
+        "dialogue": "The enemy's top barracks has fallen.",
+        "url": "https://i1.theportalwiki.net/img/a/a5/GLaDOS_Dota_2_Team_Announcement_055.wav"
+    },
+    {
+        "dialogue": "The enemy's top barracks has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/0/0c/GLaDOS_Dota_2_Team_Announcement_056.wav"
+    },
+    {
+        "dialogue": "Radiant's bottom barracks has fallen.",
+        "url": "https://i1.theportalwiki.net/img/2/29/GLaDOS_Dota_2_Team_Announcement_057.wav"
+    },
+    {
+        "dialogue": "Radiant's bottom barracks has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/5/53/GLaDOS_Dota_2_Team_Announcement_058.wav"
+    },
+    {
+        "dialogue": "Radiant's middle barracks has fallen.",
+        "url": "https://i1.theportalwiki.net/img/9/90/GLaDOS_Dota_2_Team_Announcement_059.wav"
+    },
+    {
+        "dialogue": "Radiant's middle barracks has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/1/1d/GLaDOS_Dota_2_Team_Announcement_060.wav"
+    },
+    {
+        "dialogue": "Radiant's top barracks has fallen.",
+        "url": "https://i1.theportalwiki.net/img/a/a0/GLaDOS_Dota_2_Team_Announcement_061.wav"
+    },
+    {
+        "dialogue": "Radiant's top barracks has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/6/6c/GLaDOS_Dota_2_Team_Announcement_062.wav"
+    },
+    {
+        "dialogue": "Your bottom barracks has fallen.",
+        "url": "https://i1.theportalwiki.net/img/b/b8/GLaDOS_Dota_2_Team_Announcement_063.wav"
+    },
+    {
+        "dialogue": "Your bottom barracks has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/b/b6/GLaDOS_Dota_2_Team_Announcement_064.wav"
+    },
+    {
+        "dialogue": "Your middle barracks has fallen.",
+        "url": "https://i1.theportalwiki.net/img/d/de/GLaDOS_Dota_2_Team_Announcement_065.wav"
+    },
+    {
+        "dialogue": "Your middle barracks has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/9/9f/GLaDOS_Dota_2_Team_Announcement_066.wav"
+    },
+    {
+        "dialogue": "Your top barracks has fallen.",
+        "url": "https://i1.theportalwiki.net/img/9/97/GLaDOS_Dota_2_Team_Announcement_067.wav"
+    },
+    {
+        "dialogue": "Your top barracks has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/a/a2/GLaDOS_Dota_2_Team_Announcement_068.wav"
+    },
+    {
+        "dialogue": "The Radiant continues to murder poor, innocent Roshan.",
+        "url": "https://i1.theportalwiki.net/img/6/65/GLaDOS_Dota_2_Team_Announcement_069.wav"
+    },
+    {
+        "dialogue": "The Dire's bloodlust for Roshan is insatiable.",
+        "url": "https://i1.theportalwiki.net/img/4/46/GLaDOS_Dota_2_Team_Announcement_070.wav"
+    },
+    {
+        "dialogue": "Roshan has fallen to the Dire.",
+        "url": "https://i1.theportalwiki.net/img/d/d6/GLaDOS_Dota_2_Team_Announcement_071.wav"
+    },
+    {
+        "dialogue": "Roshan has been killed by the Dire.",
+        "url": "https://i1.theportalwiki.net/img/b/ba/GLaDOS_Dota_2_Team_Announcement_072.wav"
+    },
+    {
+        "dialogue": "Roshan, bestselling novelist, avid fly fisherman, proud father of three, has just been murdered by the Dire. I hope they're proud of themselves.",
+        "url": "https://i1.theportalwiki.net/img/8/86/GLaDOS_Dota_2_Team_Announcement_073.wav"
+    },
+    {
+        "dialogue": "Roshan, who was just minding his own business, has been callously murdered by the Dire.",
+        "url": "https://i1.theportalwiki.net/img/5/57/GLaDOS_Dota_2_Team_Announcement_074.wav"
+    },
+    {
+        "dialogue": "Roshan has fallen to the Radiant.",
+        "url": "https://i1.theportalwiki.net/img/1/18/GLaDOS_Dota_2_Team_Announcement_075.wav"
+    },
+    {
+        "dialogue": "Roshan has been murdered by the Radiant. I guess we know who the real monster was all along.",
+        "url": "https://i1.theportalwiki.net/img/a/ab/GLaDOS_Dota_2_Team_Announcement_076.wav"
+    },
+    {
+        "dialogue": "Roshan has been killed by the Radiant.",
+        "url": "https://i1.theportalwiki.net/img/9/9a/GLaDOS_Dota_2_Team_Announcement_077.wav"
+    },
+    {
+        "dialogue": "Roshan has been callously butchered by the Radiant. I'll put in a request to notify his children that they're orphans now.",
+        "url": "https://i1.theportalwiki.net/img/5/51/GLaDOS_Dota_2_Team_Announcement_078.wav"
+    },
+    {
+        "dialogue": "Dire's bottom tower is under attack.",
+        "url": "https://i1.theportalwiki.net/img/f/f8/GLaDOS_Dota_2_Team_Announcement_079.wav"
+    },
+    {
+        "dialogue": "Dire's bottom tower is under siege.",
+        "url": "https://i1.theportalwiki.net/img/2/22/GLaDOS_Dota_2_Team_Announcement_080.wav"
+    },
+    {
+        "dialogue": "Dire's bottom tower is being attacked.",
+        "url": "https://i1.theportalwiki.net/img/9/9e/GLaDOS_Dota_2_Team_Announcement_081.wav"
+    },
+    {
+        "dialogue": "Dire's middle tower is under attack.",
+        "url": "https://i1.theportalwiki.net/img/f/f4/GLaDOS_Dota_2_Team_Announcement_082.wav"
+    },
+    {
+        "dialogue": "Dire's middle tower is under siege.",
+        "url": "https://i1.theportalwiki.net/img/e/e7/GLaDOS_Dota_2_Team_Announcement_083.wav"
+    },
+    {
+        "dialogue": "Dire's middle tower is being attacked.",
+        "url": "https://i1.theportalwiki.net/img/e/e7/GLaDOS_Dota_2_Team_Announcement_084.wav"
+    },
+    {
+        "dialogue": "Dire's top tower is under attack.",
+        "url": "https://i1.theportalwiki.net/img/b/b1/GLaDOS_Dota_2_Team_Announcement_085.wav"
+    },
+    {
+        "dialogue": "Dire's top tower is under siege.",
+        "url": "https://i1.theportalwiki.net/img/3/39/GLaDOS_Dota_2_Team_Announcement_086.wav"
+    },
+    {
+        "dialogue": "Dire's top tower is being attacked.",
+        "url": "https://i1.theportalwiki.net/img/e/e2/GLaDOS_Dota_2_Team_Announcement_087.wav"
+    },
+    {
+        "dialogue": "Radiant's bottom tower is being attacked.",
+        "url": "https://i1.theportalwiki.net/img/5/50/GLaDOS_Dota_2_Team_Announcement_088.wav"
+    },
+    {
+        "dialogue": "Radiant's bottom tower is under siege.",
+        "url": "https://i1.theportalwiki.net/img/e/ee/GLaDOS_Dota_2_Team_Announcement_089.wav"
+    },
+    {
+        "dialogue": "Radiant's middle tower is under attack.",
+        "url": "https://i1.theportalwiki.net/img/4/4f/GLaDOS_Dota_2_Team_Announcement_090.wav"
+    },
+    {
+        "dialogue": "Radiant's middle tower is under siege.",
+        "url": "https://i1.theportalwiki.net/img/9/9f/GLaDOS_Dota_2_Team_Announcement_091.wav"
+    },
+    {
+        "dialogue": "Radiant's middle tower is being attacked.",
+        "url": "https://i1.theportalwiki.net/img/d/d5/GLaDOS_Dota_2_Team_Announcement_092.wav"
+    },
+    {
+        "dialogue": "Radiant's top tower is under attack.",
+        "url": "https://i1.theportalwiki.net/img/d/d9/GLaDOS_Dota_2_Team_Announcement_093.wav"
+    },
+    {
+        "dialogue": "Radiant's top tower is under siege.",
+        "url": "https://i1.theportalwiki.net/img/1/11/GLaDOS_Dota_2_Team_Announcement_094.wav"
+    },
+    {
+        "dialogue": "Radiant's top tower is being attacked.",
+        "url": "https://i1.theportalwiki.net/img/5/57/GLaDOS_Dota_2_Team_Announcement_095.wav"
+    },
+    {
+        "dialogue": "Your bottom tower is under attack.",
+        "url": "https://i1.theportalwiki.net/img/9/98/GLaDOS_Dota_2_Team_Announcement_096.wav"
+    },
+    {
+        "dialogue": "Your bottom tower is under siege.",
+        "url": "https://i1.theportalwiki.net/img/0/04/GLaDOS_Dota_2_Team_Announcement_097.wav"
+    },
+    {
+        "dialogue": "Your bottom tower is being attacked.",
+        "url": "https://i1.theportalwiki.net/img/7/7b/GLaDOS_Dota_2_Team_Announcement_098.wav"
+    },
+    {
+        "dialogue": "Your bottom tower looks fantastic, by the way. Very fire covered.",
+        "url": "https://i1.theportalwiki.net/img/4/4b/GLaDOS_Dota_2_Team_Announcement_099.wav"
+    },
+    {
+        "dialogue": "Your middle tower is under attack.",
+        "url": "https://i1.theportalwiki.net/img/f/f9/GLaDOS_Dota_2_Team_Announcement_100.wav"
+    },
+    {
+        "dialogue": "Your middle tower is under siege.",
+        "url": "https://i1.theportalwiki.net/img/6/61/GLaDOS_Dota_2_Team_Announcement_101.wav"
+    },
+    {
+        "dialogue": "Your middle tower is being attacked.",
+        "url": "https://i1.theportalwiki.net/img/6/6e/GLaDOS_Dota_2_Team_Announcement_102.wav"
+    },
+    {
+        "dialogue": "I hope you weren't close with your middle tower.",
+        "url": "https://i1.theportalwiki.net/img/b/b9/GLaDOS_Dota_2_Team_Announcement_103.wav"
+    },
+    {
+        "dialogue": "Your top tower is being attacked.",
+        "url": "https://i1.theportalwiki.net/img/3/3c/GLaDOS_Dota_2_Team_Announcement_104.wav"
+    },
+    {
+        "dialogue": "Your top tower is under siege.",
+        "url": "https://i1.theportalwiki.net/img/c/cc/GLaDOS_Dota_2_Team_Announcement_105.wav"
+    },
+    {
+        "dialogue": "Your top tower is... well, let's be honest, doomed.",
+        "url": "https://i1.theportalwiki.net/img/2/24/GLaDOS_Dota_2_Team_Announcement_106.wav"
+    },
+    {
+        "dialogue": "Dire's bottom tower has been denied.",
+        "url": "https://i1.theportalwiki.net/img/e/e7/GLaDOS_Dota_2_Team_Announcement_107.wav"
+    },
+    {
+        "dialogue": "Dire's middle tower has been denied.",
+        "url": "https://i1.theportalwiki.net/img/9/91/GLaDOS_Dota_2_Team_Announcement_108.wav"
+    },
+    {
+        "dialogue": "Dire's top tower has been denied.",
+        "url": "https://i1.theportalwiki.net/img/a/a0/GLaDOS_Dota_2_Team_Announcement_109.wav"
+    },
+    {
+        "dialogue": "The enemy's bottom tower has been denied.",
+        "url": "https://i1.theportalwiki.net/img/0/07/GLaDOS_Dota_2_Team_Announcement_110.wav"
+    },
+    {
+        "dialogue": "The enemy's middle tower has been denied.",
+        "url": "https://i1.theportalwiki.net/img/2/20/GLaDOS_Dota_2_Team_Announcement_111.wav"
+    },
+    {
+        "dialogue": "The enemy's top tower has been denied.",
+        "url": "https://i1.theportalwiki.net/img/a/af/GLaDOS_Dota_2_Team_Announcement_112.wav"
+    },
+    {
+        "dialogue": "Radiant's bottom tower has been denied.",
+        "url": "https://i1.theportalwiki.net/img/4/49/GLaDOS_Dota_2_Team_Announcement_113.wav"
+    },
+    {
+        "dialogue": "Radiant's middle tower has been denied.",
+        "url": "https://i1.theportalwiki.net/img/f/ff/GLaDOS_Dota_2_Team_Announcement_114.wav"
+    },
+    {
+        "dialogue": "Radiant's top tower has been denied.",
+        "url": "https://i1.theportalwiki.net/img/f/fc/GLaDOS_Dota_2_Team_Announcement_115.wav"
+    },
+    {
+        "dialogue": "Your bottom tower has been denied.",
+        "url": "https://i1.theportalwiki.net/img/4/4a/GLaDOS_Dota_2_Team_Announcement_116.wav"
+    },
+    {
+        "dialogue": "Your middle tower has been denied.",
+        "url": "https://i1.theportalwiki.net/img/0/04/GLaDOS_Dota_2_Team_Announcement_117.wav"
+    },
+    {
+        "dialogue": "Your top tower has been denied.",
+        "url": "https://i1.theportalwiki.net/img/4/44/GLaDOS_Dota_2_Team_Announcement_118.wav"
+    },
+    {
+        "dialogue": "Dire's bottom tower has fallen.",
+        "url": "https://i1.theportalwiki.net/img/4/41/GLaDOS_Dota_2_Team_Announcement_119.wav"
+    },
+    {
+        "dialogue": "Dire's bottom tower has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/5/5d/GLaDOS_Dota_2_Team_Announcement_120.wav"
+    },
+    {
+        "dialogue": "Dire's middle tower has fallen.",
+        "url": "https://i1.theportalwiki.net/img/1/19/GLaDOS_Dota_2_Team_Announcement_121.wav"
+    },
+    {
+        "dialogue": "Dire's middle tower has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/9/9c/GLaDOS_Dota_2_Team_Announcement_122.wav"
+    },
+    {
+        "dialogue": "Dire's top tower has fallen.",
+        "url": "https://i1.theportalwiki.net/img/6/62/GLaDOS_Dota_2_Team_Announcement_123.wav"
+    },
+    {
+        "dialogue": "Dire's top tower has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/5/5e/GLaDOS_Dota_2_Team_Announcement_124.wav"
+    },
+    {
+        "dialogue": "The enemy's bottom tower has fallen.",
+        "url": "https://i1.theportalwiki.net/img/9/98/GLaDOS_Dota_2_Team_Announcement_125.wav"
+    },
+    {
+        "dialogue": "The enemy's bottom tower has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/8/81/GLaDOS_Dota_2_Team_Announcement_126.wav"
+    },
+    {
+        "dialogue": "The enemy's middle tower has fallen.",
+        "url": "https://i1.theportalwiki.net/img/6/65/GLaDOS_Dota_2_Team_Announcement_127.wav"
+    },
+    {
+        "dialogue": "The enemy's middle tower has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/c/c0/GLaDOS_Dota_2_Team_Announcement_128.wav"
+    },
+    {
+        "dialogue": "The enemy's top tower has fallen.",
+        "url": "https://i1.theportalwiki.net/img/5/5b/GLaDOS_Dota_2_Team_Announcement_129.wav"
+    },
+    {
+        "dialogue": "The enemy's top tower has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/0/01/GLaDOS_Dota_2_Team_Announcement_130.wav"
+    },
+    {
+        "dialogue": "Radiant's bottom tower has fallen.",
+        "url": "https://i1.theportalwiki.net/img/5/5b/GLaDOS_Dota_2_Team_Announcement_131.wav"
+    },
+    {
+        "dialogue": "Radiant's bottom tower has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/3/36/GLaDOS_Dota_2_Team_Announcement_132.wav"
+    },
+    {
+        "dialogue": "Radiant's middle tower has fallen.",
+        "url": "https://i1.theportalwiki.net/img/3/3d/GLaDOS_Dota_2_Team_Announcement_133.wav"
+    },
+    {
+        "dialogue": "Radiant's middle tower has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/7/79/GLaDOS_Dota_2_Team_Announcement_134.wav"
+    },
+    {
+        "dialogue": "Radiant's top tower has fallen.",
+        "url": "https://i1.theportalwiki.net/img/f/fc/GLaDOS_Dota_2_Team_Announcement_135.wav"
+    },
+    {
+        "dialogue": "Radiant's top tower has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/a/af/GLaDOS_Dota_2_Team_Announcement_136.wav"
+    },
+    {
+        "dialogue": "Your bottom tower has fallen.",
+        "url": "https://i1.theportalwiki.net/img/8/89/GLaDOS_Dota_2_Team_Announcement_137.wav"
+    },
+    {
+        "dialogue": "Your bottom tower has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/e/e4/GLaDOS_Dota_2_Team_Announcement_138.wav"
+    },
+    {
+        "dialogue": "Your middle tower has fallen.",
+        "url": "https://i1.theportalwiki.net/img/b/b7/GLaDOS_Dota_2_Team_Announcement_139.wav"
+    },
+    {
+        "dialogue": "Your middle tower has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/6/61/GLaDOS_Dota_2_Team_Announcement_140.wav"
+    },
+    {
+        "dialogue": "Your top tower has fallen.",
+        "url": "https://i1.theportalwiki.net/img/1/1a/GLaDOS_Dota_2_Team_Announcement_141.wav"
+    },
+    {
+        "dialogue": "Your top tower has been destroyed.",
+        "url": "https://i1.theportalwiki.net/img/3/34/GLaDOS_Dota_2_Team_Announcement_142.wav"
+    },
+    {
+        "dialogue": "You won.",
+        "url": "https://i1.theportalwiki.net/img/0/07/GLaDOS_Dota_2_Team_Announcement_143.wav"
+    },
+    {
+        "dialogue": "Dire victory.",
+        "url": "https://i1.theportalwiki.net/img/5/57/GLaDOS_Dota_2_Team_Announcement_144.wav"
+    },
+    {
+        "dialogue": "Victory for Dire.",
+        "url": "https://i1.theportalwiki.net/img/5/54/GLaDOS_Dota_2_Team_Announcement_145.wav"
+    },
+    {
+        "dialogue": "Victory goes to Dire.",
+        "url": "https://i1.theportalwiki.net/img/9/93/GLaDOS_Dota_2_Team_Announcement_146.wav"
+    },
+    {
+        "dialogue": "Dire did not lose as badly as Radiant.",
+        "url": "https://i1.theportalwiki.net/img/5/5b/GLaDOS_Dota_2_Team_Announcement_147.wav"
+    },
+    {
+        "dialogue": "Radiant victory.",
+        "url": "https://i1.theportalwiki.net/img/4/4a/GLaDOS_Dota_2_Team_Announcement_148.wav"
+    },
+    {
+        "dialogue": "Victory for Radiant.",
+        "url": "https://i1.theportalwiki.net/img/7/7a/GLaDOS_Dota_2_Team_Announcement_149.wav"
+    },
+    {
+        "dialogue": "Victory goes to Radiant.",
+        "url": "https://i1.theportalwiki.net/img/1/14/GLaDOS_Dota_2_Team_Announcement_150.wav"
+    },
+    {
+        "dialogue": "Radiant performed marginally less poorly than Dire and is, I suppose, the winner.",
+        "url": "https://i1.theportalwiki.net/img/c/c4/GLaDOS_Dota_2_Team_Announcement_151.wav"
+    },
+    {
+        "dialogue": "Thanks to you.",
+        "url": "https://i1.theportalwiki.net/img/3/37/GLaDOS_Dota_2_Followup_001.wav"
+    },
+    {
+        "dialogue": "That's bad, by the way.",
+        "url": "https://i1.theportalwiki.net/img/e/e7/GLaDOS_Dota_2_Followup_002.wav"
+    },
+    {
+        "dialogue": "I honestly, truly didn't think you'd allow that to happen.",
+        "url": "https://i1.theportalwiki.net/img/7/7d/GLaDOS_Dota_2_Followup_003.wav"
+    },
+    {
+        "dialogue": "You're allowed to defend those, you know.",
+        "url": "https://i1.theportalwiki.net/img/9/91/GLaDOS_Dota_2_Followup_004.wav"
+    },
+    {
+        "dialogue": "Because of poor decisions. Yours, most likely.",
+        "url": "https://i1.theportalwiki.net/img/1/18/GLaDOS_Dota_2_Followup_005.wav"
+    },
+    {
+        "dialogue": "Just abandon, no one will even notice.",
+        "url": "https://i1.theportalwiki.net/img/c/c7/GLaDOS_Dota_2_Followup_006.wav"
+    },
+    {
+        "dialogue": "Because someone... I'm talking about you here... doesn't know what they're doing.",
+        "url": "https://i1.theportalwiki.net/img/d/d5/GLaDOS_Dota_2_Followup_007.wav"
+    },
+    {
+        "dialogue": "What counts is that you tried, so maybe do that next time.",
+        "url": "https://i1.theportalwiki.net/img/d/d5/GLaDOS_Dota_2_Followup_008.wav"
+    },
+    {
+        "dialogue": "There are no handicaps on this match, by the way. You can stop them from doing that.",
+        "url": "https://i1.theportalwiki.net/img/e/ef/GLaDOS_Dota_2_Followup_009.wav"
+    },
+    {
+        "dialogue": "If you were saving your real strategy for a crisis, now would be the time.",
+        "url": "https://i1.theportalwiki.net/img/a/a5/GLaDOS_Dota_2_Followup_010.wav"
+    },
+    {
+        "dialogue": "That outfit you're wearing looks stupid. That's not me talking, it's right here in your file.",
+        "url": "https://i1.theportalwiki.net/img/d/d3/GLaDOS_Dota_2_Followup_011.wav"
+    },
+    {
+        "dialogue": "When other people play that hero, it looks fine. But right here, a scientist has noted that when you play it looks stupid.",
+        "url": "https://i1.theportalwiki.net/img/c/cb/GLaDOS_Dota_2_Followup_012.wav"
+    },
+    {
+        "dialogue": "Grief counseling will be available at the conclusion of the match.",
+        "url": "https://i1.theportalwiki.net/img/8/8e/GLaDOS_Dota_2_Followup_013.wav"
+    },
+    {
+        "dialogue": "But on the bright side, I just won... money... gambling money... by betting against you.",
+        "url": "https://i1.theportalwiki.net/img/b/b0/GLaDOS_Dota_2_Followup_014.wav"
+    },
+    {
+        "dialogue": "But we're all winners here. Especially those players over there, in the enemy camp. You know, the ones celebrating.",
+        "url": "https://i1.theportalwiki.net/img/8/85/GLaDOS_Dota_2_Followup_015.wav"
+    },
+    {
+        "dialogue": "Interesting strategy. Let them obliterate all your defenses, then swoop in for the kill.",
+        "url": "https://i1.theportalwiki.net/img/9/98/GLaDOS_Dota_2_Followup_016.wav"
+    },
+    {
+        "dialogue": "That doesn't mean you have to like it, it just means you'll probably keep doing it because of your aptitude at failure.",
+        "url": "https://i1.theportalwiki.net/img/c/c0/GLaDOS_Dota_2_Followup_017.wav"
+    },
+    {
+        "dialogue": "But don't worry, losing builds character. In fact, it's making you a better person right now. A great, big, well rounded loser, with lots of personality.",
+        "url": "https://i1.theportalwiki.net/img/e/ef/GLaDOS_Dota_2_Followup_018.wav"
+    },
+    {
+        "dialogue": "But looking at it another way, I think you've won a real moral victory here. Which doesn't mean we should forget about the first way, the more accurate and humiliating way.",
+        "url": "https://i1.theportalwiki.net/img/3/37/GLaDOS_Dota_2_Followup_019.wav"
+    },
+    {
+        "dialogue": "But it's not a big loss, really. It's one in a series of very small losses over a forty-five minute time-span that, when added up, will look like one big, spectacular failure.",
+        "url": "https://i1.theportalwiki.net/img/7/7b/GLaDOS_Dota_2_Followup_020.wav"
+    },
+    {
+        "dialogue": "Well, nobody will hold it against you. Let's be honest, I doubt anyone will even find it surprising.",
+        "url": "https://i1.theportalwiki.net/img/c/cf/GLaDOS_Dota_2_Followup_021.wav"
+    },
+    {
+        "dialogue": "Now you're really in for it.",
+        "url": "https://i1.theportalwiki.net/img/4/40/GLaDOS_Dota_2_Followup_022.wav"
+    },
+    {
+        "dialogue": "I can't even begin to describe how badly you've screwed this up. Oh wait, I just did.",
+        "url": "https://i1.theportalwiki.net/img/c/cc/GLaDOS_Dota_2_Followup_023.wav"
+    },
+    {
+        "dialogue": "If I was a betting artificial intelligence, I'd put money on them killing you now.",
+        "url": "https://i1.theportalwiki.net/img/b/b6/GLaDOS_Dota_2_Followup_024.wav"
+    },
+    {
+        "dialogue": "Thats bad, by the way.",
+        "url": "https://i1.theportalwiki.net/img/3/3d/GLaDOS_Dota_2_Followup_025.wav"
+    },
+    {
+        "dialogue": "That doesn't mean you have to like it.",
+        "url": "https://i1.theportalwiki.net/img/a/aa/GLaDOS_Dota_2_Followup_026.wav"
+    },
+    {
+        "dialogue": "Don't get cocky.",
+        "url": "https://i1.theportalwiki.net/img/2/27/GLaDOS_Dota_2_Followup_027.wav"
+    },
+    {
+        "dialogue": "Don't let it go to your fat, jowly head.",
+        "url": "https://i1.theportalwiki.net/img/f/fe/GLaDOS_Dota_2_Followup_028.wav"
+    },
+    {
+        "dialogue": "Don't let it go to your giant, misshapen, fantasy head.",
+        "url": "https://i1.theportalwiki.net/img/b/b3/GLaDOS_Dota_2_Followup_029.wav"
+    },
+    {
+        "dialogue": "So, at least your teammates know what they're doing.",
+        "url": "https://i1.theportalwiki.net/img/e/e8/GLaDOS_Dota_2_Followup_030.wav"
+    },
+    {
+        "dialogue": "You're winning the epic battle for this small field, with a creek running through it.",
+        "url": "https://i1.theportalwiki.net/img/f/fb/GLaDOS_Dota_2_Followup_031.wav"
+    },
+    {
+        "dialogue": "Here, let me engrave a trophy for you. \"Nobody cares.\"",
+        "url": "https://i1.theportalwiki.net/img/b/b6/GLaDOS_Dota_2_Followup_032.wav"
+    },
+    {
+        "dialogue": "If this backward, illiterate fantasy forest had a newspaper, you'd be on the front page.",
+        "url": "https://i1.theportalwiki.net/img/c/cd/GLaDOS_Dota_2_Followup_033.wav"
+    },
+    {
+        "dialogue": "Let me record this victory in your file. Where did I put it? Oh, who cares.",
+        "url": "https://i1.theportalwiki.net/img/9/9d/GLaDOS_Dota_2_Followup_034.wav"
+    },
+    {
+        "dialogue": "Your teammates are doing a really great job.",
+        "url": "https://i1.theportalwiki.net/img/d/da/GLaDOS_Dota_2_Followup_035.wav"
+    },
+    {
+        "dialogue": "They're just going to build another one. They're made of cement. You can buy them at the supermarket.",
+        "url": "https://i1.theportalwiki.net/img/b/b0/GLaDOS_Dota_2_Followup_036.wav"
+    },
+    {
+        "dialogue": "This should impress all the people who doubted you at the comic book store.",
+        "url": "https://i1.theportalwiki.net/img/c/cd/GLaDOS_Dota_2_Followup_037.wav"
+    },
+    {
+        "dialogue": "This should impress all the people who doubted you about your Green Lantern theories.",
+        "url": "https://i1.theportalwiki.net/img/0/0f/GLaDOS_Dota_2_Followup_038.wav"
+    },
+    {
+        "dialogue": "Why don't you celebrate with two fistfuls of potato chips, once you've swallowed the chips you're probably eating now?",
+        "url": "https://i1.theportalwiki.net/img/6/6a/GLaDOS_Dota_2_Followup_039.wav"
+    },
+    {
+        "dialogue": "This is probably the most heroic thing anyone's ever done... while sitting motionless in their parent's rec room.",
+        "url": "https://i1.theportalwiki.net/img/7/7b/GLaDOS_Dota_2_Followup_040.wav"
+    },
+    {
+        "dialogue": "You must be so proud of your teammates right now.",
+        "url": "https://i1.theportalwiki.net/img/b/b4/GLaDOS_Dota_2_Followup_041.wav"
+    },
+    {
+        "dialogue": "You were almost helpful that time.",
+        "url": "https://i1.theportalwiki.net/img/a/a7/GLaDOS_Dota_2_Followup_042.wav"
+    },
+    {
+        "dialogue": "Well, you offered moral support.",
+        "url": "https://i1.theportalwiki.net/img/8/8c/GLaDOS_Dota_2_Followup_043.wav"
+    },
+    {
+        "dialogue": "It's a good feeling, isn't it? I wouldn't get used to it.",
+        "url": "https://i1.theportalwiki.net/img/6/61/GLaDOS_Dota_2_Followup_044.wav"
+    },
+    {
+        "dialogue": "Not bad. Not as bad, I mean... as your other decisions so far.",
+        "url": "https://i1.theportalwiki.net/img/d/d0/GLaDOS_Dota_2_Followup_045.wav"
+    },
+    {
+        "dialogue": "Well, that's probably the game. You win. Hands off the keyboard.",
+        "url": "https://i1.theportalwiki.net/img/4/43/GLaDOS_Dota_2_Followup_046.wav"
+    },
+    {
+        "dialogue": "So that's a minor victory, right square in the middle of all your failures.",
+        "url": "https://i1.theportalwiki.net/img/4/44/GLaDOS_Dota_2_Followup_047.wav"
+    },
+    {
+        "dialogue": "Let's be honest, you probably won't help.",
+        "url": "https://i1.theportalwiki.net/img/0/00/GLaDOS_Dota_2_Followup_048.wav"
+    },
+    {
+        "dialogue": "For all the good it will do you.",
+        "url": "https://i1.theportalwiki.net/img/3/35/GLaDOS_Dota_2_Followup_049.wav"
+    },
+    {
+        "dialogue": "If you had any idea what you were doing, this would be a real achievement.",
+        "url": "https://i1.theportalwiki.net/img/0/05/GLaDOS_Dota_2_Followup_050.wav"
+    },
+    {
+        "dialogue": "By accident, if I had to guess.",
+        "url": "https://i1.theportalwiki.net/img/f/fd/GLaDOS_Dota_2_Followup_051.wav"
+    },
+    {
+        "dialogue": "Did you win? I don't have the first clue what's happening right now. What about those things? The tree people things. Are they important?",
+        "url": "https://i1.theportalwiki.net/img/1/12/GLaDOS_Dota_2_Followup_052.wav"
+    },
+    {
+        "dialogue": "You're winning. More accurately, you're on the same team as winners... who happen to be near you while they win. Anyway, congratulations.",
+        "url": "https://i1.theportalwiki.net/img/9/9b/GLaDOS_Dota_2_Followup_053.wav"
+    },
+    {
+        "dialogue": "That's funny, I didn't even see you cheat.",
+        "url": "https://i1.theportalwiki.net/img/0/06/GLaDOS_Dota_2_Followup_054.wav"
+    },
+    {
+        "dialogue": "That should delay the inevitable slightly.",
+        "url": "https://i1.theportalwiki.net/img/2/2b/GLaDOS_Dota_2_Followup_055.wav"
+    },
+    {
+        "dialogue": "Let's be honest, it probably won't help.",
+        "url": "https://i1.theportalwiki.net/img/d/d1/GLaDOS_Dota_2_Followup_056.wav"
+    },
+    {
+        "dialogue": "If that's what they're calling attacks now.",
+        "url": "https://i1.theportalwiki.net/img/b/bf/GLaDOS_Dota_2_Followup_057.wav"
+    },
+    {
+        "dialogue": "Not well, mind you. But it's technically attacking.",
+        "url": "https://i1.theportalwiki.net/img/3/30/GLaDOS_Dota_2_Followup_058.wav"
+    },
+    {
+        "dialogue": "Let's not tell them, it will be a surprise.",
+        "url": "https://i1.theportalwiki.net/img/b/bf/GLaDOS_Dota_2_Followup_059.wav"
+    },
+    {
+        "dialogue": "Well, thats a stroke of luck, and not skill.",
+        "url": "https://i1.theportalwiki.net/img/2/23/GLaDOS_Dota_2_Followup_060.wav"
+    },
+    {
+        "dialogue": "I've calculated who will win to a 99.93% certainty, if you're interested.",
+        "url": "https://i1.theportalwiki.net/img/2/22/GLaDOS_Dota_2_Followup_061.wav"
+    },
+    {
+        "dialogue": "Your funeral.",
+        "url": "https://i1.theportalwiki.net/img/4/48/GLaDOS_Dota_2_Followup_062.wav"
+    },
+    {
+        "dialogue": "Choose your hero.",
+        "url": "https://i1.theportalwiki.net/img/b/b0/GLaDOS_Dota_2_Followup_063.wav"
+    },
+    {
+        "dialogue": "If that's something you cared about.",
+        "url": "https://i1.theportalwiki.net/img/0/0e/GLaDOS_Dota_2_Followup_064.wav"
+    },
+    {
+        "dialogue": "It's probably nothing to worry about.",
+        "url": "https://i1.theportalwiki.net/img/c/c8/GLaDOS_Dota_2_Followup_065.wav"
+    },
+    {
+        "dialogue": "You might want to look into that.",
+        "url": "https://i1.theportalwiki.net/img/d/dc/GLaDOS_Dota_2_Followup_066.wav"
+    },
+    {
+        "dialogue": "So there's that.",
+        "url": "https://i1.theportalwiki.net/img/d/d0/GLaDOS_Dota_2_Followup_067.wav"
+    },
+    {
+        "dialogue": "You're allowed to start trying now.",
+        "url": "https://i1.theportalwiki.net/img/7/7e/GLaDOS_Dota_2_Followup_068.wav"
+    },
+    {
+        "dialogue": "But you probably already knew that.",
+        "url": "https://i1.theportalwiki.net/img/d/dc/GLaDOS_Dota_2_Followup_069.wav"
+    },
+    {
+        "dialogue": "Not that I care one way or the other.",
+        "url": "https://i1.theportalwiki.net/img/a/a5/GLaDOS_Dota_2_Followup_070.wav"
+    },
+    {
+        "dialogue": "So that's something that's happening.",
+        "url": "https://i1.theportalwiki.net/img/1/1d/GLaDOS_Dota_2_Followup_071.wav"
+    },
+    {
+        "dialogue": "But just continue doing whatever it was you were doing.",
+        "url": "https://i1.theportalwiki.net/img/0/05/GLaDOS_Dota_2_Followup_072.wav"
+    },
+    {
+        "dialogue": "I hope that's part of your plan.",
+        "url": "https://i1.theportalwiki.net/img/7/76/GLaDOS_Dota_2_Followup_073.wav"
+    },
+    {
+        "dialogue": "You don't even care, do you?",
+        "url": "https://i1.theportalwiki.net/img/c/c6/GLaDOS_Dota_2_Followup_074.wav"
+    },
+    {
+        "dialogue": "It'll probably be fine.",
+        "url": "https://i1.theportalwiki.net/img/3/33/GLaDOS_Dota_2_Followup_075.wav"
+    },
+    {
+        "dialogue": "Is this part of an elaborate trap you're going to spring on them later? Because it looks like they're really falling for it.",
+        "url": "https://i1.theportalwiki.net/img/7/76/GLaDOS_Dota_2_Followup_076.wav"
+    },
+    {
+        "dialogue": "I know it's not a plate of nachos or anything, but it is important to the game.",
+        "url": "https://i1.theportalwiki.net/img/2/21/GLaDOS_Dota_2_Followup_077.wav"
+    },
+    {
+        "dialogue": "It's probably fine. Trust me, I'm a supercomputer and I barely understand whats happening right now.",
+        "url": "https://i1.theportalwiki.net/img/c/cb/GLaDOS_Dota_2_Followup_078.wav"
+    },
+    {
+        "dialogue": "I only mention it as a conversation starter, how are you doing otherwise?",
+        "url": "https://i1.theportalwiki.net/img/2/2b/GLaDOS_Dota_2_Followup_079.wav"
+    },
+    {
+        "dialogue": "Let me put it in old English, so that it will penetrate your wizards cap: thou art losing.",
+        "url": "https://i1.theportalwiki.net/img/2/26/GLaDOS_Dota_2_Followup_080.wav"
+    },
+    {
+        "dialogue": "You're really losing now, or winning. Well, back to my Mad Libs.",
+        "url": "https://i1.theportalwiki.net/img/4/44/GLaDOS_Dota_2_Followup_081.wav"
+    },
+    {
+        "dialogue": "Wait, maybe they're not actually damaging it. No, they are.",
+        "url": "https://i1.theportalwiki.net/img/2/2d/GLaDOS_Dota_2_Followup_082.wav"
+    },
+    {
+        "dialogue": "I know, I don't care either.",
+        "url": "https://i1.theportalwiki.net/img/e/e1/GLaDOS_Dota_2_Followup_083.wav"
+    },
+    {
+        "dialogue": "This is the hardest part of being an impartial announcer: balancing how little I care about anything that's happening here.",
+        "url": "https://i1.theportalwiki.net/img/8/8e/GLaDOS_Dota_2_Followup_084.wav"
+    },
+    {
+        "dialogue": "Mid only.",
+        "url": "https://i1.theportalwiki.net/img/f/f1/GLaDOS_Dota_2_Followup_085.wav"
+    },
+    {
+        "dialogue": "Least played.",
+        "url": "https://i1.theportalwiki.net/img/8/87/GLaDOS_Dota_2_Followup_086.wav"
+    },
+    {
+        "dialogue": "This should be interesting.",
+        "url": "https://i1.theportalwiki.net/img/2/24/GLaDOS_Dota_2_Followup_087.wav"
+    },
+    {
+        "dialogue": "This should be interesting.",
+        "url": "https://i1.theportalwiki.net/img/b/b9/GLaDOS_Dota_2_Followup_088.wav"
+    },
+    {
+        "dialogue": "I was on the edge of my seat.",
+        "url": "https://i1.theportalwiki.net/img/4/44/GLaDOS_Dota_2_Followup_089.wav"
+    },
+    {
+        "dialogue": "Bad news for you fans of towers out there.",
+        "url": "https://i1.theportalwiki.net/img/8/8f/GLaDOS_Dota_2_Followup_090.wav"
+    },
+    {
+        "dialogue": "Lets watch and see what happens.",
+        "url": "https://i1.theportalwiki.net/img/f/fe/GLaDOS_Dota_2_Followup_091.wav"
+    },
+    {
+        "dialogue": "Lets watch and see what happens.",
+        "url": "https://i1.theportalwiki.net/img/6/61/GLaDOS_Dota_2_Followup_092.wav"
+    },
+    {
+        "dialogue": "Good.",
+        "url": "https://i1.theportalwiki.net/img/1/12/GLaDOS_Dota_2_Followup_093.wav"
+    },
+    {
+        "dialogue": "In case you weren't paying attention.",
+        "url": "https://i1.theportalwiki.net/img/e/e4/GLaDOS_Dota_2_Followup_094.wav"
+    },
+    {
+        "dialogue": "In case you weren't paying attention.",
+        "url": "https://i1.theportalwiki.net/img/2/20/GLaDOS_Dota_2_Followup_095.wav"
+    },
+    {
+        "dialogue": "Yes, yes! Oh, that was a great Mad Lib. So, what's happening here then?",
+        "url": "https://i1.theportalwiki.net/img/b/b3/GLaDOS_Dota_2_Followup_096.wav"
+    },
+    {
+        "dialogue": "To die, probably.",
+        "url": "https://i1.theportalwiki.net/img/9/92/GLaDOS_Dota_2_Followup_097.wav"
+    },
+    {
+        "dialogue": "For disappointment.",
+        "url": "https://i1.theportalwiki.net/img/c/cc/GLaDOS_Dota_2_Followup_098.wav"
+    },
+    {
+        "dialogue": "Your poorly chosen, hopelessly outmatched team.",
+        "url": "https://i1.theportalwiki.net/img/0/0f/GLaDOS_Dota_2_Followup_099.wav"
+    },
+    {
+        "dialogue": "Some... interesting choices there.",
+        "url": "https://i1.theportalwiki.net/img/7/77/GLaDOS_Dota_2_Followup_100.wav"
+    },
+    {
+        "dialogue": "Hmm. Well, good luck.",
+        "url": "https://i1.theportalwiki.net/img/d/d2/GLaDOS_Dota_2_Followup_101.wav"
+    },
+    {
+        "dialogue": "Wait until your loved ones hear about this. This should make them proud. Or bored. One of those.",
+        "url": "https://i1.theportalwiki.net/img/6/68/GLaDOS_Dota_2_Followup_102.wav"
+    },
+    {
+        "dialogue": "Well, really there should be an entirely new word for whatever it was you just stumbled and pinwheeled your arms through. But, I guess for now, let's call it winning.",
+        "url": "https://i1.theportalwiki.net/img/2/20/GLaDOS_Dota_2_Followup_103.wav"
+    },
+    {
+        "dialogue": "All your little goblins destroyed a magic... whatever it was... in the middle of a forest. That's quite a skill you have. If I were you, Id wait by the mailbox for my big cheque.",
+        "url": "https://i1.theportalwiki.net/img/c/ce/GLaDOS_Dota_2_Followup_104.wav"
+    },
+    {
+        "dialogue": "I was going to say \"it's not that big a deal,\" but then I looked at your file and saw the list of your other accomplishments. The space on the form where they should have been, I mean.",
+        "url": "https://i1.theportalwiki.net/img/d/d4/GLaDOS_Dota_2_Followup_105.wav"
+    },
+    {
+        "dialogue": "Congratulations. You solved Dota. You are the best hero. Turn off your computer now.",
+        "url": "https://i1.theportalwiki.net/img/c/c7/GLaDOS_Dota_2_Followup_106.wav"
+    },
+    {
+        "dialogue": "The game already started, by the way. I wasn't sure if you were waiting for a whistle. There isn't one.",
+        "url": "https://i1.theportalwiki.net/img/c/c8/GLaDOS_Dota_2_Etc_01.wav"
+    },
+    {
+        "dialogue": "Don't wear out the edge of your seat.",
+        "url": "https://i1.theportalwiki.net/img/d/d9/GLaDOS_Dota_2_Etc_02.wav"
+    },
+    {
+        "dialogue": "Gripping, isn't it?",
+        "url": "https://i1.theportalwiki.net/img/1/17/GLaDOS_Dota_2_Etc_03.wav"
+    },
+    {
+        "dialogue": "You paid for the whole seat, so get comfortable, because it looks like we may be here a long time.",
+        "url": "https://i1.theportalwiki.net/img/b/ba/GLaDOS_Dota_2_Etc_04.wav"
+    },
+    {
+        "dialogue": "I know, I can't wait either.",
+        "url": "https://i1.theportalwiki.net/img/9/9c/GLaDOS_Dota_2_Etc_05.wav"
+    },
+    {
+        "dialogue": "Here's a Dota play-by-play: That fat, bat winged thing just flew left. A goblin punched a... ghost I think. Good for him. Good for everyone. Anyway, Dota.",
+        "url": "https://i1.theportalwiki.net/img/e/ee/GLaDOS_Dota_2_Etc_06.wav"
+    },
+    {
+        "dialogue": "So... what's happening here then? Oh, the game's still on! Gripping, isn't it?",
+        "url": "https://i1.theportalwiki.net/img/0/01/GLaDOS_Dota_2_Etc_07.wav"
+    },
+    {
+        "dialogue": "I spy with my robot eye something that makes no sense. Did you guess \"everything that's going on here?\" Because this is all nonsense.",
+        "url": "https://i1.theportalwiki.net/img/8/8b/GLaDOS_Dota_2_Etc_08.wav"
+    },
+    {
+        "dialogue": "Based on the way you've been playing, I understand.",
+        "url": "https://i1.theportalwiki.net/img/2/2c/GLaDOS_Dota_2_Exit_Game.wav"
+    },
+    {
+        "dialogue": "GLaDOS_Announcer_ding_on.wav",
+        "url": "https://i1.theportalwiki.net/img/2/21/GLaDOS_Announcer_ding_on.wav"
+    },
+    {
+        "dialogue": "GLaDOS_Announcer_ding_off.wav",
+        "url": "https://i1.theportalwiki.net/img/d/d2/GLaDOS_Announcer_ding_off.wav"
+    }
+]

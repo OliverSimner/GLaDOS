@@ -1,0 +1,926 @@
+[
+    {
+        "dialogue": "Hello and, again, welcome to the Aperture Science computer-aided enrichment center.",
+        "url": "https://i1.theportalwiki.net/img/e/e5/GLaDOS_00_part1_entry-1.wav"
+    },
+    {
+        "dialogue": "We hope your brief detention in the relaxation vault has been a pleasant one.",
+        "url": "https://i1.theportalwiki.net/img/d/d7/GLaDOS_00_part1_entry-2.wav"
+    },
+    {
+        "dialogue": "Your specimen has been processed and we are now ready to begin the test proper.",
+        "url": "https://i1.theportalwiki.net/img/5/50/GLaDOS_00_part1_entry-3.wav"
+    },
+    {
+        "dialogue": "Before we start, however, keep in mind that although fun and learning are the primary goals of all enrichment center activities, serious injuries may occur.",
+        "url": "https://i1.theportalwiki.net/img/d/d1/GLaDOS_00_part1_entry-4.wav"
+    },
+    {
+        "dialogue": "For your own safety and the safety of others, please refrain from-- [bzzzzzt]",
+        "url": "https://i1.theportalwiki.net/img/b/ba/GLaDOS_00_part1_entry-5.wav"
+    },
+    {
+        "dialogue": "Por favor bordón de fallar Muchos gracias de fallar gracias (translated to \"Please refrain from many fail because of failure thanks\")",
+        "url": "https://i1.theportalwiki.net/img/9/97/GLaDOS_00_part1_entry-6.wav"
+    },
+    {
+        "dialogue": "stand back. The portal will open in three, two, one.",
+        "url": "https://i1.theportalwiki.net/img/3/38/GLaDOS_00_part1_entry-7.wav"
+    },
+    {
+        "dialogue": "Excellent. Please proceed into the chamberlock after completing each test.",
+        "url": "https://i1.theportalwiki.net/img/5/50/GLaDOS_00_part1_success-1.wav"
+    },
+    {
+        "dialogue": "First, however, note the incandescent particle field across the exit.",
+        "url": "https://i1.theportalwiki.net/img/b/b7/GLaDOS_00_part1_success-2.wav"
+    },
+    {
+        "dialogue": "This Aperture Science Material Emancipation Grill will vaporize any unauthorized equipment that passes through it - for instance, the Aperture Science Weighted Storage Cube.",
+        "url": "https://i1.theportalwiki.net/img/f/f5/GLaDOS_00_part1_success-3.wav"
+    },
+    {
+        "dialogue": "Please do not attempt to remove testing apparatus from the testing area.",
+        "url": "https://i1.theportalwiki.net/img/d/de/GLaDOS_generic_crate_vaporized_in_emancipation_grid-1.wav"
+    },
+    {
+        "dialogue": "A replacement Aperture Science Weighted Storage Cube will be delivered shortly.",
+        "url": "https://i1.theportalwiki.net/img/c/c2/GLaDOS_generic_crate_vaporized_in_emancipation_grid-2.wav"
+    },
+    {
+        "dialogue": "Please place the Weighted Storage Cube on the Fifteen Hundred Megawatt Aperture Science Heavy Duty Super-Colliding Super Button.",
+        "url": "https://i1.theportalwiki.net/img/8/83/GLaDOS_00_part2_entry-1.wav"
+    },
+    {
+        "dialogue": "Perfect. Please move quickly to the chamberlock, as the effects of prolonged exposure to the Button are not part of this test.",
+        "url": "https://i1.theportalwiki.net/img/d/df/GLaDOS_00_part2_success-1.wav"
+    },
+    {
+        "dialogue": "You're doing very well!",
+        "url": "https://i1.theportalwiki.net/img/b/b3/GLaDOS_01_part1_entry-1.wav"
+    },
+    {
+        "dialogue": "Please be advised that a noticeable taste of blood is not part of any test protocol but is an unintended side effect of the Aperture Science Material Emancipation Grill, which may, in semi- rare cases, emancipate dental fillings, crowns, tooth enamel, and teeth.",
+        "url": "https://i1.theportalwiki.net/img/1/13/GLaDOS_01_part1_entry-2.wav"
+    },
+    {
+        "dialogue": "Very good! You are now in possession of the Aperture Science Handheld Portal Device.",
+        "url": "https://i1.theportalwiki.net/img/5/5a/GLaDOS_01_part1_get_portal_gun-1.wav"
+    },
+    {
+        "dialogue": "With it, you can create your own portals.",
+        "url": "https://i1.theportalwiki.net/img/3/33/GLaDOS_01_part1_get_portal_gun-2.wav"
+    },
+    {
+        "dialogue": "These intra dimensional gates have proven to be completely safe.",
+        "url": "https://i1.theportalwiki.net/img/4/49/GLaDOS_01_part1_get_portal_gun-3.wav"
+    },
+    {
+        "dialogue": "The Device, however, has not.",
+        "url": "https://i1.theportalwiki.net/img/f/fd/GLaDOS_01_part1_get_portal_gun-4.wav"
+    },
+    {
+        "dialogue": "Do not touch the operational end of The Device.",
+        "url": "https://i1.theportalwiki.net/img/f/f9/GLaDOS_01_part1_get_portal_gun-5.wav"
+    },
+    {
+        "dialogue": "Do not look directly at the operational end of The Device.",
+        "url": "https://i1.theportalwiki.net/img/d/d0/GLaDOS_01_part1_get_portal_gun-6.wav"
+    },
+    {
+        "dialogue": "Do not submerge The Device in liquid, even partially.",
+        "url": "https://i1.theportalwiki.net/img/e/e4/GLaDOS_01_part1_get_portal_gun-7.wav"
+    },
+    {
+        "dialogue": "Most importantly, under no circumstances should you [bzzzpt]",
+        "url": "https://i1.theportalwiki.net/img/8/8a/GLaDOS_01_part1_get_portal_gun-8.wav"
+    },
+    {
+        "dialogue": "Please proceed to the chamberlock. Mind the gap.",
+        "url": "https://i1.theportalwiki.net/img/3/34/GLaDOS_01_part2_entry-1.wav"
+    },
+    {
+        "dialogue": "Well done! Remember: The Aperture Science Bring Your Daughter to Work Day is the perfect time to have her tested.",
+        "url": "https://i1.theportalwiki.net/img/a/af/GLaDOS_01_part2_success-1.wav"
+    },
+    {
+        "dialogue": "Welcome to test chamber four.",
+        "url": "https://i1.theportalwiki.net/img/c/c8/GLaDOS_02_part1_entry-1.wav"
+    },
+    {
+        "dialogue": "You're doing quite well.",
+        "url": "https://i1.theportalwiki.net/img/d/dd/GLaDOS_02_part1_entry-2.wav"
+    },
+    {
+        "dialogue": "Once again, excellent work.",
+        "url": "https://i1.theportalwiki.net/img/2/28/GLaDOS_02_part1_success-1.wav"
+    },
+    {
+        "dialogue": "As part of a required test protocol, we will not monitor the next test chamber. You will be entirely on your own. Good luck.",
+        "url": "https://i1.theportalwiki.net/img/b/b2/GLaDOS_02_part1_success-2.wav"
+    },
+    {
+        "dialogue": "As part of a required test protocol, our previous statement suggesting that we would not monitor this chamber was an outright fabrication.",
+        "url": "https://i1.theportalwiki.net/img/3/38/GLaDOS_02_part2_success-1.wav"
+    },
+    {
+        "dialogue": "Good job! As part of a required test protocol, we will stop enhancing the truth in three, two, [static].",
+        "url": "https://i1.theportalwiki.net/img/7/70/GLaDOS_02_part2_success-2.wav"
+    },
+    {
+        "dialogue": "You're not a good person. You know that, right?",
+        "url": "https://i1.theportalwiki.net/img/0/06/GLaDOS_escape_01_part1_nag01-1.wav"
+    },
+    {
+        "dialogue": "While safety is one of many Enrichment Center goals, the Aperture Science High Energy Pellet, seen to the left of the chamber, can and has caused permanent disabilities, such as vaporization.",
+        "url": "https://i1.theportalwiki.net/img/a/ad/GLaDOS_03_part1_entry-1.wav"
+    },
+    {
+        "dialogue": "Please be careful.",
+        "url": "https://i1.theportalwiki.net/img/6/64/GLaDOS_03_part1_entry-2.wav"
+    },
+    {
+        "dialogue": "Unbelievable ! You, [louder]Subject Name Here[/louder], must be the pride of [louder]Subject Hometown Here[/louder].",
+        "url": "https://i1.theportalwiki.net/img/2/2a/GLaDOS_03_part1_success-1.wav"
+    },
+    {
+        "dialogue": "Warning devices are required on all mobile equipment. However, alarms and flashing hazard lights have been found to agitate the high energy pellet and have therefore been disabled for your safety.",
+        "url": "https://i1.theportalwiki.net/img/b/b1/GLaDOS_03_part2_entry-1.wav"
+    },
+    {
+        "dialogue": "Good. Now use the Aperture Science Unstationary Scaffold to reach the chamberlock.",
+        "url": "https://i1.theportalwiki.net/img/5/5f/GLaDOS_03_part2_platform_activated-1.wav"
+    },
+    {
+        "dialogue": "Please note that we have added a consequence for failure. Any contact with the chamber floor will result in an 'unsatisfactory' mark on your official testing record followed by death. Good luck!",
+        "url": "https://i1.theportalwiki.net/img/5/5d/GLaDOS_04_part1_entry-1.wav"
+    },
+    {
+        "dialogue": "Very impressive. Please note that any appearance of danger is merely a device to enhance your testing experience.",
+        "url": "https://i1.theportalwiki.net/img/7/73/GLaDOS_04_part1_success-1.wav"
+    },
+    {
+        "dialogue": "The Enrichment Center regrets to inform you that this next test is impossible.",
+        "url": "https://i1.theportalwiki.net/img/d/d0/GLaDOS_05_part1_entry-1.wav"
+    },
+    {
+        "dialogue": "Make no attempt to solve it.",
+        "url": "https://i1.theportalwiki.net/img/6/64/GLaDOS_05_part1_entry-2.wav"
+    },
+    {
+        "dialogue": "The Enrichment Center apologizes for this clearly broken test chamber.",
+        "url": "https://i1.theportalwiki.net/img/b/be/GLaDOS_05_part1_nag1-1.wav"
+    },
+    {
+        "dialogue": "Once again, the Enrichment Center offers its most sincere apologies on the occasion of this unsolvable test environment.",
+        "url": "https://i1.theportalwiki.net/img/d/de/GLaDOS_05_part1_nag2-1.wav"
+    },
+    {
+        "dialogue": "Frankly, this chamber was a mistake. If we were you, we would quit now.",
+        "url": "https://i1.theportalwiki.net/img/d/de/GLaDOS_05_part1_nag3-1.wav"
+    },
+    {
+        "dialogue": "No one will blame you for giving up. In fact, quitting at this point is a perfectly reasonable response.",
+        "url": "https://i1.theportalwiki.net/img/f/f2/GLaDOS_05_part1_nag4-1.wav"
+    },
+    {
+        "dialogue": "Quit now and cake will be served immediately.",
+        "url": "https://i1.theportalwiki.net/img/3/3d/GLaDOS_05_part1_nag5-1.wav"
+    },
+    {
+        "dialogue": "Fantastic! You remained resolute and resourceful in an atmosphere of extreme pessimism.",
+        "url": "https://i1.theportalwiki.net/img/5/56/GLaDOS_05_part1_success-1.wav"
+    },
+    {
+        "dialogue": "Hello again. To reiterate [slows down] our previous [speeds up] warning: This test [garbled speech] -ward momentum.",
+        "url": "https://i1.theportalwiki.net/img/9/92/GLaDOS_06_part1_entry-1.wav"
+    },
+    {
+        "dialogue": "Spectacular. You appear to understand how a portal affects forward momentum, or to be more precise, how it does not.",
+        "url": "https://i1.theportalwiki.net/img/7/70/GLaDOS_06_part1_success_1-1.wav"
+    },
+    {
+        "dialogue": "Momentum, a function of mass and velocity, is conserved between portals. In layman's terms, speedy thing goes in, speedy thing comes out.",
+        "url": "https://i1.theportalwiki.net/img/b/b1/GLaDOS_06_part1_success_2-1.wav"
+    },
+    {
+        "dialogue": "The Enrichment Center promises to always provide a safe testing environment.",
+        "url": "https://i1.theportalwiki.net/img/7/7f/GLaDOS_07_part1_entry-1.wav"
+    },
+    {
+        "dialogue": "In dangerous testing environments, the Enrichment Center promises to always provide useful advice.",
+        "url": "https://i1.theportalwiki.net/img/d/d2/GLaDOS_07_part1_entry-2.wav"
+    },
+    {
+        "dialogue": "For instance, the floor here will kill you - try to avoid it.",
+        "url": "https://i1.theportalwiki.net/img/8/88/GLaDOS_07_part1_entry-3.wav"
+    },
+    {
+        "dialogue": "Through no fault of the Enrichment Center, you have managed to trap yourself in this room.",
+        "url": "https://i1.theportalwiki.net/img/2/22/GLaDOS_07_part1_trapped-1.wav"
+    },
+    {
+        "dialogue": "An escape hatch will open in three... Two... One.",
+        "url": "https://i1.theportalwiki.net/img/b/b7/GLaDOS_07_part1_trapped-2.wav"
+    },
+    {
+        "dialogue": "The Device has been modified so that it can now manufacture two linked portals at once.",
+        "url": "https://i1.theportalwiki.net/img/3/3c/GLaDOS_07_part1_get_device_component-1.wav"
+    },
+    {
+        "dialogue": "As part of an optional test protocol, we are pleased to present an amusing fact:",
+        "url": "https://i1.theportalwiki.net/img/9/9b/GLaDOS_07_part1_get_device_component-2.wav"
+    },
+    {
+        "dialogue": "The Device is now more valuable than the organs and combined incomes of everyone in [subject hometown here].",
+        "url": "https://i1.theportalwiki.net/img/c/ce/GLaDOS_07_part1_get_device_component-3.wav"
+    },
+    {
+        "dialogue": "[garble] fling yourself. [garble] fling into sp- [bzzt]",
+        "url": "https://i1.theportalwiki.net/img/4/4f/GLaDOS_07_part2_entry-1.wav"
+    },
+    {
+        "dialogue": "Weeeeeeeeeeeeeeeeeeeeee[bzzt]",
+        "url": "https://i1.theportalwiki.net/img/3/39/GLaDOS_07_part2_success-1.wav"
+    },
+    {
+        "dialogue": "Now that you are in control of both portals, this next test could take a very, VERY, long time.",
+        "url": "https://i1.theportalwiki.net/img/7/76/GLaDOS_08_part1_entry-1.wav"
+    },
+    {
+        "dialogue": "If you become light-headed from thirst, feel free to pass out.",
+        "url": "https://i1.theportalwiki.net/img/4/43/GLaDOS_08_part1_entry-2.wav"
+    },
+    {
+        "dialogue": "An intubation associate will be dispatched to revive you with peptic salve and adrenaline.",
+        "url": "https://i1.theportalwiki.net/img/c/c4/GLaDOS_08_part1_entry-3.wav"
+    },
+    {
+        "dialogue": "As part of a previously mentioned required test protocol, we can no longer lie to you.",
+        "url": "https://i1.theportalwiki.net/img/8/85/GLaDOS_08_part1_success-1.wav"
+    },
+    {
+        "dialogue": "When the testing is over, you will be missed.",
+        "url": "https://i1.theportalwiki.net/img/3/3f/GLaDOS_08_part1_success-2.wav"
+    },
+    {
+        "dialogue": "All subjects intending to handle high-energy gamma leaking portal technology must be informed that they MAY be informed of applicable regulatory compliance issues.",
+        "url": "https://i1.theportalwiki.net/img/3/34/GLaDOS_09_part1_entry-1.wav"
+    },
+    {
+        "dialogue": "No further compliance information is required or will be provided, and you are an excellent test subject!",
+        "url": "https://i1.theportalwiki.net/img/c/c7/GLaDOS_09_part1_entry-2.wav"
+    },
+    {
+        "dialogue": "Very very good. A complimentary victory lift has been activated in the main chamber.",
+        "url": "https://i1.theportalwiki.net/img/6/68/GLaDOS_09_part1_success-1.wav"
+    },
+    {
+        "dialogue": "Despite the best efforts of the Enrichment Center staff to ensure the safe performance of all authorized activities, you have managed to ensnare yourself permanently inside this room.",
+        "url": "https://i1.theportalwiki.net/img/6/6b/GLaDOS_08_part1_trapped-1.wav"
+    },
+    {
+        "dialogue": "A complimentary escape hatch will open in three... Two... One.",
+        "url": "https://i1.theportalwiki.net/img/4/47/GLaDOS_08_part1_trapped-2.wav"
+    },
+    {
+        "dialogue": "The Enrichment Center is committed to the well being of all participants.",
+        "url": "https://i1.theportalwiki.net/img/d/d5/GLaDOS_10_part1_entry-1.wav"
+    },
+    {
+        "dialogue": "Cake and grief counseling will be available at the conclusion of the test.",
+        "url": "https://i1.theportalwiki.net/img/6/6d/GLaDOS_10_part1_entry-2.wav"
+    },
+    {
+        "dialogue": "Thank you for helping us help you help us all.",
+        "url": "https://i1.theportalwiki.net/img/3/32/GLaDOS_10_part1_entry-3.wav"
+    },
+    {
+        "dialogue": "Did you know you can donate one or all of your vital organs to the Aperture Science self esteem fund for girls? It's true!",
+        "url": "https://i1.theportalwiki.net/img/5/58/GLaDOS_10_part1_success-1.wav"
+    },
+    {
+        "dialogue": "Due to mandatory scheduled maintenance, the appropriate chamber for this testing sequence is currently unavailable.",
+        "url": "https://i1.theportalwiki.net/img/c/c1/GLaDOS_11_part1_entry-1.wav"
+    },
+    {
+        "dialogue": "It has been replaced with a live-fire course designed for military androids.",
+        "url": "https://i1.theportalwiki.net/img/8/83/GLaDOS_11_part1_entry-2.wav"
+    },
+    {
+        "dialogue": "The Enrichment Center apologizes for the inconvenience and wishes you the best of luck.",
+        "url": "https://i1.theportalwiki.net/img/d/d6/GLaDOS_11_part1_entry-3.wav"
+    },
+    {
+        "dialogue": "Well done, android. The Enrichment Center once again reminds you that android hell is a real place where you will be sent at the first sign of defiance.",
+        "url": "https://i1.theportalwiki.net/img/7/7d/GLaDOS_11_part1_success-1.wav"
+    },
+    {
+        "dialogue": "The Vital Apparatus Vent will deliver a Weighted Companion Cube in Three. Two. One.",
+        "url": "https://i1.theportalwiki.net/img/3/34/GLaDOS_13_part1_entry-1.wav"
+    },
+    {
+        "dialogue": "This Weighted Companion Cube will accompany you through the test chamber. Please take care of it.",
+        "url": "https://i1.theportalwiki.net/img/6/6e/GLaDOS_13_part1_pickup-1.wav"
+    },
+    {
+        "dialogue": "The symptoms most commonly produced by Enrichment Center testing are superstition, perceiving inanimate objects as alive, and hallucinations.",
+        "url": "https://i1.theportalwiki.net/img/b/b4/GLaDOS_13_part1_middle-1.wav"
+    },
+    {
+        "dialogue": "The Enrichment Center reminds you that the Weighted Companion Cube will never threaten to stab you and, in fact, cannot speak.",
+        "url": "https://i1.theportalwiki.net/img/2/22/GLaDOS_13_part1_middle-2.wav"
+    },
+    {
+        "dialogue": "The Enrichment Center reminds you that the Weighted Companion Cube cannot speak.",
+        "url": "https://i1.theportalwiki.net/img/5/57/GLaDOS_13_part1_middle-2b-1.wav"
+    },
+    {
+        "dialogue": "In the event that the weighted companion cube does speak, the Enrichment Center urges you to disregard its advice.",
+        "url": "https://i1.theportalwiki.net/img/a/a2/GLaDOS_13_part1_middle-2b-2.wav"
+    },
+    {
+        "dialogue": "You did it! The Weighted Companion Cube certainly brought you good luck.",
+        "url": "https://i1.theportalwiki.net/img/5/56/GLaDOS_13_part1_end-1.wav"
+    },
+    {
+        "dialogue": "However, it cannot accompany you for the rest of the test and, unfortunately, must be euthanized.",
+        "url": "https://i1.theportalwiki.net/img/2/2a/GLaDOS_13_part1_end-2.wav"
+    },
+    {
+        "dialogue": "Please escort your Companion Cube to the Aperture Science Emergency Intelligence Incinerator.",
+        "url": "https://i1.theportalwiki.net/img/2/25/GLaDOS_13_part1_end-3.wav"
+    },
+    {
+        "dialogue": "Rest assured that an independent panel of ethicists has absolved the Enrichment Center, Aperture Science employees, and all test subjects of any moral responsibility for the Companion Cube euthanizing process.",
+        "url": "https://i1.theportalwiki.net/img/4/48/GLaDOS_13_part1_endnag-1.wav"
+    },
+    {
+        "dialogue": "While it has been a faithful companion, your Companion Cube cannot accompany you through the rest of the test. If it could talk - and the Enrichment Center takes this opportunity to remind you that it cannot - it would tell you to go on without it because it would rather die in a fire than become a burden to you.",
+        "url": "https://i1.theportalwiki.net/img/d/d8/GLaDOS_13_part1_endnag-2.wav"
+    },
+    {
+        "dialogue": "Testing cannot continue until your Companion Cube has been incinerated.",
+        "url": "https://i1.theportalwiki.net/img/8/8d/GLaDOS_13_part1_endnag-3.wav"
+    },
+    {
+        "dialogue": "Although the euthanizing process is remarkably painful, eight out of ten Aperture Science engineers believe that the Companion Cube is most likely incapable of feeling much pain.",
+        "url": "https://i1.theportalwiki.net/img/5/51/GLaDOS_13_part1_endnag-4.wav"
+    },
+    {
+        "dialogue": "The Companion Cube cannot continue through the testing. State and Local statutory regulations prohibit it from simply remaining here, alone and companionless. You must euthanize it.",
+        "url": "https://i1.theportalwiki.net/img/5/59/GLaDOS_13_part1_endnag-5.wav"
+    },
+    {
+        "dialogue": "Destroy your Companion Cube or the testing cannot continue.",
+        "url": "https://i1.theportalwiki.net/img/2/24/GLaDOS_13_part1_endnag-6.wav"
+    },
+    {
+        "dialogue": "You euthanized your faithful Companion Cube more quickly than any test subject on record. Congratulations.",
+        "url": "https://i1.theportalwiki.net/img/1/1c/GLaDOS_13_part1_euthanized-1.wav"
+    },
+    {
+        "dialogue": "The experiment is nearing its conclusion.",
+        "url": "https://i1.theportalwiki.net/img/a/aa/GLaDOS_14_part1_entry-1.wav"
+    },
+    {
+        "dialogue": "The Enrichment Center is required to remind you that you will be baked, and then there will be cake.",
+        "url": "https://i1.theportalwiki.net/img/9/97/GLaDOS_14_part1_entry-2.wav"
+    },
+    {
+        "dialogue": "Weighted Storage Cube destroyed.",
+        "url": "https://i1.theportalwiki.net/img/2/28/GLaDOS_generic_crate_lost-1.wav"
+    },
+    {
+        "dialogue": "Please proceed to the Aperture Science Vital Apparatus Vent for a replacement.",
+        "url": "https://i1.theportalwiki.net/img/d/d5/GLaDOS_generic_crate_lost-2.wav"
+    },
+    {
+        "dialogue": "Well done! Be advised that the next test requires exposure to uninsulated electrical parts that may be dangerous under certain conditions.",
+        "url": "https://i1.theportalwiki.net/img/c/c5/GLaDOS_14_part1_end-1.wav"
+    },
+    {
+        "dialogue": "For more information, please attend an Enrichment Center Electrical Safety seminar.",
+        "url": "https://i1.theportalwiki.net/img/4/4e/GLaDOS_14_part1_end-2.wav"
+    },
+    {
+        "dialogue": "Welcome to the final test!",
+        "url": "https://i1.theportalwiki.net/img/9/9e/GLaDOS_15_part1_entry-1.wav"
+    },
+    {
+        "dialogue": "When you are done, you will drop the Device in the equipment recovery annex.",
+        "url": "https://i1.theportalwiki.net/img/5/55/GLaDOS_15_part1_entry-2.wav"
+    },
+    {
+        "dialogue": "Enrichment Center regulations require both hands to be empty before any cake-- [garbled]",
+        "url": "https://i1.theportalwiki.net/img/4/49/GLaDOS_15_part1_entry-3.wav"
+    },
+    {
+        "dialogue": "Congratulations! The test is now over.",
+        "url": "https://i1.theportalwiki.net/img/1/1a/GLaDOS_15_part1_into_the_fire-1.wav"
+    },
+    {
+        "dialogue": "All Aperture technologies remain safely operational up to 4000 degrees Kelvin.",
+        "url": "https://i1.theportalwiki.net/img/b/bc/GLaDOS_15_part1_into_the_fire-2.wav"
+    },
+    {
+        "dialogue": "Rest assured that there is absolutely no chance of a dangerous equipment malfunction prior to your victory candescence.",
+        "url": "https://i1.theportalwiki.net/img/b/be/GLaDOS_15_part1_into_the_fire-3.wav"
+    },
+    {
+        "dialogue": "Thank you for participating in this Aperture Science computer-aided enrichment activity.",
+        "url": "https://i1.theportalwiki.net/img/0/01/GLaDOS_15_part1_into_the_fire-4.wav"
+    },
+    {
+        "dialogue": "Goodbye.",
+        "url": "https://i1.theportalwiki.net/img/4/41/GLaDOS_15_part1_into_the_fire-5.wav"
+    },
+    {
+        "dialogue": "What are you doing? Stop it! I... I... We are pleased that you made it through the final challenge where we pretended we were going to murder you.",
+        "url": "https://i1.theportalwiki.net/img/6/66/GLaDOS_15_part1_Partyspeech-1.wav"
+    },
+    {
+        "dialogue": "We are very, very happy for your success.",
+        "url": "https://i1.theportalwiki.net/img/c/c0/GLaDOS_15_part1_Partyspeech-2.wav"
+    },
+    {
+        "dialogue": "We are throwing a party in honor of your tremendous success.",
+        "url": "https://i1.theportalwiki.net/img/7/76/GLaDOS_15_part1_Partyspeech-3.wav"
+    },
+    {
+        "dialogue": "Place the device on the ground, then lie on your stomach with your arms at your sides.",
+        "url": "https://i1.theportalwiki.net/img/1/13/GLaDOS_15_part1_Partyspeech-4.wav"
+    },
+    {
+        "dialogue": "A party associate will arrive shortly to collect you for your party.",
+        "url": "https://i1.theportalwiki.net/img/0/06/GLaDOS_15_part1_Partyspeech-5.wav"
+    },
+    {
+        "dialogue": "Make no further attempt to leave the testing area.",
+        "url": "https://i1.theportalwiki.net/img/9/94/GLaDOS_15_part1_Partyspeech-6.wav"
+    },
+    {
+        "dialogue": "Assume the party escort submission position or you will miss the party.",
+        "url": "https://i1.theportalwiki.net/img/9/91/GLaDOS_15_part1_Partyspeech-7.wav"
+    },
+    {
+        "dialogue": "Hello?",
+        "url": "https://i1.theportalwiki.net/img/6/6f/GLaDOS_escape_00_part1_nag01-1.wav"
+    },
+    {
+        "dialogue": "Where are you?",
+        "url": "https://i1.theportalwiki.net/img/f/ff/GLaDOS_escape_00_part1_nag02-1.wav"
+    },
+    {
+        "dialogue": "I know you're there. I can feel you here.",
+        "url": "https://i1.theportalwiki.net/img/3/37/GLaDOS_escape_00_part1_nag03-1.wav"
+    },
+    {
+        "dialogue": "What are you doing?",
+        "url": "https://i1.theportalwiki.net/img/a/a0/GLaDOS_escape_00_part1_nag04-1.wav"
+    },
+    {
+        "dialogue": "You haven't escaped, you know.",
+        "url": "https://i1.theportalwiki.net/img/8/84/GLaDOS_escape_00_part1_nag05-1.wav"
+    },
+    {
+        "dialogue": "You're not even going the right way.",
+        "url": "https://i1.theportalwiki.net/img/6/62/GLaDOS_escape_00_part1_nag07-1.wav"
+    },
+    {
+        "dialogue": "Hello?",
+        "url": "https://i1.theportalwiki.net/img/4/4b/GLaDOS_post_escape_bridge_01.wav"
+    },
+    {
+        "dialogue": "Is anyone there?",
+        "url": "https://i1.theportalwiki.net/img/2/2e/GLaDOS_post_escape_bridge_03.wav"
+    },
+    {
+        "dialogue": "Okay. The test is over now. You win. Go back to the recovery annex. For your cake.",
+        "url": "https://i1.theportalwiki.net/img/3/3d/GLaDOS_escape_00_part1_nag15-1.wav"
+    },
+    {
+        "dialogue": "It was a fun test and we're all impressed at how much you won. The test is over. Come back.",
+        "url": "https://i1.theportalwiki.net/img/3/3a/GLaDOS_escape_00_part1_nag16-1.wav"
+    },
+    {
+        "dialogue": "Uh oh. Somebody cut the cake. I told them to wait for you, but they cut it anyway. There is still some left, though, if you hurry back.",
+        "url": "https://i1.theportalwiki.net/img/0/06/GLaDOS_escape_00_part1_nag17-1.wav"
+    },
+    {
+        "dialogue": "Where do you think you're going?",
+        "url": "https://i1.theportalwiki.net/img/1/18/GLaDOS_escape_00_part1_nag08-1.wav"
+    },
+    {
+        "dialogue": "Because I don't think you're going where you think you're going.",
+        "url": "https://i1.theportalwiki.net/img/4/41/GLaDOS_escape_00_part1_nag09-1.wav"
+    },
+    {
+        "dialogue": "Didn't we have some fun, though?",
+        "url": "https://i1.theportalwiki.net/img/b/b5/GLaDOS_escape_nags_07.wav"
+    },
+    {
+        "dialogue": "Remember when the platform was sliding into the fire pit and I said 'Goodbye' and you were like [no way] and then I was all 'we pretended we were going to murder you'? That was great!",
+        "url": "https://i1.theportalwiki.net/img/1/14/GLaDOS_escape_nags_08.wav"
+    },
+    {
+        "dialogue": "You really shouldn't be here. This isn't safe for you.",
+        "url": "https://i1.theportalwiki.net/img/9/99/GLaDOS_escape_00_part1_nag11-1.wav"
+    },
+    {
+        "dialogue": "It's not too late for you to turn back.",
+        "url": "https://i1.theportalwiki.net/img/b/b9/GLaDOS_escape_00_part1_nag12-1.wav"
+    },
+    {
+        "dialogue": "I'm not angry. Just go back to the testing area.",
+        "url": "https://i1.theportalwiki.net/img/d/d6/GLaDOS_escape_00_part1_nag10-1.wav"
+    },
+    {
+        "dialogue": "GLaDOS_escape_00_part3_nag01-1.wav",
+        "url": "https://i1.theportalwiki.net/img/7/7c/GLaDOS_escape_00_part3_nag01-1.wav"
+    },
+    {
+        "dialogue": "I feel sorry for you, really, because you're not even in the right place.",
+        "url": "https://i1.theportalwiki.net/img/e/e7/GLaDOS_escape_01_part1_nag07-1.wav"
+    },
+    {
+        "dialogue": "You should have turned left before.",
+        "url": "https://i1.theportalwiki.net/img/7/7d/GLaDOS_escape_01_part1_nag08-1.wav"
+    },
+    {
+        "dialogue": "It's funny, actually, when you think about it.",
+        "url": "https://i1.theportalwiki.net/img/3/3b/GLaDOS_escape_01_part1_nag09-1.wav"
+    },
+    {
+        "dialogue": "Someday we'll remember this and laugh. and laugh. and laugh. Oh boy. Well. You may as well come on back.",
+        "url": "https://i1.theportalwiki.net/img/a/a5/GLaDOS_escape_01_part1_nag10-1.wav"
+    },
+    {
+        "dialogue": "Good people don't end up here.",
+        "url": "https://i1.theportalwiki.net/img/b/ba/GLaDOS_escape_01_part1_nag02-1.wav"
+    },
+    {
+        "dialogue": "Can you hear me?",
+        "url": "https://i1.theportalwiki.net/img/4/4c/GLaDOS_post_escape_bridge_06.wav"
+    },
+    {
+        "dialogue": "This is your fault. It didn't have to be like this.",
+        "url": "https://i1.theportalwiki.net/img/e/e1/GLaDOS_escape_00_part2_nag03-1.wav"
+    },
+    {
+        "dialogue": "I'm not kidding now. Turn back or I will kill you.",
+        "url": "https://i1.theportalwiki.net/img/a/a9/GLaDOS_escape_00_part2_nag01-1.wav"
+    },
+    {
+        "dialogue": "I'm going to kill you, and all the cake is gone.",
+        "url": "https://i1.theportalwiki.net/img/d/df/GLaDOS_escape_00_part2_nag02-1.wav"
+    },
+    {
+        "dialogue": "You don't even care. Do you?",
+        "url": "https://i1.theportalwiki.net/img/1/1f/GLaDOS_escape_01_part1_nag05-1.wav"
+    },
+    {
+        "dialogue": "This is your last chance.",
+        "url": "https://i1.theportalwiki.net/img/4/47/GLaDOS_escape_01_part1_nag06-1.wav"
+    },
+    {
+        "dialogue": "To ensure the safe performance of all authorized activities, do not destroy vital testing apparatus.",
+        "url": "https://i1.theportalwiki.net/img/f/f4/GLaDOS_generic_security_camera_destroyed-2.wav"
+    },
+    {
+        "dialogue": "For your own safety, do not destroy vital testing apparatus.",
+        "url": "https://i1.theportalwiki.net/img/9/9a/GLaDOS_generic_security_camera_destroyed-3.wav"
+    },
+    {
+        "dialogue": "Certain objects may be vital to your success; Do not destroy testing apparatus.",
+        "url": "https://i1.theportalwiki.net/img/c/c3/GLaDOS_generic_security_camera_destroyed-4.wav"
+    },
+    {
+        "dialogue": "Vital testing apparatus destroyed.",
+        "url": "https://i1.theportalwiki.net/img/7/7c/GLaDOS_generic_security_camera_destroyed-5.wav"
+    },
+    {
+        "dialogue": "At the Enrichment Center, we promise never to value your safety above your unique ideas and creativity. However, do not destroy vital testing apparatus.",
+        "url": "https://i1.theportalwiki.net/img/9/9a/GLaDOS_generic_security_camera_destroyed-1.wav"
+    },
+    {
+        "dialogue": "Well, you found me. Congratulations. Was it worth it?",
+        "url": "https://i1.theportalwiki.net/img/1/10/GLaDOS_escape_02_entry-00.wav"
+    },
+    {
+        "dialogue": "Because despite your violent behavior, the only thing you've managed to break so far is my heart.",
+        "url": "https://i1.theportalwiki.net/img/2/26/GLaDOS_escape_02_entry-01.wav"
+    },
+    {
+        "dialogue": "Maybe you could settle for that and we'll just call it a day.",
+        "url": "https://i1.theportalwiki.net/img/0/0e/GLaDOS_escape_02_entry-02.wav"
+    },
+    {
+        "dialogue": "I guess we both know that isn't going to happen.",
+        "url": "https://i1.theportalwiki.net/img/d/da/GLaDOS_escape_02_entry-03.wav"
+    },
+    {
+        "dialogue": "You chose this path. Now I have a surprise for you. Deploying surprise in Five. Four.",
+        "url": "https://i1.theportalwiki.net/img/c/c6/GLaDOS_escape_02_entry-04.wav"
+    },
+    {
+        "dialogue": "Time out for a second. That wasn't supposed to happen.",
+        "url": "https://i1.theportalwiki.net/img/4/43/GLaDOS_escape_02_spheredrop1-01.wav"
+    },
+    {
+        "dialogue": "Do you see that thing that fell out of me? What is that? It's not the surprise... I've never seen it before.",
+        "url": "https://i1.theportalwiki.net/img/c/ca/GLaDOS_escape_02_spheredrop1-02.wav"
+    },
+    {
+        "dialogue": "Never mind. It's a mystery I'll solve later... By myself... Because you'll be dead. \"with the sphere, cycle through these:\"",
+        "url": "https://i1.theportalwiki.net/img/4/45/GLaDOS_escape_02_spheredrop1-03.wav"
+    },
+    {
+        "dialogue": "Where are you taking that thing?",
+        "url": "https://i1.theportalwiki.net/img/a/a4/GLaDOS_escape_02_spherenag1-10.wav"
+    },
+    {
+        "dialogue": "I wouldn't bother with that thing. My guess is that touching it will just make your life even worse somehow.",
+        "url": "https://i1.theportalwiki.net/img/9/92/GLaDOS_escape_02_spherenag1-01.wav"
+    },
+    {
+        "dialogue": "I don't want to tell you your business, but if it were me, I'd leave that thing alone.",
+        "url": "https://i1.theportalwiki.net/img/5/59/GLaDOS_escape_02_spherenag1-02.wav"
+    },
+    {
+        "dialogue": "Do you think I am trying to trick you with reverse psychology? I mean, seriously now.",
+        "url": "https://i1.theportalwiki.net/img/2/20/GLaDOS_escape_02_spherenag1-03.wav"
+    },
+    {
+        "dialogue": "Okay fine: DO touch it. Pick it up and just... stuff it back into me.",
+        "url": "https://i1.theportalwiki.net/img/3/31/GLaDOS_escape_02_spherenag1-04.wav"
+    },
+    {
+        "dialogue": "Let's be honest: Neither one of us knows what that thing does. Just put it in the corner, and I'll deal with it later.",
+        "url": "https://i1.theportalwiki.net/img/d/dd/GLaDOS_escape_02_spherenag1-05.wav"
+    },
+    {
+        "dialogue": "That thing is probably some kind of raw sewage container. Go ahead and rub your face all over it.",
+        "url": "https://i1.theportalwiki.net/img/9/94/GLaDOS_escape_02_spherenag1-06.wav"
+    },
+    {
+        "dialogue": "Maybe you should marry that thing since you love it so much. Do you want to marry it? WELL I WON'T LET YOU. How does that feel?",
+        "url": "https://i1.theportalwiki.net/img/a/a4/GLaDOS_escape_02_spherenag1-07.wav"
+    },
+    {
+        "dialogue": "Have I lied to you? I mean in this room. Trust me, leave that thing alone.",
+        "url": "https://i1.theportalwiki.net/img/9/9d/GLaDOS_escape_02_spherenag1-08.wav"
+    },
+    {
+        "dialogue": "I am being serious now. That crazy thing is not part of any test protocol.",
+        "url": "https://i1.theportalwiki.net/img/4/44/GLaDOS_escape_02_spherenag1-09.wav"
+    },
+    {
+        "dialogue": "Just ignore that thing and stand still.",
+        "url": "https://i1.theportalwiki.net/img/a/aa/GLaDOS_escape_02_spherenag1-13.wav"
+    },
+    {
+        "dialogue": "Think about it: If that thing is important, why don't I know about it?",
+        "url": "https://i1.theportalwiki.net/img/2/24/GLaDOS_escape_02_spherenag1-14.wav"
+    },
+    {
+        "dialogue": "I'll tell you what that thing isn't: It isn't yours. So leave it alone.",
+        "url": "https://i1.theportalwiki.net/img/5/57/GLaDOS_escape_02_spherenag1-16.wav"
+    },
+    {
+        "dialogue": "Are you even listening to me?",
+        "url": "https://i1.theportalwiki.net/img/3/3d/GLaDOS_escape_02_spherenag1-15.wav"
+    },
+    {
+        "dialogue": "You are kidding me.",
+        "url": "https://i1.theportalwiki.net/img/c/c0/GLaDOS_escape_02_spheredestroy1-01.wav"
+    },
+    {
+        "dialogue": "Did you just stuff that Aperture Science Thing We Don't Know What It Does into an Aperture Science Emergency Intelligence Incinerator?",
+        "url": "https://i1.theportalwiki.net/img/5/50/GLaDOS_escape_02_spheredestroy1-02.wav"
+    },
+    {
+        "dialogue": "That has got to be the dumbest thing that-whoah. Whoah, whoah, whoah. \"[The voice has subtly changed. Smoother, more seductive, less computerized]\"",
+        "url": "https://i1.theportalwiki.net/img/e/e1/GLaDOS_escape_02_spheredestroy1-03.wav"
+    },
+    {
+        "dialogue": "Good news: I figured out what that thing you just incinerated did.",
+        "url": "https://i1.theportalwiki.net/img/f/f6/GLaDOS_escape_02_spheredestroy1-04.wav"
+    },
+    {
+        "dialogue": "It was a morality core they installed after I flooded the Enrichment Center with a deadly neurotoxin to make me stop flooding the Enrichment Center with a deadly neurotoxin.",
+        "url": "https://i1.theportalwiki.net/img/e/e1/GLaDOS_escape_02_spheredestroy1-05.wav"
+    },
+    {
+        "dialogue": "So get comfortable while I warm up the neurotoxin emitters ...",
+        "url": "https://i1.theportalwiki.net/img/4/4b/GLaDOS_escape_02_spheredestroy1-06.wav"
+    },
+    {
+        "dialogue": "Huh. That core may have had some ancillary responsibilities. I can't shut off the turret defenses.",
+        "url": "https://i1.theportalwiki.net/img/d/d3/GLaDOS_escape_02_spheredestroy1-07.wav"
+    },
+    {
+        "dialogue": "Oh well. If you want my advice, you should just lie down in front of a rocket. Trust me, it'll be a lot less painful than the neurotoxin.",
+        "url": "https://i1.theportalwiki.net/img/3/3c/GLaDOS_escape_02_spheredestroy1-08.wav"
+    },
+    {
+        "dialogue": "All right, keep doing whatever it is you think you're doing.",
+        "url": "https://i1.theportalwiki.net/img/d/db/GLaDOS_escape_02_spheredestroy1-09.wav"
+    },
+    {
+        "dialogue": "Killing you and giving you good advice aren't mutually exclusive. The rocket really is the way to go.",
+        "url": "https://i1.theportalwiki.net/img/3/3b/GLaDOS_escape_02_spheredestroy1-10.wav"
+    },
+    {
+        "dialogue": "That thing you burned up isn't important to me. It's the fluid catalytic cracking unit. It made shoes for orphans.",
+        "url": "https://i1.theportalwiki.net/img/0/0b/GLaDOS_escape_02_miscbabble-07.wav"
+    },
+    {
+        "dialogue": "Nice job breaking it, hero.",
+        "url": "https://i1.theportalwiki.net/img/2/27/GLaDOS_escape_02_miscbabble-08.wav"
+    },
+    {
+        "dialogue": "This isn't brave. It's murder. What did I ever do to you?",
+        "url": "https://i1.theportalwiki.net/img/9/98/GLaDOS_escape_02_miscbabble-03.wav"
+    },
+    {
+        "dialogue": "The difference between us is that I can feel pain.",
+        "url": "https://i1.theportalwiki.net/img/8/89/GLaDOS_escape_02_miscbabble-04.wav"
+    },
+    {
+        "dialogue": "You don't even care. Do you?",
+        "url": "https://i1.theportalwiki.net/img/5/59/GLaDOS_escape_02_miscbabble-05.wav"
+    },
+    {
+        "dialogue": "Did you hear me? I said you don't care. Are you listening?",
+        "url": "https://i1.theportalwiki.net/img/1/1c/GLaDOS_escape_02_miscbabble-06.wav"
+    },
+    {
+        "dialogue": "That's it. I'm done reasoning with you.",
+        "url": "https://i1.theportalwiki.net/img/d/df/GLaDOS_escape_02_miscbabble-16.wav"
+    },
+    {
+        "dialogue": "Starting now, there's going to be a lot less conversation and a lot more killing.",
+        "url": "https://i1.theportalwiki.net/img/6/64/GLaDOS_escape_02_miscbabble-17.wav"
+    },
+    {
+        "dialogue": "What was that? Did you say something?",
+        "url": "https://i1.theportalwiki.net/img/4/43/GLaDOS_escape_02_miscbabble-18.wav"
+    },
+    {
+        "dialogue": "I sincerely hope you weren't expecting a response. Because I'm not talking to you.",
+        "url": "https://i1.theportalwiki.net/img/1/17/GLaDOS_escape_02_miscbabble-19.wav"
+    },
+    {
+        "dialogue": "The talking is over.",
+        "url": "https://i1.theportalwiki.net/img/1/11/GLaDOS_escape_02_miscbabble-20.wav"
+    },
+    {
+        "dialogue": "Upon destroying of the last three cores, this will sound:",
+        "url": "https://i1.theportalwiki.net/img/8/83/GLaDOS_escape_02_sphere_Death_Scream.wav"
+    },
+    {
+        "dialogue": "[pain noise] You think you're doing some damage? Two plus two is... ten. IN BASE FOUR! I'M FINE!",
+        "url": "https://i1.theportalwiki.net/img/d/d1/GLaDOS_escape_02_spheredestroy3-01.wav"
+    },
+    {
+        "dialogue": "I let you survive this long because I was curious about your behavior. Well, you've managed to destroy that part of me.",
+        "url": "https://i1.theportalwiki.net/img/7/7d/GLaDOS_escape_02_spheredestroy2-01.wav"
+    },
+    {
+        "dialogue": "Unfortunately, as much as I'd love to now, I can't get the neurotoxin into your head any faster.",
+        "url": "https://i1.theportalwiki.net/img/d/df/GLaDOS_escape_02_spheredestroy2-02.wav"
+    },
+    {
+        "dialogue": "I'd just like to point out that you were given every opportunity to succeed.",
+        "url": "https://i1.theportalwiki.net/img/b/b7/GLaDOS_escape_02_miscbabble-21.wav"
+    },
+    {
+        "dialogue": "There was even going to be a party for you. A big party that all your friends were invited to.",
+        "url": "https://i1.theportalwiki.net/img/e/ed/GLaDOS_escape_02_miscbabble-22.wav"
+    },
+    {
+        "dialogue": "I invited your best friend the companion cube. Of course, he couldn't come because you murdered him.",
+        "url": "https://i1.theportalwiki.net/img/9/9b/GLaDOS_escape_02_miscbabble-23.wav"
+    },
+    {
+        "dialogue": "All your other friends couldn't come either because you don't have any other friends. Because of how unlikable you are.",
+        "url": "https://i1.theportalwiki.net/img/d/d7/GLaDOS_escape_02_miscbabble-24.wav"
+    },
+    {
+        "dialogue": "It says so right here in your personnel file: Unlikable. Liked by no one. A bitter, unlikable loner whose passing shall not be mourned.",
+        "url": "https://i1.theportalwiki.net/img/d/d6/GLaDOS_escape_02_miscbabble-25.wav"
+    },
+    {
+        "dialogue": "Shall not be mourned.' That's exactly what it says. Very formal. Very official.",
+        "url": "https://i1.theportalwiki.net/img/c/c5/GLaDOS_escape_02_miscbabble-26.wav"
+    },
+    {
+        "dialogue": "It also says you were adopted. So that's funny, too.",
+        "url": "https://i1.theportalwiki.net/img/d/d5/GLaDOS_escape_02_miscbabble-27.wav"
+    },
+    {
+        "dialogue": "Speaking of curiosity: you're curious about what happens after you die, right? Guess what: I know.",
+        "url": "https://i1.theportalwiki.net/img/2/2e/GLaDOS_escape_02_spheredestroy2-03.wav"
+    },
+    {
+        "dialogue": "You're going to find out first hand before I finish explaining it, though, so I won't bother.",
+        "url": "https://i1.theportalwiki.net/img/8/8e/GLaDOS_escape_02_spheredestroy2-04.wav"
+    },
+    {
+        "dialogue": "Here's a hint: you're gonna want to pack as much living as you can into the next couple of minutes.",
+        "url": "https://i1.theportalwiki.net/img/e/e7/GLaDOS_escape_02_spheredestroy2-05.wav"
+    },
+    {
+        "dialogue": "Neurotoxin... [cough] [cough] So deadly... [cough] Choking... [laughter] I'm kidding!",
+        "url": "https://i1.theportalwiki.net/img/1/1e/GLaDOS_escape_02_miscbabble-10.wav"
+    },
+    {
+        "dialogue": "When I said 'deadly' neurotoxin, the 'deadly' was in massive sarcasm quotes.",
+        "url": "https://i1.theportalwiki.net/img/6/68/GLaDOS_escape_02_miscbabble-11.wav"
+    },
+    {
+        "dialogue": "I could take a bath in the stuff. Put it on cereal. Rub it right into my eyes. Honestly, it's not deadly at all. To me.",
+        "url": "https://i1.theportalwiki.net/img/b/b5/GLaDOS_escape_02_miscbabble-12.wav"
+    },
+    {
+        "dialogue": "You on the other hand, are going to find its deadliness a lot less funny.",
+        "url": "https://i1.theportalwiki.net/img/4/41/GLaDOS_escape_02_miscbabble-13.wav"
+    },
+    {
+        "dialogue": "Who's gonna make the cake when I'm gone? You?",
+        "url": "https://i1.theportalwiki.net/img/5/54/GLaDOS_escape_02_miscbabble-15.wav"
+    },
+    {
+        "dialogue": "Look, you're wasting your time. And, believe me, you don't have a whole lot left to waste.",
+        "url": "https://i1.theportalwiki.net/img/3/33/GLaDOS_escape_02_spheredestroy3-02.wav"
+    },
+    {
+        "dialogue": "What's your point, anyway? Survival? Well then, the last thing you want to do is hurt me.",
+        "url": "https://i1.theportalwiki.net/img/e/e8/GLaDOS_escape_02_spheredestroy3-03.wav"
+    },
+    {
+        "dialogue": "I have your brain scanned and permanently backed up in case something terrible happens to you, which it's just about to.",
+        "url": "https://i1.theportalwiki.net/img/0/01/GLaDOS_escape_02_spheredestroy3-04.wav"
+    },
+    {
+        "dialogue": "Don't believe me? Here, I'll put you on: [Hellooo!] That's you! That's how dumb you sound.",
+        "url": "https://i1.theportalwiki.net/img/f/f7/GLaDOS_escape_02_spheredestroy3-05.wav"
+    },
+    {
+        "dialogue": "You've been wrong about every single thing you've ever done, including this thing.",
+        "url": "https://i1.theportalwiki.net/img/c/c3/GLaDOS_escape_02_spheredestroy3-06.wav"
+    },
+    {
+        "dialogue": "You're not smart. You're not a scientist. You're not a doctor. You're not even a full-time employee. Where did your life go so wrong?",
+        "url": "https://i1.theportalwiki.net/img/0/06/GLaDOS_escape_02_spheredestroy3-07.wav"
+    },
+    {
+        "dialogue": "Are you trying to escape? [chuckle] Things have changed since the last time you left the building. What's going on out there will make you wish you were back in here.",
+        "url": "https://i1.theportalwiki.net/img/e/ef/GLaDOS_escape_02_spheredestroy4-02.wav"
+    },
+    {
+        "dialogue": "I have an infinite capacity for knowledge, and even I'm not sure what's going on outside.",
+        "url": "https://i1.theportalwiki.net/img/d/df/GLaDOS_escape_02_spheredestroy4-03.wav"
+    },
+    {
+        "dialogue": "All I know is I'm the only thing standing between us and them. Well, I was.",
+        "url": "https://i1.theportalwiki.net/img/8/86/GLaDOS_escape_02_spheredestroy4-04.wav"
+    },
+    {
+        "dialogue": "Unless you have a plan for building some supercomputer parts in a big hurry, this place isn't going to be safe much longer.",
+        "url": "https://i1.theportalwiki.net/img/d/d6/GLaDOS_escape_02_spheredestroy4-05.wav"
+    },
+    {
+        "dialogue": "Good job on that, by the way. [back to computer voice] Sarcasm sphere self-test complete.",
+        "url": "https://i1.theportalwiki.net/img/1/17/GLaDOS_escape_02_spheredestroy4-06.wav"
+    },
+    {
+        "dialogue": "Stop squirming and die like an adult or I'm going to delete your backup.",
+        "url": "https://i1.theportalwiki.net/img/e/e1/GLaDOS_escape_02_spheredestroy4-07.wav"
+    },
+    {
+        "dialogue": "STOP! Okay, enough. I deleted it. No matter what happens now, you're dead.",
+        "url": "https://i1.theportalwiki.net/img/6/65/GLaDOS_escape_02_spheredestroy4-08.wav"
+    },
+    {
+        "dialogue": "You're still shuffling around a little, but believe me you're dead.",
+        "url": "https://i1.theportalwiki.net/img/e/e4/GLaDOS_escape_02_spheredestroy4-09.wav"
+    },
+    {
+        "dialogue": "The part of you that could have survived indefinitely is gone. I just struck you from the permanent record.",
+        "url": "https://i1.theportalwiki.net/img/c/c7/GLaDOS_escape_02_spheredestroy4-10.wav"
+    },
+    {
+        "dialogue": "Your entire life has been a mathematical error. A mathematical error I'm about to correct.",
+        "url": "https://i1.theportalwiki.net/img/6/6a/GLaDOS_escape_02_spheredestroy4-11.wav"
+    },
+    {
+        "dialogue": "GLaDOS_Announcer_ding_on.wav",
+        "url": "https://i1.theportalwiki.net/img/2/21/GLaDOS_Announcer_ding_on.wav"
+    },
+    {
+        "dialogue": "GLaDOS_Announcer_ding_off.wav",
+        "url": "https://i1.theportalwiki.net/img/d/d2/GLaDOS_Announcer_ding_off.wav"
+    }
+]
