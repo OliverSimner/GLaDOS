@@ -3,134 +3,223 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#111827">
-  <title>Portal Audio Library</title>
+  <meta name="theme-color" content="#dce2d8">
+  <title>Portal voice lines</title>
   <style>
     :root {
-      color-scheme: dark;
-      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      background: #0b1020;
-      color: #edf2ff;
+      color-scheme: light;
+      font-family: "Courier New", Courier, monospace;
+      background: #dce2d8;
+      color: #202820;
       font-synthesis: none;
+      --paper: #f6f5eb;
+      --ink: #202820;
+      --muted: #657064;
+      --line: #c6ccbd;
+      --green: #b7d83f;
+      --orange: #e65d32;
     }
 
     * { box-sizing: border-box; }
 
     body {
-      max-width: 1180px;
+      max-width: 1240px;
       margin: 0 auto;
-      padding: 40px 24px 64px;
-      background: radial-gradient(ellipse at 50% -20%, #24345a 0, #0b1020 52%);
+      padding: 28px 30px 56px;
       min-height: 100vh;
+      background-color: var(--paper);
+      background-image:
+        linear-gradient(#cfd5c7 1px, transparent 1px),
+        linear-gradient(90deg, #cfd5c7 1px, transparent 1px);
+      background-size: 24px 24px;
+      border-inline: 1px solid #bec6b8;
     }
 
-    h1 { margin: 0; font-size: clamp(2rem, 5vw, 3.2rem); letter-spacing: -0.05em; }
-    h1 span { color: #8db8ff; }
-    .intro { margin: 10px 0 28px; color: #aab6d1; }
+    .masthead {
+      display: flex;
+      justify-content: space-between;
+      align-items: stretch;
+      gap: 20px;
+      padding: 22px 24px;
+      background: var(--ink);
+      color: var(--paper);
+      border-bottom: 6px solid var(--orange);
+    }
+
+    .brand { display: flex; align-items: center; }
+
+    h1 {
+      margin: 0;
+      font-family: Impact, "Arial Narrow", sans-serif;
+      font-size: clamp(2rem, 5vw, 3.2rem);
+      font-weight: 400;
+      letter-spacing: 0;
+      line-height: .96;
+    }
+
+    .intro { margin: 8px 0 0; color: #c5cdc0; font-size: .78rem; }
 
     .toolbar {
       display: grid;
-      grid-template-columns: minmax(200px, 1fr) minmax(170px, 240px) auto;
-      gap: 12px;
-      align-items: center;
-      position: sticky;
-      top: 0;
-      z-index: 2;
-      padding: 14px 0;
-      background: #0b1020ee;
-      backdrop-filter: blur(12px);
+      grid-template-columns: minmax(200px, 1.3fr) minmax(160px, 1fr) minmax(170px, 1fr) auto;
+      gap: 10px;
+      align-items: end;
+      padding: 18px 22px;
+      border-bottom: 2px solid var(--ink);
+      background: var(--paper);
+    }
+
+    .field { display: grid; gap: 6px; min-width: 0; }
+    .field label {
+      color: var(--muted);
+      font-size: .66rem;
+      font-weight: bold;
+      letter-spacing: .05em;
     }
 
     input, select, button, .download {
-      min-height: 42px;
-      border: 1px solid #35415e;
-      border-radius: 9px;
-      background: #151d31;
-      color: inherit;
+      min-height: 39px;
+      border: 1px solid var(--ink);
+      border-radius: 0;
+      background: #fffef7;
+      color: var(--ink);
       font: inherit;
+      font-size: .8rem;
     }
 
-    input, select { width: 100%; padding: 0 12px; }
-    input::placeholder { color: #7885a1; }
-    button, .download { padding: 0 14px; cursor: pointer; text-decoration: none; }
-    button:hover, .download:hover { background: #202c46; border-color: #6b8fc9; }
-    button:disabled { opacity: .45; cursor: not-allowed; }
+    input, select { width: 100%; padding: 0 10px; }
+    input::placeholder { color: #868c7f; }
+
+    input:focus, select:focus, button:focus-visible, .download:focus-visible {
+      outline: 2px solid var(--orange);
+      outline-offset: 2px;
+    }
+
+    button, .download { padding: 0 12px; cursor: pointer; text-decoration: none; }
+    button:hover, .download:hover { background: var(--green); }
+    button:disabled { color: #788073; cursor: not-allowed; }
+    .toolbar > button { height: 39px; background: var(--ink); color: var(--paper); }
+    .toolbar > button:hover { background: var(--orange); }
 
     .summary {
       display: flex;
       flex-wrap: wrap;
       align-items: center;
       justify-content: space-between;
-      gap: 10px;
-      color: #aab6d1;
-      min-height: 36px;
-      font-size: .92rem;
+      gap: 8px;
+      min-height: 44px;
+      padding: 4px 22px;
+      border-bottom: 1px solid var(--line);
+      color: var(--muted);
+      background: #ebece1;
+      font-size: .72rem;
     }
 
-    .summary strong { color: #edf2ff; }
+    .summary strong { color: var(--ink); font-size: .88rem; }
     .selection { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
-    .selection button { min-height: 34px; padding: 0 10px; font-size: .86rem; }
+    .selection button { min-height: 29px; padding: 0 9px; font-size: .7rem; }
+    #download-selected:not(:disabled) { border-color: var(--orange); background: var(--orange); color: #fffef7; }
+    #download-selected:not(:disabled):hover { background: var(--ink); }
+    #selected-count { font-size: .68rem; }
 
     .notice {
-      border: 1px solid #35415e;
-      border-radius: 10px;
-      padding: 14px 16px;
-      margin: 12px 0;
-      color: #c3cee4;
-      background: #111a2d;
+      margin: 0;
+      padding: 12px 22px;
+      border-bottom: 1px solid var(--line);
+      border-left: 6px solid var(--orange);
+      color: var(--ink);
+      background: #f4e8d2;
+      font-size: .76rem;
     }
 
-    .notice.error { border-color: #9c4c58; color: #ffd5d9; }
-    .list { display: grid; gap: 10px; margin-top: 12px; }
+    .notice.error { border-color: #a43c36; color: #7e2925; background: #f1ded6; }
+    .list { display: grid; margin-top: 0; counter-reset: voice-line; }
 
     .item {
       display: grid;
-      grid-template-columns: 24px minmax(0, 1fr) auto;
-      gap: 14px;
-      align-items: start;
-      padding: 16px;
-      border: 1px solid #26314a;
-      border-radius: 12px;
-      background: #121a2b;
-      transition: border-color .15s, background .15s;
+      grid-template-columns: 20px minmax(0, 1fr) auto;
+      gap: 12px;
+      align-items: center;
+      min-height: 72px;
+      padding: 10px 22px;
+      border-bottom: 1px solid var(--line);
+      background: #f6f5eb;
     }
 
-    .item:hover { border-color: #526c9b; background: #151f34; }
-    .item > input { width: 18px; min-height: 18px; margin: 4px 0 0; accent-color: #75a8ff; }
-    .dialogue { line-height: 1.5; overflow-wrap: anywhere; }
-    .meta { margin-top: 7px; color: #91a0bd; font-size: .82rem; overflow-wrap: anywhere; }
-    .actions { display: flex; flex-direction: column; gap: 8px; min-width: 135px; }
-    .actions audio { width: 190px; max-width: 100%; height: 34px; }
-    .download { display: inline-flex; align-items: center; justify-content: center; min-height: 36px; font-size: .88rem; }
+    .item:hover { background: #e9eddf; }
+    .item > input { width: 15px; min-height: 15px; margin: 0; accent-color: var(--orange); }
+    .dialogue { font-size: .88rem; line-height: 1.45; overflow-wrap: anywhere; }
+    .meta { margin-top: 5px; color: var(--muted); font-size: .63rem; overflow-wrap: anywhere; }
+    .actions { display: flex; align-items: center; gap: 8px; }
+    .actions audio { width: 190px; max-width: 100%; height: 30px; }
+    .download { display: inline-flex; align-items: center; justify-content: center; min-height: 30px; font-size: .68rem; white-space: nowrap; }
 
-    .pagination { display: flex; justify-content: center; align-items: center; gap: 12px; margin-top: 22px; color: #aab6d1; }
-    .pagination button { min-height: 36px; }
-    .empty { padding: 36px 16px; text-align: center; color: #aab6d1; border: 1px dashed #35415e; border-radius: 12px; }
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 12px;
+      margin: 0;
+      padding: 18px;
+      border-top: 2px solid var(--ink);
+      background: #ebece1;
+      color: var(--muted);
+      font-size: .72rem;
+    }
 
-    @media (max-width: 700px) {
-      body { padding: 28px 14px 48px; }
-      .toolbar { grid-template-columns: 1fr 1fr; }
-      .toolbar input { grid-column: 1 / -1; }
-      .toolbar button { width: 100%; }
-      .item { grid-template-columns: 22px minmax(0, 1fr); gap: 10px; }
-      .actions { grid-column: 2; flex-direction: row; flex-wrap: wrap; align-items: center; }
-      .actions audio { width: min(100%, 260px); }
-      .download { min-width: 100px; }
+    .pagination button { min-height: 31px; }
+    .empty { padding: 42px 16px; color: var(--muted); background: var(--paper); text-align: center; border-bottom: 1px solid var(--line); }
+
+    @media (max-width: 940px) {
+      .toolbar { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .toolbar > button { grid-column: 1 / -1; }
+    }
+
+    @media (max-width: 760px) {
+      body { padding: 14px 12px 32px; }
+      .masthead { padding: 17px 14px; }
+      .toolbar { padding: 14px; }
+      .toolbar > button { width: 100%; }
+      .summary { padding: 6px 14px; }
+      .item { grid-template-columns: 18px minmax(0, 1fr); gap: 8px; padding: 10px 14px; }
+      .actions { grid-column: 2; flex-wrap: wrap; }
+      .actions audio { width: min(100%, 240px); }
+      .download { min-width: 92px; }
     }
   </style>
 </head>
 <body>
   <header>
-    <h1>Portal <span>Audio Library</span></h1>
-    <p class="intro">Search, preview, and download voice lines from the local collection.</p>
+    <div class="masthead">
+      <div>
+        <div class="brand">
+          <div>
+            <h1>Portal voice lines</h1>
+            <p class="intro">Browse, listen, and download.</p>
+          </div>
+        </div>
+      </div>
+    </div>
   </header>
 
   <section class="toolbar" aria-label="Audio filters">
-    <input id="search" type="search" placeholder="Search dialogue or WAV filename…" aria-label="Search">
-    <select id="character" aria-label="Filter by character">
-      <option value="">All characters</option>
-    </select>
-    <button id="select-visible" type="button">Select visible</button>
+    <div class="field">
+      <label for="dialogue-search">Dialogue</label>
+      <input id="dialogue-search" type="search" placeholder="Words in the line…" aria-label="Search dialogue">
+    </div>
+    <div class="field">
+      <label for="character">Character</label>
+      <select id="character" aria-label="Filter by character">
+        <option value="">All speakers</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="collection">Collection</label>
+      <select id="collection" aria-label="Filter by collection">
+        <option value="">All collections</option>
+      </select>
+    </div>
+    <button id="select-visible" type="button">Select page</button>
   </section>
 
   <section class="summary" aria-live="polite">
@@ -172,8 +261,9 @@
     let filtered = [];
     let page = 0;
 
-    const searchInput = document.querySelector("#search");
+    const dialogueSearch = document.querySelector("#dialogue-search");
     const characterSelect = document.querySelector("#character");
+    const collectionSelect = document.querySelector("#collection");
     const list = document.querySelector("#list");
     const countLabel = document.querySelector("#count");
     const selectedLabel = document.querySelector("#selected-count");
@@ -206,6 +296,21 @@
       };
       return known[slug] || slug.replace(/_/g, " ")
         .replace(/\b\w/g, (letter) => letter.toUpperCase());
+    }
+
+    function collectionName(file) {
+      const names = {
+        announcer_lines: "Announcer",
+        cave_lines: "Cave Johnson",
+        detectiveturret_lines: "Detective Turret",
+        glados_lines_coop: "GLaDOS — Co-op",
+        glados_lines_portal1: "GLaDOS — Portal 1",
+        glados_lines_portal2: "GLaDOS — Portal 2",
+        glados_lines_unused_alternative: "GLaDOS — Unused / alternative",
+        turret_lines: "Turret",
+        wheatly_lines: "Wheatley"
+      };
+      return names[file.replace(/\.json$/i, "")] || file.replace(/_lines.*$/i, "");
     }
 
     function makeCatalog(dataByFile) {
@@ -254,6 +359,7 @@
           rows.push({
             id: titleKey,
             character,
+            collection: file,
             dialogue: entry.dialogue.trim() || title,
             filename: decodeURIComponent(url.pathname.split("/").pop()),
             audio: sourcePaths.get(sourceKey),
@@ -271,12 +377,13 @@
     }
 
     function render() {
-      const query = searchInput.value.trim().toLocaleLowerCase();
+      const dialogueQuery = dialogueSearch.value.trim().toLocaleLowerCase();
       const character = characterSelect.value;
+      const collection = collectionSelect.value;
       filtered = rows.filter((row) =>
         (!character || row.character === character) &&
-        (!query || `${row.dialogue} ${row.filename} ${row.character}`
-          .toLocaleLowerCase().includes(query))
+        (!collection || row.collection === collection) &&
+        (!dialogueQuery || row.dialogue.toLocaleLowerCase().includes(dialogueQuery))
       );
       const pageCount = Math.max(1, Math.ceil(filtered.length / pageSize));
       page = Math.min(page, pageCount - 1);
@@ -384,11 +491,21 @@
           option.textContent = name;
           characterSelect.append(option);
         });
+
+      [...new Set(rows.map((row) => row.collection))]
+        .sort((a, b) => collectionName(a).localeCompare(collectionName(b)))
+        .forEach((file) => {
+          const option = document.createElement("option");
+          option.value = file;
+          option.textContent = collectionName(file);
+          collectionSelect.append(option);
+        });
       render();
     }
 
-    searchInput.addEventListener("input", () => { page = 0; render(); });
+    dialogueSearch.addEventListener("input", () => { page = 0; render(); });
     characterSelect.addEventListener("change", () => { page = 0; render(); });
+    collectionSelect.addEventListener("change", () => { page = 0; render(); });
     document.querySelector("#previous").addEventListener("click", () => {
       page -= 1;
       render();
