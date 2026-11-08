@@ -1,0 +1,430 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#111827">
+  <title>Portal Audio Library</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #0b1020;
+      color: #edf2ff;
+      font-synthesis: none;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 40px 24px 64px;
+      background: radial-gradient(ellipse at 50% -20%, #24345a 0, #0b1020 52%);
+      min-height: 100vh;
+    }
+
+    h1 { margin: 0; font-size: clamp(2rem, 5vw, 3.2rem); letter-spacing: -0.05em; }
+    h1 span { color: #8db8ff; }
+    .intro { margin: 10px 0 28px; color: #aab6d1; }
+
+    .toolbar {
+      display: grid;
+      grid-template-columns: minmax(200px, 1fr) minmax(170px, 240px) auto;
+      gap: 12px;
+      align-items: center;
+      position: sticky;
+      top: 0;
+      z-index: 2;
+      padding: 14px 0;
+      background: #0b1020ee;
+      backdrop-filter: blur(12px);
+    }
+
+    input, select, button, .download {
+      min-height: 42px;
+      border: 1px solid #35415e;
+      border-radius: 9px;
+      background: #151d31;
+      color: inherit;
+      font: inherit;
+    }
+
+    input, select { width: 100%; padding: 0 12px; }
+    input::placeholder { color: #7885a1; }
+    button, .download { padding: 0 14px; cursor: pointer; text-decoration: none; }
+    button:hover, .download:hover { background: #202c46; border-color: #6b8fc9; }
+    button:disabled { opacity: .45; cursor: not-allowed; }
+
+    .summary {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      color: #aab6d1;
+      min-height: 36px;
+      font-size: .92rem;
+    }
+
+    .summary strong { color: #edf2ff; }
+    .selection { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+    .selection button { min-height: 34px; padding: 0 10px; font-size: .86rem; }
+
+    .notice {
+      border: 1px solid #35415e;
+      border-radius: 10px;
+      padding: 14px 16px;
+      margin: 12px 0;
+      color: #c3cee4;
+      background: #111a2d;
+    }
+
+    .notice.error { border-color: #9c4c58; color: #ffd5d9; }
+    .list { display: grid; gap: 10px; margin-top: 12px; }
+
+    .item {
+      display: grid;
+      grid-template-columns: 24px minmax(0, 1fr) auto;
+      gap: 14px;
+      align-items: start;
+      padding: 16px;
+      border: 1px solid #26314a;
+      border-radius: 12px;
+      background: #121a2b;
+      transition: border-color .15s, background .15s;
+    }
+
+    .item:hover { border-color: #526c9b; background: #151f34; }
+    .item > input { width: 18px; min-height: 18px; margin: 4px 0 0; accent-color: #75a8ff; }
+    .dialogue { line-height: 1.5; overflow-wrap: anywhere; }
+    .meta { margin-top: 7px; color: #91a0bd; font-size: .82rem; overflow-wrap: anywhere; }
+    .actions { display: flex; flex-direction: column; gap: 8px; min-width: 135px; }
+    .actions audio { width: 190px; max-width: 100%; height: 34px; }
+    .download { display: inline-flex; align-items: center; justify-content: center; min-height: 36px; font-size: .88rem; }
+
+    .pagination { display: flex; justify-content: center; align-items: center; gap: 12px; margin-top: 22px; color: #aab6d1; }
+    .pagination button { min-height: 36px; }
+    .empty { padding: 36px 16px; text-align: center; color: #aab6d1; border: 1px dashed #35415e; border-radius: 12px; }
+
+    @media (max-width: 700px) {
+      body { padding: 28px 14px 48px; }
+      .toolbar { grid-template-columns: 1fr 1fr; }
+      .toolbar input { grid-column: 1 / -1; }
+      .toolbar button { width: 100%; }
+      .item { grid-template-columns: 22px minmax(0, 1fr); gap: 10px; }
+      .actions { grid-column: 2; flex-direction: row; flex-wrap: wrap; align-items: center; }
+      .actions audio { width: min(100%, 260px); }
+      .download { min-width: 100px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Portal <span>Audio Library</span></h1>
+    <p class="intro">Search, preview, and download voice lines from the local collection.</p>
+  </header>
+
+  <section class="toolbar" aria-label="Audio filters">
+    <input id="search" type="search" placeholder="Search dialogue or WAV filename…" aria-label="Search">
+    <select id="character" aria-label="Filter by character">
+      <option value="">All characters</option>
+    </select>
+    <button id="select-visible" type="button">Select visible</button>
+  </section>
+
+  <section class="summary" aria-live="polite">
+    <span id="count">Loading voice lines…</span>
+    <span class="selection">
+      <span id="selected-count">0 selected</span>
+      <button id="download-selected" type="button" disabled>Download selected</button>
+      <button id="clear-selection" type="button" disabled>Clear</button>
+    </span>
+  </section>
+
+  <div id="notice" class="notice" role="status">
+    Loading the voice-line catalog…
+  </div>
+  <main id="list" class="list" aria-label="Voice lines"></main>
+  <nav class="pagination" aria-label="Results pages" hidden>
+    <button id="previous" type="button">Previous</button>
+    <span id="page-label"></span>
+    <button id="next" type="button">Next</button>
+  </nav>
+
+  <script>
+    "use strict";
+
+    const catalogFiles = [
+      "announcer_lines.json",
+      "cave_lines.json",
+      "detectiveturret_lines.json",
+      "glados_lines_coop.json",
+      "glados_lines_portal1.json",
+      "glados_lines_portal2.json",
+      "glados_lines_unused_alternative.json",
+      "turret_lines.json",
+      "wheatly_lines.json"
+    ];
+    const pageSize = 100;
+    const rows = [];
+    const selected = new Set();
+    let filtered = [];
+    let page = 0;
+
+    const searchInput = document.querySelector("#search");
+    const characterSelect = document.querySelector("#character");
+    const list = document.querySelector("#list");
+    const countLabel = document.querySelector("#count");
+    const selectedLabel = document.querySelector("#selected-count");
+    const downloadSelected = document.querySelector("#download-selected");
+    const clearSelection = document.querySelector("#clear-selection");
+    const notice = document.querySelector("#notice");
+    const pagination = document.querySelector(".pagination");
+
+    function safeName(text, url) {
+      let name = text.replace(/\s+/g, " ").trim();
+      if (!name) {
+        name = decodeURIComponent(new URL(url).pathname.split("/").pop() || "")
+          .replace(/\.wav$/i, "");
+      }
+      name = name.replace(/[<>:"/\\|?*\x00-\x1f]/g, "_")
+        .trim()
+        .slice(0, 150)
+        .replace(/[ .]+$/g, "");
+      if (!name) name = "voice line";
+      if (/^(CON|PRN|AUX|NUL|COM[1-9]|LPT[1-9])$/i.test(name)) name = `_${name}`;
+      return name;
+    }
+
+    function characterName(file) {
+      const slug = file.split("_lines", 1)[0].toLowerCase();
+      const known = {
+        glados: "GLaDOS",
+        wheatly: "Wheatley",
+        detectiveturret: "Detective Turret"
+      };
+      return known[slug] || slug.replace(/_/g, " ")
+        .replace(/\b\w/g, (letter) => letter.toUpperCase());
+    }
+
+    function makeCatalog(dataByFile) {
+      const sourceCounts = new Map();
+      const titleCounts = new Map();
+      const sourcePaths = new Map();
+      const titleKeys = new Set();
+
+      for (const file of catalogFiles) {
+        const character = characterName(file);
+        const entries = dataByFile.get(file);
+        for (const entry of entries) {
+          if (!entry || typeof entry.dialogue !== "string" ||
+              typeof entry.url !== "string") continue;
+          let url;
+          try {
+            url = new URL(entry.url);
+          } catch {
+            continue;
+          }
+          if (url.protocol !== "https:" || !url.pathname.toLowerCase().endsWith(".wav")) continue;
+
+          const sourceKey = `${character}\0${entry.url}`;
+          if (!sourcePaths.has(sourceKey)) {
+            const originalName = `${safeName(
+              decodeURIComponent(url.pathname.split("/").pop()).replace(/\.wav$/i, ""),
+              entry.url
+            )}.wav`;
+            const collisionKey = `${character}\0${originalName}`;
+            const occurrence = (sourceCounts.get(collisionKey) || 0) + 1;
+            sourceCounts.set(collisionKey, occurrence);
+            const suffix = occurrence > 1 ? ` (${occurrence})` : "";
+            sourcePaths.set(sourceKey,
+              `voicelines/audio/${encodeURIComponent(character)}/${encodeURIComponent(originalName.replace(/\.wav$/i, ""))}${suffix}.wav`);
+          }
+
+          const title = safeName(entry.dialogue, entry.url);
+          const titleKey = `${character}\0${entry.url}\0${title}`;
+          if (titleKeys.has(titleKey)) continue;
+          titleKeys.add(titleKey);
+          const collisionKey = `${character}\0${title}`;
+          const occurrence = (titleCounts.get(collisionKey) || 0) + 1;
+          titleCounts.set(collisionKey, occurrence);
+          const suffix = occurrence > 1 ? ` (${occurrence})` : "";
+
+          rows.push({
+            id: titleKey,
+            character,
+            dialogue: entry.dialogue.trim() || title,
+            filename: decodeURIComponent(url.pathname.split("/").pop()),
+            audio: sourcePaths.get(sourceKey),
+            title,
+            downloadName: `${title}${suffix}.wav`
+          });
+        }
+      }
+    }
+
+    function updateSelection() {
+      selectedLabel.textContent = `${selected.size} selected`;
+      downloadSelected.disabled = selected.size === 0;
+      clearSelection.disabled = selected.size === 0;
+    }
+
+    function render() {
+      const query = searchInput.value.trim().toLocaleLowerCase();
+      const character = characterSelect.value;
+      filtered = rows.filter((row) =>
+        (!character || row.character === character) &&
+        (!query || `${row.dialogue} ${row.filename} ${row.character}`
+          .toLocaleLowerCase().includes(query))
+      );
+      const pageCount = Math.max(1, Math.ceil(filtered.length / pageSize));
+      page = Math.min(page, pageCount - 1);
+      countLabel.innerHTML = `<strong>${filtered.length.toLocaleString()}</strong> voice lines`;
+      list.replaceChildren();
+
+      if (!filtered.length) {
+        const empty = document.createElement("div");
+        empty.className = "empty";
+        empty.textContent = "No matching voice lines.";
+        list.append(empty);
+      } else {
+        const fragment = document.createDocumentFragment();
+        const start = page * pageSize;
+        for (const row of filtered.slice(start, start + pageSize)) {
+          const article = document.createElement("article");
+          article.className = "item";
+
+          const checkbox = document.createElement("input");
+          checkbox.type = "checkbox";
+          checkbox.checked = selected.has(row.id);
+          checkbox.setAttribute("aria-label", `Select: ${row.dialogue}`);
+          checkbox.addEventListener("change", () => {
+            if (checkbox.checked) selected.add(row.id);
+            else selected.delete(row.id);
+            updateSelection();
+          });
+
+          const content = document.createElement("div");
+          const dialogue = document.createElement("div");
+          dialogue.className = "dialogue";
+          dialogue.textContent = row.dialogue;
+          const meta = document.createElement("div");
+          meta.className = "meta";
+          meta.textContent = `${row.character} · ${row.filename}`;
+          content.append(dialogue, meta);
+
+          const actions = document.createElement("div");
+          actions.className = "actions";
+          const audio = document.createElement("audio");
+          audio.controls = true;
+          audio.preload = "none";
+          audio.src = row.audio;
+          audio.setAttribute("aria-label", `Preview: ${row.dialogue}`);
+          audio.addEventListener("play", () => {
+            document.querySelectorAll("audio").forEach((other) => {
+              if (other !== audio) other.pause();
+            });
+          });
+
+          const download = document.createElement("a");
+          download.className = "download";
+          download.href = row.audio;
+          download.download = row.downloadName;
+          download.textContent = "Download WAV";
+          actions.append(audio, download);
+          article.append(checkbox, content, actions);
+          fragment.append(article);
+        }
+        list.append(fragment);
+      }
+
+      pagination.hidden = filtered.length <= pageSize;
+      document.querySelector("#page-label").textContent =
+        `Page ${page + 1} of ${pageCount}`;
+      document.querySelector("#previous").disabled = page === 0;
+      document.querySelector("#next").disabled = page >= pageCount - 1;
+    }
+
+    async function init() {
+      const results = await Promise.allSettled(catalogFiles.map(async (file) => {
+        const response = await fetch(`voicelines_json/${encodeURIComponent(file)}`);
+        if (!response.ok) throw new Error(`${file}: HTTP ${response.status}`);
+        const data = await response.json();
+        if (!Array.isArray(data)) throw new Error(`${file}: expected a JSON array`);
+        return [file, data];
+      }));
+
+      const dataByFile = new Map();
+      const errors = [];
+      for (const result of results) {
+        if (result.status === "fulfilled") dataByFile.set(...result.value);
+        else errors.push(result.reason.message);
+      }
+      if (!dataByFile.size) {
+        notice.className = "notice error";
+        notice.textContent = `Could not load the catalog. Serve the repository over HTTP (for example: python -m http.server). ${errors.join("; ")}`;
+        countLabel.textContent = "Catalog unavailable";
+        return;
+      }
+
+      makeCatalog(dataByFile);
+      if (errors.length) {
+        notice.className = "notice error";
+        notice.textContent = `Some catalog files could not be loaded: ${errors.join("; ")}`;
+      } else {
+        notice.remove();
+      }
+
+      [...new Set(rows.map((row) => row.character))]
+        .sort((a, b) => a.localeCompare(b))
+        .forEach((name) => {
+          const option = document.createElement("option");
+          option.value = name;
+          option.textContent = name;
+          characterSelect.append(option);
+        });
+      render();
+    }
+
+    searchInput.addEventListener("input", () => { page = 0; render(); });
+    characterSelect.addEventListener("change", () => { page = 0; render(); });
+    document.querySelector("#previous").addEventListener("click", () => {
+      page -= 1;
+      render();
+    });
+    document.querySelector("#next").addEventListener("click", () => {
+      page += 1;
+      render();
+    });
+    document.querySelector("#select-visible").addEventListener("click", () => {
+      const start = page * pageSize;
+      filtered.slice(start, start + pageSize).forEach((row) => selected.add(row.id));
+      render();
+      updateSelection();
+    });
+    clearSelection.addEventListener("click", () => {
+      selected.clear();
+      render();
+      updateSelection();
+    });
+    downloadSelected.addEventListener("click", () => {
+      for (const row of rows.filter((item) => selected.has(item.id))) {
+        const link = document.createElement("a");
+        link.href = row.audio;
+        link.download = row.downloadName;
+        link.style.display = "none";
+        document.body.append(link);
+        link.click();
+        link.remove();
+      }
+    });
+
+    init().catch((error) => {
+      notice.className = "notice error";
+      notice.textContent = `Catalog error: ${error.message}`;
+      countLabel.textContent = "Catalog unavailable";
+    });
+  </script>
+</body>
+</html>

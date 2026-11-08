@@ -40,6 +40,16 @@ python downloadaudio.py
 
 Use `--workers` to change the number of simultaneous downloads (default: 8).
 
+## Audio library
+
+Open `audio-library.html` in a browser served from the repository root to search, preview, and download the local WAV collection. From the repository root, start a local server with:
+
+```bash
+python -m http.server
+```
+
+Then visit `http://localhost:8000/audio-library.html`. The page supports filtering by character, searching dialogue and filenames, and downloading individual or selected lines.
+
 ---
 
 ## Copyright & Intellectual Property Disclaimer
