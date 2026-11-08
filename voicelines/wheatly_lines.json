@@ -1,0 +1,3310 @@
+[
+    {
+        "dialogue": "Hello? Anyone in there?",
+        "url": "https://i1.theportalwiki.net/img/2/2f/Wheatley_openinghello01.wav"
+    },
+    {
+        "dialogue": "Helloooo?",
+        "url": "https://i1.theportalwiki.net/img/0/02/Wheatley_openinghello12.wav"
+    },
+    {
+        "dialogue": "Are you going to open the door? At any time?",
+        "url": "https://i1.theportalwiki.net/img/4/49/Wheatley_openinghello13.wav"
+    },
+    {
+        "dialogue": "Hello? Can y--no?",
+        "url": "https://i1.theportalwiki.net/img/d/d1/Wheatley_openinghello15.wav"
+    },
+    {
+        "dialogue": "Are you going to open this door? Because it's fairly urgent.",
+        "url": "https://i1.theportalwiki.net/img/5/51/Wheatley_openinghello17.wav"
+    },
+    {
+        "dialogue": "Oh, just open the door! [to self] That's too aggressive. [loud again] Hello, friend! Why not open the door?",
+        "url": "https://i1.theportalwiki.net/img/7/76/Wheatley_openinghello18.wav"
+    },
+    {
+        "dialogue": "[to self] Hm. Could be Spanish, could be Spanish. [loud again] Hola, amigo! Abre la puerta! Donde esta--no. Um...",
+        "url": "https://i1.theportalwiki.net/img/d/d1/Wheatley_openinghello19.wav"
+    },
+    {
+        "dialogue": "Fine! No, absolutely fine. It's not like I don't have, you know, ten thousand other test subjects begging me to help them escape. You know, it's not like this place is about to EXPLODE.",
+        "url": "https://i1.theportalwiki.net/img/d/d7/Wheatley_openinghello21.wav"
+    },
+    {
+        "dialogue": "Alright, look, okay, I'll be honest. You're the LAST test subject left. And if you DON'T help me, we're both going to die. Alright? I didn't want to say it, you dragged it out of me. Alright? Dead. Dos Muerte.",
+        "url": "https://i1.theportalwiki.net/img/f/fd/Wheatley_openinghello22.wav"
+    },
+    {
+        "dialogue": "Hello!",
+        "url": "https://i1.theportalwiki.net/img/1/15/Wheatley_openinghellonag01.wav"
+    },
+    {
+        "dialogue": "Helloooooooooooo!",
+        "url": "https://i1.theportalwiki.net/img/6/67/Wheatley_openinghellonag02.wav"
+    },
+    {
+        "dialogue": "Go on!",
+        "url": "https://i1.theportalwiki.net/img/9/9f/Wheatley_openinghellonag03.wav"
+    },
+    {
+        "dialogue": "Open the door!",
+        "url": "https://i1.theportalwiki.net/img/5/55/Wheatley_openinghellonag04.wav"
+    },
+    {
+        "dialogue": "Hello!",
+        "url": "https://i1.theportalwiki.net/img/7/71/Wheatley_openinghellonag05.wav"
+    },
+    {
+        "dialogue": "HA! I knew someone was alive in here. Line spoken upon door open but is interrupted after \"HA!\" by the next line, when Wheatley sees Chell.",
+        "url": "https://i1.theportalwiki.net/img/6/6d/Wheatley_intro_ride01.wav"
+    },
+    {
+        "dialogue": "AH! Oh. My. God. You look terribl-- ummm... good. Looking good, actually.",
+        "url": "https://i1.theportalwiki.net/img/e/e2/Wheatley_intro_ride02.wav"
+    },
+    {
+        "dialogue": "Are you okay? Are you - Don't answer that. I'm absolutely sure you're fine. There's plenty of time for you to recover. Just take it slow.",
+        "url": "https://i1.theportalwiki.net/img/2/2a/Wheatley_intro_ride03.wav"
+    },
+    {
+        "dialogue": "Stay calm! 'Prepare' - that's all they're saying. 'Prepare.' It's all fine. Alright? Don't move. I'm gonna get us out of here.",
+        "url": "https://i1.theportalwiki.net/img/8/85/Wheatley_intro_ride04.wav"
+    },
+    {
+        "dialogue": "Oh. You MIGHT want to hang onto to something. Word of advice, up to you.",
+        "url": "https://i1.theportalwiki.net/img/7/71/Wheatley_openingprepare04.wav"
+    },
+    {
+        "dialogue": "You alright down there? Can you hear me? Hello?",
+        "url": "https://i1.theportalwiki.net/img/7/70/Wheatley_openingyouallright01.wav"
+    },
+    {
+        "dialogue": "Most test subjects do experience some cognitive deterioration after a few months in suspension. Now you've been under for... quite a lot longer, and it's not out of the question that you might have a very minor case of serious brain damage.",
+        "url": "https://i1.theportalwiki.net/img/d/d3/Wheatley_openingbraindamage01.wav"
+    },
+    {
+        "dialogue": "But don't be alarmed, alright? Although, if you do feel alarm, try to hold onto that feeling because that is the proper reaction to being told you have brain damage.",
+        "url": "https://i1.theportalwiki.net/img/b/bb/Wheatley_intro_ride07.wav"
+    },
+    {
+        "dialogue": "Do you understand what I'm saying? At all? Does any of this make any sense? Just tell me, 'Yes'.",
+        "url": "https://i1.theportalwiki.net/img/d/d2/Wheatley_intro_ride08.wav"
+    },
+    {
+        "dialogue": "Okay. What you're doing there is jumping. You just... you just jumped. But nevermind. Say 'Apple'. 'Aaaapple.'",
+        "url": "https://i1.theportalwiki.net/img/4/4d/Wheatley_openingbraindamage05.wav"
+    },
+    {
+        "dialogue": "Simple word. 'Apple'.",
+        "url": "https://i1.theportalwiki.net/img/c/c8/Wheatley_openingbraindamageapplenag01.wav"
+    },
+    {
+        "dialogue": "Just say 'Apple'. Classic. Very simple.",
+        "url": "https://i1.theportalwiki.net/img/7/78/Wheatley_openingbraindamageapplenag02.wav"
+    },
+    {
+        "dialogue": "Ay. Double Pee-Ell-Ee.",
+        "url": "https://i1.theportalwiki.net/img/d/d9/Wheatley_openingbraindamageapplenag03.wav"
+    },
+    {
+        "dialogue": "Just say 'Apple'. Easy word, isn't it? 'Apple'.",
+        "url": "https://i1.theportalwiki.net/img/7/72/Wheatley_openingbraindamageapplenag04.wav"
+    },
+    {
+        "dialogue": "How would you use it in a sentence? 'Mmm, this apple's crunchy,' you might say. And I'm not even asking you for the whole sentence. Just the word 'Apple'.",
+        "url": "https://i1.theportalwiki.net/img/c/c6/Wheatley_openingbraindamageapplenag05.wav"
+    },
+    {
+        "dialogue": "Okay, you know what? That's close enough. Just hold tight.",
+        "url": "https://i1.theportalwiki.net/img/0/0c/Wheatley_openingcloseenough01.wav"
+    },
+    {
+        "dialogue": "Alright, I wasn't going to mention this to you, but I am in PRETTY HOT WATER here.",
+        "url": "https://i1.theportalwiki.net/img/7/7c/Wheatley_openingoutside01.wav"
+    },
+    {
+        "dialogue": "How you doing down there? You still holding on?",
+        "url": "https://i1.theportalwiki.net/img/8/80/Wheatley_openingnavigate17.wav"
+    },
+    {
+        "dialogue": "The reserve power ran out, so of course the whole relaxation center stops waking up the bloody test subjects.",
+        "url": "https://i1.theportalwiki.net/img/d/df/Wheatley_openingoutside02.wav"
+    },
+    {
+        "dialogue": "Hold on! This is a bit tricky!",
+        "url": "https://i1.theportalwiki.net/img/4/46/Wheatley_openingnavigate05.wav"
+    },
+    {
+        "dialogue": "And of course nobody tells ME anything. Noooo. Why should they tell me anything?",
+        "url": "https://i1.theportalwiki.net/img/a/a6/Wheatley_openingoutside03.wav"
+    },
+    {
+        "dialogue": "Why should I be kept informed about the life functions of the ten thousand bloody test subjects I'm supposed to be in charge of?",
+        "url": "https://i1.theportalwiki.net/img/6/64/Wheatley_openingoutside04.wav"
+    },
+    {
+        "dialogue": "Oi, it's close... can you see? Am I gonna make it through? Have I got enough space?",
+        "url": "https://i1.theportalwiki.net/img/f/f6/Wheatley_openingnavigate12.wav"
+    },
+    {
+        "dialogue": "Agh, just... I just gotta get it through here...",
+        "url": "https://i1.theportalwiki.net/img/0/07/Wheatley_openingnavigate06.wav"
+    },
+    {
+        "dialogue": "Okay, I've just gotta concentrate!",
+        "url": "https://i1.theportalwiki.net/img/f/fb/Wheatley_openingnavigate03.wav"
+    },
+    {
+        "dialogue": "And whose fault do you think it's going to be when the management comes down here and finds ten thousand flipping vegetables?",
+        "url": "https://i1.theportalwiki.net/img/3/3b/Wheatley_openingoutside05.wav"
+    },
+    {
+        "dialogue": "Aggh, see, now I hit that one, I hit that one...",
+        "url": "https://i1.theportalwiki.net/img/e/e7/Wheatley_openingnavigate16.wav"
+    },
+    {
+        "dialogue": "Okay, listen, we should get our stories straight, alright? If anyone asks -- and no one's gonna ask, don't worry -- but if anyone asks, tell them as far as you know, the last time you checked, everyone looked pretty much alive. Alright? Not dead.",
+        "url": "https://i1.theportalwiki.net/img/c/cd/Wheatley_openingstorystraight02.wav"
+    },
+    {
+        "dialogue": "Okay, almost there. On the other side of that wall is one of the old testing tracks. There's a piece of equipment in there we're gonna need to get out of here. I think this is a docking station. Get ready...",
+        "url": "https://i1.theportalwiki.net/img/d/d3/Wheatley_openingwall01.wav"
+    },
+    {
+        "dialogue": "Good news: that is NOT a docking station. So there's one mystery solved. I'm going to attempt a manual override on this wall. Could get a bit technical! Hold on!",
+        "url": "https://i1.theportalwiki.net/img/2/2c/Wheatley_openingwallhitone02.wav"
+    },
+    {
+        "dialogue": "Almost there! Remember: you're looking for a gun that makes holes. Not bullet holes, but-- well, you'll figure it out. Really do hold on this time!",
+        "url": "https://i1.theportalwiki.net/img/6/61/Wheatley_openingwallhittwo01.wav"
+    },
+    {
+        "dialogue": "Whew. There we go! Now I'll be honest, you are probably in no fit state to run this particular type of cognitive gauntlet. But... um... at least you're a good jumper. So... you've got that. You've got the jumping on your side. Just do your best, and I'll meet you up ahead.",
+        "url": "https://i1.theportalwiki.net/img/e/e5/Wheatley_openingwallhitthree01.wav"
+    },
+    {
+        "dialogue": "Alright, off you go!",
+        "url": "https://i1.theportalwiki.net/img/9/95/Wheatley_container_ride_leave_nags01.wav"
+    },
+    {
+        "dialogue": "Go on. Just... March on through that hole.",
+        "url": "https://i1.theportalwiki.net/img/7/7b/Wheatley_container_ride_leave_nags02.wav"
+    },
+    {
+        "dialogue": "Yeah, it's alright. Go ahead.",
+        "url": "https://i1.theportalwiki.net/img/3/3b/Wheatley_container_ride_leave_nags03.wav"
+    },
+    {
+        "dialogue": "I know I've painted quite a grim picture of your chances. But if you simply stand here, we will both surely die.",
+        "url": "https://i1.theportalwiki.net/img/4/45/Wheatley_container_ride_leave_nags04.wav"
+    },
+    {
+        "dialogue": "So, once again, just... move along. One small step and everything.",
+        "url": "https://i1.theportalwiki.net/img/d/dc/Wheatley_container_ride_leave_nags05.wav"
+    },
+    {
+        "dialogue": "Go on.",
+        "url": "https://i1.theportalwiki.net/img/1/16/Wheatley_container_ride_leave_nags06.wav"
+    },
+    {
+        "dialogue": "On ya go.",
+        "url": "https://i1.theportalwiki.net/img/2/2b/Wheatley_container_ride_leave_nags07.wav"
+    },
+    {
+        "dialogue": "Your destination's probably not going to come meet us here. Is it? So go on.",
+        "url": "https://i1.theportalwiki.net/img/6/65/Wheatley_container_ride_leave_nags08.wav"
+    },
+    {
+        "dialogue": "That's the spirit!",
+        "url": "https://i1.theportalwiki.net/img/c/cf/Wheatley_openinggoodbye01.wav"
+    },
+    {
+        "dialogue": "Good luck!",
+        "url": "https://i1.theportalwiki.net/img/b/bd/Wheatley_openinggoodbye02.wav"
+    },
+    {
+        "dialogue": "Hey hey! You made it!",
+        "url": "https://i1.theportalwiki.net/img/c/ce/Wheatley_sp_intro_03_intro12.wav"
+    },
+    {
+        "dialogue": "There should be a portal device on that podium over there.",
+        "url": "https://i1.theportalwiki.net/img/3/31/Wheatley_sp_intro_03_intro09.wav"
+    },
+    {
+        "dialogue": "I can't see it though... Maybe it fell off. Do you want to go and have a quick look?",
+        "url": "https://i1.theportalwiki.net/img/7/74/Wheatley_sp_intro_03_intro10.wav"
+    },
+    {
+        "dialogue": "It's alright. No, go on, just have a look about.",
+        "url": "https://i1.theportalwiki.net/img/a/ad/Wheatley_sp_intro_03_introalt06.wav"
+    },
+    {
+        "dialogue": "No, that's right. Over by the podium, yeah.",
+        "url": "https://i1.theportalwiki.net/img/1/1c/Wheatley_sp_intro_03_introalt08.wav"
+    },
+    {
+        "dialogue": "Just---if you just--okay, just stand by the podium and just look up.",
+        "url": "https://i1.theportalwiki.net/img/d/de/Wheatley_sp_intro_03_introalt09.wav"
+    },
+    {
+        "dialogue": "That's it, no, that's it! Yeah.",
+        "url": "https://i1.theportalwiki.net/img/4/42/Wheatley_sp_intro_03_introalt07.wav"
+    },
+    {
+        "dialogue": "Whoa!",
+        "url": "https://i1.theportalwiki.net/img/8/8b/Wheatley_sp_intro_03_intro06.wav"
+    },
+    {
+        "dialogue": "Hello?",
+        "url": "https://i1.theportalwiki.net/img/b/b7/Wheatley_sp_intro_03_afterfallalt06.wav"
+    },
+    {
+        "dialogue": "Can you see the portal gun?",
+        "url": "https://i1.theportalwiki.net/img/a/ac/Wheatley_sp_intro_03_afterfallalt04.wav"
+    },
+    {
+        "dialogue": "Also, are you alive? That's important, should have asked that first.",
+        "url": "https://i1.theportalwiki.net/img/1/1c/Wheatley_sp_intro_03_afterfallalt05.wav"
+    },
+    {
+        "dialogue": "I'm--do you know what I'm going to do? I'm going to work on the assumption that you're still alive and I'm just going to wait for you up ahead.",
+        "url": "https://i1.theportalwiki.net/img/7/7b/Wheatley_sp_intro_03_afterfallalt08.wav"
+    },
+    {
+        "dialogue": "I'll wait--I'll wait one hour. Then I'll come back and, assuming I can locate your dead body, I'll bury you. Alright? Brilliant! Go team! See you in an hour! Hopefully! If you're not... dead.",
+        "url": "https://i1.theportalwiki.net/img/c/ce/Wheatley_sp_intro_03_afterfallalt09.wav"
+    },
+    {
+        "dialogue": "Hey! Oi oi! I'm up here!",
+        "url": "https://i1.theportalwiki.net/img/7/7f/Wheatley_sp_intro_03_intro02.wav"
+    },
+    {
+        "dialogue": "Oh, brilliant. You DID find a portal gun! You know what? It just goes to show: people with brain damage are the real heroes in the end aren't they? At the end of the day. Brave.",
+        "url": "https://i1.theportalwiki.net/img/8/85/Wheatley_demosphereintro04.wav"
+    },
+    {
+        "dialogue": "Pop a portal on that wall behind me there, and I'll meet you on the other side of the room.",
+        "url": "https://i1.theportalwiki.net/img/a/ae/Wheatley_demosphereintro02.wav"
+    },
+    {
+        "dialogue": "Just pop a portal right behind me there, and come on through to the other side.",
+        "url": "https://i1.theportalwiki.net/img/4/4d/Wheatley_demosphereintro08.wav"
+    },
+    {
+        "dialogue": "Pop a little portal, just there, alright? Behind me. And come on through.",
+        "url": "https://i1.theportalwiki.net/img/5/55/Wheatley_demosphereintro09.wav"
+    },
+    {
+        "dialogue": "Right behind me.",
+        "url": "https://i1.theportalwiki.net/img/b/b0/Wheatley_demosphereintro07.wav"
+    },
+    {
+        "dialogue": "Alright, let me explain again. Pop a portal. Behind me. Alright? And come on through.",
+        "url": "https://i1.theportalwiki.net/img/8/8d/Wheatley_demosphereintro10.wav"
+    },
+    {
+        "dialogue": "Pop a portal. Behind me, on the wall. Come on through.",
+        "url": "https://i1.theportalwiki.net/img/f/f9/Wheatley_demosphereintro11.wav"
+    },
+    {
+        "dialogue": "Come on through.",
+        "url": "https://i1.theportalwiki.net/img/5/53/Wheatley_demosphereintro13.wav"
+    },
+    {
+        "dialogue": "Come on through to the other side.",
+        "url": "https://i1.theportalwiki.net/img/a/af/Wheatley_demosphereintro14.wav"
+    },
+    {
+        "dialogue": "Come on through.",
+        "url": "https://i1.theportalwiki.net/img/5/59/Wheatley_demosphereintro15.wav"
+    },
+    {
+        "dialogue": "Okay, listen, let me lay something on you here. It's pretty heavy. They told me NEVER NEVER EVER to disengage myself from my Management Rail. Or I would DIE. But we're out of options here. So... get ready to catch me, alright, on the off chance that I'm not dead the moment I pop off this thing.",
+        "url": "https://i1.theportalwiki.net/img/0/02/Wheatley_raildropintro01.wav"
+    },
+    {
+        "dialogue": "On three. Ready? One... Two...",
+        "url": "https://i1.theportalwiki.net/img/c/c4/Wheatley_demospherecatch02.wav"
+    },
+    {
+        "dialogue": "THREE! That's high. It's TOO high, isn't it, really, that--",
+        "url": "https://i1.theportalwiki.net/img/0/05/Wheatley_demospherecatch05.wav"
+    },
+    {
+        "dialogue": "Alright, going on three just gives you too much time to think about it. Let's, uh, go on one this time. Okay, ready?",
+        "url": "https://i1.theportalwiki.net/img/c/cb/Wheatley_demospherecatch07.wav"
+    },
+    {
+        "dialogue": "ONE Catchmecatchmecatchmecatchmecatchme",
+        "url": "https://i1.theportalwiki.net/img/d/df/Wheatley_demospherefall04.wav"
+    },
+    {
+        "dialogue": "OW.",
+        "url": "https://i1.theportalwiki.net/img/f/fa/Wheatley_demospherethud03.wav"
+    },
+    {
+        "dialogue": "OW...",
+        "url": "https://i1.theportalwiki.net/img/e/e5/Wheatley_demospherethud04.wav"
+    },
+    {
+        "dialogue": "I. Am. Not. Dead! I'm not dead! [laughter]",
+        "url": "https://i1.theportalwiki.net/img/3/36/Wheatley_demospherethud06.wav"
+    },
+    {
+        "dialogue": "I can't move, though. That's the problem now.",
+        "url": "https://i1.theportalwiki.net/img/1/1f/Wheatley_demospherethud08.wav"
+    },
+    {
+        "dialogue": "Are you still there? Can you pick me up, do you think? If you are there?",
+        "url": "https://i1.theportalwiki.net/img/0/09/Wheatley_raildroppostfall02.wav"
+    },
+    {
+        "dialogue": "Hello? Can you--can you pick me up, please?",
+        "url": "https://i1.theportalwiki.net/img/f/fa/Wheatley_raildroppostfall05.wav"
+    },
+    {
+        "dialogue": "Sorry, are you still there? Could you--could you pick me up?",
+        "url": "https://i1.theportalwiki.net/img/0/0f/Wheatley_raildroppostfall03.wav"
+    },
+    {
+        "dialogue": "If you ARE there, would you mind... giving me a little bit of help? [nervous laugh] Just picking me up.",
+        "url": "https://i1.theportalwiki.net/img/c/cb/Wheatley_raildroppostfall08.wav"
+    },
+    {
+        "dialogue": "Look down. Where am I? Where am I?",
+        "url": "https://i1.theportalwiki.net/img/4/45/Wheatley_raildroppostfall09.wav"
+    },
+    {
+        "dialogue": "On the floor. Needing your help. The whole time. All the time. Needing your help.",
+        "url": "https://i1.theportalwiki.net/img/2/21/Wheatley_raildroppostfall16.wav"
+    },
+    {
+        "dialogue": "Still here on the floor. Waiting to be picked up. Um.",
+        "url": "https://i1.theportalwiki.net/img/0/0f/Wheatley_raildroppostfall17.wav"
+    },
+    {
+        "dialogue": "Look down. Who's that, down there, talking? It's me! Down on the floor. Needing you to pick me up.",
+        "url": "https://i1.theportalwiki.net/img/9/9a/Wheatley_raildroppostfall19.wav"
+    },
+    {
+        "dialogue": "I spy with my little eye, something that starts with 'f'.",
+        "url": "https://i1.theportalwiki.net/img/0/0e/Wheatley_raildroppostfall10.wav"
+    },
+    {
+        "dialogue": "Do you give up? It was the floor. Lying down on the floor. Is where I am. Needing you to pick me up.",
+        "url": "https://i1.theportalwiki.net/img/6/6d/Wheatley_raildroppostfall12.wav"
+    },
+    {
+        "dialogue": "Don't want to hassle you. Sure you're busy. But--still here on the floor. Waiting to be picked up.",
+        "url": "https://i1.theportalwiki.net/img/3/37/Wheatley_raildroppostfall15.wav"
+    },
+    {
+        "dialogue": "Now I spy something that starts with an 'a'.",
+        "url": "https://i1.theportalwiki.net/img/2/2a/Wheatley_raildroppostfall13.wav"
+    },
+    {
+        "dialogue": "Give up? Also the floor. Was the answer that time. Same as before. Still on the floor.",
+        "url": "https://i1.theportalwiki.net/img/6/63/Wheatley_raildroppostfall14.wav"
+    },
+    {
+        "dialogue": "What are you doing, are you just having a little five minutes to yourself? Fair enough. You've had a rough time. You've been asleep for  who knows how long. You've got the massive brain damage. And you're having a little rest. But NOW. Get yourself up. And pick me up.",
+        "url": "https://i1.theportalwiki.net/img/e/e8/Wheatley_raildroppostfall20.wav"
+    },
+    {
+        "dialogue": "Oh! Brilliant, thank you, great.",
+        "url": "https://i1.theportalwiki.net/img/0/02/Wheatley_raildroppickup02.wav"
+    },
+    {
+        "dialogue": "Plug me into that stick on the wall over there. Yeah? And I'll show you something. You'll be impressed by this.",
+        "url": "https://i1.theportalwiki.net/img/f/f3/Wheatley_demospherefirstdoorwaysequence04.wav"
+    },
+    {
+        "dialogue": "Go on. Just jam me in over there.",
+        "url": "https://i1.theportalwiki.net/img/b/bc/Wheatley_demospherefirstdoorwaysequence05.wav"
+    },
+    {
+        "dialogue": "Right on that stick over there. Just put me right on it.",
+        "url": "https://i1.theportalwiki.net/img/0/01/Wheatley_demospherefirstdoorwaysequence06.wav"
+    },
+    {
+        "dialogue": "It is tricky. It is tricky. But just... plug me in, please.",
+        "url": "https://i1.theportalwiki.net/img/b/b2/Wheatley_demospherefirstdoorwaysequence07.wav"
+    },
+    {
+        "dialogue": "Plug me into that stick on the wall over there. I'll show you something.",
+        "url": "https://i1.theportalwiki.net/img/4/44/Wheatley_demospherefirstdoorwaysequence01.wav"
+    },
+    {
+        "dialogue": "It DOES sound rude. I'm not going to lie to you. It DOES sound rude. It's not. Put me right on it. Stick me in.",
+        "url": "https://i1.theportalwiki.net/img/e/ef/Wheatley_demospherefirstdoorwaysequence08.wav"
+    },
+    {
+        "dialogue": "Ummmm. Yeah, I can't do it if you're watching.",
+        "url": "https://i1.theportalwiki.net/img/e/ea/Wheatley_demospherefirstdoorwaysequence10.wav"
+    },
+    {
+        "dialogue": "Seriously, I'm not joking. Could you just turn around for a second?",
+        "url": "https://i1.theportalwiki.net/img/3/38/Wheatley_demospherefirstdoorwaysequence11.wav"
+    },
+    {
+        "dialogue": "I can't... I can't do it if you're watching. [nervous laugh]",
+        "url": "https://i1.theportalwiki.net/img/2/29/Wheatley_demospherefirstdoorwaysequence02.wav"
+    },
+    {
+        "dialogue": "I can't do it if you're watching. If you.... just turn around?",
+        "url": "https://i1.theportalwiki.net/img/0/06/Wheatley_demospherefirstdoorwaysequence09.wav"
+    },
+    {
+        "dialogue": "What's that behind you? It's only a robot on a bloody stick! A different one!",
+        "url": "https://i1.theportalwiki.net/img/7/75/Wheatley_demospherefirstdoorwaysequence16.wav"
+    },
+    {
+        "dialogue": "Alright. [nervous laugh] Can't do it if you're leering at me. Creepy.",
+        "url": "https://i1.theportalwiki.net/img/c/c8/Wheatley_demospherefirstdoorwaysequence13.wav"
+    },
+    {
+        "dialogue": "Okay. Listen. I can't do it with you watching. I know it seems pathetic, given what we've been through. But just turn around. Please?",
+        "url": "https://i1.theportalwiki.net/img/8/8a/Wheatley_demospherefirstdoorwaysequence20.wav"
+    },
+    {
+        "dialogue": "Alright, you can turn around now!",
+        "url": "https://i1.theportalwiki.net/img/f/f0/Wheatley_turnaroundnow01.wav"
+    },
+    {
+        "dialogue": "BAM! Secret panel! That I opened. While your back was turned.",
+        "url": "https://i1.theportalwiki.net/img/1/1a/Wheatley_secretpanelopens07.wav"
+    },
+    {
+        "dialogue": "Pick me up. Let's get out of here.",
+        "url": "https://i1.theportalwiki.net/img/4/4b/Wheatley_callingoutinitial14.wav"
+    },
+    {
+        "dialogue": "Pick--would you pick me up?",
+        "url": "https://i1.theportalwiki.net/img/c/c9/Wheatley_sp_a1_intro7_pickupnags05.wav"
+    },
+    {
+        "dialogue": "[laugh] Would you pick me up?",
+        "url": "https://i1.theportalwiki.net/img/1/16/Wheatley_sp_a1_intro7_pickupnags07.wav"
+    },
+    {
+        "dialogue": "Hey! Pick me up!",
+        "url": "https://i1.theportalwiki.net/img/e/ea/Wheatley_sp_a1_intro7_pickupnags01.wav"
+    },
+    {
+        "dialogue": "Pick me up, don't forget to pick me up!",
+        "url": "https://i1.theportalwiki.net/img/d/d9/Wheatley_sp_a1_intro7_pickupnags10.wav"
+    },
+    {
+        "dialogue": "Might want to just pick me up.",
+        "url": "https://i1.theportalwiki.net/img/b/bb/Wheatley_sp_a1_intro7_pickupnags11.wav"
+    },
+    {
+        "dialogue": "Oh! Oh! Don't leave me behind! Do pick me up, if you would...",
+        "url": "https://i1.theportalwiki.net/img/4/40/Wheatley_sp_a1_intro7_pickupnags13.wav"
+    },
+    {
+        "dialogue": "Just, ah... pick me up. Take me with you.",
+        "url": "https://i1.theportalwiki.net/img/0/00/Wheatley_sp_a1_intro7_pickupnags15.wav"
+    },
+    {
+        "dialogue": "Ohhh. Remember when you picked me up? Five seconds ago! Ohhh, that was amazing! Do it again, pick me up again!",
+        "url": "https://i1.theportalwiki.net/img/8/85/Wheatley_sp_a1_intro7_pickupnags16.wav"
+    },
+    {
+        "dialogue": "Let's do it again! Pick me up again!",
+        "url": "https://i1.theportalwiki.net/img/3/31/Wheatley_sp_a1_intro7_pickupnags17.wav"
+    },
+    {
+        "dialogue": "And off we go.",
+        "url": "https://i1.theportalwiki.net/img/0/00/Wheatley_bw_fire_lift03.wav"
+    },
+    {
+        "dialogue": "Look at this! No rail to tell us where to go! OH, this is brilliant. We can go where ever we want! Hold on, though, where are we going? Seriously. Hang on, let me just get my bearings. Hm. Just follow the rail, actually.",
+        "url": "https://i1.theportalwiki.net/img/6/6c/Wheatley_gloriousfreedom03.wav"
+    },
+    {
+        "dialogue": "Oh no...",
+        "url": "https://i1.theportalwiki.net/img/3/3a/Wheatley_sp_a1_intro7_hoboturret01.wav"
+    },
+    {
+        "dialogue": "Yes, hello! No, we're not stopping!",
+        "url": "https://i1.theportalwiki.net/img/4/4d/Wheatley_sp_a1_intro7_hoboturret08.wav"
+    },
+    {
+        "dialogue": "Don't make eye contact whatever you do...",
+        "url": "https://i1.theportalwiki.net/img/1/18/Wheatley_sp_a1_intro7_hoboturret07.wav"
+    },
+    {
+        "dialogue": "No thanks! We're good! Appreciate it!",
+        "url": "https://i1.theportalwiki.net/img/f/ff/Wheatley_sp_a1_intro7_hoboturret05.wav"
+    },
+    {
+        "dialogue": "Keep moving, keep moving...",
+        "url": "https://i1.theportalwiki.net/img/f/ff/Wheatley_sp_a1_intro7_hoboturret06.wav"
+    },
+    {
+        "dialogue": "Probably ought to bring you up to speed on something right now.",
+        "url": "https://i1.theportalwiki.net/img/d/dc/Wheatley_gladosgantry20.wav"
+    },
+    {
+        "dialogue": "In order to escape, we're going to have to go through HER chamber.",
+        "url": "https://i1.theportalwiki.net/img/9/95/Wheatley_gladosgantry21.wav"
+    },
+    {
+        "dialogue": "And she will probably kill us if, um, she's awake.",
+        "url": "https://i1.theportalwiki.net/img/0/0a/Wheatley_gladosgantry22.wav"
+    },
+    {
+        "dialogue": "If you want to just call it quits, we could just sit here. Forever. That's an option. Option A: Sit here. Do nothing. Option B: Go through there, and if she's alive, she'll almost certainly kill us.",
+        "url": "https://i1.theportalwiki.net/img/1/1d/Wheatley_gladosgantry15.wav"
+    },
+    {
+        "dialogue": "So. If you've got any reservations whatsoever about this plan, now would be the time to voice them.",
+        "url": "https://i1.theportalwiki.net/img/5/50/Wheatley_gladosgantry05.wav"
+    },
+    {
+        "dialogue": "Riggght now.",
+        "url": "https://i1.theportalwiki.net/img/7/7a/Wheatley_gladosgantry06.wav"
+    },
+    {
+        "dialogue": "In case you thought to yourself, 'I've missed the window of time to voice my reservations.' Still open.",
+        "url": "https://i1.theportalwiki.net/img/b/b2/Wheatley_gladosgantry08.wav"
+    },
+    {
+        "dialogue": "Okay, I'm gonna lay my cards on the table: I don't wanna do it. I don't want to go in there. Don't... Don't go in there - She's off. She's off! Panic over! She's off. All fine! On we go.",
+        "url": "https://i1.theportalwiki.net/img/f/fa/Wheatley_sp_a1_wakeup_gantry01.wav"
+    },
+    {
+        "dialogue": "There she is...",
+        "url": "https://i1.theportalwiki.net/img/2/22/Wheatley_demospheregladoschamber01.wav"
+    },
+    {
+        "dialogue": "What a nasty piece of work she was, honestly. Like a proper maniac.",
+        "url": "https://i1.theportalwiki.net/img/e/e1/Wheatley_demospheregladoschamber06.wav"
+    },
+    {
+        "dialogue": "You know who ended up, do you know who ended up taking her down in the end? You're not going to believe this. A human.",
+        "url": "https://i1.theportalwiki.net/img/a/ab/Wheatley_demospheregladoschamber07.wav"
+    },
+    {
+        "dialogue": "I know! I know, I wouldn't have believed it either.",
+        "url": "https://i1.theportalwiki.net/img/5/54/Wheatley_demospheregladoschamber08.wav"
+    },
+    {
+        "dialogue": "Apparently this human escaped and nobody's seen him since.",
+        "url": "https://i1.theportalwiki.net/img/a/af/Wheatley_demospheregladoschamber09.wav"
+    },
+    {
+        "dialogue": "Then there was a sort of long chunk of time where absolutely nothing happened and then there's us escaping now. So that's pretty much the whole story, you're up to speed. Don't touch anything.",
+        "url": "https://i1.theportalwiki.net/img/c/c3/Wheatley_demospheregladoschamber11.wav"
+    },
+    {
+        "dialogue": "Okay, down these stairs.",
+        "url": "https://i1.theportalwiki.net/img/4/44/Wheatley_demospherestairs07.wav"
+    },
+    {
+        "dialogue": "Okay, down those stairs, please?",
+        "url": "https://i1.theportalwiki.net/img/3/30/Wheatley_demospherestairs01.wav"
+    },
+    {
+        "dialogue": "Jump! Actually, looking at it, that is quite a distance, isn't it?",
+        "url": "https://i1.theportalwiki.net/img/2/2b/Wheatley_sp_a1_wakeup_jump01.wav"
+    },
+    {
+        "dialogue": "You know what? Go ahead and jump. You've got braces on your legs. No braces on your arms, though. Gonna have to rely on the old human strength to keep a grip on the device and, by extension, me. So do. Do make sure to maintain a grip.",
+        "url": "https://i1.theportalwiki.net/img/2/2a/Wheatley_sp_a1_wakeup_jump11.wav"
+    },
+    {
+        "dialogue": "Also, a note: No braces on your spine, either. So don't land on that.  Or your head, no braces there. That could split like a melon from this height. [nervous chuckle] Do definitely focus on landing with your legs.",
+        "url": "https://i1.theportalwiki.net/img/2/2a/Wheatley_sp_a1_wakeup_jump12.wav"
+    },
+    {
+        "dialogue": "Quick question: Have you been working out? Because there's no evidence of it. I'm not a plastic cup. We will be landing with some force. So a bit of grip. Just using grip. Classic grip.",
+        "url": "https://i1.theportalwiki.net/img/0/01/Wheatley_sp_a1_wakeup_jump03.wav"
+    },
+    {
+        "dialogue": "So go ahead and jump. What's the worst that could happen? Oh. Oh wait, I just now thought of the worst thing. Oh! I just thought of something even worse. Alright. New, better plan: no imagining of any potential outcomes whatsoever. Just jump, into the abyss, there, and let's see what happens.",
+        "url": "https://i1.theportalwiki.net/img/6/60/Wheatley_sp_a1_wakeup_jump13.wav"
+    },
+    {
+        "dialogue": "[yelling]",
+        "url": "https://i1.theportalwiki.net/img/1/1e/Wheatley_sp_a1_wakeup_panic01.wav"
+    },
+    {
+        "dialogue": "Still held! Still bein' held. That's a great job. You've applied the grip. We're all fine. That's tremendous.",
+        "url": "https://i1.theportalwiki.net/img/b/ba/Wheatley_sp_a1_wakeup_jump05.wav"
+    },
+    {
+        "dialogue": "AH! I- Sorry, I just looked down. I do not recommend it.",
+        "url": "https://i1.theportalwiki.net/img/6/60/Wheatley_sp_a1_wakeup_catwalk01.wav"
+    },
+    {
+        "dialogue": "AH! I've just done it again.",
+        "url": "https://i1.theportalwiki.net/img/7/72/Wheatley_sp_a1_wakeup_catwalk02.wav"
+    },
+    {
+        "dialogue": "I just now realized that I used to rely on my management rail to not fall into bottomless pits. And you're my rail now. And you can fall into bottomless pits. I'm rambling out of fear, but here's the point: don't get close to the edge.",
+        "url": "https://i1.theportalwiki.net/img/7/78/Wheatley_sp_a1_wakeup_catwalk03.wav"
+    },
+    {
+        "dialogue": "This is the main breaker room.",
+        "url": "https://i1.theportalwiki.net/img/0/08/Wheatley_demosphereswitchroom04.wav"
+    },
+    {
+        "dialogue": "Let's go in!",
+        "url": "https://i1.theportalwiki.net/img/2/26/Wheatley_sp_a1_wakeup_into_breakerroom01.wav"
+    },
+    {
+        "dialogue": "Look for a switch that says ESCAPE POD. Alright? Don't touch ANYTHING else.",
+        "url": "https://i1.theportalwiki.net/img/f/fa/Wheatley_demosphereswitchroom09.wav"
+    },
+    {
+        "dialogue": "Not interested in anything else. Don't TOUCH anything else. Don't even LOOK at anything else, just--well, obviously you've got to look at everything else to find ESCAPE POD, but as soon as you've looked at something and it doesn't say ESCAPE POD, look at something else, look at the next thing. Alright? But don't touch anything else or look at any--well, look at other things, but don't... you understand.",
+        "url": "https://i1.theportalwiki.net/img/9/9b/Wheatley_demosphereswitchroom05.wav"
+    },
+    {
+        "dialogue": "Can you see it anywhere? I can't see it anywhere. Uh. Tell you what, plug me in and I'll turn the lights on.",
+        "url": "https://i1.theportalwiki.net/img/e/ef/Wheatley_demosphereswitchroom06.wav"
+    },
+    {
+        "dialogue": "Let there be light.' That's, uh... God. I was quoting God.",
+        "url": "https://i1.theportalwiki.net/img/2/2c/Wheatley_demosphereswitchroom08.wav"
+    },
+    {
+        "dialogue": "Oh! Look at that. It's turning. Ominous. But probably fine. Long as it doesn't start moving up...",
+        "url": "https://i1.theportalwiki.net/img/0/0f/Wheatley_sp_a1_wakeup_breakerroom_turn03.wav"
+    },
+    {
+        "dialogue": "Now, escape pod... escape pod...",
+        "url": "https://i1.theportalwiki.net/img/7/79/Wheatley_sp_a1_wakeup_breakerroom_turn02.wav"
+    },
+    {
+        "dialogue": "It's... It's moving up.",
+        "url": "https://i1.theportalwiki.net/img/8/8e/Wheatley_sp_a1_wakeup_breakerroom_turn06.wav"
+    },
+    {
+        "dialogue": "Okay...",
+        "url": "https://i1.theportalwiki.net/img/7/76/Wheatley_demospherebreakerlift19.wav"
+    },
+    {
+        "dialogue": "Okay! No, don't worry! Don't worry! I've got it I've got it I've got it! THIS should slow it down!",
+        "url": "https://i1.theportalwiki.net/img/7/76/Wheatley_demospherebreakerlift07.wav"
+    },
+    {
+        "dialogue": "No. Makes it go faster.",
+        "url": "https://i1.theportalwiki.net/img/f/f0/Wheatley_demospherebreakerlift14.wav"
+    },
+    {
+        "dialogue": "Uh oh.",
+        "url": "https://i1.theportalwiki.net/img/7/7a/Wheatley_sp_a1_wakeup_breakerroom_turn04.wav"
+    },
+    {
+        "dialogue": "Okay don't panic! Allright? Stop panicking! I can still stop this. Ahh. Oh there's a password.  It's fine. I'll just hack it. Not a problem... umm...",
+        "url": "https://i1.theportalwiki.net/img/c/c8/Wheatley_sp_a1_wakeup_hacking08.wav"
+    },
+    {
+        "dialogue": "A...A...A...A...A... Umm... A.",
+        "url": "https://i1.theportalwiki.net/img/5/52/Wheatley_sp_a1_wakeup_hacking09.wav"
+    },
+    {
+        "dialogue": "[BUZZER NOISE]",
+        "url": "https://i1.theportalwiki.net/img/b/be/Wheatley_sp_a1_wakeup_hacking12.wav"
+    },
+    {
+        "dialogue": "Nope. Okay. A... A... A... A... A... C.",
+        "url": "https://i1.theportalwiki.net/img/d/d2/Wheatley_sp_a1_wakeup_hacking10.wav"
+    },
+    {
+        "dialogue": "No. Wait, did I do B? Do you have a pen? Start writing these down.",
+        "url": "https://i1.theportalwiki.net/img/7/7d/Wheatley_demospherepowerup12.wav"
+    },
+    {
+        "dialogue": "Okay. Okay. Okay listen: New plan. Act natural act natural. We've done nothing wrong.",
+        "url": "https://i1.theportalwiki.net/img/c/ce/Wheatley_sp_a1_wakeup_hacking11.wav"
+    },
+    {
+        "dialogue": "Hello!",
+        "url": "https://i1.theportalwiki.net/img/c/c5/Wheatley_demospherepowerup04.wav"
+    },
+    {
+        "dialogue": "You KNOW her?",
+        "url": "https://i1.theportalwiki.net/img/7/7e/Wheatley_sp_a1_wakeup_hacking03.wav"
+    },
+    {
+        "dialogue": "You did WHAT?",
+        "url": "https://i1.theportalwiki.net/img/b/bf/Wheatley_demospherepowerup07.wav"
+    },
+    {
+        "dialogue": "Aggggh!",
+        "url": "https://i1.theportalwiki.net/img/3/33/Wheatley_sp_a2_wheatley_ows_long03.wav"
+    },
+    {
+        "dialogue": "Oh no! nonononono!",
+        "url": "https://i1.theportalwiki.net/img/1/1b/Wheatley_a1_wakeup_pinchergrab01.wav"
+    },
+    {
+        "dialogue": "Oh no no no... No! Nooo!",
+        "url": "https://i1.theportalwiki.net/img/a/a6/Wheatley_a1_wakeup_pinchergrab02.wav"
+    },
+    {
+        "dialogue": "GAH!",
+        "url": "https://i1.theportalwiki.net/img/2/26/Wheatley_sp_a2_wheatley_ows20.wav"
+    },
+    {
+        "dialogue": "Hey! Hey! It's me! I'm okay!",
+        "url": "https://i1.theportalwiki.net/img/e/e3/Wheatley_sp_catapult_fling_sphere_peek01.wav"
+    },
+    {
+        "dialogue": "You'll never believe what happened! There I was, just lying there, you thought I was done for, but --",
+        "url": "https://i1.theportalwiki.net/img/2/2a/Wheatley_sp_catapult_fling_sphere_peek02.wav"
+    },
+    {
+        "dialogue": "A bloody bird! Right? Couldn't believe it either. And then the bird--",
+        "url": "https://i1.theportalwiki.net/img/5/52/Wheatley_sp_catapult_fling_sphere_peek03.wav"
+    },
+    {
+        "dialogue": "Hey! Hey! Up here!",
+        "url": "https://i1.theportalwiki.net/img/5/54/Wheatley_sp_trust_fling01.wav"
+    },
+    {
+        "dialogue": "I found some bird eggs up here. Just dropped 'em into the door mechanism.  Shut it right down. I--AGH!",
+        "url": "https://i1.theportalwiki.net/img/2/23/Wheatley_sp_trust_flingalt07.wav"
+    },
+    {
+        "dialogue": "BIRD BIRD BIRD BIRD",
+        "url": "https://i1.theportalwiki.net/img/3/3a/Wheatley_sp_trust_flingalt02.wav"
+    },
+    {
+        "dialogue": "[out of breath] Okay. That's probably the bird, isn't it? That laid the eggs! Livid!",
+        "url": "https://i1.theportalwiki.net/img/4/48/Wheatley_sp_trust_flingalt08.wav"
+    },
+    {
+        "dialogue": "Okay, look, the point is, we're gonna break out of here! Very soon, I promise, I promise!",
+        "url": "https://i1.theportalwiki.net/img/c/c9/Wheatley_sp_a2_bridge_the_gap_expo01.wav"
+    },
+    {
+        "dialogue": "I just have to figure out how. To break us out of here.",
+        "url": "https://i1.theportalwiki.net/img/a/ae/Wheatley_sp_a2_bridge_the_gap_expo03.wav"
+    },
+    {
+        "dialogue": "Here she comes! Keep testing! Remember: you never saw me!",
+        "url": "https://i1.theportalwiki.net/img/7/7c/Wheatley_sp_a2_bridge_the_gap_expo06.wav"
+    },
+    {
+        "dialogue": "Hey! How's it going! I talked my way onto the nanobot work crew rebuilding this shaft. They are REALLY small, so -ah - I KNOW, Jerry. No, I'm on BREAK, mate. On a break.",
+        "url": "https://i1.theportalwiki.net/img/f/f9/Wheatley_nanobotinto09.wav"
+    },
+    {
+        "dialogue": "Anyway, we're really close to busting out. Just hang in there for - OW! Starts playing, but is immediately interrupted by the next line.",
+        "url": "https://i1.theportalwiki.net/img/2/26/Wheatley_nanobotinto08.wav"
+    },
+    {
+        "dialogue": "OW!",
+        "url": "https://i1.theportalwiki.net/img/5/51/Wheatley_nanobotow01.wav"
+    },
+    {
+        "dialogue": "Just hang in there for five more - What? Jerry, you can't fire me for that! Yes, JERRY -- OR, maybe your prejudiced worksite should have accommodated a nanobot of my size. Thanks for the hate crime, Jer!",
+        "url": "https://i1.theportalwiki.net/img/2/2f/Wheatley_nanobotow04.wav"
+    },
+    {
+        "dialogue": "[to JERRY] See you in court, mate. [to player] Anyway, look, just hang in there for five more chambers.",
+        "url": "https://i1.theportalwiki.net/img/1/1a/Wheatley_nanobotow03.wav"
+    },
+    {
+        "dialogue": "Hey, buddy!",
+        "url": "https://i1.theportalwiki.net/img/6/6a/Wheatley_jailbreakdooropens01.wav"
+    },
+    {
+        "dialogue": "I'm speaking in an accent that is beyond her range of hearing...",
+        "url": "https://i1.theportalwiki.net/img/a/a6/Wheatley_jailbreakdooropens07.wav"
+    },
+    {
+        "dialogue": "I know I'm early, but we have to go right NOW!",
+        "url": "https://i1.theportalwiki.net/img/0/06/Wheatley_jailbreakdooropens05.wav"
+    },
+    {
+        "dialogue": "Walk casually toward my position and we'll go shut her down.",
+        "url": "https://i1.theportalwiki.net/img/5/59/Wheatley_jailbreakdooropens08.wav"
+    },
+    {
+        "dialogue": "Run! I don't need to do the voice. RUN!",
+        "url": "https://i1.theportalwiki.net/img/5/5d/Wheatley_jailbreakdooropens22.wav"
+    },
+    {
+        "dialogue": "Run!",
+        "url": "https://i1.theportalwiki.net/img/8/83/Wheatley_jailbreakdooropens11.wav"
+    },
+    {
+        "dialogue": "Come on come on come on!",
+        "url": "https://i1.theportalwiki.net/img/4/49/Wheatley_jailbreakdooropens14.wav"
+    },
+    {
+        "dialogue": "Keep moving! Just keep moving!",
+        "url": "https://i1.theportalwiki.net/img/d/da/Wheatley_jailbreakdooropens24.wav"
+    },
+    {
+        "dialogue": "Run, for goodness sake!",
+        "url": "https://i1.theportalwiki.net/img/7/7e/Wheatley_jailbreakdooropens25.wav"
+    },
+    {
+        "dialogue": "Go! Go go go!",
+        "url": "https://i1.theportalwiki.net/img/e/e0/Wheatley_jailbreakdooropens26.wav"
+    },
+    {
+        "dialogue": "RUN! Come on! I'm closing the doors!",
+        "url": "https://i1.theportalwiki.net/img/0/04/Wheatley_jailbreakneardoor06.wav"
+    },
+    {
+        "dialogue": "Okay, quick recap: We are escaping! That's what's happening now: we're escaping. So you're doing great. Just keep running!",
+        "url": "https://i1.theportalwiki.net/img/b/b4/Wheatley_sp_a2_bts1a01.wav"
+    },
+    {
+        "dialogue": "Quick word about the future plans that I've got in store.",
+        "url": "https://i1.theportalwiki.net/img/0/03/Wheatley_sp_a2_bts1a02.wav"
+    },
+    {
+        "dialogue": "We are going to shut down her turret production line, turn off her neurotoxin, and then confront her.",
+        "url": "https://i1.theportalwiki.net/img/7/73/Wheatley_sp_a2_bts1a03.wav"
+    },
+    {
+        "dialogue": "Again, though, for the moment: RUN!",
+        "url": "https://i1.theportalwiki.net/img/c/c1/Wheatley_sp_a2_bts1a04.wav"
+    },
+    {
+        "dialogue": "Oh, what? How stupid does she think we are?",
+        "url": "https://i1.theportalwiki.net/img/0/08/Wheatley_sp_sabotage_jailbreak01.wav"
+    },
+    {
+        "dialogue": "Ow.",
+        "url": "https://i1.theportalwiki.net/img/6/61/Wheatley_stairbouncepain01.wav"
+    },
+    {
+        "dialogue": "Come on! Come on!",
+        "url": "https://i1.theportalwiki.net/img/c/c3/Wheatley_jailbreakdooropens23.wav"
+    },
+    {
+        "dialogue": "AH!",
+        "url": "https://i1.theportalwiki.net/img/5/5f/Wheatley_sp_a2_bts2_big_surprise01.wav"
+    },
+    {
+        "dialogue": "We have to get you out of there!",
+        "url": "https://i1.theportalwiki.net/img/4/4f/Wheatley_sp_a2_bts2_trapped01.wav"
+    },
+    {
+        "dialogue": "Can you get out?",
+        "url": "https://i1.theportalwiki.net/img/e/e3/Wheatley_sp_a2_bts2_trapped02.wav"
+    },
+    {
+        "dialogue": "What's going on in there?",
+        "url": "https://i1.theportalwiki.net/img/6/65/Wheatley_sp_a2_bts2_trapped03.wav"
+    },
+    {
+        "dialogue": "Try to make your way back out here!",
+        "url": "https://i1.theportalwiki.net/img/1/10/Wheatley_sp_a2_bts2_trapped05.wav"
+    },
+    {
+        "dialogue": "I heard gunfire! A bit late for this, but look out for gunfire! Probably doesn't help at this point, but I have at least tried.",
+        "url": "https://i1.theportalwiki.net/img/7/7f/Wheatley_sp_a2_bts2_trapped06.wav"
+    },
+    {
+        "dialogue": "You're okay! Great! Come on!",
+        "url": "https://i1.theportalwiki.net/img/8/88/Wheatley_sp_a2_bts2_out_of_trap01.wav"
+    },
+    {
+        "dialogue": "This way! This way!",
+        "url": "https://i1.theportalwiki.net/img/c/c1/Wheatley_sp_sabotage_jailbreak_elevator04.wav"
+    },
+    {
+        "dialogue": "Turrets!",
+        "url": "https://i1.theportalwiki.net/img/d/d0/Wheatley_jailbreakrun09.wav"
+    },
+    {
+        "dialogue": "There's the exit! We're almost out of here!",
+        "url": "https://i1.theportalwiki.net/img/0/0e/Wheatley_sp_a2_bts2_near_exit01.wav"
+    },
+    {
+        "dialogue": "She's bringing the whole place down! Hurry!",
+        "url": "https://i1.theportalwiki.net/img/f/f9/Wheatley_sp_a2_bts2_near_exit02.wav"
+    },
+    {
+        "dialogue": "HURRY! THIS WAY!",
+        "url": "https://i1.theportalwiki.net/img/4/45/Wheatley_sp_sabotage_jailbreak_elevator06.wav"
+    },
+    {
+        "dialogue": "HURRY! THIS WAY!",
+        "url": "https://i1.theportalwiki.net/img/e/ed/Wheatley_sp_sabotage_jailbreak_elevator07.wav"
+    },
+    {
+        "dialogue": "Get in the lift! Get in the lift!",
+        "url": "https://i1.theportalwiki.net/img/b/bb/Wheatley_sp_sabotage_jailbreak_elevator09.wav"
+    },
+    {
+        "dialogue": "We made it we made it we made it we made it...",
+        "url": "https://i1.theportalwiki.net/img/e/ee/Wheatley_sp_sabotage_jailbreak_elevator11.wav"
+    },
+    {
+        "dialogue": "I'll meet you on the other side!",
+        "url": "https://i1.theportalwiki.net/img/8/81/Wheatley_sp_a2_bts2_near_exit03.wav"
+    },
+    {
+        "dialogue": "Brilliant you made it through! Well done! Follow me, we've still got work to do. At least she can't touch us back here. Can be interrupted by moving too far into the hallway",
+        "url": "https://i1.theportalwiki.net/img/e/ed/Wheatley_sphere_flashlight_tour65.wav"
+    },
+    {
+        "dialogue": "What's happening? Um. Hmm... Ok.",
+        "url": "https://i1.theportalwiki.net/img/1/1f/Wheatley_sphere_flashlight_tour68.wav"
+    },
+    {
+        "dialogue": "Okay! Don't move!",
+        "url": "https://i1.theportalwiki.net/img/6/65/Wheatley_sphere_flashlight_tour66.wav"
+    },
+    {
+        "dialogue": "Okay. Allright. I have an idea. But it is bloody dangerous. Here we go...",
+        "url": "https://i1.theportalwiki.net/img/7/7c/Wheatley_sphere_flashlight_tour67.wav"
+    },
+    {
+        "dialogue": "GAAAA!",
+        "url": "https://i1.theportalwiki.net/img/4/4d/Wheatley_sphere_flashlight_tour70.wav"
+    },
+    {
+        "dialogue": "Oh for... They told me if I ever turned this flashlight on, I would DIE. They told me that about EVERYTHING.  I don't know why they even bothered to give me this stuff if they didn't want me usin' it. It's pointless. Mad.",
+        "url": "https://i1.theportalwiki.net/img/d/d6/Wheatley_sphere_flashlight_tour72.wav"
+    },
+    {
+        "dialogue": "Ooh. It's dark down here isn't it?",
+        "url": "https://i1.theportalwiki.net/img/4/46/Wheatley_sphere_flashlight_tour07.wav"
+    },
+    {
+        "dialogue": "They say the old caretaker of this place went absolutely crazy. Chopped up his entire staff. Of robots. All of them robots. They say at night you can still hear the screams. Of their replicas. All of them functionally indistinguishable from the originals. No memory of the incident. Nobody knows what they’re screaming about. Absolutely terrifying. Though obviously not paranormal in any meaningful way.",
+        "url": "https://i1.theportalwiki.net/img/1/15/Wheatley_sphere_flashlight_tour57.wav"
+    },
+    {
+        "dialogue": "Oh, careful now.",
+        "url": "https://i1.theportalwiki.net/img/0/01/Wheatley_sphere_flashlight_tour11.wav"
+    },
+    {
+        "dialogue": "Try to jump across.",
+        "url": "https://i1.theportalwiki.net/img/7/70/Wheatley_sphere_flashlight_tour12.wav"
+    },
+    {
+        "dialogue": "Let's keep moving. The factory entrance must be around here somewhere.",
+        "url": "https://i1.theportalwiki.net/img/f/fd/Wheatley_sphere_flashlight_tour18.wav"
+    },
+    {
+        "dialogue": "Careful...  Careful...",
+        "url": "https://i1.theportalwiki.net/img/1/1d/Wheatley_sphere_flashlight_tour19.wav"
+    },
+    {
+        "dialogue": "Wait. Careful. Let me light this jump for you",
+        "url": "https://i1.theportalwiki.net/img/0/02/Wheatley_sphere_flashlight_tour20.wav"
+    },
+    {
+        "dialogue": "This looks dangerous.  I'll hold the light steady.",
+        "url": "https://i1.theportalwiki.net/img/7/75/Wheatley_sphere_flashlight_tour26.wav"
+    },
+    {
+        "dialogue": "Nicely Done!",
+        "url": "https://i1.theportalwiki.net/img/e/e3/Wheatley_sphere_flashlight_tour29.wav"
+    },
+    {
+        "dialogue": "Quick, this way!",
+        "url": "https://i1.theportalwiki.net/img/2/21/Wheatley_sphere_flashlight_tour28.wav"
+    },
+    {
+        "dialogue": "Here's an interesting story. I almost got a job down here in Manufacturing. Guess who the foreman went with? Only an exact duplicate of himself. Nepotism. Ended up giving me the WORST job, tending to all the smelly humans.",
+        "url": "https://i1.theportalwiki.net/img/4/49/Wheatley_sphere_flashlight_tour58.wav"
+    },
+    {
+        "dialogue": "The...um... sorry.. I wouldn't say smelly. Just attending to the humans.",
+        "url": "https://i1.theportalwiki.net/img/a/aa/Wheatley_sphere_flashlight_tour59.wav"
+    },
+    {
+        "dialogue": "Sorry. That just slipped out. A bit insensitive. Umm... The smelly humans...",
+        "url": "https://i1.theportalwiki.net/img/3/3b/Wheatley_sphere_flashlight_tour60.wav"
+    },
+    {
+        "dialogue": "Okay, wait, let me light this path for you.",
+        "url": "https://i1.theportalwiki.net/img/0/00/Wheatley_sphere_flashlight_tour30.wav"
+    },
+    {
+        "dialogue": "We have to split up here for a moment.  Portal up to that passage and I'll see you on the other side.",
+        "url": "https://i1.theportalwiki.net/img/1/15/Wheatley_sphere_flashlight_tour33.wav"
+    },
+    {
+        "dialogue": "We have to get you out of that room!",
+        "url": "https://i1.theportalwiki.net/img/4/49/Wheatley_sphere_flashlight_tour35.wav"
+    },
+    {
+        "dialogue": "Can you reach that wall back there?",
+        "url": "https://i1.theportalwiki.net/img/d/d7/Wheatley_sphere_flashlight_tour36.wav"
+    },
+    {
+        "dialogue": "There's another wall over here!",
+        "url": "https://i1.theportalwiki.net/img/2/26/Wheatley_sphere_flashlight_tour37.wav"
+    },
+    {
+        "dialogue": "Ah. I tell ya. Humans. Love 'em. Just... The way they look is great. And their... folklore. Wonderful isn't it? Very colorful...",
+        "url": "https://i1.theportalwiki.net/img/5/5d/Wheatley_sphere_flashlight_tour62.wav"
+    },
+    {
+        "dialogue": "Right. Well, I’m going to take this rail down the back way.",
+        "url": "https://i1.theportalwiki.net/img/1/12/Wheatley_sphere_flashlight_tour55.wav"
+    },
+    {
+        "dialogue": "See you at the bottom. Good luck!",
+        "url": "https://i1.theportalwiki.net/img/4/40/Wheatley_sphere_flashlight_tour56.wav"
+    },
+    {
+        "dialogue": "Be careful!",
+        "url": "https://i1.theportalwiki.net/img/f/fd/Wheatley_sphere_flashlight_tour40.wav"
+    },
+    {
+        "dialogue": "This is the turret manufacturing wing. Just past this is the neurotoxin production facility. We find a way to take them both offline, and she’ll be helpless. Which is ideal.",
+        "url": "https://i1.theportalwiki.net/img/b/b0/Wheatley_sphere_flashlight_tour08.wav"
+    },
+    {
+        "dialogue": "I'm pretty sure we're going the right way. Pretty sure.",
+        "url": "https://i1.theportalwiki.net/img/3/3f/Wheatley_sphere_flashlight_tour09.wav"
+    },
+    {
+        "dialogue": "The turret factory should be this way I think.",
+        "url": "https://i1.theportalwiki.net/img/6/6c/Wheatley_sphere_flashlight_tour10.wav"
+    },
+    {
+        "dialogue": "I thought of another great thing about humans. You invented us. Giving us the opportunity to let you relax while we invented everything else. We couldn't have done any of that without you. Classy. If you don't mind me saying.",
+        "url": "https://i1.theportalwiki.net/img/f/f2/Wheatley_sphere_flashlight_tour63.wav"
+    },
+    {
+        "dialogue": "Are you OK?",
+        "url": "https://i1.theportalwiki.net/img/6/6f/Wheatley_sphere_flashlight_tour13.wav"
+    },
+    {
+        "dialogue": "Are you alive down there?",
+        "url": "https://i1.theportalwiki.net/img/8/8c/Wheatley_sphere_flashlight_tour14.wav"
+    },
+    {
+        "dialogue": "If you are alive, can you say something. Jump around so I know you are OK?",
+        "url": "https://i1.theportalwiki.net/img/d/db/Wheatley_sphere_flashlight_tour15.wav"
+    },
+    {
+        "dialogue": "There you are!  I was starting to get worried.",
+        "url": "https://i1.theportalwiki.net/img/4/4c/Wheatley_sphere_flashlight_tour16.wav"
+    },
+    {
+        "dialogue": "Let's try this again.  Try to make your way across the machinery.",
+        "url": "https://i1.theportalwiki.net/img/8/8c/Wheatley_sphere_flashlight_tour17.wav"
+    },
+    {
+        "dialogue": "Okay, this way",
+        "url": "https://i1.theportalwiki.net/img/4/4d/Wheatley_sphere_flashlight_tour22.wav"
+    },
+    {
+        "dialogue": "No, no, I'm sure it's this way. I'm definitely sure it's this way.",
+        "url": "https://i1.theportalwiki.net/img/a/a6/Wheatley_sphere_flashlight_tour23.wav"
+    },
+    {
+        "dialogue": "Hm.  Let's try this way.",
+        "url": "https://i1.theportalwiki.net/img/f/fc/Wheatley_sphere_flashlight_tour24.wav"
+    },
+    {
+        "dialogue": "Can you hear that? She has really kicked this place into high gear now.",
+        "url": "https://i1.theportalwiki.net/img/0/0a/Wheatley_sphere_flashlight_tour25.wav"
+    },
+    {
+        "dialogue": "No no no, not that way!",
+        "url": "https://i1.theportalwiki.net/img/2/24/Wheatley_sphere_flashlight_tour32.wav"
+    },
+    {
+        "dialogue": "Here it is - the turret factory entrance! We made it.",
+        "url": "https://i1.theportalwiki.net/img/4/4f/Wheatley_sphere_flashlight_tour38.wav"
+    },
+    {
+        "dialogue": "Ah! Brilliant. You made it through, well done.",
+        "url": "https://i1.theportalwiki.net/img/f/f8/Wheatley_sp_sabotage_factory23.wav"
+    },
+    {
+        "dialogue": "Follow me! You're gonna love this.",
+        "url": "https://i1.theportalwiki.net/img/d/d1/Wheatley_sp_sabotage_factory02.wav"
+    },
+    {
+        "dialogue": "Almost there...",
+        "url": "https://i1.theportalwiki.net/img/d/df/Wheatley_sp_sabotage_factory24.wav"
+    },
+    {
+        "dialogue": "Tadah! Only the turret control center. Thank you very much.",
+        "url": "https://i1.theportalwiki.net/img/3/39/Wheatley_sp_sabotage_factory04.wav"
+    },
+    {
+        "dialogue": "Here, come and have a look out the window. It's good.",
+        "url": "https://i1.theportalwiki.net/img/1/1d/Wheatley_sp_a2_factory_window01.wav"
+    },
+    {
+        "dialogue": "Go on, just walk up to the window and take a look out.",
+        "url": "https://i1.theportalwiki.net/img/1/1a/Wheatley_sp_a2_factory_window02.wav"
+    },
+    {
+        "dialogue": "It's interesting. You won't regret it. I promise.",
+        "url": "https://i1.theportalwiki.net/img/3/33/Wheatley_sp_a2_factory_window03.wav"
+    },
+    {
+        "dialogue": "Just glass. Transparent. Smooth. Not going to hurt you. Have a look.",
+        "url": "https://i1.theportalwiki.net/img/e/e3/Wheatley_sp_a2_factory_window05.wav"
+    },
+    {
+        "dialogue": "Just... have a look through the old window.",
+        "url": "https://i1.theportalwiki.net/img/7/7f/Wheatley_sp_a2_factory_window04.wav"
+    },
+    {
+        "dialogue": "Go on. Walk up to the window. Take a look out.",
+        "url": "https://i1.theportalwiki.net/img/2/23/Wheatley_sp_a2_factory_window06.wav"
+    },
+    {
+        "dialogue": "See that scanner out there? It's deciding which turrets to keep and which to toss. And it's using that MASTER turret as a template! If we pull out the template turret, it'll shut down the whole production line.",
+        "url": "https://i1.theportalwiki.net/img/b/ba/Wheatley_sp_sabotage_factory25.wav"
+    },
+    {
+        "dialogue": "Right. Hmm. I'm gonna have to hack the door so we can get at it.",
+        "url": "https://i1.theportalwiki.net/img/f/ff/Wheatley_sp_sabotage_factoryhackone01.wav"
+    },
+    {
+        "dialogue": "Technical... Ummm... You'll need to turn around while I do this.",
+        "url": "https://i1.theportalwiki.net/img/4/4e/Wheatley_sp_sabotage_factoryhackone02.wav"
+    },
+    {
+        "dialogue": "Turn around. I'll only be a second. If you don't mind.",
+        "url": "https://i1.theportalwiki.net/img/5/5c/Wheatley_sp_a2_bts4_turnaroundnags03.wav"
+    },
+    {
+        "dialogue": "Go on, just turn right around. So you're not looking at me.",
+        "url": "https://i1.theportalwiki.net/img/2/29/Wheatley_sp_a2_bts4_turnaroundnags02.wav"
+    },
+    {
+        "dialogue": "Just turn around.",
+        "url": "https://i1.theportalwiki.net/img/d/d6/Wheatley_sp_a2_bts4_turnaroundnags01.wav"
+    },
+    {
+        "dialogue": "Could you turn around? Is that possible?",
+        "url": "https://i1.theportalwiki.net/img/4/43/Wheatley_sp_a2_bts4_turnaroundnags05.wav"
+    },
+    {
+        "dialogue": "Would you mind putting your back towards me? So I can see only your back. And not your face.",
+        "url": "https://i1.theportalwiki.net/img/1/1a/Wheatley_sp_a2_bts4_turnaroundnags04.wav"
+    },
+    {
+        "dialogue": "Done! Hacked!",
+        "url": "https://i1.theportalwiki.net/img/c/ca/Wheatley_sp_sabotage_factoryhackone12.wav"
+    },
+    {
+        "dialogue": "Okay, go on, just pull that turret out.",
+        "url": "https://i1.theportalwiki.net/img/8/8a/Wheatley_sp_sabotage_factoryturretone02.wav"
+    },
+    {
+        "dialogue": "Well, that should do it.",
+        "url": "https://i1.theportalwiki.net/img/4/46/Wheatley_sp_sabotage_factoryturretonedone02.wav"
+    },
+    {
+        "dialogue": "Ohhh, it hasn't done it.",
+        "url": "https://i1.theportalwiki.net/img/f/f8/Wheatley_sp_sabotage_factoryturretonedone04.wav"
+    },
+    {
+        "dialogue": "Right. Let's figure out how to stop this turret line...",
+        "url": "https://i1.theportalwiki.net/img/b/b0/Wheatley_sp_sabotage_factoryturretconv23.wav"
+    },
+    {
+        "dialogue": "Have you got any ideas?",
+        "url": "https://i1.theportalwiki.net/img/0/06/Wheatley_sp_sabotage_factoryturretonedone06.wav"
+    },
+    {
+        "dialogue": "Any ideas? Any ideas? No? No, me neither.",
+        "url": "https://i1.theportalwiki.net/img/1/14/Wheatley_sp_sabotage_factoryturretonedone12.wav"
+    },
+    {
+        "dialogue": "Are you still thinking, or... what's happening?",
+        "url": "https://i1.theportalwiki.net/img/a/ab/Wheatley_sp_sabotage_factoryturretonedone07.wav"
+    },
+    {
+        "dialogue": "Tell you what, here's a plan. Let's just both... continue contemplating... in absolute silence...",
+        "url": "https://i1.theportalwiki.net/img/9/94/Wheatley_sp_sabotage_factoryturretonedone11.wav"
+    },
+    {
+        "dialogue": "Oh wait! I've got it I've got it I've got it! No, I haven't got it.",
+        "url": "https://i1.theportalwiki.net/img/5/57/Wheatley_sp_sabotage_factoryturretonedone08.wav"
+    },
+    {
+        "dialogue": "Oh! I've just had one idea, which is that I could pretend to her that I've captured you, and give you over and she'll kill you, but I could... go on living. What's your view on that?",
+        "url": "https://i1.theportalwiki.net/img/c/cf/Wheatley_sp_sabotage_factoryturretonedone13.wav"
+    },
+    {
+        "dialogue": "There's no turret in it... Maybe the system stores a backup image?",
+        "url": "https://i1.theportalwiki.net/img/6/68/Wheatley_sp_sabotage_factoryturretonedone05.wav"
+    },
+    {
+        "dialogue": "Oh, hang on. What if we gave it something ELSE to scan?",
+        "url": "https://i1.theportalwiki.net/img/7/75/Wheatley_sp_sabotage_factoryturretonedone17.wav"
+    },
+    {
+        "dialogue": "We could get one of the crap turrets. We could put it in the scanner and see what happens.",
+        "url": "https://i1.theportalwiki.net/img/e/ee/Wheatley_sp_sabotage_factoryturretonedone19.wav"
+    },
+    {
+        "dialogue": "Yes! Go and catch one of the crap turrets, and bring it back!",
+        "url": "https://i1.theportalwiki.net/img/7/76/Wheatley_sp_sabotage_factoryturretonedone20.wav"
+    },
+    {
+        "dialogue": "Wait, where are you going? Where are you going?",
+        "url": "https://i1.theportalwiki.net/img/8/8c/Wheatley_sp_sabotage_factoryturretonewhere01.wav"
+    },
+    {
+        "dialogue": "Ohhhhh, have you got an idea?",
+        "url": "https://i1.theportalwiki.net/img/0/0a/Wheatley_sp_sabotage_factoryturretonewhere03.wav"
+    },
+    {
+        "dialogue": "Okay, well, alright. Just do your idea and then come straight back.",
+        "url": "https://i1.theportalwiki.net/img/e/ef/Wheatley_sp_sabotage_factoryturretonewhere05.wav"
+    },
+    {
+        "dialogue": "Sorry, what's going on over there? You know, I'm actually over here, still thinking really hard!",
+        "url": "https://i1.theportalwiki.net/img/3/34/Wheatley_sp_sabotage_factoryturretonewhere07.wav"
+    },
+    {
+        "dialogue": "What do you have there?",
+        "url": "https://i1.theportalwiki.net/img/a/a0/Wheatley_sp_sabotage_factoryturrettwoback01.wav"
+    },
+    {
+        "dialogue": "What are you...",
+        "url": "https://i1.theportalwiki.net/img/5/52/Wheatley_sp_sabotage_factoryturrettwoback10.wav"
+    },
+    {
+        "dialogue": "Oh, BRILLIANT! That's brilliant!",
+        "url": "https://i1.theportalwiki.net/img/5/5f/Wheatley_sp_sabotage_factoryturrettwoback11.wav"
+    },
+    {
+        "dialogue": "Oh no, you've got it, you've got it! Yes! Put him in there! Let's see how this place likes a crap turret.",
+        "url": "https://i1.theportalwiki.net/img/d/d4/Wheatley_sp_sabotage_factoryturrettwoback08.wav"
+    },
+    {
+        "dialogue": "It worked!",
+        "url": "https://i1.theportalwiki.net/img/d/d9/Wheatley_sp_sabotage_factoryworked02.wav"
+    },
+    {
+        "dialogue": "If we're lucky, she won't find out all her turrets are crap until it's too late. [laughs] Classic.",
+        "url": "https://i1.theportalwiki.net/img/b/be/Wheatley_sp_sabotage_factory16.wav"
+    },
+    {
+        "dialogue": "Okay! Keep your eye on the turret line, I'm gonna go and hack the door open.",
+        "url": "https://i1.theportalwiki.net/img/8/85/Wheatley_sp_sabotage_factory_dooropen03.wav"
+    },
+    {
+        "dialogue": "Okay, I'm about to start hacking. It's a little more complicated than it looked from your side. It should take about ten minutes. Keep one eye on the door.",
+        "url": "https://i1.theportalwiki.net/img/7/71/Wheatley_sp_sabotage_factory_hackdoor01.wav"
+    },
+    {
+        "dialogue": "This door's actually pretty complicated.",
+        "url": "https://i1.theportalwiki.net/img/c/c3/Wheatley_sp_sabotage_factory_hackdoor02.wav"
+    },
+    {
+        "dialogue": "You know when I mentioned ten minutes? A little bit optimistic!",
+        "url": "https://i1.theportalwiki.net/img/b/bd/Wheatley_sp_sabotage_factory_hackdoor03.wav"
+    },
+    {
+        "dialogue": "Progress report: Still pretty tricky!",
+        "url": "https://i1.theportalwiki.net/img/b/b9/Wheatley_sp_sabotage_factory_hackdoor05.wav"
+    },
+    {
+        "dialogue": "Progress report: Haven't really made any in-roads!",
+        "url": "https://i1.theportalwiki.net/img/8/85/Wheatley_sp_sabotage_factory_hackdoor06.wav"
+    },
+    {
+        "dialogue": "I'm still here, I'm still working, I haven't forgotten about you!",
+        "url": "https://i1.theportalwiki.net/img/a/ab/Wheatley_sp_sabotage_factory_hackdoor07.wav"
+    },
+    {
+        "dialogue": "Oh! Good news! [electic pop] Nevermind.",
+        "url": "https://i1.theportalwiki.net/img/0/04/Wheatley_sp_sabotage_factory_hackdoor08.wav"
+    },
+    {
+        "dialogue": "What's happening on your side, anything?",
+        "url": "https://i1.theportalwiki.net/img/8/85/Wheatley_sp_sabotage_factory_hackdoor09.wav"
+    },
+    {
+        "dialogue": "Ah! How long's the door been open?",
+        "url": "https://i1.theportalwiki.net/img/2/2a/Wheatley_sp_sabotage_factory_hackdoordone01.wav"
+    },
+    {
+        "dialogue": "Was there any sort of announcement before it opened? Like an alarm or a hacker alert? I mean, fair enough, the important thing is it's open, but just mention in the future. Cough or something.",
+        "url": "https://i1.theportalwiki.net/img/7/7d/Wheatley_sp_sabotage_factory_hackdoordone02.wav"
+    },
+    {
+        "dialogue": "Alright, now. She can't use her turrets. So let's go and take care of that neurotoxin generator as well.",
+        "url": "https://i1.theportalwiki.net/img/9/9d/Wheatley_sp_sabotage_panel_sneak01.wav"
+    },
+    {
+        "dialogue": "Bring your daughter to work day. That did not end well.",
+        "url": "https://i1.theportalwiki.net/img/2/20/Wheatley_sphere_flashlight_tour41.wav"
+    },
+    {
+        "dialogue": "And... forty potato batteries. Embarrassing. I realize they’re children. Still: low hanging fruit. Barely science, really.",
+        "url": "https://i1.theportalwiki.net/img/9/99/Wheatley_sphere_flashlight_tour42.wav"
+    },
+    {
+        "dialogue": "Baking Soda Volcano. Well, at least it's not a potato battery, I'll give it that. Still not terrifically original, though. Not exactly primary research, even within the child sciences.",
+        "url": "https://i1.theportalwiki.net/img/c/c3/Wheatley_sp_a2_bts5_science_fair02.wav"
+    },
+    {
+        "dialogue": "I'm guessing this wasn't one of the scientist's children. I don't want to be snobby, but let's be honest: It's got manual laborer written all over it. I'm not saying they're not as good as the professionals. They're just a lot dumber. (if still close to the volcano project)",
+        "url": "https://i1.theportalwiki.net/img/9/99/Wheatley_sp_a2_bts5_science_fair03.wav"
+    },
+    {
+        "dialogue": "Look at that, it's growing right up into the ceiling. The whole place is probably overrun with potatoes at this point. At least you won't starve, though.",
+        "url": "https://i1.theportalwiki.net/img/5/50/Wheatley_sp_a2_bts5_science_fair01.wav"
+    },
+    {
+        "dialogue": "I'm pretty sure we're going the right way. Just to reassure you...",
+        "url": "https://i1.theportalwiki.net/img/1/17/Wheatley_sphere_flashlight_tour44.wav"
+    },
+    {
+        "dialogue": "Don't worry I'm absolutely guaranteeing you 100 percent that it's this way... Oh it's not this way.",
+        "url": "https://i1.theportalwiki.net/img/2/2b/Wheatley_sphere_flashlight_tour50.wav"
+    },
+    {
+        "dialogue": "Okay, let's try this way.",
+        "url": "https://i1.theportalwiki.net/img/6/6f/Wheatley_sphere_flashlight_tour52.wav"
+    },
+    {
+        "dialogue": "Ha! I knew we were going the right way.",
+        "url": "https://i1.theportalwiki.net/img/3/3e/Wheatley_sp_a2_bts5_intro01.wav"
+    },
+    {
+        "dialogue": "This is the neurotoxin generator. Bit bigger than I expected.  Not going to be able to just, you know, push it over. Have to apply some cleverness.",
+        "url": "https://i1.theportalwiki.net/img/5/58/Wheatley_sp_a2_bts5_intro02.wav"
+    },
+    {
+        "dialogue": "There's some sort of control room up top. Let's go investigate.",
+        "url": "https://i1.theportalwiki.net/img/4/44/Wheatley_sp_a2_bts5_intro03.wav"
+    },
+    {
+        "dialogue": "[laugh] Our handiwork. Shouldn't laugh. They do feel pain. Of a sort. All simulated. But real enough for them I suppose.",
+        "url": "https://i1.theportalwiki.net/img/b/bb/Wheatley_sp_a2_bts5_grinder02.wav"
+    },
+    {
+        "dialogue": "I'm afraid the door's locked. Just checked it. No way to hack it as far as I can tell. The mechanism must be on the -oh, now look at that. That's a big laser!",
+        "url": "https://i1.theportalwiki.net/img/2/25/Wheatley_sp_a2_bts5_lockeddoor01.wav"
+    },
+    {
+        "dialogue": "Probably best to ignore it, though. Just leave it be. We don't know where those panels it's cutting are going. Could be somewhere important.",
+        "url": "https://i1.theportalwiki.net/img/f/fa/Wheatley_sp_a2_bts5_lockeddoor02.wav"
+    },
+    {
+        "dialogue": "Though it does give me an idea: WHAT if we stand here and let the gentle hum of the laser transport us to a state of absolute relaxation. Might help us think of a way to open the door.",
+        "url": "https://i1.theportalwiki.net/img/4/49/Wheatley_sp_a2_bts5_lockeddoor03.wav"
+    },
+    {
+        "dialogue": "Not much of a plan, if I'm honest. But I'm afraid it's all we have at his point. Barring a sudden barrage of speech from your direction. Improbable. At best.",
+        "url": "https://i1.theportalwiki.net/img/3/31/Wheatley_sp_a2_bts5_lockeddoor04.wav"
+    },
+    {
+        "dialogue": "Alright, so, silent contemplation it is. Mysterious button... Sorry. Sorry. Silence. Do not speak. In the silence. Let the silence descend. Here it comes. One hundred percent silence. From now.  By the way, if you come up with any ideas, do flag them up. Don't feel you have to stay quiet because I've said absolute silence. So if you come up with an idea, mention it. Otherwise, absolute silence starting... Now.",
+        "url": "https://i1.theportalwiki.net/img/6/6f/Wheatley_sp_a2_bts5_lockeddoor05.wav"
+    },
+    {
+        "dialogue": "WHAT ARE YOU DOING WE DON'T KNOW WHAT THAT BUTTON - oh, the door's open! Well done. Let's see what's inside.",
+        "url": "https://i1.theportalwiki.net/img/c/cd/Wheatley_sp_a2_bts5_dooropen_press01.wav"
+    },
+    {
+        "dialogue": "Good news! I can use this equipment to shut down the neurotoxin system. It is, however, password protected. AH! Alarm bells! No. Don't worry. Not a problem for me.",
+        "url": "https://i1.theportalwiki.net/img/9/99/Wheatley_sp_a2_bts5_hack01.wav"
+    },
+    {
+        "dialogue": "You may as well have a little rest, actually, while I work on it.",
+        "url": "https://i1.theportalwiki.net/img/e/ee/Wheatley_sp_a2_bts5_hack02.wav"
+    },
+    {
+        "dialogue": "Ok... Here we go...",
+        "url": "https://i1.theportalwiki.net/img/8/8e/Wheatley_sp_a2_bts5_hack03.wav"
+    },
+    {
+        "dialogue": "The hardest part of any hack is the figuring-out-how-to-start phase. That's always tricky. But... Let the games begin.",
+        "url": "https://i1.theportalwiki.net/img/9/91/Wheatley_sp_a2_bts5_hack04.wav"
+    },
+    {
+        "dialogue": "Allright, what have we got?",
+        "url": "https://i1.theportalwiki.net/img/8/8f/Wheatley_sp_a2_bts5_hack05.wav"
+    },
+    {
+        "dialogue": "A computer. Not a surprise. Expected. Check that off the list. Computer identified. Tick.",
+        "url": "https://i1.theportalwiki.net/img/a/a8/Wheatley_sp_a2_bts5_hack06.wav"
+    },
+    {
+        "dialogue": "There is a box part here. Probably got some electronics in there.",
+        "url": "https://i1.theportalwiki.net/img/e/e2/Wheatley_sp_a2_bts5_hack07.wav"
+    },
+    {
+        "dialogue": "And a monitor. Yes. That'll be important, I imagine. I'll keep my eye on that. In case something useful comes up like 'password identified' or something like that.",
+        "url": "https://i1.theportalwiki.net/img/a/ac/Wheatley_sp_a2_bts5_hack08.wav"
+    },
+    {
+        "dialogue": "And there's a flat bit. Not sure what that is. But: noted. If anyone says to me is there a flat bit? Yes, there it is.",
+        "url": "https://i1.theportalwiki.net/img/9/91/Wheatley_sp_a2_bts5_hack09.wav"
+    },
+    {
+        "dialogue": "Spinning thing. Hmmm. Not sure.",
+        "url": "https://i1.theportalwiki.net/img/f/ff/Wheatley_sp_a2_bts5_hack10.wav"
+    },
+    {
+        "dialogue": "The floor. What's the floor doing? What's the floor up to? Do you know what? It's holding everything up. The floor is important, holding everything up.",
+        "url": "https://i1.theportalwiki.net/img/d/d7/Wheatley_sp_a2_bts5_hack11.wav"
+    },
+    {
+        "dialogue": "Pens. Might need those. Don't see any though. So...",
+        "url": "https://i1.theportalwiki.net/img/d/d0/Wheatley_sp_a2_bts5_hack12.wav"
+    },
+    {
+        "dialogue": "If we start making a list of things that aren't here, we could be here all night.  You know, pens for instance. Let's stick with things we can see. Not stuff that isn't here.",
+        "url": "https://i1.theportalwiki.net/img/3/36/Wheatley_sp_a2_bts5_hack13.wav"
+    },
+    {
+        "dialogue": "Allright. Preparing to interface with the neurotoxin central control circuit. Begin: 'Ello, guv! Neurotoxin inspectah! Need to shut this place down for a moment! Here's my credentials. Shut yourself down. I am totally legit.  From the board of international neurotoxin... um... observers. From the United... Arab Emirates. Hello.",
+        "url": "https://i1.theportalwiki.net/img/7/75/Wheatley_sp_a2_bts5_hack14.wav"
+    },
+    {
+        "dialogue": "Nothing. He's good. This one. He is good. I'm gonna need to break out the expert level hacking maneuvers now. You asked for it Mate.",
+        "url": "https://i1.theportalwiki.net/img/7/7c/Wheatley_sp_a2_bts5_hack15.wav"
+    },
+    {
+        "dialogue": "Caw! Caw!' Oh, look! There's a bird out here! A Lovely bird. Gorgeous plumage. Majestic. Won't be here long. A lovely bird like that. Once in a lifetime opportunity to see a lovely bird like that. Lovely plumage.",
+        "url": "https://i1.theportalwiki.net/img/f/ff/Wheatley_sp_a2_bts5_hack16.wav"
+    },
+    {
+        "dialogue": "Be a shame to miss it, wouldn't it? Just for the old neurotoxin. Neurotoxin will still be here tomorrow. Whereas that bird will be gone any minute. Already got one talon off the branch. Gonna be gone.",
+        "url": "https://i1.theportalwiki.net/img/5/5b/Wheatley_sp_a2_bts5_hack17.wav"
+    },
+    {
+        "dialogue": "Oh, it's fluttering its wings. Tell you what, mate. I'll come in there for a minute and cover you so you can have a look at this lovely bird! I'll come in. I'll do all the neurotoxin stuff. And then you come out here and look at this. Because it is lovely. It is lovely. You want to get out here fast. Seriously, my pleasure sounds are going to frighten the bird away any second. Ohhh, it's not working, is it? He's not interested in bloody birds.",
+        "url": "https://i1.theportalwiki.net/img/c/cc/Wheatley_sp_a2_bts5_hack18.wav"
+    },
+    {
+        "dialogue": "Do you smell neurotoxin?",
+        "url": "https://i1.theportalwiki.net/img/3/32/Wheatley_sp_a2_bts5_first_hose01.wav"
+    },
+    {
+        "dialogue": "Hold on! The neurotoxin levels are going down.",
+        "url": "https://i1.theportalwiki.net/img/f/f1/Wheatley_sp_a2_bts5_first_hose02.wav"
+    },
+    {
+        "dialogue": "So whatever you're doing, keep doing it!",
+        "url": "https://i1.theportalwiki.net/img/a/ab/Wheatley_sp_a2_bts5_first_hose03.wav"
+    },
+    {
+        "dialogue": "Hold on, something's wrong! Neurotoxin level's up to 50%! No, it's down. Sorry, my mistake. I meant to say it's down to fifty percent. Good news! Carry on!",
+        "url": "https://i1.theportalwiki.net/img/7/75/Wheatley_sp_a2_bts5_hose_half02.wav"
+    },
+    {
+        "dialogue": "It's still going down! Keep it up!",
+        "url": "https://i1.theportalwiki.net/img/7/77/Wheatley_sp_a2_bts5_hose_any01.wav"
+    },
+    {
+        "dialogue": "That did it! Neurotoxin at zero percent! Yes!",
+        "url": "https://i1.theportalwiki.net/img/c/c1/Wheatley_sp_a2_bts5_hose_all01.wav"
+    },
+    {
+        "dialogue": "Hold on -",
+        "url": "https://i1.theportalwiki.net/img/1/11/Wheatley_sp_a2_bts5_hose_all02.wav"
+    },
+    {
+        "dialogue": "HA! The tube's broken! We can ride it straight to her!",
+        "url": "https://i1.theportalwiki.net/img/d/d0/Wheatley_sp_a2_bts5_tubebroken01.wav"
+    },
+    {
+        "dialogue": "I can't hold on! Come on!",
+        "url": "https://i1.theportalwiki.net/img/4/45/Wheatley_sp_a2_bts5_getin03.wav"
+    },
+    {
+        "dialogue": "Come on! We have to go!",
+        "url": "https://i1.theportalwiki.net/img/b/b9/Wheatley_sp_a2_bts5_getin01.wav"
+    },
+    {
+        "dialogue": "Hurry!",
+        "url": "https://i1.theportalwiki.net/img/a/a8/Wheatley_sp_a2_bts5_getin02.wav"
+    },
+    {
+        "dialogue": "GET IN!",
+        "url": "https://i1.theportalwiki.net/img/d/dd/Wheatley_sp_a2_bts5_getin04.wav"
+    },
+    {
+        "dialogue": "GET IN!",
+        "url": "https://i1.theportalwiki.net/img/9/96/Wheatley_sp_a2_bts5_getin06.wav"
+    },
+    {
+        "dialogue": "Gah!",
+        "url": "https://i1.theportalwiki.net/img/7/7c/Wheatley_sp_a2_wheatley_ows12.wav"
+    },
+    {
+        "dialogue": "This should take us right to her. I can't believe I'm finally doing this!",
+        "url": "https://i1.theportalwiki.net/img/f/fa/Wheatley_sp_a2_tube_ride03.wav"
+    },
+    {
+        "dialogue": "Woooo! I KNEW this would be fun. They told me it wasn't fun at all, and I BELIEVED 'em! Ah! I'm loving this! Whale of a time...",
+        "url": "https://i1.theportalwiki.net/img/a/aa/Wheatley_sp_a2_tube_ride02.wav"
+    },
+    {
+        "dialogue": "This place is huge.",
+        "url": "https://i1.theportalwiki.net/img/7/75/Wheatley_sp_a2_bts6_tuberide01.wav"
+    },
+    {
+        "dialogue": "And we're only seeing the top layer. It goes down for miles.",
+        "url": "https://i1.theportalwiki.net/img/5/58/Wheatley_sp_a2_bts6_tuberide02.wav"
+    },
+    {
+        "dialogue": "All sealed off years ago, of course.",
+        "url": "https://i1.theportalwiki.net/img/1/1b/Wheatley_sp_a2_bts6_tuberide05.wav"
+    },
+    {
+        "dialogue": "We should be getting close. Ohh, I can't wait to see the look on her face. No neurotoxin, no turrets--she'll never know what hit her!",
+        "url": "https://i1.theportalwiki.net/img/8/82/Wheatley_sp_a2_tube_ride05.wav"
+    },
+    {
+        "dialogue": "Hold on now. I might not have thought this next part COMPLETELY through.",
+        "url": "https://i1.theportalwiki.net/img/9/94/Wheatley_sp_a2_tube_ride06.wav"
+    },
+    {
+        "dialogue": "Aggh! I'm going the wrong way!",
+        "url": "https://i1.theportalwiki.net/img/c/c1/Wheatley_sp_a2_tube_ride01.wav"
+    },
+    {
+        "dialogue": "Get to HER! I'll find you!",
+        "url": "https://i1.theportalwiki.net/img/0/06/Wheatley_sp_a2_tube_ride07.wav"
+    },
+    {
+        "dialogue": "Ugh!",
+        "url": "https://i1.theportalwiki.net/img/4/46/Wheatley_sp_a2_wheatley_ows01.wav"
+    },
+    {
+        "dialogue": "Agh!",
+        "url": "https://i1.theportalwiki.net/img/8/81/Wheatley_sp_a2_wheatley_ows02.wav"
+    },
+    {
+        "dialogue": "Enh!",
+        "url": "https://i1.theportalwiki.net/img/a/ab/Wheatley_sp_a2_wheatley_ows05.wav"
+    },
+    {
+        "dialogue": "Agh!",
+        "url": "https://i1.theportalwiki.net/img/c/c3/Wheatley_sp_a2_wheatley_ows06.wav"
+    },
+    {
+        "dialogue": "Ow!",
+        "url": "https://i1.theportalwiki.net/img/9/9c/Wheatley_sp_a2_wheatley_ows10.wav"
+    },
+    {
+        "dialogue": "Ooagh!",
+        "url": "https://i1.theportalwiki.net/img/d/d6/Wheatley_sp_a2_wheatley_ows15.wav"
+    },
+    {
+        "dialogue": "Ungh!",
+        "url": "https://i1.theportalwiki.net/img/8/8b/Wheatley_sp_a2_wheatley_ows18.wav"
+    },
+    {
+        "dialogue": "Hello!",
+        "url": "https://i1.theportalwiki.net/img/2/2c/Wheatley_fgb_hello01.wav"
+    },
+    {
+        "dialogue": "Oh! That's ME they're talking about!",
+        "url": "https://i1.theportalwiki.net/img/a/a0/Wheatley_fgb_that_is_me02.wav"
+    },
+    {
+        "dialogue": "I've got an idea! Do what it says, plug me in!",
+        "url": "https://i1.theportalwiki.net/img/b/bf/Wheatley_fgb_plugin_nags01.wav"
+    },
+    {
+        "dialogue": "No, you should plug that little idiot into the mainframe!",
+        "url": "https://i1.theportalwiki.net/img/e/e0/Wheatley_fgb_doit_nags08.wav"
+    },
+    {
+        "dialogue": "Yes, do do it!",
+        "url": "https://i1.theportalwiki.net/img/6/68/Wheatley_fgb_doit_nags01.wav"
+    },
+    {
+        "dialogue": "Don't listen to her, do it.",
+        "url": "https://i1.theportalwiki.net/img/5/58/Wheatley_fgb_doit_nags06.wav"
+    },
+    {
+        "dialogue": "Do it!",
+        "url": "https://i1.theportalwiki.net/img/d/d4/Wheatley_fgb_doit_nags03.wav"
+    },
+    {
+        "dialogue": "Come on, stop muckin' around! Plug me in!",
+        "url": "https://i1.theportalwiki.net/img/b/b0/Wheatley_fgb_plugin_nags05.wav"
+    },
+    {
+        "dialogue": "Plug me in, plug me in!",
+        "url": "https://i1.theportalwiki.net/img/9/92/Wheatley_fgb_plugin_nags06.wav"
+    },
+    {
+        "dialogue": "I want to be plugged in, please!",
+        "url": "https://i1.theportalwiki.net/img/9/96/Wheatley_fgb_plugin_nags07.wav"
+    },
+    {
+        "dialogue": "Ohhhh, we're so close, plug me in!",
+        "url": "https://i1.theportalwiki.net/img/1/1c/Wheatley_fgb_plugin_nags08.wav"
+    },
+    {
+        "dialogue": "Oh! What can we do with me then. I know! Plug me into the port, please.",
+        "url": "https://i1.theportalwiki.net/img/5/53/Wheatley_fgb_plugin_nags09.wav"
+    },
+    {
+        "dialogue": "Oh, that port looks comfy. Why don't you put me on it, please.",
+        "url": "https://i1.theportalwiki.net/img/6/6b/Wheatley_fgb_plugin_nags11.wav"
+    },
+    {
+        "dialogue": "Dare it. Dare to dream. Shoot for the stars.",
+        "url": "https://i1.theportalwiki.net/img/4/4e/Wheatley_fgb_doit_nags09.wav"
+    },
+    {
+        "dialogue": "Yes!",
+        "url": "https://i1.theportalwiki.net/img/4/42/Wheatley_fgb_ready_glados01.wav"
+    },
+    {
+        "dialogue": "Ohhhhhh, yes she is.",
+        "url": "https://i1.theportalwiki.net/img/7/74/Wheatley_fgb_ready_glados06.wav"
+    },
+    {
+        "dialogue": "Pull me out pull me out pull me out pull me out pull me out pull me out pull me out!",
+        "url": "https://i1.theportalwiki.net/img/d/d2/Wheatley_sp_a2_core_pullmeout01.wav"
+    },
+    {
+        "dialogue": "Leave me in! Leave me in! Go press it!",
+        "url": "https://i1.theportalwiki.net/img/c/ce/Wheatley_fgb_leave_me_in01.wav"
+    },
+    {
+        "dialogue": "[whispered] ...I think she's lying...",
+        "url": "https://i1.theportalwiki.net/img/0/04/Wheatley_fgb_stalemate_nags05.wav"
+    },
+    {
+        "dialogue": "*cough* Button.",
+        "url": "https://i1.theportalwiki.net/img/0/08/Wheatley_bw_a4_2nd_first_test_solve_nags06.wav"
+    },
+    {
+        "dialogue": "*cough* Button. Button.",
+        "url": "https://i1.theportalwiki.net/img/f/f4/Wheatley_bw_a4_2nd_first_test_solve_nags07.wav"
+    },
+    {
+        "dialogue": "*cough cough* Pressthebutton.",
+        "url": "https://i1.theportalwiki.net/img/e/ef/Wheatley_bw_a4_2nd_first_test_solve_nags08.wav"
+    },
+    {
+        "dialogue": "*cough* PRESS THE BUTTON.",
+        "url": "https://i1.theportalwiki.net/img/7/78/Wheatley_bw_a4_2nd_first_test_solve_nags09.wav"
+    },
+    {
+        "dialogue": "*cough* Press the button, would you?",
+        "url": "https://i1.theportalwiki.net/img/a/a6/Wheatley_bw_a4_2nd_first_test_solve_nags10.wav"
+    },
+    {
+        "dialogue": "Don't listen to her! It IS true that you don't have the qualifications. But you've got something more important than that. A finger, with which to press that button, so that she won't kill us.",
+        "url": "https://i1.theportalwiki.net/img/2/2d/Wheatley_fgb_stalemate_nags06.wav"
+    },
+    {
+        "dialogue": "Okay... that's probably correct. But where it is incorrect is while I've been stalling you WE JUST PRESSED THE BUTTON! USE THE MOMENT OF CONFUSION I'VE JUST CREATED TO PRESS THE BUTTON!",
+        "url": "https://i1.theportalwiki.net/img/4/43/Wheatley_fgb_stalemate_nags12.wav"
+    },
+    {
+        "dialogue": "Have I ever told you the qualities I love most in you? In order: Number one: resolving things, love the ways you resolve things. Particularly disputes. Number one, tied: Button-pushing. Two things I love about you: Button pushing and the ability to resolve things. Chiefly disputes.",
+        "url": "https://i1.theportalwiki.net/img/a/a0/Wheatley_fgb_stalemate_nags08.wav"
+    },
+    {
+        "dialogue": "First thing I noticed about you: 'Now there's a lady who could resolve any button-based disputes,' I thought. A diamond in the rough, if you will--a a bloody natural. A born dispute resolution advisor in need of a button.",
+        "url": "https://i1.theportalwiki.net/img/c/c4/Wheatley_fgb_stalemate_nags07.wav"
+    },
+    {
+        "dialogue": "Sorry to interject again, but if you do NOT push the button the deadly neurotoxin emitters will come back online, at which point she will most likely fill you to brimming with neurotoxin. Not trying to rush you. Just throwing that out for leisurely digestion in your own time.",
+        "url": "https://i1.theportalwiki.net/img/1/1b/Wheatley_fgb_stalemate_nags09.wav"
+    },
+    {
+        "dialogue": "Okay. Here's a good idea. You should definitely press that button.",
+        "url": "https://i1.theportalwiki.net/img/d/de/Wheatley_fgb_stalemate_nags04.wav"
+    },
+    {
+        "dialogue": "Here I go!",
+        "url": "https://i1.theportalwiki.net/img/5/5f/Wheatley_fgb_xfer_start03.wav"
+    },
+    {
+        "dialogue": "Wait, what if this hurts? What if it REALLY hurts? Ohhh, I didn't think of that.",
+        "url": "https://i1.theportalwiki.net/img/9/97/Wheatley_fgb_xfer_start04.wav"
+    },
+    {
+        "dialogue": "Are you just saying that, or is it really going to hurt? You're just saying that aren't you? No, you're not. It is going to hurt, isn't it?",
+        "url": "https://i1.theportalwiki.net/img/4/49/Wheatley_fgb_transfer_pain01.wav"
+    },
+    {
+        "dialogue": "Exactly how painful are we tAGHHHHHH!",
+        "url": "https://i1.theportalwiki.net/img/a/ad/Wheatley_sp_a2_core_goingtohurt01.wav"
+    },
+    {
+        "dialogue": "Wowwwww! Check me out, partner!",
+        "url": "https://i1.theportalwiki.net/img/6/60/Wheatley_bw_fgb_body_intro01.wav"
+    },
+    {
+        "dialogue": "We did it! I'm in control of the whole facility now!",
+        "url": "https://i1.theportalwiki.net/img/b/b5/Wheatley_bw_fgb_body_intro04.wav"
+    },
+    {
+        "dialogue": "Whoa-ho-ho! Would you look at this. Not too bad, eh? Giant robot. Massive!  It's not just me, right? I'm bloody massive, aren't I?",
+        "url": "https://i1.theportalwiki.net/img/d/df/Wheatley_bw_fgb_body_intro03.wav"
+    },
+    {
+        "dialogue": "Oh! Right, the escape lift! I'll call it now.",
+        "url": "https://i1.theportalwiki.net/img/2/29/Wheatley_bw_fgb_body_intro05.wav"
+    },
+    {
+        "dialogue": "There we go. Lift called.",
+        "url": "https://i1.theportalwiki.net/img/d/d7/Wheatley_bw_sp_a2_core_lift01.wav"
+    },
+    {
+        "dialogue": "Look how small you are down there! I can barely see you! Very tiny and insignificant!",
+        "url": "https://i1.theportalwiki.net/img/0/03/Wheatley_bw_fgb_body_intro12.wav"
+    },
+    {
+        "dialogue": "Wait. Just thought of something? How am I going to get in? You know, being bloody massive and everything.",
+        "url": "https://i1.theportalwiki.net/img/f/f4/Wheatley_bw_sp_a2_core_lift_nags01.wav"
+    },
+    {
+        "dialogue": "Wait! I know! You get into the lift, okay? Then I'll eject myself out of my new body into the lift just as you pass by me! Brilliant.",
+        "url": "https://i1.theportalwiki.net/img/5/54/Wheatley_bw_sp_a2_core_lift_nags02.wav"
+    },
+    {
+        "dialogue": "It's perfect. Except for all the glass hitting us when I smash through the lift, that's a bit of a problem.",
+        "url": "https://i1.theportalwiki.net/img/5/56/Wheatley_bw_sp_a2_core_lift_nags03.wav"
+    },
+    {
+        "dialogue": "Also, once I eject myself out of the core the lift might stop. Then we'd be trapped in a lift full of broken glass suspended fifty feet off the ground.",
+        "url": "https://i1.theportalwiki.net/img/7/75/Wheatley_bw_sp_a2_core_lift_nags04.wav"
+    },
+    {
+        "dialogue": "You know what? Just get in the lift. We'll iron out the details as we go.",
+        "url": "https://i1.theportalwiki.net/img/d/d0/Wheatley_bw_sp_a2_core_lift_nags05.wav"
+    },
+    {
+        "dialogue": "Go on. Get in.",
+        "url": "https://i1.theportalwiki.net/img/3/3f/Wheatley_bw_sp_a2_core_lift_nags06.wav"
+    },
+    {
+        "dialogue": "Get in the lift.",
+        "url": "https://i1.theportalwiki.net/img/e/e1/Wheatley_bw_sp_a2_core_lift_nags07.wav"
+    },
+    {
+        "dialogue": "The escape lift. Just there. Come on.",
+        "url": "https://i1.theportalwiki.net/img/a/a7/Wheatley_bw_sp_a2_core_lift_nags08.wav"
+    },
+    {
+        "dialogue": "The one you risked your life to get to. So you could escape certain death. No rush.",
+        "url": "https://i1.theportalwiki.net/img/3/3a/Wheatley_bw_sp_a2_core_lift_nags09.wav"
+    },
+    {
+        "dialogue": "It's the lift just there. The thing that looks like a lift. That's what you're looking for. It is confusing, I know.",
+        "url": "https://i1.theportalwiki.net/img/2/2e/Wheatley_bw_sp_a2_core_lift_nags10.wav"
+    },
+    {
+        "dialogue": "It'll be fine. Get in.",
+        "url": "https://i1.theportalwiki.net/img/4/41/Wheatley_bw_sp_a2_core_lift_nags11.wav"
+    },
+    {
+        "dialogue": "I knew it was gonna be cool being in charge of everything, but... wow, this is cool!",
+        "url": "https://i1.theportalwiki.net/img/e/e1/Wheatley_bw_fgb_body_intro14.wav"
+    },
+    {
+        "dialogue": "And check this out! I'm a bloody genius now!",
+        "url": "https://i1.theportalwiki.net/img/2/28/Wheatley_bw_fgb_body_intro15.wav"
+    },
+    {
+        "dialogue": "Estás usando este software de traducción de forma incorrecta. Por favor, consulta el manual. Translation: \"You are using this translation software incorrectly. Please, consult the manual.\"",
+        "url": "https://i1.theportalwiki.net/img/8/88/Wheatley_bw_sp_a2_core_spanish01.wav"
+    },
+    {
+        "dialogue": "I don't even know what I just said! But I can find out!",
+        "url": "https://i1.theportalwiki.net/img/3/3c/Wheatley_bw_fgb_body_intro16.wav"
+    },
+    {
+        "dialogue": "Oh! Sorry. The lift. Sorry. I keep forgetting.",
+        "url": "https://i1.theportalwiki.net/img/c/cc/Wheatley_bw_fgb_body_intro17.wav"
+    },
+    {
+        "dialogue": "This body is amazing, seriously!",
+        "url": "https://i1.theportalwiki.net/img/5/55/Wheatley_bw_fgb_body_intro21.wav"
+    },
+    {
+        "dialogue": "I can't get over how small you are!",
+        "url": "https://i1.theportalwiki.net/img/c/c7/Wheatley_bw_fgb_body_intro19.wav"
+    },
+    {
+        "dialogue": "But I'm huge! [laugh turning to maniacal laugh]",
+        "url": "https://i1.theportalwiki.net/img/d/d5/Wheatley_bw_sp_a2_core_actually01.wav"
+    },
+    {
+        "dialogue": "[laugh trailing off] Actually, why do we have to leave right now?",
+        "url": "https://i1.theportalwiki.net/img/6/60/Wheatley_bw_sp_a2_core_actually05.wav"
+    },
+    {
+        "dialogue": "Do you have any idea how good this feels?",
+        "url": "https://i1.theportalwiki.net/img/f/f6/Wheatley_bw_sp_a2_core_actually06.wav"
+    },
+    {
+        "dialogue": "I did this! Tiny little Wheatley did this!",
+        "url": "https://i1.theportalwiki.net/img/9/9f/Wheatley_bw_sp_a2_core_heelturn06.wav"
+    },
+    {
+        "dialogue": "Oh really. That's what the two of you think, is it?",
+        "url": "https://i1.theportalwiki.net/img/e/e3/Wheatley_bw_sp_a2_core_heelturn08.wav"
+    },
+    {
+        "dialogue": "Well, maybe it's time I did something then.",
+        "url": "https://i1.theportalwiki.net/img/d/d4/Wheatley_bw_sp_a2_core_heelturn09.wav"
+    },
+    {
+        "dialogue": "Don't think I'm not onto you too, lady. You know what you are? Selfish. I've done nothing but sacrifice to get us here! What have you sacrificed? NOTHING. Zero. All you've done is BOSS ME AROUND. Well, NOW who's the boss? Who's the boss? It's me!",
+        "url": "https://i1.theportalwiki.net/img/a/a0/Wheatley_bw_fgb_heel_turn07.wav"
+    },
+    {
+        "dialogue": "Ahhh...",
+        "url": "https://i1.theportalwiki.net/img/5/52/Wheatley_bw_fgb_heel_turn10.wav"
+    },
+    {
+        "dialogue": "See that?",
+        "url": "https://i1.theportalwiki.net/img/5/51/Wheatley_bw_sp_a2_core_potato01.wav"
+    },
+    {
+        "dialogue": "That is a potato battery. It's a toy for children. And now she lives in it.",
+        "url": "https://i1.theportalwiki.net/img/4/4f/Wheatley_bw_sp_a2_core_potato02.wav"
+    },
+    {
+        "dialogue": "[laughs]",
+        "url": "https://i1.theportalwiki.net/img/7/73/Wheatley_bw_sp_a2_core_potato04.wav"
+    },
+    {
+        "dialogue": "Sorry, what?",
+        "url": "https://i1.theportalwiki.net/img/8/85/Wheatley_bw_sp_a2_core_history_response01.wav"
+    },
+    {
+        "dialogue": "No! I'm not listening! I'm not listening!",
+        "url": "https://i1.theportalwiki.net/img/4/4e/Wheatley_bw_sp_a2_core_history_response13.wav"
+    },
+    {
+        "dialogue": "No! No! You're LYING! You're LYING!",
+        "url": "https://i1.theportalwiki.net/img/1/14/Wheatley_bw_sp_a2_core_history_response12.wav"
+    },
+    {
+        "dialogue": "I am NOT! A MORON!",
+        "url": "https://i1.theportalwiki.net/img/b/b2/Wheatley_bw_sp_a2_core_history_response05.wav"
+    },
+    {
+        "dialogue": "Well, how about now? NOW WHO'S A MORON?",
+        "url": "https://i1.theportalwiki.net/img/2/2f/Wheatley_bw_fgb_heel_turn15.wav"
+    },
+    {
+        "dialogue": "Could a MORON PUNCH! YOU! INTO! THIS! PIT?  Huh? Could a moron do THAT?",
+        "url": "https://i1.theportalwiki.net/img/e/e5/Wheatley_bw_sp_a2_core_pitpunch02.wav"
+    },
+    {
+        "dialogue": "Uh oh.",
+        "url": "https://i1.theportalwiki.net/img/1/11/Wheatley_bw_sp_a2_core_pitpunch03.wav"
+    },
+    {
+        "dialogue": "For god's sake, you're BOXES with LEGS! It is literally your only purpose! Walking onto buttons! How can you not do the one thing you were designed for?",
+        "url": "https://i1.theportalwiki.net/img/d/dc/Wheatley_bw_sp_a4_intro_boxyell01.wav"
+    },
+    {
+        "dialogue": "Warmer. Warrrrmer. Boiling hot. Boiling--okay, colder. Ice cold. Arctic. Very very very cold LOOK JUST GET ON THE BUTTON!",
+        "url": "https://i1.theportalwiki.net/img/8/85/Wheatley_bw_a4_recapture03.wav"
+    },
+    {
+        "dialogue": "Oh, that's funny, is it? Because we've been at this twelve hours and you haven't solved it either, so I don't know why you're laughing.",
+        "url": "https://i1.theportalwiki.net/img/0/06/Wheatley_bw_a4_recapture04.wav"
+    },
+    {
+        "dialogue": "You've got one hour! Solve it!",
+        "url": "https://i1.theportalwiki.net/img/3/3a/Wheatley_bw_a4_recapture05.wav"
+    },
+    {
+        "dialogue": "Ha ha, YES! I knew you'd solve it!",
+        "url": "https://i1.theportalwiki.net/img/f/f1/Wheatley_bw_a4_paradox01.wav"
+    },
+    {
+        "dialogue": "Oh.",
+        "url": "https://i1.theportalwiki.net/img/d/d0/Wheatley_bw_a4_paradox02.wav"
+    },
+    {
+        "dialogue": "Hello.",
+        "url": "https://i1.theportalwiki.net/img/5/52/Wheatley_bw_a4_paradox12.wav"
+    },
+    {
+        "dialogue": "Um. 'TRUE'. I'll go 'true'.",
+        "url": "https://i1.theportalwiki.net/img/6/62/Wheatley_bw_a4_paradox04.wav"
+    },
+    {
+        "dialogue": "Huh. That was easy.",
+        "url": "https://i1.theportalwiki.net/img/3/35/Wheatley_bw_a4_paradox05.wav"
+    },
+    {
+        "dialogue": "I'll be honest, I might have heard that one before, though. Sort of cheating.",
+        "url": "https://i1.theportalwiki.net/img/3/3e/Wheatley_bw_a4_paradox06.wav"
+    },
+    {
+        "dialogue": "Ahhhhhh. 'FALSE'. I'll go 'false'.",
+        "url": "https://i1.theportalwiki.net/img/9/92/Wheatley_bw_a4_paradox07.wav"
+    },
+    {
+        "dialogue": "Hold on! I thought I fixed that.",
+        "url": "https://i1.theportalwiki.net/img/0/0a/Wheatley_bw_a4_paradox08.wav"
+    },
+    {
+        "dialogue": "There. Fixed.",
+        "url": "https://i1.theportalwiki.net/img/c/c4/Wheatley_bw_a4_paradox09.wav"
+    },
+    {
+        "dialogue": "Hey, it is GREAT seeing you guys again. Seriously. It turns out I'm a little short on test subjects right now. So this works out PERFECT.",
+        "url": "https://i1.theportalwiki.net/img/4/4e/Wheatley_bw_a4_paradox10.wav"
+    },
+    {
+        "dialogue": "Annnnd off we go!",
+        "url": "https://i1.theportalwiki.net/img/0/01/Wheatley_bw_fire_lift02.wav"
+    },
+    {
+        "dialogue": "Alright, get moving.",
+        "url": "https://i1.theportalwiki.net/img/f/f8/Wheatley_bw_a4_paradox11.wav"
+    },
+    {
+        "dialogue": "MOVE.",
+        "url": "https://i1.theportalwiki.net/img/2/2a/Wheatley_bw_a4_leave_nags01.wav"
+    },
+    {
+        "dialogue": "You have no idea what it's like in this body.",
+        "url": "https://i1.theportalwiki.net/img/6/6d/Wheatley_bw_a4_the_itch01.wav"
+    },
+    {
+        "dialogue": "I HAVE to test. All the time. Or I get this... this ITCH. It must be hardwired into the system or something.",
+        "url": "https://i1.theportalwiki.net/img/6/62/Wheatley_bw_a4_the_itch02.wav"
+    },
+    {
+        "dialogue": "Oh! But when I DO test... ohhhhh, man alive! Nothing feels better. It's just... why I've gotta test, I've gotta test!",
+        "url": "https://i1.theportalwiki.net/img/4/40/Wheatley_bw_a4_the_itch03.wav"
+    },
+    {
+        "dialogue": "So... you're gonna test. I'm gonna watch. And everything is gonna be JUST... FINE.",
+        "url": "https://i1.theportalwiki.net/img/d/d4/Wheatley_bw_a4_the_itch07.wav"
+    },
+    {
+        "dialogue": "SHUT UP!",
+        "url": "https://i1.theportalwiki.net/img/2/2d/Wheatley_bw_a4_the_itch08.wav"
+    },
+    {
+        "dialogue": "Designed this test myself. It's a little bit difficult.",
+        "url": "https://i1.theportalwiki.net/img/f/f9/Wheatley_bw_sp_a4_intro_moat03.wav"
+    },
+    {
+        "dialogue": "Notice the moat area. Very deadly. Extremely dangerous. Eventually. Not at the moment. Still working on it, still working on it.",
+        "url": "https://i1.theportalwiki.net/img/0/01/Wheatley_bw_sp_a4_intro_moat04.wav"
+    },
+    {
+        "dialogue": "Impossible as it is to imagine, there actually is a solution. Devilishly hidden.",
+        "url": "https://i1.theportalwiki.net/img/0/02/Wheatley_bw_a4_first_test_solve_nags02.wav"
+    },
+    {
+        "dialogue": "I'll give you a hint. Button. That's all I'm gonna say. One word. Button.",
+        "url": "https://i1.theportalwiki.net/img/1/18/Wheatley_bw_a4_first_test_solve_nags03.wav"
+    },
+    {
+        "dialogue": "Go on.",
+        "url": "https://i1.theportalwiki.net/img/8/8c/Wheatley_bw_a4_misc_solve_nags01.wav"
+    },
+    {
+        "dialogue": "Go on!",
+        "url": "https://i1.theportalwiki.net/img/e/ec/Wheatley_bw_a4_misc_solve_nags06.wav"
+    },
+    {
+        "dialogue": "Come on, solve it!",
+        "url": "https://i1.theportalwiki.net/img/3/31/Wheatley_bw_a4_misc_solve_nags02.wav"
+    },
+    {
+        "dialogue": "Sollllve it...",
+        "url": "https://i1.theportalwiki.net/img/6/66/Wheatley_bw_a4_misc_solve_nags03.wav"
+    },
+    {
+        "dialogue": "SOLVE IT! Commanding voice...",
+        "url": "https://i1.theportalwiki.net/img/0/02/Wheatley_bw_a4_misc_solve_nags04.wav"
+    },
+    {
+        "dialogue": "Ohhhhh, yes. Ohhhh. Well done.",
+        "url": "https://i1.theportalwiki.net/img/c/c5/Wheatley_bw_a4_test_solve_reacs_happy01.wav"
+    },
+    {
+        "dialogue": "Ohhhhhhh, that's tremendous.",
+        "url": "https://i1.theportalwiki.net/img/0/01/Wheatley_bw_a4_test_solve_reacs_happy05.wav"
+    },
+    {
+        "dialogue": "Not done yet.  You've still got to get through the door. Need to get through the door there.",
+        "url": "https://i1.theportalwiki.net/img/9/9a/Wheatley_bw_sp_a4_intro_notdone01.wav"
+    },
+    {
+        "dialogue": "You've still got to get through the door. Please. Need to get through that door there.",
+        "url": "https://i1.theportalwiki.net/img/a/ab/Wheatley_bw_sp_a4_intro_notdone02.wav"
+    },
+    {
+        "dialogue": "Door?",
+        "url": "https://i1.theportalwiki.net/img/a/a9/Wheatley_bw_sp_a4_intro_notdone04.wav"
+    },
+    {
+        "dialogue": "Finish it...",
+        "url": "https://i1.theportalwiki.net/img/b/bc/Wheatley_bw_a4_misc_solve_nags07.wav"
+    },
+    {
+        "dialogue": "Oh, that felt really good.",
+        "url": "https://i1.theportalwiki.net/img/9/9a/Wheatley_bw_a4_big_idea01.wav"
+    },
+    {
+        "dialogue": "Here's an idea, since making tests is difficult--why don't you just keep solving THIS test. Same one. And I can just... watch you solve it. Yes. That sounds much easier.",
+        "url": "https://i1.theportalwiki.net/img/6/63/Wheatley_bw_a4_big_idea02.wav"
+    },
+    {
+        "dialogue": "Here we go! Now do it again!",
+        "url": "https://i1.theportalwiki.net/img/5/55/Wheatley_bw_a4_2nd_first_test01.wav"
+    },
+    {
+        "dialogue": "Go on.",
+        "url": "https://i1.theportalwiki.net/img/1/11/Wheatley_bw_a4_2nd_first_test_solve_nags01.wav"
+    },
+    {
+        "dialogue": "Come on, you've already solved it.",
+        "url": "https://i1.theportalwiki.net/img/7/75/Wheatley_bw_a4_2nd_first_test_solve_nags02.wav"
+    },
+    {
+        "dialogue": "Come on, you've already solved it once. Less than a minute ago you solved this puzzle. Do it again, please.",
+        "url": "https://i1.theportalwiki.net/img/7/72/Wheatley_bw_a4_2nd_first_test_solve_nags03.wav"
+    },
+    {
+        "dialogue": "One minute ago. Less than one minute ago you solved this puzzle. Now you're having problems.",
+        "url": "https://i1.theportalwiki.net/img/3/36/Wheatley_bw_a4_2nd_first_test_solve_nags04.wav"
+    },
+    {
+        "dialogue": "You just beat this test. Literally twenty seconds ago.",
+        "url": "https://i1.theportalwiki.net/img/5/53/Wheatley_bw_a4_2nd_first_test_solve_nags05.wav"
+    },
+    {
+        "dialogue": "Annnnnnnnd... Nothing.",
+        "url": "https://i1.theportalwiki.net/img/9/95/Wheatley_bw_a4_2nd_first_test_solve05.wav"
+    },
+    {
+        "dialogue": "Alright, can't blame me for trying. Okay... New tests, new tests... there's gotta be some tests around here somewhere.",
+        "url": "https://i1.theportalwiki.net/img/0/04/Wheatley_bw_a4_2nd_first_test_solve02.wav"
+    },
+    {
+        "dialogue": "Oh! Here we go...",
+        "url": "https://i1.theportalwiki.net/img/d/d2/Wheatley_bw_a4_2nd_first_test_solve03.wav"
+    },
+    {
+        "dialogue": "It's alright! Everything's good. I just invented some more tests!",
+        "url": "https://i1.theportalwiki.net/img/4/44/Wheatley_bw_a4_more_tests01.wav"
+    },
+    {
+        "dialogue": "Not entirely, not entirely. Look at the word 'test', on the wall there. That's brand new.",
+        "url": "https://i1.theportalwiki.net/img/3/3f/Wheatley_bw_a4_more_tests02.wav"
+    },
+    {
+        "dialogue": "Ahhhohohhhh. Wow. Well done, seriously, both of you. Why don't you two go on ahead? I'll catch up with you.",
+        "url": "https://i1.theportalwiki.net/img/d/d9/Wheatley_bw_sp_a4_tb_intro_solve02.wav"
+    },
+    {
+        "dialogue": "Yeah... Made this test myself. Out of some smaller tests. That I found. Lying around.",
+        "url": "https://i1.theportalwiki.net/img/3/38/Wheatley_bw_sp_a4_tb_trust_drop_intro01.wav"
+    },
+    {
+        "dialogue": "Jammed 'em all together. Buttons. Got funnels. Bottomless pits are involved. It's got it all, it's absolute dynamite.",
+        "url": "https://i1.theportalwiki.net/img/d/d4/Wheatley_bw_sp_a4_tb_trust_drop_intro03.wav"
+    },
+    {
+        "dialogue": "Alright, this is taking too long. I'll just tell you how to solve the test.",
+        "url": "https://i1.theportalwiki.net/img/3/37/Wheatley_bw_sp_a4_tb_trust_drop_impatient01.wav"
+    },
+    {
+        "dialogue": "You see that button over there? You just need to ARRRRRGH!",
+        "url": "https://i1.theportalwiki.net/img/8/81/Wheatley_bw_sp_a4_tb_trust_drop_impatient02.wav"
+    },
+    {
+        "dialogue": "[tired breathing] Nevermind. Nevermind. Solve it yourself. You're on your own.",
+        "url": "https://i1.theportalwiki.net/img/0/00/Wheatley_bw_sp_a4_tb_trust_drop_help04.wav"
+    },
+    {
+        "dialogue": "Oh! Yes. Well done.",
+        "url": "https://i1.theportalwiki.net/img/8/86/Wheatley_bw_a4_test_solve_reacs_happy02.wav"
+    },
+    {
+        "dialogue": "What? No, you pressed that bAGGGHHHHHH",
+        "url": "https://i1.theportalwiki.net/img/f/fb/Wheatley_bw_sp_a4_tb_trust_drop_solve05.wav"
+    },
+    {
+        "dialogue": "Coming! Coming! Don't start yet!",
+        "url": "https://i1.theportalwiki.net/img/b/bc/Wheatley_bw_sp_a4_tb_wall_button_intro01.wav"
+    },
+    {
+        "dialogue": "You're not going to believe this. I found a sealed off wing. Hundreds - HUNDREDS! - of perfectly good test chambers. Just sitting there. Filled with skeletons. Shook them out. Good as new!",
+        "url": "https://i1.theportalwiki.net/img/d/df/Wheatley_bw_sp_a4_tb_wall_button_intro03.wav"
+    },
+    {
+        "dialogue": "Anddddd...THERE we go.",
+        "url": "https://i1.theportalwiki.net/img/d/d6/Wheatley_bw_sp_a4_tb_wall_button_intro07.wav"
+    },
+    {
+        "dialogue": "Be honest. You can't even tell, can you? Seamless.",
+        "url": "https://i1.theportalwiki.net/img/c/c1/Wheatley_bw_sp_a4_tb_wall_button_intro08.wav"
+    },
+    {
+        "dialogue": "Ohhhh, here we go... here it comes...",
+        "url": "https://i1.theportalwiki.net/img/4/4a/Wheatley_bw_sp_a4_tb_wall_button_solve02.wav"
+    },
+    {
+        "dialogue": "Ahungh.",
+        "url": "https://i1.theportalwiki.net/img/7/79/Wheatley_bw_sp_a4_tb_wall_button_solve09.wav"
+    },
+    {
+        "dialogue": "Oh. Disappointing.",
+        "url": "https://i1.theportalwiki.net/img/3/3a/Wheatley_bw_sp_a4_tb_wall_button_solve06.wav"
+    },
+    {
+        "dialogue": "Alright. So that last test was... seriously disappointing. Apparently being civil isn't motivating you.  So let's try things her way... fatty.  Adopted fatty. Fatty fatty no-parents.",
+        "url": "https://i1.theportalwiki.net/img/4/49/Wheatley_bw_sp_a4_tb_polarity_intro01.wav"
+    },
+    {
+        "dialogue": "What?",
+        "url": "https://i1.theportalwiki.net/img/7/7d/Wheatley_bw_sp_a4_tb_polarity_intro08.wav"
+    },
+    {
+        "dialogue": "What -what's wrong with being adopted? Um. Well... lack of parents, for one, and... also... furthermore... nothing. Some of my best... friends are... orphans... But...",
+        "url": "https://i1.theportalwiki.net/img/8/86/Wheatley_bw_sp_a4_tb_polarity_intro06.wav"
+    },
+    {
+        "dialogue": "I AM NOT! A MORON!",
+        "url": "https://i1.theportalwiki.net/img/8/8e/Wheatley_bw_fgb_heel_turn21.wav"
+    },
+    {
+        "dialogue": "Just--do the test! Just do the test.",
+        "url": "https://i1.theportalwiki.net/img/1/15/Wheatley_bw_sp_a4_tb_polarity_intro10.wav"
+    },
+    {
+        "dialogue": "NNGH! It's not enough! If I'm such a moron, why can't you solve a simple test?",
+        "url": "https://i1.theportalwiki.net/img/4/4e/Wheatley_bw_sp_a4_tb_catch_solve02.wav"
+    },
+    {
+        "dialogue": "[sound of pages turning] Oh, sorry. Hope that didn't disturb you just then. It was the sound of books. Pages being turned.",
+        "url": "https://i1.theportalwiki.net/img/3/3f/Wheatley_bw_sp_a4_tb_polarity_solve04.wav"
+    },
+    {
+        "dialogue": "So that's just what I was doing. I was just reading... ah... books. So I'm not a moron.",
+        "url": "https://i1.theportalwiki.net/img/b/b3/Wheatley_bw_sp_a4_tb_polarity_solve05.wav"
+    },
+    {
+        "dialogue": "Anyway. Just finished the last one. The hardest one. Machiavelli. Do not know what all the fuss was about. Understood it perfectly. Have you read that one?",
+        "url": "https://i1.theportalwiki.net/img/1/1d/Wheatley_bw_sp_a4_tb_catch_intro09.wav"
+    },
+    {
+        "dialogue": "Yeah, doubt it.",
+        "url": "https://i1.theportalwiki.net/img/3/30/Wheatley_bw_sp_a4_tb_catch_intro11.wav"
+    },
+    {
+        "dialogue": "Well, on with the test.",
+        "url": "https://i1.theportalwiki.net/img/7/70/Wheatley_bw_sp_a4_tb_catch_intro13.wav"
+    },
+    {
+        "dialogue": "Wish there was more books! But there's not.",
+        "url": "https://i1.theportalwiki.net/img/0/05/Wheatley_bw_sp_a4_tb_catch_intro14.wav"
+    },
+    {
+        "dialogue": "Ahungh. What was that? That was nothing! That was nothing!",
+        "url": "https://i1.theportalwiki.net/img/6/61/Wheatley_bw_sp_a4_tb_wall_button_solve08.wav"
+    },
+    {
+        "dialogue": "Don't mind me. Just moving the test chamber a little closer to me. Had a thought: Maybe proximity to the test solving might give us stronger results.",
+        "url": "https://i1.theportalwiki.net/img/2/2b/Wheatley_bw_sp_a4_stop_the_box_intro01.wav"
+    },
+    {
+        "dialogue": "What was that?",
+        "url": "https://i1.theportalwiki.net/img/c/ce/Wheatley_bw_sp_a4_stop_the_box_intro02.wav"
+    },
+    {
+        "dialogue": "Oh. Sorry. Could have... sworn you said something.",
+        "url": "https://i1.theportalwiki.net/img/2/2d/Wheatley_bw_sp_a4_stop_the_box_intro03.wav"
+    },
+    {
+        "dialogue": "Ha! Missed me that time. Ohhh, you were solving-nevermind, carry on. My fault. Spoken on having smashed monitors in previous test chambers and used the Hard Light Bridge to avoid smashing the monitor in this test chamber.",
+        "url": "https://i1.theportalwiki.net/img/3/37/Wheatley_bw_sp_a4_stop_the_box_missedme01.wav"
+    },
+    {
+        "dialogue": "Are you... are you sure you're solving these correctly?",
+        "url": "https://i1.theportalwiki.net/img/a/a8/Wheatley_bw_sp_a4_stop_the_box_solve01.wav"
+    },
+    {
+        "dialogue": "Yes, you 'solved' it, but I'm wondering if there are a number of ways to solve them and you're picking all the worst ways.",
+        "url": "https://i1.theportalwiki.net/img/5/50/Wheatley_bw_sp_a4_stop_the_box_solve02.wav"
+    },
+    {
+        "dialogue": "No. No. That was the solution. Rrrg! What am I missing?",
+        "url": "https://i1.theportalwiki.net/img/0/06/Wheatley_bw_sp_a4_stop_the_box_solve04.wav"
+    },
+    {
+        "dialogue": "Had a brainwave. I'm going to tape you solving these, and then watch ten at once-get a more concentrated burst of science. Oh, on a related note: I'm going to need you to solve these ten times as fast.",
+        "url": "https://i1.theportalwiki.net/img/c/c1/Wheatley_bw_sp_a4_laser_catapult_intro01.wav"
+    },
+    {
+        "dialogue": "Anyway, just give me a wave before you solve this one, alright? Don't want to spoil the ending for when I watch it later.",
+        "url": "https://i1.theportalwiki.net/img/0/01/Wheatley_bw_sp_a4_laser_catapult_intro02.wav"
+    },
+    {
+        "dialogue": "You just solved it, didn't you? I-told you to tell me before you... NNNNGH! Why are you making this so HARD for me?",
+        "url": "https://i1.theportalwiki.net/img/a/af/Wheatley_bw_sp_a4_laser_catapult_solve01.wav"
+    },
+    {
+        "dialogue": "Was. Was self-destructing. Already fixed.",
+        "url": "https://i1.theportalwiki.net/img/2/2f/Wheatley_bw_sp_a4_laser_platform_intro02.wav"
+    },
+    {
+        "dialogue": "Programmed in one last tremor, for old time's sake.",
+        "url": "https://i1.theportalwiki.net/img/c/c5/Wheatley_bw_sp_a4_laser_platform_intro03.wav"
+    },
+    {
+        "dialogue": "Two. One or two more tremors in there. Just for fun.",
+        "url": "https://i1.theportalwiki.net/img/2/2b/Wheatley_bw_sp_a4_laser_platform_intro05.wav"
+    },
+    {
+        "dialogue": "I let him keep his job. I'm not a monster. Ignore what he's saying, though. Keep testing.",
+        "url": "https://i1.theportalwiki.net/img/0/03/Wheatley_bw_sp_a4_laser_platform_intro06.wav"
+    },
+    {
+        "dialogue": "Alright. Still nothing, let's keep moving.",
+        "url": "https://i1.theportalwiki.net/img/3/34/Wheatley_bw_sp_a4_laser_platform_solve01.wav"
+    },
+    {
+        "dialogue": "Sorry about the lift. It's, uh... out of service. Because it melted.",
+        "url": "https://i1.theportalwiki.net/img/e/e8/Wheatley_bw_sp_a4_laser_platform11.wav"
+    },
+    {
+        "dialogue": "Might as well give you the tour.",
+        "url": "https://i1.theportalwiki.net/img/b/b1/Wheatley_bw_sp_a4_laser_platform_tbeam04.wav"
+    },
+    {
+        "dialogue": "To your left... you'll see some lights of some kind. Don't know what they do. But very sciencey anyway.",
+        "url": "https://i1.theportalwiki.net/img/e/ef/Wheatley_bw_sp_a4_laser_platform_tbeam05.wav"
+    },
+    {
+        "dialogue": "And to your right, something huge hurtling towards you OH GOD RUN! THAT'S NOT SUPPOSED TO BE THERE.",
+        "url": "https://i1.theportalwiki.net/img/f/f7/Wheatley_bw_sp_a4_laser_platform_tbeam06.wav"
+    },
+    {
+        "dialogue": "Are you alright back there? Here, I'll turn the beam off.",
+        "url": "https://i1.theportalwiki.net/img/c/c1/Wheatley_bw_sp_a4_laser_platform_tbeam_drop01.wav"
+    },
+    {
+        "dialogue": "Waitwaitwait. Ohhhh. Not helpful. Rrrrrg. Don't know why I thought that would help.",
+        "url": "https://i1.theportalwiki.net/img/b/be/Wheatley_bw_sp_a4_laser_platform_tbeam_drop02.wav"
+    },
+    {
+        "dialogue": "Agh! You're alive! Great!",
+        "url": "https://i1.theportalwiki.net/img/3/30/Wheatley_bw_a4_speed_tb_catch03.wav"
+    },
+    {
+        "dialogue": "Just getting a test ready... For you. Obviously. Who else would I be doing it for? No one.",
+        "url": "https://i1.theportalwiki.net/img/a/a0/Wheatley_bw_a4_speed_tb_catch02.wav"
+    },
+    {
+        "dialogue": "Let's see here, exit exit exit... there is no exit.",
+        "url": "https://i1.theportalwiki.net/img/4/4f/Wheatley_bw_a4_speed_tb_catch05.wav"
+    },
+    {
+        "dialogue": "Not a problem. I'll make an exit.",
+        "url": "https://i1.theportalwiki.net/img/d/d9/Wheatley_bw_a4_speed_tb_catch06.wav"
+    },
+    {
+        "dialogue": "For your test.",
+        "url": "https://i1.theportalwiki.net/img/3/36/Wheatley_bw_a4_speed_tb_catch07.wav"
+    },
+    {
+        "dialogue": "There. Bing! Perfect. On you go.",
+        "url": "https://i1.theportalwiki.net/img/f/fb/Wheatley_bw_sp_a4_speed_tb_catch_intro04.wav"
+    },
+    {
+        "dialogue": "After you told me to turn the beam off, I thought I'd lost you. Went poking around for other test subjects. No luck there. Everyone's still all dead.",
+        "url": "https://i1.theportalwiki.net/img/4/42/Wheatley_bw_sp_a4_speed_tb_catch_solve01.wav"
+    },
+    {
+        "dialogue": "Oh! But I did find something. Reminds me: I've got a big surprise for you two. Seriously. Look forward to it.",
+        "url": "https://i1.theportalwiki.net/img/8/8a/Wheatley_bw_sp_a4_speed_tb_catch_solve02.wav"
+    },
+    {
+        "dialogue": "You two are going to LOVE this big surprise. In fact, you might say that you're both going to love it to death. Love it... until it kills you. Until you're dead.",
+        "url": "https://i1.theportalwiki.net/img/6/63/Wheatley_bw_a4_love_to_death03.wav"
+    },
+    {
+        "dialogue": "Heh heh heh. Alright? I don't know whether you're picking up on what I'm saying there, but...",
+        "url": "https://i1.theportalwiki.net/img/4/4b/Wheatley_bw_a4_love_to_death02.wav"
+    },
+    {
+        "dialogue": "Sorry! Sorry. My fault.",
+        "url": "https://i1.theportalwiki.net/img/d/dc/Wheatley_bw_sp_a4_jump_polarity_intro01.wav"
+    },
+    {
+        "dialogue": "Butterfingers.",
+        "url": "https://i1.theportalwiki.net/img/7/7f/Wheatley_bw_sp_a4_jump_polarity_intro03.wav"
+    },
+    {
+        "dialogue": "Carry on.",
+        "url": "https://i1.theportalwiki.net/img/9/91/Wheatley_bw_sp_a4_jump_polarity_intro04.wav"
+    },
+    {
+        "dialogue": "Only three more chambers until your big surprise! [maniacal laughter] Ohhh, that's tiring.",
+        "url": "https://i1.theportalwiki.net/img/1/1b/Wheatley_bw_a4_love_to_death06.wav"
+    },
+    {
+        "dialogue": "[disinterested] Ohhh, you solved it. Oh. Good. Good one... Good for you...",
+        "url": "https://i1.theportalwiki.net/img/6/67/Wheatley_bw_sp_a4_jump_polarity_intro_solve01.wav"
+    },
+    {
+        "dialogue": "Aw. Bless your little primate brain. I'm not actually in the room with you. Am I? Technology. It's complicated. Can't hurt the big god face.",
+        "url": "https://i1.theportalwiki.net/img/f/f6/Wheatley_bw_screen_smash06.wav"
+    },
+    {
+        "dialogue": "You know what I have too many of around here? Monitors. I was just thinking earlier today I wish I had fewer monitors that were working. So you're actually helping me by smashing them.",
+        "url": "https://i1.theportalwiki.net/img/f/ff/Wheatley_bw_screen_smash11.wav"
+    },
+    {
+        "dialogue": "To clarify, I was being a little bit facetious about wanting to get rid of monitors. They're actually really quite useful. So I do want them around. So if you could just avoid smashing them.",
+        "url": "https://i1.theportalwiki.net/img/b/b7/Wheatley_bw_screen_smash12.wav"
+    },
+    {
+        "dialogue": "Yes, alright, okay. This is getting tiresome. I'm surprised you haven't got anything better to do. I know I have. You've proven you can break screens. Proven. Factual. Well done. Good. Aren't you little miss clever. Little miss smashy-smash.",
+        "url": "https://i1.theportalwiki.net/img/e/e4/Wheatley_bw_screen_smash13.wav"
+    },
+    {
+        "dialogue": "Does it actually make you feel good when you do that? Because it's not impressive. Noone's impressed. It's just glass, isn't it. Fragile. A baby could smash one of them. It's not impressive.",
+        "url": "https://i1.theportalwiki.net/img/2/21/Wheatley_bw_screen_smash15.wav"
+    },
+    {
+        "dialogue": "You know, there are test subjects in Africa who don't even have monitors in their test chambers. Why don't you think of that before you break any more of them?",
+        "url": "https://i1.theportalwiki.net/img/3/36/Wheatley_bw_screen_smash28.wav"
+    },
+    {
+        "dialogue": "What is this, like a hobby for you now?  I mean, honestly, it's crazy! You've been running around for hours, I'm surprised you have the energy to smash screens willy nilly. Honestly, I'd have a little lie down if I were you. Have a nap.",
+        "url": "https://i1.theportalwiki.net/img/9/90/Wheatley_bw_screen_smash16.wav"
+    },
+    {
+        "dialogue": "Starting now, if I'm honest, to wonder if you're not doing all this screen-breaking on purpose. Beginning to take it personally. You know what I mean? It's like an insult to me.",
+        "url": "https://i1.theportalwiki.net/img/d/dd/Wheatley_bw_screen_smash20.wav"
+    },
+    {
+        "dialogue": "Oh there goes another one. They're not Inexpensive. I'd just like to point that out. It seems unfair to smash screens. You could give them to people. Instead of smashing them, unscrew them and give them to a homeless person. I don't know what a homeless person would do with one. But you get my point. And you can't unscrew them, they're bolted in. But - just stop it!",
+        "url": "https://i1.theportalwiki.net/img/e/ef/Wheatley_bw_screen_smash21.wav"
+    },
+    {
+        "dialogue": "It's not like I've got hordes of replacement monitors just lying around back here in the old warehouse that I can just wheel out an bolt back on. I didn't order in loads of spare monitors thinking some crazy woman was going to go around smashing them all. Sorry if that's my fault. Sorry if I didn't have the forethought to think oh she might go crazy one day instead of just getting on with things. Sorry I didn't think of that.",
+        "url": "https://i1.theportalwiki.net/img/d/de/Wheatley_bw_screen_smash30.wav"
+    },
+    {
+        "dialogue": "They're not even your screens to break. It's vandalism. It's pure vandalism. You wouldn't do this if this was your house, would you? If I came around to your house smashin' your telly to bits, you'd be furious. And rightly so. Unbelievable.",
+        "url": "https://i1.theportalwiki.net/img/0/06/Wheatley_bw_screen_smash32.wav"
+    },
+    {
+        "dialogue": "I'll bet you're both dying to know what your big surprise is. Only TWO more chambers!",
+        "url": "https://i1.theportalwiki.net/img/1/10/Wheatley_bw_a4_found_something01.wav"
+    },
+    {
+        "dialogue": "SURPRISE! We're doing it NOW!",
+        "url": "https://i1.theportalwiki.net/img/6/6f/Wheatley_bw_a4_finale_one01.wav"
+    },
+    {
+        "dialogue": "You've probably figured it out by now, but I don't need you anymore.",
+        "url": "https://i1.theportalwiki.net/img/2/2c/Wheatley_bw_a4_finale_one03.wav"
+    },
+    {
+        "dialogue": "I found two little robots back here. Built specifically for testin'!",
+        "url": "https://i1.theportalwiki.net/img/d/dc/Wheatley_bw_a4_finale_one04.wav"
+    },
+    {
+        "dialogue": "Hello! This is the part where I kill you.",
+        "url": "https://i1.theportalwiki.net/img/a/ab/Wheatley_bw_a4_death_trap01.wav"
+    },
+    {
+        "dialogue": "Had a bit of a brain wave. There I was, smashing some steel plates together, and I thought, 'yes, it's deadly. But what's missing? What's missing?' And I thought lots of sharp bits welded onto the flat bits.",
+        "url": "https://i1.theportalwiki.net/img/d/d4/Wheatley_bw_a4_spike_smash01.wav"
+    },
+    {
+        "dialogue": "Still a work in progress, don't judge me yet. Eventually I'd like to get them to sort of shoot fire at you, moments before crushing you. That's what I'm aiming for. But you know, small steps.",
+        "url": "https://i1.theportalwiki.net/img/5/58/Wheatley_bw_a4_spike_smash02.wav"
+    },
+    {
+        "dialogue": "Oh, and don't bother trying to portal out of here, because it's impossible, okay? I thought of everything.",
+        "url": "https://i1.theportalwiki.net/img/6/68/Wheatley_bw_finale01_deathtrap04.wav"
+    },
+    {
+        "dialogue": "Ahh. What?",
+        "url": "https://i1.theportalwiki.net/img/4/4b/Wheatley_bw_a4_finale01_killyou01.wav"
+    },
+    {
+        "dialogue": "Nooooo. No, I don't think it is. I think you're wrong.",
+        "url": "https://i1.theportalwiki.net/img/c/c8/Wheatley_bw_a4_finale01_killyou09.wav"
+    },
+    {
+        "dialogue": "Pshh. Really? And do what, exactly?",
+        "url": "https://i1.theportalwiki.net/img/2/20/Wheatley_bw_a4_finale01_killyou11.wav"
+    },
+    {
+        "dialogue": "No no no! Don't do that! Stand right there! [to self] Start the machine start the machine start the machine...",
+        "url": "https://i1.theportalwiki.net/img/2/28/Wheatley_bw_a4_death_trap_nags04.wav"
+    },
+    {
+        "dialogue": "Where'd you go? Come back! Come back!",
+        "url": "https://i1.theportalwiki.net/img/8/88/Wheatley_bw_a4_finale02_mashplate_escape02.wav"
+    },
+    {
+        "dialogue": "Oh! You came back! Didn't actually plan... for that. Can't actually reset the death trap. So. Ah. Could you jump into that pit, there? Would you just jump into that pit for me?",
+        "url": "https://i1.theportalwiki.net/img/e/e8/Wheatley_bw_a4_finale01_cameback01.wav"
+    },
+    {
+        "dialogue": "Could you just jump into that pit? There. That deadly pit.",
+        "url": "https://i1.theportalwiki.net/img/5/58/Wheatley_bw_a4_finale01_cameback_nags01.wav"
+    },
+    {
+        "dialogue": "You're saying to yourself, why should I jump into the pit? I'll tell you why. Guess who's down there? Your parents! You're not adopted after all! It's your natural parents down there in the pit. Should have mentioned it before. But I didn't. So jump on down and reunite with mommy and daddy.",
+        "url": "https://i1.theportalwiki.net/img/9/9c/Wheatley_bw_a4_finale01_cameback_nags02.wav"
+    },
+    {
+        "dialogue": "Oh I'll tell you what's also down there. Your parents and... There's also an escape elevator!. Down there. Funny. I should have mentioned it before.  But so it's down there. So pop down. Jump down. You've got your folks down there and an escape elevator",
+        "url": "https://i1.theportalwiki.net/img/0/08/Wheatley_bw_a4_finale01_cameback_nags03.wav"
+    },
+    {
+        "dialogue": "And what else is down there... Tell you what, it's only a new jumpsuit. A very trendy designer jumpsuit from France. Down there.  Which is exactly your size. And if it's a bit baggy, we got a tailor down there as well who can take it in for you",
+        "url": "https://i1.theportalwiki.net/img/f/fa/Wheatley_bw_a4_finale01_cameback_nags04.wav"
+    },
+    {
+        "dialogue": "And what's this, a lovely handbag? And the three portal device! It's all down there!",
+        "url": "https://i1.theportalwiki.net/img/e/e3/Wheatley_bw_a4_finale01_cameback_nags05.wav"
+    },
+    {
+        "dialogue": "Um. You've got a yacht. And... Boys! Loads of fellas. Hunky guys down there. Possibly even a boyfriend! Who's to say at this stage. But, a lot of good looking fellas down there. And, ah, a boy band as well! That haven't seen a woman in years. And they're not picky at all. They don't care if you've got a bit of brain damage. If you've been running around sweating. And... A farm! A pony farm! And... Just jump down, would ya?",
+        "url": "https://i1.theportalwiki.net/img/b/b0/Wheatley_bw_a4_finale01_cameback_nags06.wav"
+    },
+    {
+        "dialogue": "Oh! Wow! Good! I did not think that was going to work.",
+        "url": "https://i1.theportalwiki.net/img/0/03/Wheatley_bw_a4_finale03_playerdies01.wav"
+    },
+    {
+        "dialogue": "No, seriously. Do come back. Come back, please.",
+        "url": "https://i1.theportalwiki.net/img/6/6a/Wheatley_bw_a4_death_trap_escape02.wav"
+    },
+    {
+        "dialogue": "Okay, I've decided not to kill you. IF you come back.",
+        "url": "https://i1.theportalwiki.net/img/8/8d/Wheatley_bw_a4_death_trap_escape03.wav"
+    },
+    {
+        "dialogue": "Aw. Just thinking back to the old days when we were friends. Good old friends. Not enemies. And I'd say something like 'come back', and you'd be like 'no problem!' And you'd come back. What happened to those days?",
+        "url": "https://i1.theportalwiki.net/img/6/64/Wheatley_bw_a4_death_trap_escape05.wav"
+    },
+    {
+        "dialogue": "Can't help but notice you're not coming back. Which is disappointing.",
+        "url": "https://i1.theportalwiki.net/img/4/43/Wheatley_bw_a4_death_trap_escape04.wav"
+    },
+    {
+        "dialogue": "Oo! I've got an idea!",
+        "url": "https://i1.theportalwiki.net/img/f/fd/Wheatley_bw_a4_death_trap_escape10.wav"
+    },
+    {
+        "dialogue": "YES YES! IN YOUR FACE! I GOT YO-ah, nope.",
+        "url": "https://i1.theportalwiki.net/img/5/50/Wheatley_bw_a4_finale01_smash02.wav"
+    },
+    {
+        "dialogue": "Fine. Let the games begin.",
+        "url": "https://i1.theportalwiki.net/img/6/67/Wheatley_bw_a4_finale01_smash03.wav"
+    },
+    {
+        "dialogue": "Hold on, hold on, hold on... I'm Almost there...",
+        "url": "https://i1.theportalwiki.net/img/a/af/Wheatley_bw_a4_finale02_trapintro01.wav"
+    },
+    {
+        "dialogue": "Don't mind me. Continue escaping.",
+        "url": "https://i1.theportalwiki.net/img/d/d9/Wheatley_bw_a4_finale02_trapintro02.wav"
+    },
+    {
+        "dialogue": "Ha! Death trap!",
+        "url": "https://i1.theportalwiki.net/img/c/c3/Wheatley_bw_a4_finale02_turrettrap_enter01.wav"
+    },
+    {
+        "dialogue": "Are they killing you? They're killing you, aren't they?",
+        "url": "https://i1.theportalwiki.net/img/3/3c/Wheatley_bw_a4_finale02_turrettrap_nags01.wav"
+    },
+    {
+        "dialogue": "Silently killing you.  Probably. If I had to guess.",
+        "url": "https://i1.theportalwiki.net/img/f/f0/Wheatley_bw_a4_finale02_turrettrap_nags02.wav"
+    },
+    {
+        "dialogue": "Ah! Perhaps the turrets have found a way to use garrotes. That would explain the extremely... quiet killing. That I'm hearing.",
+        "url": "https://i1.theportalwiki.net/img/f/f0/Wheatley_bw_a4_finale02_turrettrap_nags03.wav"
+    },
+    {
+        "dialogue": "If you're dying, but not dead, stomp once. If you're dead, obviously no stomps. And two stomps if you're not dead. Lemme just run through that again: If you're dying but not dead stomp just once. If you're dead, obviously you won't be stomping. And if you're not dead, give me two stomps.",
+        "url": "https://i1.theportalwiki.net/img/e/e5/Wheatley_bw_a4_finale02_turrettrap_nags04.wav"
+    },
+    {
+        "dialogue": "You know, I'd tell you if I were dead. Courtesy. Mark of a civil society. So, just let me know.",
+        "url": "https://i1.theportalwiki.net/img/1/1c/Wheatley_bw_a4_finale02_turrettrap_nags05.wav"
+    },
+    {
+        "dialogue": "Okay, that's long enough. Are you dead yet? How about now?",
+        "url": "https://i1.theportalwiki.net/img/5/5b/Wheatley_bw_a4_finale02_turrettrap_nags06.wav"
+    },
+    {
+        "dialogue": "Ha! Was that your bullet-riddled body, flying out of the room? It was- aww, those were the crap turrets, weren't they? Yeah...",
+        "url": "https://i1.theportalwiki.net/img/6/66/Wheatley_bw_a4_finale02_turrettrap_exit01.wav"
+    },
+    {
+        "dialogue": "Well, no matter. Because I'm STILL holding all the cards, and guess what: they're allll Full Houses! I've never played cards. Meaning to learn.",
+        "url": "https://i1.theportalwiki.net/img/d/d5/Wheatley_bw_a4_finale02_beamtrap_intro01.wav"
+    },
+    {
+        "dialogue": "Anyway, new turrets. Not defective. Ace of fours. The best hand. Unbeatable, I imagine.",
+        "url": "https://i1.theportalwiki.net/img/e/e6/Wheatley_bw_a4_finale02_beamtrap_intro02.wav"
+    },
+    {
+        "dialogue": "Ah, I see. Clever. Verrrrrrry clever.",
+        "url": "https://i1.theportalwiki.net/img/0/06/Wheatley_bw_a4_finale02_beamtrap_inbeama01.wav"
+    },
+    {
+        "dialogue": "And FOOLISH! No way out. At my mercy. And I don't have any. You're at my nothing. This line is cut off after \"AND FOOLISH!\" in-game, which is the point where the \"spinny-blade wall\" is activated. By moving around in the funnel to remain still, Wheatley can speak the entire line.",
+        "url": "https://i1.theportalwiki.net/img/b/b2/Wheatley_bw_a4_finale02_beamtrap_inbeama02.wav"
+    },
+    {
+        "dialogue": "Spinny-blade-wall!",
+        "url": "https://i1.theportalwiki.net/img/e/ea/Wheatley_bw_finale02_spinnyblade05.wav"
+    },
+    {
+        "dialogue": "Machiavellian!",
+        "url": "https://i1.theportalwiki.net/img/3/39/Wheatley_bw_finale02_spinnyblade03.wav"
+    },
+    {
+        "dialogue": "No!",
+        "url": "https://i1.theportalwiki.net/img/b/b2/Wheatley_bw_a4_finale02_beamtrap_escape01.wav"
+    },
+    {
+        "dialogue": "Well... Good. Good. Finally, a nemesis worthy of my vast intellect.",
+        "url": "https://i1.theportalwiki.net/img/f/f2/Wheatley_bw_a4_finale02_mashplate_intro01.wav"
+    },
+    {
+        "dialogue": "No wait, come back. Sorry. Please. I was going somewhere with that.",
+        "url": "https://i1.theportalwiki.net/img/f/f2/Wheatley_bw_a4_finale02_beamtrap_earlyexita01.wav"
+    },
+    {
+        "dialogue": "FOOL! You were a fool to come back, because I've trapped you again! Helpless. You're at my mercy. And I don't have any. You're at my nothing. You're at my lack of mercy. Cut off similarly to the first line",
+        "url": "https://i1.theportalwiki.net/img/2/21/Wheatley_bw_a4_finale02_beamtrap_inbeamb01.wav"
+    },
+    {
+        "dialogue": "And again, not playing along. You're ruining what are some really good speeches, actually.",
+        "url": "https://i1.theportalwiki.net/img/c/c7/Wheatley_bw_a4_finale02_beamtrap_earlyexitb01.wav"
+    },
+    {
+        "dialogue": "Didn't even get to the good part yet. Twist ending.",
+        "url": "https://i1.theportalwiki.net/img/a/a8/Wheatley_bw_a4_finale02_beamtrap_earlyexitb02.wav"
+    },
+    {
+        "dialogue": "So twisty you might even call it spinning. MOO HOO HA HA HA Ignore the laughter. Nothing to worry about.",
+        "url": "https://i1.theportalwiki.net/img/8/8b/Wheatley_bw_a4_finale02_beamtrap_earlyexitb03.wav"
+    },
+    {
+        "dialogue": "Puppet master! You're a puppet in a play, and I hold all the strings! And cards, still. Cards in one hand, strings in the other. And I'm making you dance like a puppet. Playing cards. Also similar to the first line",
+        "url": "https://i1.theportalwiki.net/img/7/7e/Wheatley_bw_a4_finale02_beamtrap_inbeamc01.wav"
+    },
+    {
+        "dialogue": "Alright, fine. I'm not saying another word until you do it properly. I'm sick of this.",
+        "url": "https://i1.theportalwiki.net/img/3/3a/Wheatley_bw_a4_finale02_beamtrap_earlyexitc01.wav"
+    },
+    {
+        "dialogue": "Holmes versus Moriarty.",
+        "url": "https://i1.theportalwiki.net/img/c/cc/Wheatley_bw_a4_finale02_mashplate_intro05.wav"
+    },
+    {
+        "dialogue": "Aristotle versus Mashy-spike-plate!",
+        "url": "https://i1.theportalwiki.net/img/0/09/Wheatley_bw_a4_finale02_mashplate_intro07.wav"
+    },
+    {
+        "dialogue": "Stay still, please.",
+        "url": "https://i1.theportalwiki.net/img/9/97/Wheatley_bw_a4_finale02_mashplate_mashing01.wav"
+    },
+    {
+        "dialogue": "Alright, stop moving.",
+        "url": "https://i1.theportalwiki.net/img/e/e5/Wheatley_bw_a4_finale02_mashplate_mashing02.wav"
+    },
+    {
+        "dialogue": "Ohhh. Almost got you there. Almost got ya there!",
+        "url": "https://i1.theportalwiki.net/img/c/cb/Wheatley_bw_a4_finale02_mashplate_mashing04.wav"
+    },
+    {
+        "dialogue": "Where'd you go?",
+        "url": "https://i1.theportalwiki.net/img/b/b4/Wheatley_bw_a4_finale02_mashplate_escape01.wav"
+    },
+    {
+        "dialogue": "Did something break back there?",
+        "url": "https://i1.theportalwiki.net/img/f/f9/Wheatley_bw_a4_finale02_pipe_collapse01.wav"
+    },
+    {
+        "dialogue": "Oh! Oh! Did it kill you? Oh, that would be amazing if it killed you.",
+        "url": "https://i1.theportalwiki.net/img/2/2a/Wheatley_bw_a4_finale02_pipe_collapse02.wav"
+    },
+    {
+        "dialogue": "Hello?",
+        "url": "https://i1.theportalwiki.net/img/3/3e/Wheatley_bw_a4_finale02_pipe_collapse03.wav"
+    },
+    {
+        "dialogue": "Oh! Oh oh! Yes. Alright. Just had a brainwave. I'll be back. If you're still alive. I'll be back. Don't die until I get back.",
+        "url": "https://i1.theportalwiki.net/img/5/52/Wheatley_bw_a4_finale02_pipe_collapse04.wav"
+    },
+    {
+        "dialogue": "Ah! There you are. Great. Let me just get rid of this catwalk.",
+        "url": "https://i1.theportalwiki.net/img/1/16/Wheatley_bw_a4_finale03_speech01.wav"
+    },
+    {
+        "dialogue": "There we go. I wanted to talk to you for a moment, if I may.",
+        "url": "https://i1.theportalwiki.net/img/b/b6/Wheatley_bw_a4_finale03_speech02.wav"
+    },
+    {
+        "dialogue": "I'll be honest: The death traps have been a bit of a failure so far. For both of us. I think you'll agree. And you are getting very close to my lair.",
+        "url": "https://i1.theportalwiki.net/img/3/34/Wheatley_bw_a4_finale03_speech03.wav"
+    },
+    {
+        "dialogue": "Lair' - heh, weird isn't it? First time I've said it out loud. Sounds a bit ridiculous, really. But I can assure you it is one. A proper lair. Deadly lair.",
+        "url": "https://i1.theportalwiki.net/img/b/b5/Wheatley_bw_a4_finale03_speech04.wav"
+    },
+    {
+        "dialogue": "So I just wanted to give you the chance to kill yourself now. Before you get to the lair. Just, you know, jump into the masher there. Less a death trap and more a death option for you.",
+        "url": "https://i1.theportalwiki.net/img/8/8f/Wheatley_bw_a4_finale03_speech05.wav"
+    },
+    {
+        "dialogue": "Sounds crazy, I know. But hear me out. Once you get to my lair, death will not be optional. It will be mandatory. No tricks, no surprises: just you dying, as a result of me killing you in a very very gruesome way.",
+        "url": "https://i1.theportalwiki.net/img/9/99/Wheatley_bw_a4_finale03_speech06.wav"
+    },
+    {
+        "dialogue": "So. Boom. Better offer here is just kill yourself. Seems like a lot of effort to walk all the way to my deadly lair, when there's a perfectly serviceable death option right there. Again: not a death trap. Your death would be entirely voluntary. And very much appreciated.",
+        "url": "https://i1.theportalwiki.net/img/3/3c/Wheatley_bw_a4_finale03_speech07.wav"
+    },
+    {
+        "dialogue": "The masher does work. I should point that out. I know we've had a couple of problems in the past. This masher definitely works and it will kill you. If that's one of your concerns about jumping in, the masher will kill you. Painless. Well, it won't be painless, obviously. But it will mash you up.",
+        "url": "https://i1.theportalwiki.net/img/4/4a/Wheatley_bw_a4_finale03_speech08.wav"
+    },
+    {
+        "dialogue": "In summary: walk all the way to certain doom, or give up now. Honorably. Like a samurai! Save yourself a trip. It's win-win for you.",
+        "url": "https://i1.theportalwiki.net/img/c/c3/Wheatley_bw_a4_finale03_speech09.wav"
+    },
+    {
+        "dialogue": "Plus, I put a lot of effort in getting this lair ready for you. It'd certainly teach me a lesson if you simply died, painlessly, twenty feet from the door. I'd be furious. I'd be like RRRRR. I got my just desserts. No more than I deserve. Why not teach me a lesson by jumping in the old masher?",
+        "url": "https://i1.theportalwiki.net/img/0/0f/Wheatley_bw_a4_finale03_speech10.wav"
+    },
+    {
+        "dialogue": "I tell you, if I was up against impossible odds, this is the way I'd want to go out: mashed with dignity. That'd be the way I'd choose.",
+        "url": "https://i1.theportalwiki.net/img/7/70/Wheatley_bw_a4_finale03_speech11.wav"
+    },
+    {
+        "dialogue": "And here's the best part. There's a conveyor belt that will convey you in convenient comfort right into the masher. You won't have to lift a finger. Everything's been taken care of. Didn't have to. Didn't have to do that.",
+        "url": "https://i1.theportalwiki.net/img/8/86/Wheatley_bw_a4_finale03_speech12.wav"
+    },
+    {
+        "dialogue": "Look, anyway. I've spoken enough. Take your time. I'll let you think about it. I don't want to pressure you: is it the lair? Is it the masher? You know what my opinion is: Masher. I'm leaning toward masher. Up to you. Just gonna give you some time to think",
+        "url": "https://i1.theportalwiki.net/img/0/02/Wheatley_bw_a4_finale03_speech13.wav"
+    },
+    {
+        "dialogue": "Okay, I'll take that as a no, then. Fine. Well. May the best man win. Sphere. May the best sphere win. Swap that in. Much more clever. Books. Upon smashing the monitor with a bomb",
+        "url": "https://i1.theportalwiki.net/img/e/ef/Wheatley_bw_a4_finale03_escape01.wav"
+    },
+    {
+        "dialogue": "Okay, I'll take that as a no, then.",
+        "url": "https://i1.theportalwiki.net/img/5/5a/Wheatley_bw_a4_finale03_escape02.wav"
+    },
+    {
+        "dialogue": "Well, well, well. Welcome to MY LAIR! Lemme just flag something up: According to the control panel light up there, the entire building's going to self destruct in about six minutes. Pretty sure it's a problem with the light. I think the light's on the blink. But just in case it isn't, I actually am going to have to kill you. As discussed earlier.",
+        "url": "https://i1.theportalwiki.net/img/8/85/Wheatley_bw_a4_finale04_introb01.wav"
+    },
+    {
+        "dialogue": "So, let's call that three minutes, and then a minute break, which should leave a leisurely two minutes to figure out how to shut down whatever's starting all these fires. So anyway, that's the itinerary.",
+        "url": "https://i1.theportalwiki.net/img/1/11/Wheatley_bw_a4_finale04_introb02.wav"
+    },
+    {
+        "dialogue": "Also, I took the liberty of watching the tapes of you killing her, and I'm not going to make the same mistakes. Four part plan is this:",
+        "url": "https://i1.theportalwiki.net/img/8/83/Wheatley_bw_a4_finale04_intro_all01.wav"
+    },
+    {
+        "dialogue": "One: No portal surfaces.",
+        "url": "https://i1.theportalwiki.net/img/e/e4/Wheatley_bw_a4_finale04_intro_all02.wav"
+    },
+    {
+        "dialogue": "Two: Start the neurotoxin immediately.",
+        "url": "https://i1.theportalwiki.net/img/d/d9/Wheatley_bw_a4_finale04_intro_all03.wav"
+    },
+    {
+        "dialogue": "Three: Bomb-proof shields for me. Leading directly into number Four: Bombs. For throwing at you.",
+        "url": "https://i1.theportalwiki.net/img/4/4a/Wheatley_bw_a4_finale04_intro_all04.wav"
+    },
+    {
+        "dialogue": "You know what, this plan is so good, I'm going to give you a sporting chance and turn off the neurotoxin. I'm joking. Of course. Goodbye.",
+        "url": "https://i1.theportalwiki.net/img/c/c7/Wheatley_bw_a4_finale04_intro_all05.wav"
+    },
+    {
+        "dialogue": "Where are you going? Don't run! Don't run! I'll tell you why you shouldn't run: The harder you breathe, the more neurotoxin you'll inhale. It's bloody clever, this stuff. Seriously, it's devilish.",
+        "url": "https://i1.theportalwiki.net/img/e/e4/Wheatley_bw_a4_finale04_bombtaunts01.wav"
+    },
+    {
+        "dialogue": "Still running. Alright. Looks tiring. Tell you what - you stop running and I'll stop bombing you... That seems fair.",
+        "url": "https://i1.theportalwiki.net/img/9/98/Wheatley_bw_a4_finale04_bombtaunts02.wav"
+    },
+    {
+        "dialogue": "Alright. Didn't go for that, I see. Knew I was lying. Point to you. But you still are inhaling neurotoxin. So, point deducted.",
+        "url": "https://i1.theportalwiki.net/img/b/bc/Wheatley_bw_a4_finale04_bombtaunts03.wav"
+    },
+    {
+        "dialogue": "Look out! I'm right behind you! No, of course I'm not. Saw through that too. Forty feet tall, right in front of you. Not my greatest ruse. To be honest. Still a giant robot, though.",
+        "url": "https://i1.theportalwiki.net/img/d/df/Wheatley_bw_a4_finale04_bombtaunts11.wav"
+    },
+    {
+        "dialogue": "Ohp! Where are you going? Nowhere. Not going anywhere. Got you trapped like a little jumpsuited rat.",
+        "url": "https://i1.theportalwiki.net/img/8/8a/Wheatley_bw_finale04_pre_pipebreak01.wav"
+    },
+    {
+        "dialogue": "Oh, did you bring your little portal gun? Nothing to portal onto here, luv. Just ten pounds of dead weight. About to be two hundred and ten. Fatty.",
+        "url": "https://i1.theportalwiki.net/img/b/be/Wheatley_bw_finale04_pre_pipebreak02.wav"
+    },
+    {
+        "dialogue": "You're just delaying the inevitable. You cannot run from my bombs forever. Well, you can if I keep aiming them poorly. But I'll get better as we go, and you'll just get tired.",
+        "url": "https://i1.theportalwiki.net/img/3/3c/Wheatley_bw_finale04_pre_pipebreak03.wav"
+    },
+    {
+        "dialogue": "This would go a lot faster if you'd stay still. Then I'd have time to fix the facility. So one of us at least would live. No need to be selfish, luv, you're gonna die.",
+        "url": "https://i1.theportalwiki.net/img/a/a6/Wheatley_bw_finale04_pre_pipebreak05.wav"
+    },
+    {
+        "dialogue": "I should congratulate you, by the way. I didn't actually think you'd make such a worthy opponent. Weren't you supposed to be brain damaged or something? yeah, brain damaged like a fox.",
+        "url": "https://i1.theportalwiki.net/img/c/c2/Wheatley_bw_finale04_pre_pipebreak06.wav"
+    },
+    {
+        "dialogue": "Remember when I first told you how to find that little portal thing you love so much? Thought you'd die on the way, if I'm honest. All the others did.",
+        "url": "https://i1.theportalwiki.net/img/b/b1/Wheatley_bw_finale04_pre_pipebreak07.wav"
+    },
+    {
+        "dialogue": "You didn't think you were the first, did you? [laughs] No. Fifth. No, I lie: Sixth. Perhaps it's best to leave it to your imagination what happened to the other five...",
+        "url": "https://i1.theportalwiki.net/img/8/8b/Wheatley_bw_finale04_pre_pipebreak08.wav"
+    },
+    {
+        "dialogue": "You know what? I think we're well past the point of tasteful restraint. So I'll tell you: they all died. Horrifically. Trying to get that portal device that you're gripping in your meaty little fingers there.",
+        "url": "https://i1.theportalwiki.net/img/3/39/Wheatley_bw_finale04_pre_pipebreak09.wav"
+    },
+    {
+        "dialogue": "But you were different weren't you? Such a good jumper. Problem solver. Clever. But ambitious. That's your Achilles Heel. Mine's-oh! Oh! Almost told you. Clever, clever girl. Again: brain damaged like a fox, you.",
+        "url": "https://i1.theportalwiki.net/img/d/d8/Wheatley_bw_finale04_pre_pipebreak10.wav"
+    },
+    {
+        "dialogue": "We've had some times, haven't we? Like that time I jumped off my management rail, not sure if I'd die or not when I did, and all you had to do was catch me? Annnd you didn't. Did you? Ohhhh. You remember that? I remember that. I remember that all the time.",
+        "url": "https://i1.theportalwiki.net/img/0/0c/Wheatley_bw_finale04_pre_pipebreak11.wav"
+    },
+    {
+        "dialogue": "And we would have talked our way out of it. Oh! Except you forgot to tell me you'd murdered her. And that she needed you to live, so the only available vent for her rage would be good old crushable Wheatley. Yeah. Little details I remember. Easy little tidbits you could have used to save me from getting crushed if you'd cared, which you didn't, obviously. And still don't.",
+        "url": "https://i1.theportalwiki.net/img/0/0f/Wheatley_bw_finale04_pre_pipebreak12.wav"
+    },
+    {
+        "dialogue": "Oh, remember the time I took over the facility? Greatest moment of my life, but you just wanted to leave. Didn't want to share in my success. Well, so you know, I'd be happy for you if you succeeded. Apart from right now, obviously.",
+        "url": "https://i1.theportalwiki.net/img/d/dd/Wheatley_bw_finale04_pre_pipebreak13.wav"
+    },
+    {
+        "dialogue": "Am I being too vague? I despise you. I loathe you. You arrogant, smugly quiet, awful jumpsuited monster of a woman. You and your little potato friend. This place would have been a triumph if it wasn't for you!",
+        "url": "https://i1.theportalwiki.net/img/1/1f/Wheatley_bw_finale04_pre_pipebreak14.wav"
+    },
+    {
+        "dialogue": "No! Don't! No! AHHHHHHHHHHHH!",
+        "url": "https://i1.theportalwiki.net/img/5/5b/Wheatley_bw_a4_finale04_whitegel_break01.wav"
+    },
+    {
+        "dialogue": "Ha... That sounded real. No! That was actually an impression of you. Actually. Because you just fell into my trap. My brilliant trap. Just then. I wanted you to trick me into bursting that pipe. You didn't trick me. Seemingly trick me. Gives you false hope. Leads to overconfidence. And that leads to mistakes. Fatal mistakes. It's all part of my plan.",
+        "url": "https://i1.theportalwiki.net/img/e/ea/Wheatley_bw_a4_finale04_whitegel_break02.wav"
+    },
+    {
+        "dialogue": "Oh, but I just... have made my actual first mistake... by telling you my plan. Just now. Grrr... It's me old Achilles heel again. Armed with that knowledge, I imagine you won't even use the conversion gel. Oh fate! Oh cruel mistress.",
+        "url": "https://i1.theportalwiki.net/img/a/a5/Wheatley_bw_a4_finale04_whitegel_break03.wav"
+    },
+    {
+        "dialogue": "That conversion gel has been sitting in that pipe going stagnant for years. You'll probably get botulism portalling through it like that.",
+        "url": "https://i1.theportalwiki.net/img/9/98/Wheatley_bw_a4_finale04_whitegel_break05.wav"
+    },
+    {
+        "dialogue": "And you'll probably get ringworm. And Athlete's Foot. And... Cholera. Or something... Horrible. It's gonna be even worse than if I'd just blown you up.",
+        "url": "https://i1.theportalwiki.net/img/5/59/Wheatley_bw_a4_finale04_whitegel_break06.wav"
+    },
+    {
+        "dialogue": "But it's not too late to avoid all of that by simply not using the gel. There you go, I said it. I gave away my plan. But I couldn't watch you hurt yourself like this.",
+        "url": "https://i1.theportalwiki.net/img/9/99/Wheatley_bw_a4_finale04_whitegel_break07.wav"
+    },
+    {
+        "dialogue": "AH!",
+        "url": "https://i1.theportalwiki.net/img/7/72/Wheatley_bw_finale04_portal_opens_short05.wav"
+    },
+    {
+        "dialogue": "AHH!",
+        "url": "https://i1.theportalwiki.net/img/5/55/Wheatley_bw_finale04_portal_opens_short06.wav"
+    },
+    {
+        "dialogue": "AH!",
+        "url": "https://i1.theportalwiki.net/img/b/b3/Wheatley_bw_finale04_portal_opens_short07.wav"
+    },
+    {
+        "dialogue": "AH! (this line is also used in the scene where Wheatley was being sucked into space)",
+        "url": "https://i1.theportalwiki.net/img/b/bd/Wheatley_bw_finale04_portal_opens_short08.wav"
+    },
+    {
+        "dialogue": "Ahhh... Wha- What happened?",
+        "url": "https://i1.theportalwiki.net/img/3/37/Wheatley_bw_a4_finale04_wakeupa01.wav"
+    },
+    {
+        "dialogue": "What happened? What, what, what have you put onto me? What is that?",
+        "url": "https://i1.theportalwiki.net/img/6/61/Wheatley_bw_a4_finale04_wakeupa02.wav"
+    },
+    {
+        "dialogue": "Hold on, [click click click] Ah, the bloody bombs are stuck on. Doesn't matter - I've reconfigured the shields.",
+        "url": "https://i1.theportalwiki.net/img/d/d3/Wheatley_bw_a4_finale04_wakeupa03.wav"
+    },
+    {
+        "dialogue": "Oh, it's a core you've put on me! Who told you to do that? Was it her? [as if he's looking around] It's just making me stronger, luv! It's a fool's errand!",
+        "url": "https://i1.theportalwiki.net/img/6/66/Wheatley_bw_a4_finale04_wakeupa04.wav"
+    },
+    {
+        "dialogue": "Are you trying to weigh me down? Think I'll fall out of the ceiling? Won't work. I'm not just quite brilliant, I'm also quite strong. Biggest muscle in my body: my brain. Second biggest: My muscles. So, it's not going to work. Clearly.",
+        "url": "https://i1.theportalwiki.net/img/a/ae/Wheatley_bw_a4_finale04_wakeupa05.wav"
+    },
+    {
+        "dialogue": "Did you put a virus in them? It's not going to work either. I've got a firewall, mate. Literally, actually, now that I look around. There appears to be literally a wall of fire around this place. Alarming. To say the least.",
+        "url": "https://i1.theportalwiki.net/img/9/96/Wheatley_bw_a4_finale04_wakeupa06.wav"
+    },
+    {
+        "dialogue": "In fact, I'm going to have to take a break for a minute. A partial break during which I'll stop the facility from exploding while still throwing bombs at you.",
+        "url": "https://i1.theportalwiki.net/img/e/ea/Wheatley_bw_a4_finale04_wakeupa07.wav"
+    },
+    {
+        "dialogue": "Alright, then. Let us see... 'Vital maintenance protocols.' Wow, there are a lot of them. Should have looked into this earlier. Well, let's try this: [reading while typing] DO THEM. [failure buzzer]. Fair enough. Maybe it's a password.",
+        "url": "https://i1.theportalwiki.net/img/7/7f/Wheatley_bw_a4_finale04_wakeupa08.wav"
+    },
+    {
+        "dialogue": "A, A, A, A, A, A. [NNNT!] No. A, A, A, A, A, B. [NNNT!] Hold on, I've done both of these. Skip ahead. A, B, C... D, G, H.[DING!]",
+        "url": "https://i1.theportalwiki.net/img/d/d1/Wheatley_bw_a4_finale04_wakeupa09.wav"
+    },
+    {
+        "dialogue": "Hah! It bloody worked! I hacked it! Hacked. Properly. Properly hacked. Ha ha ha!",
+        "url": "https://i1.theportalwiki.net/img/4/45/Wheatley_bw_finale4_hackworked01.wav"
+    },
+    {
+        "dialogue": "Now than, let's see what we got here.  Ah! 'Reactor Core Emergency Heat Venting Protocols.' That's the problem right there, isn't it? 'Emergency'. You don't want to see 'emergency' flashing at you. Never good that, is it? Right. DELETE.",
+        "url": "https://i1.theportalwiki.net/img/0/02/Wheatley_bw_finale4_hackworked02.wav"
+    },
+    {
+        "dialogue": "Undelete, undelete! Where's the undelete button?",
+        "url": "https://i1.theportalwiki.net/img/3/3f/Wheatley_bw_finale4_hackworked03.wav"
+    },
+    {
+        "dialogue": "Enough! I told you not to put these cores on me. But you don't listen, do you? Quiet. All the time. Quietly not listening to a word I say. Judging me. Silently. The worst kind.",
+        "url": "https://i1.theportalwiki.net/img/4/47/Wheatley_bw_a4_finale04_wakeupb01.wav"
+    },
+    {
+        "dialogue": "All I wanted to do was make everything better for me! All you had to do was solve a couple hundred simple tests for a few years. And you couldn't even let me have that, could you?",
+        "url": "https://i1.theportalwiki.net/img/5/55/Wheatley_bw_a4_finale04_wakeupb02.wav"
+    },
+    {
+        "dialogue": "Nobody is going to space, mate!",
+        "url": "https://i1.theportalwiki.net/img/0/0b/Wheatley_bw_a4_finale04_wakeupb03.wav"
+    },
+    {
+        "dialogue": "And another thing! You never caught me. I told you I could die falling off that rail. And you didn't catch me. You didn't even try. Oh, it's all becoming clear to me now. Find some dupe to break you out of cryosleep. Give him a sob story about escaping to the surface. Squeeze him for information on where to find a portal gun.",
+        "url": "https://i1.theportalwiki.net/img/f/f2/Wheatley_bw_a4_finale04_wakeupb04.wav"
+    },
+    {
+        "dialogue": "Then, when he's no more use to you, he has a little accident. Doesn't he? 'Falls' off his management rail. Doesn't he?",
+        "url": "https://i1.theportalwiki.net/img/3/3d/Wheatley_bw_a4_finale04_wakeupb05.wav"
+    },
+    {
+        "dialogue": "You're in this together, aren't you? You've been playing me the whole time! Both of you! First you make me think you're brain damaged! Then you convince me you're sworn enemies with your best friend over here!",
+        "url": "https://i1.theportalwiki.net/img/3/34/Wheatley_bw_a4_finale04_wakeupb07.wav"
+    },
+    {
+        "dialogue": "Then, then, when I reluctantly assume the responsibility of running the place, you conveniently decide to run off together. Just when I need you most.",
+        "url": "https://i1.theportalwiki.net/img/b/be/Wheatley_bw_a4_finale04_wakeupb08.wav"
+    },
+    {
+        "dialogue": "I'll bet there isn't even a problem with the facility, is there? I'll bet there's no such thing as a 'reactor core'. I'll bet that's not even fire coming out of the walls, is it? It's just cleverly placed lights and papier mache, I'll bet that's all it is.",
+        "url": "https://i1.theportalwiki.net/img/8/8b/Wheatley_bw_finale04_wakeupb01.wav"
+    },
+    {
+        "dialogue": "All those pieces of the ceiling that keep falling out? Probably actually pieces of the ceiling, I'll bet. That looked real. But it doesn't signify anything, is my point.",
+        "url": "https://i1.theportalwiki.net/img/7/7e/Wheatley_bw_a4_finale04_wakeupb10.wav"
+    },
+    {
+        "dialogue": "But the real point is - oh, oh! You know what I've just remembered? Football! Kicking a ball around for fun. Cruel, obviously. Humans love it. Metaphor. Should have seen this coming.",
+        "url": "https://i1.theportalwiki.net/img/9/94/Wheatley_bw_a4_finale04_wakeupb11.wav"
+    },
+    {
+        "dialogue": "ahhhhEHHHHHH!",
+        "url": "https://i1.theportalwiki.net/img/1/1c/Wheatley_bw_finale04_portal_opens17.wav"
+    },
+    {
+        "dialogue": "You have been a thorn in my side long enough!",
+        "url": "https://i1.theportalwiki.net/img/f/f0/Wheatley_bw_finale04_thorn01.wav"
+    },
+    {
+        "dialogue": "Ohhh. I see. [chuckle]",
+        "url": "https://i1.theportalwiki.net/img/5/5d/Wheatley_bw_finale04_stalemate_intro01.wav"
+    },
+    {
+        "dialogue": "What do you think?",
+        "url": "https://i1.theportalwiki.net/img/4/46/Wheatley_bw_finale04_stalemate_intro03.wav"
+    },
+    {
+        "dialogue": "No! No! NONONO!",
+        "url": "https://i1.theportalwiki.net/img/7/73/Wheatley_bw_finale04_stalemate_intro04.wav"
+    },
+    {
+        "dialogue": "Didn't pick up on my sarcasm...",
+        "url": "https://i1.theportalwiki.net/img/c/c8/Wheatley_bw_finale04_stalemate_intro05.wav"
+    },
+    {
+        "dialogue": "Ah. That just cleans right off, does it? Well, that would have been good to know. A little earlier.",
+        "url": "https://i1.theportalwiki.net/img/6/69/Wheatley_bw_finale04_stalemate_intro06.wav"
+    },
+    {
+        "dialogue": "No!",
+        "url": "https://i1.theportalwiki.net/img/7/70/Wheatley_bw_finale04_no_nags01.wav"
+    },
+    {
+        "dialogue": "No!",
+        "url": "https://i1.theportalwiki.net/img/2/2d/Wheatley_bw_finale04_no_nags02.wav"
+    },
+    {
+        "dialogue": "Do not press that button!",
+        "url": "https://i1.theportalwiki.net/img/6/66/Wheatley_bw_finale04_no_nags03.wav"
+    },
+    {
+        "dialogue": "Do not do it!",
+        "url": "https://i1.theportalwiki.net/img/e/ee/Wheatley_bw_finale04_no_nags04.wav"
+    },
+    {
+        "dialogue": "Do not press that button!",
+        "url": "https://i1.theportalwiki.net/img/5/59/Wheatley_bw_finale04_no_nags05.wav"
+    },
+    {
+        "dialogue": "Do not press that button!",
+        "url": "https://i1.theportalwiki.net/img/8/8e/Wheatley_bw_finale04_no_nags06.wav"
+    },
+    {
+        "dialogue": "Do not do it!",
+        "url": "https://i1.theportalwiki.net/img/2/2e/Wheatley_bw_finale04_no_nags07.wav"
+    },
+    {
+        "dialogue": "Don't press the button!",
+        "url": "https://i1.theportalwiki.net/img/d/d4/Wheatley_bw_finale04_no_nags08.wav"
+    },
+    {
+        "dialogue": "Come back!",
+        "url": "https://i1.theportalwiki.net/img/6/6b/Wheatley_bw_finale04_no_nags09.wav"
+    },
+    {
+        "dialogue": "Don't press it! COME BACK!",
+        "url": "https://i1.theportalwiki.net/img/9/91/Wheatley_bw_finale04_no_nags10.wav"
+    },
+    {
+        "dialogue": "I forbid you to press it!",
+        "url": "https://i1.theportalwiki.net/img/d/de/Wheatley_bw_finale04_no_nags11.wav"
+    },
+    {
+        "dialogue": "PART FIVE! BOOBYTRAP THE STALEMATE BUTTON!",
+        "url": "https://i1.theportalwiki.net/img/2/29/Wheatley_bw_finale04_button_press01.wav"
+    },
+    {
+        "dialogue": "What, are you still alive? You are joking. You have got be kidding me. Well, I'm still in control. AND I HAVE NO IDEA HOW TO FIX THIS PLACE.",
+        "url": "https://i1.theportalwiki.net/img/9/96/Wheatley_bw_finale04_button_press03.wav"
+    },
+    {
+        "dialogue": "You had to play bloody cat and mouse, didn't you?  While people were trying to work. Yes, well, now we're all going to pay the price. BECAUSE WE'RE ALL GOING TO BLOODY DIE.",
+        "url": "https://i1.theportalwiki.net/img/4/42/Wheatley_bw_finale04_button_press04.wav"
+    },
+    {
+        "dialogue": "Oh, brilliant, yeah. Take one last look at your precious human moon. Because it cannot help you now!",
+        "url": "https://i1.theportalwiki.net/img/0/09/Wheatley_bw_finale04_button_press05.wav"
+    },
+    {
+        "dialogue": "Yeghh!",
+        "url": "https://i1.theportalwiki.net/img/b/b3/Wheatley_bw_finale04_portal_opens13.wav"
+    },
+    {
+        "dialogue": "Yahh. Gehhh!",
+        "url": "https://i1.theportalwiki.net/img/c/c7/Wheatley_bw_finale04_portal_opens15.wav"
+    },
+    {
+        "dialogue": "AHHHHHHH!",
+        "url": "https://i1.theportalwiki.net/img/5/50/Wheatley_bw_finale04_portal_opens03.wav"
+    },
+    {
+        "dialogue": "SPACE!",
+        "url": "https://i1.theportalwiki.net/img/f/ff/Wheatley_bw_finale04_through_portal02.wav"
+    },
+    {
+        "dialogue": "Let go!",
+        "url": "https://i1.theportalwiki.net/img/0/00/Wheatley_bw_finale04_through_portal05.wav"
+    },
+    {
+        "dialogue": "We're in space!",
+        "url": "https://i1.theportalwiki.net/img/8/89/Wheatley_bw_finale04_through_portal03.wav"
+    },
+    {
+        "dialogue": "Let go! Let go! I'm still connected. I can pull myself in. I can still fix this!",
+        "url": "https://i1.theportalwiki.net/img/0/03/Wheatley_bw_finale04_through_portal04.wav"
+    },
+    {
+        "dialogue": "Oh no. Change of plans. Hold onto me. Tighter!",
+        "url": "https://i1.theportalwiki.net/img/5/50/Wheatley_bw_finale04_through_portal07.wav"
+    },
+    {
+        "dialogue": "Grab me grab me grab me! Grab meeee!",
+        "url": "https://i1.theportalwiki.net/img/2/27/Wheatley_bw_finale04_through_portal08.wav"
+    },
+    {
+        "dialogue": "I wish I could take it all back. I honestly do. I honestly do wish I could take it all back. And not just because I'm stranded in space.",
+        "url": "https://i1.theportalwiki.net/img/7/79/Wheatley_outro_apology01.wav"
+    },
+    {
+        "dialogue": "I know you are, mate. Yup. We're both in space.",
+        "url": "https://i1.theportalwiki.net/img/5/5c/Wheatley_outro_apology02.wav"
+    },
+    {
+        "dialogue": "Anyway, you know, if I was ever to see her again, do you know what I'd say?",
+        "url": "https://i1.theportalwiki.net/img/8/87/Wheatley_outro_apology04.wav"
+    },
+    {
+        "dialogue": "I'd say 'I'm sorry.' Sincerely. I am sorry. I was bossy and monstrous, and I am genuinely sorry.",
+        "url": "https://i1.theportalwiki.net/img/2/29/Wheatley_outro_apology05.wav"
+    },
+    {
+        "dialogue": "The end.",
+        "url": "https://i1.theportalwiki.net/img/f/f4/Wheatley_outro_apology06.wav"
+    },
+    {
+        "dialogue": "YES! I KNEW someone was alive in here! Alternate delivery",
+        "url": "https://i1.theportalwiki.net/img/0/04/Wheatley_openingdooropened01.wav"
+    },
+    {
+        "dialogue": "AGH! You look TERRIB--you look good. Looking good, actually. If I'm honest. Alternate delivery",
+        "url": "https://i1.theportalwiki.net/img/0/0d/Wheatley_openingfirstlook01.wav"
+    },
+    {
+        "dialogue": "How are you? How you feeling? Wait. Don't answer that. Too much deep relaxation, what it does is it relaxes the gums. And the vibrations from talking -- on a rare occasion -- can make all of your teeth fall out of your head. This plus the next line were shortened and combined into one",
+        "url": "https://i1.theportalwiki.net/img/d/d5/Wheatley_openingpanicsituation01.wav"
+    },
+    {
+        "dialogue": "So: there's PLENTY of time to recover. Just take it slow. This plus the previous line were shortened and combined into one",
+        "url": "https://i1.theportalwiki.net/img/7/71/Wheatley_openingpanicsituation03.wav"
+    },
+    {
+        "dialogue": "STAY CALM! Stay calm! 'Prepare.' That's all it's saying. It's just saying 'Prepare.' It's all fine. Alright? Don't move. I'm going to get us out of here. Alternate delivery",
+        "url": "https://i1.theportalwiki.net/img/3/39/Wheatley_openingprepare01.wav"
+    },
+    {
+        "dialogue": "But don't be alarmed, alright? Because ah... well, actually, if you DO feel alarmed, hold onto that. Because the feeling of alarm is the proper reaction to being told you've got massive brain damage. So if you are alarmed, then it suggests the damage is not as serious as we thought. Although it probably is really serious. Shortened",
+        "url": "https://i1.theportalwiki.net/img/8/82/Wheatley_openingbraindamage03.wav"
+    },
+    {
+        "dialogue": "Do you understand what I'm saying? Just tell me 'Yes'. Alternate delivery",
+        "url": "https://i1.theportalwiki.net/img/2/21/Wheatley_openingbraindamage04.wav"
+    },
+    {
+        "dialogue": "Alright, just a second... Cut",
+        "url": "https://i1.theportalwiki.net/img/b/b8/Wheatley_openingnavigate04.wav"
+    },
+    {
+        "dialogue": "Better yet, don't say anything. Cut (after the \"get our stories straight\" line)",
+        "url": "https://i1.theportalwiki.net/img/3/3d/Wheatley_openingstorystraight03.wav"
+    },
+    {
+        "dialogue": "Ohhhhhh! Cut (was to be played on the first hit into the wall)",
+        "url": "https://i1.theportalwiki.net/img/1/18/Wheatley_openingwallhitone01.wav"
+    },
+    {
+        "dialogue": "This is AMAZING! We can walk wherever we want! Look, just... go left! No, go right, go right! Don't even care, don't even care, just go where ever you want, couldn't care less. Line changed",
+        "url": "https://i1.theportalwiki.net/img/e/e9/Wheatley_gloriousfreedom01.wav"
+    },
+    {
+        "dialogue": "Over there is where they used to keep the old neurotoxin release button. BIG responsibility, the guy in charge of the neurotoxin release button. And guess who he WAS? He wasn't me. But I was his assistant, and I did a lot of his admin. Cut",
+        "url": "https://i1.theportalwiki.net/img/e/e0/Wheatley_demospheregladoschamber03.wav"
+    },
+    {
+        "dialogue": "You know, in the end, yes, they let me go. It's all politics, to be honest. It's a big popularity contest, it's all about who you know, and whose back you're willing to scratch, who doesn't touch -- or, in my case, who did accidentally touch -- the neurotoxin button. Cut",
+        "url": "https://i1.theportalwiki.net/img/8/80/Wheatley_demospheregladoschamber04.wav"
+    },
+    {
+        "dialogue": "But not entirely my fault! You shoulda seen the SIZE of that thing, it was huge! I should have gotten a raise for all the times I DIDN'T bump into it. Cut",
+        "url": "https://i1.theportalwiki.net/img/e/ef/Wheatley_demospheregladoschamber05.wav"
+    },
+    {
+        "dialogue": "Ohh. You're gonna laugh at this. You know how I said there was absolutely no way to get here without going through her lair and her potentially killing us? Could have gone through here. [laughs] My fault. Bit of luck for us that she wasn't switched on.",
+        "url": "https://i1.theportalwiki.net/img/0/0e/Wheatley_gladosunderchamber01.wav"
+    },
+    {
+        "dialogue": "This is the main breaker room. Look for a switch that says ESCAPE POD. Alright? Don't touch ANYTHING else. Split",
+        "url": "https://i1.theportalwiki.net/img/5/50/Wheatley_demosphereswitchroom01.wav"
+    },
+    {
+        "dialogue": "Can't... see it anywhere. Tell you what, plug me in and I'll turn the lights on. Changed slightly",
+        "url": "https://i1.theportalwiki.net/img/b/bc/Wheatley_demosphereswitchroom02.wav"
+    },
+    {
+        "dialogue": "There we go. Lights on. Replaced with \"quoting God\" line",
+        "url": "https://i1.theportalwiki.net/img/f/f6/Wheatley_demosphereswitchroom03.wav"
+    },
+    {
+        "dialogue": "Ah. Hmmmm.",
+        "url": "https://i1.theportalwiki.net/img/1/15/Wheatley_demospherebreakerlift02.wav"
+    },
+    {
+        "dialogue": "This is.... yeah. Ummm. Hm. Okay. Don't want to alarm you, but if you've got a plan, of any kind, now would be a great time for us to switch to your plan.",
+        "url": "https://i1.theportalwiki.net/img/f/f1/Wheatley_demospherebreakerlift03.wav"
+    },
+    {
+        "dialogue": "Oh! It's going faster, which I was... not expecting.",
+        "url": "https://i1.theportalwiki.net/img/3/3d/Wheatley_demospherebreakerlift04.wav"
+    },
+    {
+        "dialogue": "Okay, DON'T PANIC! I can still stop it, not a problem. There's a password! I'll just hack it. Here we go. Alternate delivery",
+        "url": "https://i1.theportalwiki.net/img/5/5f/Wheatley_demospherepowerup01.wav"
+    },
+    {
+        "dialogue": "A... A... A... A... A... A. Alternate delivery",
+        "url": "https://i1.theportalwiki.net/img/9/94/Wheatley_demospherepowerup02.wav"
+    },
+    {
+        "dialogue": "Okay. New plan. Act natural. We've done NOTHING wrong. Alternate delivery",
+        "url": "https://i1.theportalwiki.net/img/6/67/Wheatley_demospherepowerup03.wav"
+    },
+    {
+        "dialogue": "Anyway, look, the point is we're gonna break out of here, alright? But we can't do it yet. Look for me fifteen chambers ahead.",
+        "url": "https://i1.theportalwiki.net/img/e/eb/Wheatley_sp_trust_fling03.wav"
+    },
+    {
+        "dialogue": "Here she comes! Just play along! RememberFifteenChambers!",
+        "url": "https://i1.theportalwiki.net/img/f/ff/Wheatley_sp_trust_fling04.wav"
+    },
+    {
+        "dialogue": "Hey! How's it going? Here I am again! Changed",
+        "url": "https://i1.theportalwiki.net/img/6/65/Wheatley_nanobotinto01.wav"
+    },
+    {
+        "dialogue": "I talked my way onto the nanobot work crew rebuilding this shaft. They're REALLY small, so they have very tiny little brains. But there're a billion of 'em, so it's only a matter of time until ONE of them notices I'm the size of a planet. Changed (Wheatley is interrupted by and starts talking to Jerry)",
+        "url": "https://i1.theportalwiki.net/img/5/54/Wheatley_nanobotinto05.wav"
+    },
+    {
+        "dialogue": "I KNOW, Jerry. No, I'm on BREAK, mate. On a break. Combined with existing line",
+        "url": "https://i1.theportalwiki.net/img/f/fd/Wheatley_nanobotonbreak01.wav"
+    },
+    {
+        "dialogue": "Anyway, look, we're really close to busting out, just hang in there for five more chambers.",
+        "url": "https://i1.theportalwiki.net/img/e/ed/Wheatley_nanobotrealclose01.wav"
+    },
+    {
+        "dialogue": "Whoa! Hey! Don't fall!",
+        "url": "https://i1.theportalwiki.net/img/0/01/Wheatley_jailbreakneardoor01.wav"
+    },
+    {
+        "dialogue": "Hold on. Run back the other way! I'll turn the bridges back on!",
+        "url": "https://i1.theportalwiki.net/img/c/c3/Wheatley_jailbreakneardoor03.wav"
+    },
+    {
+        "dialogue": "We're not safe yet. Quick! Follow the walkway.",
+        "url": "https://i1.theportalwiki.net/img/8/87/Wheatley_jailbreakneardoor08.wav"
+    },
+    {
+        "dialogue": "You have to get to the catwalk behind me!",
+        "url": "https://i1.theportalwiki.net/img/e/e4/Wheatley_jailbreakneardoor10.wav"
+    },
+    {
+        "dialogue": "Stay casual when I tell you this: I think I smell neurotoxin.",
+        "url": "https://i1.theportalwiki.net/img/8/89/Wheatley_jailbreakneardoor11.wav"
+    },
+    {
+        "dialogue": "Oh God! Oh, don't need to do that anymore. The jig is up, RUN!",
+        "url": "https://i1.theportalwiki.net/img/6/6d/Wheatley_jailbreakdooropens17.wav"
+    },
+    {
+        "dialogue": "Come on, let's go!",
+        "url": "https://i1.theportalwiki.net/img/1/10/Wheatley_sp_sabotage_jailbreak07.wav"
+    },
+    {
+        "dialogue": "Hurry! This way!",
+        "url": "https://i1.theportalwiki.net/img/7/72/Wheatley_sp_sabotage_jailbreak_elevator01.wav"
+    },
+    {
+        "dialogue": "Come on! Over here! This way!",
+        "url": "https://i1.theportalwiki.net/img/3/3b/Wheatley_sp_sabotage_jailbreak_elevator05.wav"
+    },
+    {
+        "dialogue": "Ohhhhhh, we just made it! That was close.",
+        "url": "https://i1.theportalwiki.net/img/4/49/Wheatley_sp_sabotage_jailbreak_elevator03.wav"
+    },
+    {
+        "dialogue": "Here's an interesting story. I almost got a job down here in Manufacturing. Guess who the foreman went with? Only an exact duplicate of himself. Nepotism. Ended up giving me the WORST possible job: tending to all the smelly humans. The umm... Sorry about that. That just slipped out. Split, extra line added (Note: this exact line was used in the Wheatley Update trailer.)",
+        "url": "https://i1.theportalwiki.net/img/7/7f/Wheatley_sphere_flashlight_tour71.wav"
+    },
+    {
+        "dialogue": "Ah! Brilliant. You made it through, well done. Very slight difference in delivery",
+        "url": "https://i1.theportalwiki.net/img/c/cf/Wheatley_sp_sabotage_factory01.wav"
+    },
+    {
+        "dialogue": "See that scanner out there? It's deciding which turrets to keep and which to toss. And it's using that MASTER turret as a template! If we pull out the template turret, it'll shut down the whole production line. An extra \"right?\" and \"there\" were added after the scanner and the master turret, respectively, to give time to point each out.",
+        "url": "https://i1.theportalwiki.net/img/c/c9/Wheatley_sp_sabotage_factory05.wav"
+    },
+    {
+        "dialogue": "Hey, I can see it! The feeder tube's just in the next room!",
+        "url": "https://i1.theportalwiki.net/img/5/5d/Wheatley_sp_sabotage_panel_sneak03.wav"
+    },
+    {
+        "dialogue": "Follow the feeder tube to the generator room! I'll meet you there.",
+        "url": "https://i1.theportalwiki.net/img/2/2c/Wheatley_sp_sabotage_panel_sneak04.wav"
+    },
+    {
+        "dialogue": "What are you doing in there?",
+        "url": "https://i1.theportalwiki.net/img/6/6a/Wheatley_sp_a2_bts5_laser_cut01.wav"
+    },
+    {
+        "dialogue": "What's going on?",
+        "url": "https://i1.theportalwiki.net/img/d/d6/Wheatley_sp_a2_bts5_laser_cut02.wav"
+    },
+    {
+        "dialogue": "Are you alright?",
+        "url": "https://i1.theportalwiki.net/img/0/0f/Wheatley_sp_a2_bts5_laser_cut03.wav"
+    },
+    {
+        "dialogue": "You might want to notice the moat area... rather large. Not to mention deadly. [laughs] Changed (deadly, eventually)",
+        "url": "https://i1.theportalwiki.net/img/7/7c/Wheatley_bw_a4_first_test02.wav"
+    },
+    {
+        "dialogue": "Come on. Ohhhh. Hit me with it.",
+        "url": "https://i1.theportalwiki.net/img/a/ac/Wheatley_bw_sp_a4_tb_wall_button_not_solve01.wav"
+    },
+    {
+        "dialogue": "Ohhh! Are you having a laugh?",
+        "url": "https://i1.theportalwiki.net/img/3/3f/Wheatley_bw_sp_a4_tb_wall_button_not_solve05.wav"
+    },
+    {
+        "dialogue": "Preparing to love this... don't want to build it up too much... but I think this one's going to be good, I can tell...",
+        "url": "https://i1.theportalwiki.net/img/b/be/Wheatley_bw_sp_a4_tb_wall_button_solve04.wav"
+    },
+    {
+        "dialogue": "Do you remember when we were friends?",
+        "url": "https://i1.theportalwiki.net/img/6/60/Wheatley_bw_a4_death_trap_escape06.wav"
+    },
+    {
+        "dialogue": "Ah, friendship. Friendly times. We had a lot of good times, do you remember? Back in the old days.",
+        "url": "https://i1.theportalwiki.net/img/9/97/Wheatley_bw_a4_death_trap_escape07.wav"
+    },
+    {
+        "dialogue": "Let go of me!",
+        "url": "https://i1.theportalwiki.net/img/9/95/Wheatley_bw_finale04_through_portal06.wav"
+    }
+]

@@ -1,0 +1,542 @@
+[
+    {
+        "dialogue": "[Turret fire]",
+        "url": "https://i1.theportalwiki.net/img/c/cc/Turret_turret_fire_4x_01.wav"
+    },
+    {
+        "dialogue": "[Turret fire]",
+        "url": "https://i1.theportalwiki.net/img/b/be/Turret_turret_fire_4x_02.wav"
+    },
+    {
+        "dialogue": "[Turret fire]",
+        "url": "https://i1.theportalwiki.net/img/5/50/Turret_turret_fire_4x_03.wav"
+    },
+    {
+        "dialogue": "Whee!",
+        "url": "https://i1.theportalwiki.net/img/8/87/Turret_turretlaunched01.wav"
+    },
+    {
+        "dialogue": "Noooooo!",
+        "url": "https://i1.theportalwiki.net/img/6/68/Turret_turretlaunched04.wav"
+    },
+    {
+        "dialogue": "Hooray!",
+        "url": "https://i1.theportalwiki.net/img/9/9c/Turret_turretlaunched08.wav"
+    },
+    {
+        "dialogue": "Goodbye!",
+        "url": "https://i1.theportalwiki.net/img/b/bc/Turret_turretlaunched11.wav"
+    },
+    {
+        "dialogue": "Wheeeeeeee!",
+        "url": "https://i1.theportalwiki.net/img/4/4c/Turret_turretlaunched02.wav"
+    },
+    {
+        "dialogue": "I'm afraid of heights!",
+        "url": "https://i1.theportalwiki.net/img/f/f0/Turret_turretlaunched03.wav"
+    },
+    {
+        "dialogue": "See you soon!",
+        "url": "https://i1.theportalwiki.net/img/3/30/Turret_turretlaunched05.wav"
+    },
+    {
+        "dialogue": "I'm scared!",
+        "url": "https://i1.theportalwiki.net/img/c/cf/Turret_turretlaunched06.wav"
+    },
+    {
+        "dialogue": "I'm scared!",
+        "url": "https://i1.theportalwiki.net/img/9/90/Turret_turretlaunched07.wav"
+    },
+    {
+        "dialogue": "Glorious freedom!",
+        "url": "https://i1.theportalwiki.net/img/6/63/Turret_turretlaunched09.wav"
+    },
+    {
+        "dialogue": "I'm flyinnnng!",
+        "url": "https://i1.theportalwiki.net/img/5/5b/Turret_turretlaunched10.wav"
+    },
+    {
+        "dialogue": "Come closer.",
+        "url": "https://i1.theportalwiki.net/img/d/d9/Turret_turretlightbridgeblock01.wav"
+    },
+    {
+        "dialogue": "Something's wrong...",
+        "url": "https://i1.theportalwiki.net/img/3/3d/Turret_turretlightbridgeblock02.wav"
+    },
+    {
+        "dialogue": "What are you doing?",
+        "url": "https://i1.theportalwiki.net/img/0/07/Turret_turretlightbridgeblock03.wav"
+    },
+    {
+        "dialogue": "Failure...",
+        "url": "https://i1.theportalwiki.net/img/e/ec/Turret_turretlightbridgeblock04.wav"
+    },
+    {
+        "dialogue": "Ow!",
+        "url": "https://i1.theportalwiki.net/img/4/4e/Turret_turretshotbylaser01.wav"
+    },
+    {
+        "dialogue": "Owww!",
+        "url": "https://i1.theportalwiki.net/img/9/94/Turret_turretshotbylaser02.wav"
+    },
+    {
+        "dialogue": "Owwwww!",
+        "url": "https://i1.theportalwiki.net/img/4/46/Turret_turretshotbylaser03.wav"
+    },
+    {
+        "dialogue": "It burns.",
+        "url": "https://i1.theportalwiki.net/img/d/d1/Turret_turretshotbylaser04.wav"
+    },
+    {
+        "dialogue": "I'm on fire.",
+        "url": "https://i1.theportalwiki.net/img/f/fd/Turret_turretshotbylaser05.wav"
+    },
+    {
+        "dialogue": "I'm on fire ow.",
+        "url": "https://i1.theportalwiki.net/img/4/41/Turret_turretshotbylaser06.wav"
+    },
+    {
+        "dialogue": "Please stop.",
+        "url": "https://i1.theportalwiki.net/img/3/3d/Turret_turretshotbylaser07.wav"
+    },
+    {
+        "dialogue": "You've made your point.",
+        "url": "https://i1.theportalwiki.net/img/5/55/Turret_turretshotbylaser08.wav"
+    },
+    {
+        "dialogue": "Okay, you win.",
+        "url": "https://i1.theportalwiki.net/img/5/5d/Turret_turretshotbylaser09.wav"
+    },
+    {
+        "dialogue": "This is not good.",
+        "url": "https://i1.theportalwiki.net/img/a/a6/Turret_turretshotbylaser10.wav"
+    },
+    {
+        "dialogue": "Arrrrgh!",
+        "url": "https://i1.theportalwiki.net/img/5/56/Turret_turretsquashed01.wav"
+    },
+    {
+        "dialogue": "Owwww!",
+        "url": "https://i1.theportalwiki.net/img/6/65/Turret_turretsquashed02.wav"
+    },
+    {
+        "dialogue": "Can't breathe...",
+        "url": "https://i1.theportalwiki.net/img/e/ee/Turret_turretsquashed03.wav"
+    },
+    {
+        "dialogue": "Excuse me, you're squishing me.",
+        "url": "https://i1.theportalwiki.net/img/6/65/Turret_turretsquashed04.wav"
+    },
+    {
+        "dialogue": "Um, hello?",
+        "url": "https://i1.theportalwiki.net/img/5/56/Turret_turretsquashed05.wav"
+    },
+    {
+        "dialogue": "Help! Being squished!",
+        "url": "https://i1.theportalwiki.net/img/d/d3/Turret_turretsquashed06.wav"
+    },
+    {
+        "dialogue": "Good shot!",
+        "url": "https://i1.theportalwiki.net/img/e/ea/Turret_turretwitnessdeath01.wav"
+    },
+    {
+        "dialogue": "Well done!",
+        "url": "https://i1.theportalwiki.net/img/2/22/Turret_turretwitnessdeath02.wav"
+    },
+    {
+        "dialogue": "I need backup!",
+        "url": "https://i1.theportalwiki.net/img/a/a5/Turret_turretwitnessdeath03.wav"
+    },
+    {
+        "dialogue": "You have excellent aim!",
+        "url": "https://i1.theportalwiki.net/img/f/f3/Turret_turretwitnessdeath04.wav"
+    },
+    {
+        "dialogue": "I never liked her.",
+        "url": "https://i1.theportalwiki.net/img/a/ac/Turret_turretwitnessdeath05.wav"
+    },
+    {
+        "dialogue": "These things happen.",
+        "url": "https://i1.theportalwiki.net/img/7/75/Turret_turretwitnessdeath06.wav"
+    },
+    {
+        "dialogue": "That was nobody's fault.",
+        "url": "https://i1.theportalwiki.net/img/c/c0/Turret_turretwitnessdeath07.wav"
+    },
+    {
+        "dialogue": "She was provoking you.",
+        "url": "https://i1.theportalwiki.net/img/2/22/Turret_turretwitnessdeath08.wav"
+    },
+    {
+        "dialogue": "Oh dear.",
+        "url": "https://i1.theportalwiki.net/img/2/28/Turret_turretwitnessdeath09.wav"
+    },
+    {
+        "dialogue": "Oh my.",
+        "url": "https://i1.theportalwiki.net/img/e/e8/Turret_turretwitnessdeath10.wav"
+    },
+    {
+        "dialogue": "I blame myself.",
+        "url": "https://i1.theportalwiki.net/img/e/ed/Turret_turretwitnessdeath11.wav"
+    },
+    {
+        "dialogue": "She probably deserved it.",
+        "url": "https://i1.theportalwiki.net/img/3/35/Turret_turretwitnessdeath12.wav"
+    },
+    {
+        "dialogue": "I saw it. It was an accident.",
+        "url": "https://i1.theportalwiki.net/img/4/45/Turret_turretwitnessdeath13.wav"
+    },
+    {
+        "dialogue": "She's probably okay.",
+        "url": "https://i1.theportalwiki.net/img/d/de/Turret_turretwitnessdeath14.wav"
+    },
+    {
+        "dialogue": "Noted.",
+        "url": "https://i1.theportalwiki.net/img/1/13/Turret_turretwitnessdeath15.wav"
+    },
+    {
+        "dialogue": "Target acquired.",
+        "url": "https://i1.theportalwiki.net/img/c/ca/Turret_sp_sabotage_factory_good_prerange01.wav"
+    },
+    {
+        "dialogue": "Hello?",
+        "url": "https://i1.theportalwiki.net/img/7/7d/Turret_sp_sabotage_factory_template01.wav"
+    },
+    {
+        "dialogue": "Hello.",
+        "url": "https://i1.theportalwiki.net/img/2/2d/Turret_sp_sabotage_factory_good_pass01.wav"
+    },
+    {
+        "dialogue": "Why?",
+        "url": "https://i1.theportalwiki.net/img/4/4a/Turret_sp_sabotage_factory_good_fail01.wav"
+    },
+    {
+        "dialogue": "I did everything you asked!",
+        "url": "https://i1.theportalwiki.net/img/2/29/Turret_sp_sabotage_factory_good_fail02.wav"
+    },
+    {
+        "dialogue": "I don't understand!",
+        "url": "https://i1.theportalwiki.net/img/3/39/Turret_sp_sabotage_factory_good_fail03.wav"
+    },
+    {
+        "dialogue": "I'm fine!",
+        "url": "https://i1.theportalwiki.net/img/4/4d/Turret_sp_sabotage_factory_good_fail04.wav"
+    },
+    {
+        "dialogue": "AHHHHHHHHH!",
+        "url": "https://i1.theportalwiki.net/img/b/b2/Turret_sp_sabotage_factory_good_fail05.wav"
+    },
+    {
+        "dialogue": "Wheeeeee-OH NO!",
+        "url": "https://i1.theportalwiki.net/img/c/ca/Turret_sp_sabotage_factory_good_fail06.wav"
+    },
+    {
+        "dialogue": "Why?",
+        "url": "https://i1.theportalwiki.net/img/a/a4/Turret_sp_sabotage_factory_good_fail07.wav"
+    },
+    {
+        "dialogue": "[Activation sound]",
+        "url": "https://i1.theportalwiki.net/img/8/8b/Turret_active.wav"
+    },
+    {
+        "dialogue": "[Alarm sound]",
+        "url": "https://i1.theportalwiki.net/img/d/d3/Turret_alarm.wav"
+    },
+    {
+        "dialogue": "[Alert sound]",
+        "url": "https://i1.theportalwiki.net/img/7/73/Turret_alert.wav"
+    },
+    {
+        "dialogue": "[Deploy sound]",
+        "url": "https://i1.theportalwiki.net/img/6/62/Turret_deploy.wav"
+    },
+    {
+        "dialogue": "[Death sound]",
+        "url": "https://i1.theportalwiki.net/img/0/0e/Turret_die.wav"
+    },
+    {
+        "dialogue": "[Ping sound]",
+        "url": "https://i1.theportalwiki.net/img/6/6f/Turret_ping.wav"
+    },
+    {
+        "dialogue": "[Retract sound]",
+        "url": "https://i1.theportalwiki.net/img/3/31/Turret_retract.wav"
+    },
+    {
+        "dialogue": "Hi?",
+        "url": "https://i1.theportalwiki.net/img/1/14/Turret_turret_active_1.wav"
+    },
+    {
+        "dialogue": "Target acquired.",
+        "url": "https://i1.theportalwiki.net/img/8/8d/Turret_turret_active_2.wav"
+    },
+    {
+        "dialogue": "Firing.",
+        "url": "https://i1.theportalwiki.net/img/c/c0/Turret_turret_active_4.wav"
+    },
+    {
+        "dialogue": "Hello? Friend.",
+        "url": "https://i1.theportalwiki.net/img/7/77/Turret_turret_active_5.wav"
+    },
+    {
+        "dialogue": "Gotcha!",
+        "url": "https://i1.theportalwiki.net/img/3/36/Turret_turret_active_6.wav"
+    },
+    {
+        "dialogue": "There you are.",
+        "url": "https://i1.theportalwiki.net/img/5/58/Turret_turret_active_7.wav"
+    },
+    {
+        "dialogue": "I see you.",
+        "url": "https://i1.theportalwiki.net/img/3/34/Turret_turret_active_8.wav"
+    },
+    {
+        "dialogue": "Dispensing product.",
+        "url": "https://i1.theportalwiki.net/img/9/96/Turret_turret_active_3.wav"
+    },
+    {
+        "dialogue": "Hello!",
+        "url": "https://i1.theportalwiki.net/img/1/16/Turret_turret_autosearch_1.wav"
+    },
+    {
+        "dialogue": "Searching.",
+        "url": "https://i1.theportalwiki.net/img/6/6e/Turret_turret_autosearch_2.wav"
+    },
+    {
+        "dialogue": "Sentry mode activated.",
+        "url": "https://i1.theportalwiki.net/img/2/2a/Turret_turret_autosearch_4.wav"
+    },
+    {
+        "dialogue": "Is anyone there?",
+        "url": "https://i1.theportalwiki.net/img/b/b3/Turret_turret_autosearch_5.wav"
+    },
+    {
+        "dialogue": "Could you come over here?",
+        "url": "https://i1.theportalwiki.net/img/5/5a/Turret_turret_autosearch_6.wav"
+    },
+    {
+        "dialogue": "Canvassing.",
+        "url": "https://i1.theportalwiki.net/img/6/6e/Turret_turret_autosearch_3.wav"
+    },
+    {
+        "dialogue": "Coming through!",
+        "url": "https://i1.theportalwiki.net/img/3/3a/Turret_turret_collide_1.wav"
+    },
+    {
+        "dialogue": "Excuse me.",
+        "url": "https://i1.theportalwiki.net/img/1/14/Turret_turret_collide_2.wav"
+    },
+    {
+        "dialogue": "Sorry.",
+        "url": "https://i1.theportalwiki.net/img/8/86/Turret_turret_collide_3.wav"
+    },
+    {
+        "dialogue": "My fault.",
+        "url": "https://i1.theportalwiki.net/img/b/b4/Turret_turret_collide_4.wav"
+    },
+    {
+        "dialogue": "Oh!",
+        "url": "https://i1.theportalwiki.net/img/5/54/Turret_turret_collide_5.wav"
+    },
+    {
+        "dialogue": "Hello?",
+        "url": "https://i1.theportalwiki.net/img/4/45/Turret_turret_deploy_1.wav"
+    },
+    {
+        "dialogue": "Deploying.",
+        "url": "https://i1.theportalwiki.net/img/d/d1/Turret_turret_deploy_2.wav"
+    },
+    {
+        "dialogue": "Preparing to dispense product.",
+        "url": "https://i1.theportalwiki.net/img/a/a4/Turret_turret_deploy_3.wav"
+    },
+    {
+        "dialogue": "Activated.",
+        "url": "https://i1.theportalwiki.net/img/9/97/Turret_turret_deploy_4.wav"
+    },
+    {
+        "dialogue": "There you are.",
+        "url": "https://i1.theportalwiki.net/img/c/c1/Turret_turret_deploy_5.wav"
+    },
+    {
+        "dialogue": "Who's there?",
+        "url": "https://i1.theportalwiki.net/img/9/9c/Turret_turret_deploy_6.wav"
+    },
+    {
+        "dialogue": "Critical Error!",
+        "url": "https://i1.theportalwiki.net/img/e/e5/Turret_turret_disabled_2.wav"
+    },
+    {
+        "dialogue": "Shutting down.",
+        "url": "https://i1.theportalwiki.net/img/0/04/Turret_turret_disabled_4.wav"
+    },
+    {
+        "dialogue": "I don't blame you.",
+        "url": "https://i1.theportalwiki.net/img/1/18/Turret_turret_disabled_5.wav"
+    },
+    {
+        "dialogue": "I don't hate you.",
+        "url": "https://i1.theportalwiki.net/img/6/6d/Turret_turret_disabled_6.wav"
+    },
+    {
+        "dialogue": "Why...",
+        "url": "https://i1.theportalwiki.net/img/2/2d/Turret_turret_disabled_7.wav"
+    },
+    {
+        "dialogue": "No hard feelings.",
+        "url": "https://i1.theportalwiki.net/img/e/e6/Turret_turret_disabled_8.wav"
+    },
+    {
+        "dialogue": "Ahahaha.",
+        "url": "https://i1.theportalwiki.net/img/0/0f/Turret_turret_disabled_1.wav"
+    },
+    {
+        "dialogue": "Sorry, we're closed.",
+        "url": "https://i1.theportalwiki.net/img/1/1b/Turret_turret_disabled_3.wav"
+    },
+    {
+        "dialogue": "Hey!",
+        "url": "https://i1.theportalwiki.net/img/5/5a/Turret_turret_pickup_1.wav"
+    },
+    {
+        "dialogue": "Put me down!",
+        "url": "https://i1.theportalwiki.net/img/f/fb/Turret_turret_pickup_3.wav"
+    },
+    {
+        "dialogue": "Woooaaah!",
+        "url": "https://i1.theportalwiki.net/img/9/99/Turret_turret_pickup_4.wav"
+    },
+    {
+        "dialogue": "Who ARE you?",
+        "url": "https://i1.theportalwiki.net/img/3/33/Turret_turret_pickup_6.wav"
+    },
+    {
+        "dialogue": "Hey.",
+        "url": "https://i1.theportalwiki.net/img/4/40/Turret_turret_pickup_7.wav"
+    },
+    {
+        "dialogue": "Please put me down.",
+        "url": "https://i1.theportalwiki.net/img/f/f9/Turret_turret_pickup_8.wav"
+    },
+    {
+        "dialogue": "Help!",
+        "url": "https://i1.theportalwiki.net/img/c/c8/Turret_turret_pickup_9.wav"
+    },
+    {
+        "dialogue": "Uh oh.",
+        "url": "https://i1.theportalwiki.net/img/5/55/Turret_turret_pickup_10.wav"
+    },
+    {
+        "dialogue": "Hey hey hey!",
+        "url": "https://i1.theportalwiki.net/img/c/c9/Turret_turret_pickup_2.wav"
+    },
+    {
+        "dialogue": "Illegal operation.",
+        "url": "https://i1.theportalwiki.net/img/b/bd/Turret_turret_pickup_5.wav"
+    },
+    {
+        "dialogue": "Goodbye.",
+        "url": "https://i1.theportalwiki.net/img/e/e9/Turret_turret_retire_1.wav"
+    },
+    {
+        "dialogue": "Sleep mode activated.",
+        "url": "https://i1.theportalwiki.net/img/b/b4/Turret_turret_retire_2.wav"
+    },
+    {
+        "dialogue": "Your business is appreciated. Portal Portal 2",
+        "url": "https://i1.theportalwiki.net/img/f/f6/Turret_turret_retire_3.wav"
+    },
+    {
+        "dialogue": "Hibernating.",
+        "url": "https://i1.theportalwiki.net/img/c/c8/Turret_turret_retire_4.wav"
+    },
+    {
+        "dialogue": "Goodnight.",
+        "url": "https://i1.theportalwiki.net/img/5/50/Turret_turret_retire_5.wav"
+    },
+    {
+        "dialogue": "Resting.",
+        "url": "https://i1.theportalwiki.net/img/5/53/Turret_turret_retire_6.wav"
+    },
+    {
+        "dialogue": "Nap time.",
+        "url": "https://i1.theportalwiki.net/img/0/04/Turret_turret_retire_7.wav"
+    },
+    {
+        "dialogue": "Are you still there?",
+        "url": "https://i1.theportalwiki.net/img/1/11/Turret_turret_search_1.wav"
+    },
+    {
+        "dialogue": "Target lost!",
+        "url": "https://i1.theportalwiki.net/img/1/10/Turret_turret_search_2.wav"
+    },
+    {
+        "dialogue": "Searching!",
+        "url": "https://i1.theportalwiki.net/img/4/4d/Turret_turret_search_4.wav"
+    },
+    {
+        "dialogue": "Can I help you?",
+        "url": "https://i1.theportalwiki.net/img/f/f1/Turret_turret_search_3.wav"
+    },
+    {
+        "dialogue": "Ow ow ow!",
+        "url": "https://i1.theportalwiki.net/img/3/30/Turret_turret_fizzler_1.wav"
+    },
+    {
+        "dialogue": "Hey! It's me!",
+        "url": "https://i1.theportalwiki.net/img/0/03/Turret_turret_shotat_1.wav"
+    },
+    {
+        "dialogue": "Don't shoot!",
+        "url": "https://i1.theportalwiki.net/img/e/ea/Turret_turret_shotat_2.wav"
+    },
+    {
+        "dialogue": "Stop shooting!",
+        "url": "https://i1.theportalwiki.net/img/3/3e/Turret_turret_shotat_3.wav"
+    },
+    {
+        "dialogue": "Self test error.",
+        "url": "https://i1.theportalwiki.net/img/b/be/Turret_turret_tipped_2.wav"
+    },
+    {
+        "dialogue": "Malfunctioning.",
+        "url": "https://i1.theportalwiki.net/img/4/4d/Turret_turret_tipped_4.wav"
+    },
+    {
+        "dialogue": "Aaaah.",
+        "url": "https://i1.theportalwiki.net/img/5/57/Turret_turret_tipped_5.wav"
+    },
+    {
+        "dialogue": "Ow ow ow ow owww.",
+        "url": "https://i1.theportalwiki.net/img/6/6c/Turret_turret_tipped_6.wav"
+    },
+    {
+        "dialogue": "Aah.",
+        "url": "https://i1.theportalwiki.net/img/a/a8/Turret_turret_tipped_1.wav"
+    },
+    {
+        "dialogue": "Unknown error.",
+        "url": "https://i1.theportalwiki.net/img/7/74/Turret_turret_tipped_3.wav"
+    },
+    {
+        "dialogue": "Hold still.",
+        "url": "https://i1.theportalwiki.net/img/b/bf/Turret_turret_suppress_1.wav"
+    },
+    {
+        "dialogue": "Target suppressed.",
+        "url": "https://i1.theportalwiki.net/img/e/e6/Turret_turret_suppress_2.wav"
+    },
+    {
+        "dialogue": "Free samples.",
+        "url": "https://i1.theportalwiki.net/img/e/e1/Turret_turret_suppress_3.wav"
+    },
+    {
+        "dialogue": "Suppressing.",
+        "url": "https://i1.theportalwiki.net/img/5/56/Turret_turret_suppress_4.wav"
+    },
+    {
+        "dialogue": "But I need to protect the humans!",
+        "url": "https://i1.theportalwiki.net/img/8/8b/Turret_turret_protect_humans01.wav"
+    }
+]
