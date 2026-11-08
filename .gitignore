@@ -1,0 +1,41 @@
+# Compiled files & C extensions
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution & Packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+wheels/
+
+# Logs & Testing
+pip-log.txt
+htmlcov/
+.tox/
+.coverage
+.pytest_cache/
+
+# Frameworks & Documentation
+db.sqlite3
+instance/
+docs/_build/
+/site
+.ipynb_checkpoints
+
+# Environments & Dependencies
+.env
+.venv
+venv/
+ENV/
+__pypackages__/
+
+# IDEs & OS files
+.spyproject
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

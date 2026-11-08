@@ -30,6 +30,16 @@ This processes the downloaded HTML file and exports the extracted voice-line dat
 
 > **Note:** The Portal Wiki is occasionally unavailable or experiences downtime. This is one of the reasons GLaDOS was created: to make Portal audio collection and archival more convenient and accessible.
 
+## downloadaudio.py
+
+`downloadaudio.py` downloads the WAV files listed in `voicelines_json/` and organizes them by character. Original Wiki filenames are saved under `voicelines/audio/<character>/`; dialogue-named copies are saved under `voicelines/audio_by_title/<character>/`. The dialogue-named files are copied locally, not downloaded again. Existing original files are reused when the script is run again.
+
+```bash
+python downloadaudio.py
+```
+
+Use `--workers` to change the number of simultaneous downloads (default: 8).
+
 ---
 
 ## Copyright & Intellectual Property Disclaimer
